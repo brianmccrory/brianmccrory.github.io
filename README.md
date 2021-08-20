@@ -1,6 +1,6 @@
 # J Jazz Substack Index
 
- _(index for [jjazz.substack.com](https://jjazz.substack.com) generated on Aug 17 2021)_
+ _(index for [jjazz.substack.com](https://jjazz.substack.com) generated on Aug 20 2021)_
 
 Musician |   | Album Review
 ---- | - | -----
@@ -26,6 +26,8 @@ Hitomi Nishiyama | 西山瞳 | [Music In You](https://jjazz.substack.com/p/hitom
 Jun Miyakawa | 宮川純 | [By Coincidence](https://jjazz.substack.com/p/p-project-by-coincidence)
 Kaoru Suzuki | 鈴木郁 | [Beautiful Days](https://jjazz.substack.com/p/fumie-chiba-beautiful-days)
 Kazuhide Motooka | 元岡一英 | [Bass on Times](https://jjazz.substack.com/p/satoshi-kosugi-bass-on-times)
+Kazuhiro Sunaga | 須長和広 | [Rin](https://jjazz.substack.com/p/sohnosuke-imaizumi-rin)
+Kazuhiro Tamura | 田村和大 | [Rin](https://jjazz.substack.com/p/sohnosuke-imaizumi-rin)
 Kazumi Ikenaga | 池長和美 | [Music In You](https://jjazz.substack.com/p/hitomi-nishiyama-trio-music-in-you) ・ [Niwatazumi](https://jjazz.substack.com/p/kazumi-ikenaga-niwatazumi)
 Keiichirou Uemura | 上村計一郎 | [Gallery](https://jjazz.substack.com/p/yukiko-hayakawa-trio-gallery)
 Keisuke Nakamura | 中村恵介 | [Humadope](https://jjazz.substack.com/p/keisuke-nakamura-humadope)
@@ -75,7 +77,7 @@ Shinji Hashimoto | 橋本信二 | [Bass on Times](https://jjazz.substack.com/p/s
 Show Kudo | 工藤精 | [Sumitty & the Funfair](https://jjazz.substack.com/p/sumito-oi-sumitty-and-the-funfair)
 Shun Ishiwaka | 石若俊 | [Humadope](https://jjazz.substack.com/p/keisuke-nakamura-humadope)
 Shunosuke Ishikawa | 石川周之介 | [Beautiful Days](https://jjazz.substack.com/p/fumie-chiba-beautiful-days)
-Sohnosuke Imaizumi | 今泉総之輔 | [Virgo](https://jjazz.substack.com/p/harumi-nomoto-trio-virgo)
+Sohnosuke Imaizumi | 今泉総之輔 | [Rin](https://jjazz.substack.com/p/sohnosuke-imaizumi-rin) ・ [Virgo](https://jjazz.substack.com/p/harumi-nomoto-trio-virgo)
 Sumito Oi | 大井澄東 | [Sumitty & the Funfair](https://jjazz.substack.com/p/sumito-oi-sumitty-and-the-funfair)
 Taihei Asakawa | 浅川太平 | [Catastrophe in Jazz](https://jjazz.substack.com/p/taihei-asakawa-catastrophe-in-jazz)
 Takashi Saito | 齋藤たかし | [Here Goes!](https://jjazz.substack.com/p/fumiko-yamazaki-here-goes)
@@ -103,6 +105,7 @@ Yukako Yamano | 山野友佳子 | [1st Stage](https://jjazz.substack.com/p/yukak
 Yukiko Hayakawa | 早川由紀子 | [Gallery](https://jjazz.substack.com/p/yukiko-hayakawa-trio-gallery)
 Anton Blomgren |  | [Flower Clouds](https://jjazz.substack.com/p/naoko-sakata-trio-flower-clouds)
 Ben "Donny" Waples |  | [Open the Green Door](https://jjazz.substack.com/p/hakuei-kim-trio-open-the-green-door)
+Blahmuzik |  | [Rin](https://jjazz.substack.com/p/sohnosuke-imaizumi-rin)
 Carl Allen |  | [Faith](https://jjazz.substack.com/p/mayuko-katakura-faith)
 Christian Vuust |  | [Niwatazumi](https://jjazz.substack.com/p/kazumi-ikenaga-niwatazumi)
 Dave Goodman |  | [Open the Green Door](https://jjazz.substack.com/p/hakuei-kim-trio-open-the-green-door)
@@ -120,4 +123,5 @@ Peter Washington |  | [Night & Day](https://jjazz.substack.com/p/akane-matsumoto
 Rodney Green |  | [Madrigal](https://jjazz.substack.com/p/chihiro-yamanaka-trio-madrigal)
 Rodney Whitaker |  | [Faith](https://jjazz.substack.com/p/mayuko-katakura-faith)
 Soren Dahl Jeppesen |  | [Niwatazumi](https://jjazz.substack.com/p/kazumi-ikenaga-niwatazumi)
+
 
