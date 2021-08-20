@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
-site.name: foo
-site.title: null
+title: J Jazz Index
+description: Reviews at https://jjazz.substack.com
+show_downloads: true
+google_analytics: UA-153898091-2
