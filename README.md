@@ -1,3 +1,3 @@
 # brianmccrory.github.io
 
-* [J Jazz Index](https://brianmccrory.github.io/jjazz/)
+* [J Jazz](https://brianmccrory.github.io/jjazz/)
