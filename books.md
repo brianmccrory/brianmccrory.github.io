@@ -6,12 +6,12 @@ title: Books
 
 READING:
 
-1. Ken Follett: World Without End
 1. Ken Follett: A Column of Fire
 1. Kotaro Isaka: Who Ga You Ga              2022-xx-xx
 
 READ:
 
+1. Ken Follett: World Without End		2022-10-16
 1. Eoin Colfer: And Another Thing...      2022-10-02
 1. Ken Follett: The Pillars of the Earth	2022-09-25
 1. David Mitchell: Slade House			2022-09-08
