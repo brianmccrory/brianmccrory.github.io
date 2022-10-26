@@ -11,6 +11,7 @@ READING:
 
 READ:
 
+1. RIchard Flanagan: Gould's Book of Fish		2022-10-25
 1. Ken Follett: World Without End         2022-10-17
 1. Eoin Colfer: And Another Thing...      2022-10-02
 1. Ken Follett: The Pillars of the Earth	2022-09-25
