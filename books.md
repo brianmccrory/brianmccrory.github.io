@@ -6,12 +6,18 @@ title: Books
 
 READING:
 
-1. Ken Follett: A Column of Fire
 1. Kotaro Isaka: Who Ga You Ga              2022-xx-xx
+1. Ken Follett: The Hammer of Eden
+1. Ken Follett: Lie Down With Lions
+1. Ken Follett: Code To Zero
+1. Tom Cooper: Florida Man
+1. Ian McDonald: Brasyl
+1. Ken Follett: The Evening and the Morning
+1. Ken Follett: A Column of Fire
 
 READ:
 
-1. RIchard Flanagan: Gould's Book of Fish		2022-10-25
+1. Richard Flanagan: Gould's Book of Fish		2022-10-25
 1. Ken Follett: World Without End         2022-10-17
 1. Eoin Colfer: And Another Thing...      2022-10-02
 1. Ken Follett: The Pillars of the Earth	2022-09-25
