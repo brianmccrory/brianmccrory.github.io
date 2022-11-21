@@ -12,10 +12,10 @@ READING:
 1. Ken Follett: Code To Zero
 1. Tom Cooper: Florida Man
 1. Ian McDonald: Brasyl
-1. Ken Follett: The Evening and the Morning
 
 READ:
 
+1. Ken Follett: The Evening and the Morning     2022-11-20
 1. Ken Follett: A Column of Fire				2022-11-12
 1. Richard Flanagan: Gould's Book of Fish		2022-10-25
 1. Ken Follett: World Without End         2022-10-17
