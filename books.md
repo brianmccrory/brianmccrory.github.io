@@ -10,11 +10,11 @@ READING:
 1. Ken Follett: The Hammer of Eden
 1. Ken Follett: Lie Down With Lions
 1. Ken Follett: Code To Zero
-1. Tom Cooper: Florida Man
 1. Ian McDonald: Brasyl
 
 READ:
 
+1. Tom Cooper: Florida Man            2022-11-24
 1. Ken Follett: The Evening and the Morning     2022-11-20
 1. Ken Follett: A Column of Fire				2022-11-12
 1. Richard Flanagan: Gould's Book of Fish		2022-10-25
