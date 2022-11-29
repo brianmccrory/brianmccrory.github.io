@@ -1,6 +1,6 @@
 // Generating content based on the template
 const template = `<article>
-  &nbsp;&nbsp;&nbsp;POS. NAME <a href='http://WEBSITE/'>WEBSITE</a>
+  &nbsp;&nbsp;&nbsp;POS. NAME <a href='http://WEBSITE/'>WEBSITE</a> <b><i>LASTVISIT</i></b>
 </article>`;
 
 let content = '';
@@ -16,20 +16,32 @@ for (let i=0; i<ldata.length; i++) {
 	
 	
 let content_clubs = '';
+let counter = 0;
 for (let i=0; i<clubs.length; i++) {
 	content_clubs += "<h2>" + clubs[i].name + "</h2>";
 	for (let j=0; j<clubs[i].data.length; j++) {
-		 let entry = template.replace(/POS/g, (j + 1))
+		 let entry = template.replace(/POS/g,  + ++counter + '.' + (i+1))
 		    .replace(/SLUG/g, clubs[i].data[j].slug)
 		    .replace(/NAME/g, clubs[i].data[j].name)
 		    .replace(/WEBSITE/g, clubs[i].data[j].website);
 		  entry = entry.replace('<a href=\'http:///\'></a>', '-');
+		  let vname = clubs[i].data[j].name;
+		  if (visits[vname]) {
+				let first = visits[vname][0];
+			  	let last = visits[vname][visits[vname].length-1];
+			  	if (first != last) 
+			  		last = first + " &hellip; " + last;
+			  	last += " (" + visits[vname].length + "x)"
+			  	entry = entry.replace(/LASTVISIT/g, last);
+		  } else {
+			entry = entry.replace(/LASTVISIT/g, "");
+			}
 		  content_clubs += entry;
 		}
 }
 	document.getElementById('content_clubs').innerHTML = content_clubs;		
 	
-	
+		
 document.getElementById('content').innerHTML = content;
 
 // Registering Service Worker
