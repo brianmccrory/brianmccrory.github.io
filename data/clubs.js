@@ -2,8 +2,8 @@ var clubs = [
 	{name: 'Group 1',
 	 data: [
 		{
-		slug: 'applejump',
-		name: 'Applejump',
+		slug: 'apple-jump',
+		name: 'Apple Jump',
 		website: 'http://applejump.net/',
 		},
 		{
@@ -549,11 +549,6 @@ var clubs = [
 		website: 'http://bar-fullhouse.wixsite.com/pub-and-bar-menu',
 		},
 		{
-		slug: 'ginza-swing',
-		name: 'Ginza Swing',
-		website: 'http://ginzaswing.jp/',
-		},
-		{
 		slug: 'harbor-light',
 		name: 'Harbor Light',
 		website: 'http://www.harborlight.co.jp/',
@@ -567,6 +562,11 @@ var clubs = [
 		slug: 'izumi',
 		name: 'Izumi',
 		website: 'http://izumi-jazz.com/',
+		},
+		{
+		slug: 'swing',
+		name: 'Swing',
+		website: 'http://ginzaswing.jp/',
 		},
 	]},
 	{name: 'Group 11',
@@ -638,11 +638,6 @@ var clubs = [
 		slug: 'no-bird',
 		name: 'No Bird',
 		website: 'http://no-bird.com/',
-		},
-		{
-		slug: 'ore-no',
-		name: 'Ore No',
-		website: 'https://www.oreno.co.jp/',
 		},
 		{
 		slug: 'park-side',
@@ -789,7 +784,7 @@ var clubs = [
 		website: 'http://www.pearl-bar.co.jp/pc/',
 		},
 		{
-		slug: 'prace-onze',
+		slug: 'praca-onze',
 		name: 'Praca Onze',
 		website: 'http://www.praca11.net/',
 		},

@@ -1,6 +1,6 @@
 // Generating content based on the template
 const template = `<article>
-  &nbsp;&nbsp;&nbsp;POS. NAME <a href='http://WEBSITE/'>WEBSITE</a> <b><i>LASTVISIT</i></b>
+  &nbsp;&nbsp;&nbsp;POS. <a href="WEBSITE">NAME</a> <i>LASTVISIT</i>
 </article>`;
 
 let content = '';
@@ -25,7 +25,7 @@ for (let i=0; i<clubs.length; i++) {
 		    .replace(/NAME/g, clubs[i].data[j].name)
 		    .replace(/WEBSITE/g, clubs[i].data[j].website);
 		  entry = entry.replace('<a href=\'http:///\'></a>', '-');
-		  let vname = clubs[i].data[j].name;
+		  let vname = clubs[i].data[j].slug;
 		  if (visits[vname]) {
 				let first = visits[vname][0];
 			  	let last = visits[vname][visits[vname].length-1];
