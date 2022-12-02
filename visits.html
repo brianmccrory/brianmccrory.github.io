@@ -4,24 +4,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="shortcut icon" href="https://c.s-microsoft.com/favicon.ico?v2" />
-    <title>Clubs</title>
+    <title>Visits</title>
     <link rel="manifest" href="/manifest.json">
 	<script src="data/club-data-init.js" defer></script>
 	<script src="data/clubs.js" defer></script>
 	<script src="data/visits.js" defer></script>
-	<script src="data/schedule.js" defer></script>
-	<script src="app.js" defer></script>	
+	<script src="app-visits.js" defer></script>	
   </head>
   <body>
   <header>
 	<p>Header element (was an image)</p>
 </header>
 <main>
-Today:	<section id="today"></section>
-	<h1>Entries 2</h1>
-	<p class="description">List 2</p>
-	<section id="content_clubs"></section>
+	<h1>Most Recent Latest Visit</h1>
+	<section id="sort_latest"></section>
 
+	<h1>Most Recent First Visit</h1>
+	<section id="sort_first"></section>
+
+	<h1>All Visits</h1>
+	<section id="all_visits"></section>
 </main>
 <footer>
 	<p>&copy; two-thousand-twenty-two 2022.</p>

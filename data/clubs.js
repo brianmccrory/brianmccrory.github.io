@@ -38,7 +38,7 @@ var clubs = [
 		},
 		{
 		slug: 'ps-bar',
-		name: 'P’s Bar',
+		name: 'P\'s Bar',
 		website: 'https://ktmhp.com/hp/psbar/',
 		},
 		{
@@ -144,7 +144,7 @@ var clubs = [
 		},
 		{
 		slug: 'jammin',
-		name: 'Jammin’',
+		name: 'Jammin\'',
 		website: 'http://www.jammin-meguro.sakura.ne.jp/',
 		},
 		{
@@ -235,7 +235,7 @@ var clubs = [
 		},
 		{
 		slug: 'bullys',
-		name: 'Bully’s',
+		name: 'Bully\'s',
 		website: 'http://sky.geocities.jp/piano_bar_bullys/',
 		},
 		{
@@ -391,7 +391,7 @@ var clubs = [
 		},
 		{
 		slug: 'ems',
-		name: 'Em’s',
+		name: 'Em\'s',
 		website: 'http://www.jazzbar-ems.com/',
 		},
 		{
@@ -408,9 +408,19 @@ var clubs = [
 	{name: 'Group 8',
 	 data: [
 		{
+		slug: 'bells',
+		name: 'Bells',
+		website: 'http://sb.bells-grill.com/jazz/',
+		},
+		{
 		slug: 'live-unten',
 		name: 'Live Unten',
 		website: 'https://www.liveunten.com/',
+		},
+		{
+		slug: 'mars',
+		name: 'Mars',
+		website: 'http://jazz-bar-mars.com/',
 		},
 		{
 		slug: 'mccartney',
@@ -429,7 +439,7 @@ var clubs = [
 		},
 		{
 		slug: 'nicas',
-		name: 'Nica’s',
+		name: 'Nica\'s',
 		website: 'http://nicas.html.xdomain.jp/',
 		},
 		{
@@ -443,6 +453,11 @@ var clubs = [
 		website: 'https://www.pluseleven-ageo.com/',
 		},
 		{
+		slug: 'rakuya',
+		name: 'Rakuya',
+		website: 'https://www.rakuya.asia/',
+		},
+		{
 		slug: 'real-divas',
 		name: 'Real Divas',
 		website: 'http://www.realdivas.jp/Site%204/Schedule.html',
@@ -453,9 +468,24 @@ var clubs = [
 		website: 'http://www.silver-elephant.com/',
 		},
 		{
+		slug: 'time-after-time',
+		name: 'Time After Time',
+		website: 'http://www.maroon.dti.ne.jp/timeaftertime/',
+		},
+		{
+		slug: 'tokyo-club',
+		name: 'Tokyo Club',
+		website: 'http://www.tokyo-club.com/',
+		},
+		{
 		slug: 'unamas',
 		name: 'Unamas',
 		website: 'http://www.unamas.jp/',
+		},
+		{
+		slug: 'velvet-sun',
+		name: 'Velvet Sun',
+		website: 'http://www.velvetsun.jp/',
 		},
 	]},
 	{name: 'Group 9',
@@ -469,11 +499,6 @@ var clubs = [
 		slug: 'bar-bar-bar',
 		name: 'Bar Bar Bar',
 		website: 'http://www.barbarbar.jp/',
-		},
-		{
-		slug: 'bells',
-		name: 'Bells',
-		website: 'http://sb.bells-grill.com/jazz/',
 		},
 		{
 		slug: 'boston-dreams',
@@ -509,11 +534,6 @@ var clubs = [
 		slug: 'custer',
 		name: 'Custer',
 		website: 'http://www.custer.jp/',
-		},
-		{
-		slug: 'velvet-sun',
-		name: 'Velvet Sun',
-		website: 'http://www.velvetsun.jp/',
 		},
 	]},
 	{name: 'Group 10',
@@ -620,11 +640,6 @@ var clubs = [
 	{name: 'Group 12',
 	 data: [
 		{
-		slug: 'mars',
-		name: 'Mars',
-		website: 'http://jazz-bar-mars.com/',
-		},
-		{
 		slug: 'nage',
 		name: 'Nage',
 		website: 'https://nage64.wixsite.com/nage',
@@ -650,11 +665,6 @@ var clubs = [
 		website: 'http://www.jazz-polkadots.com/',
 		},
 		{
-		slug: 'rakuya',
-		name: 'Rakuya',
-		website: 'https://www.rakuya.asia/',
-		},
-		{
 		slug: 'saravah',
 		name: 'Saravah',
 		website: 'http://l-amusee.com/saravah/',
@@ -674,7 +684,7 @@ var clubs = [
 		},
 		{
 		slug: 'somethin',
-		name: 'Somethin’',
+		name: 'Somethin\'',
 		website: 'http://www.somethinjazz.com/jp/index.html',
 		},
 		{
@@ -702,16 +712,6 @@ var clubs = [
 		name: 'Tagen',
 		website: 'http://tagen.jp/',
 		},
-		{
-		slug: 'time-after-time',
-		name: 'Time After Time',
-		website: 'http://www.maroon.dti.ne.jp/timeaftertime/',
-		},
-		{
-		slug: 'tokyo-club',
-		name: 'Tokyo Club',
-		website: 'http://www.tokyo-club.com/',
-		},
 	]},
 	{name: 'Group 14',
 	 data: [
@@ -722,7 +722,7 @@ var clubs = [
 		},
 		{
 		slug: 'ts-bar',
-		name: 'T’s Bar',
+		name: 'T\'s Bar',
 		website: 'http://members3.jcom.home.ne.jp/0802nfaf/',
 		},
 		{
@@ -741,7 +741,7 @@ var clubs = [
 		website: 'http://music.geocities.jp/zinc_asakusa/index.html',
 		},
 	]},
-	{name: 'Group 16',
+	{name: 'Group 99',
 	 data: [
 		{
 		slug: 'a-un',
@@ -749,9 +749,119 @@ var clubs = [
 		website: 'http://aunaun.fc2web.com/',
 		},
 		{
+		slug: 'alley-hall',
+		name: 'Alley Hall',
+		website: '',
+		},
+		{
+		slug: 'art-cafe-friends',
+		name: 'Art Café Friends',
+		website: '',
+		},
+		{
+		slug: 'artists-cafe',
+		name: 'Artist\'s Cafe (Tokyo Dome Hotel)',
+		website: '',
+		},
+		{
+		slug: 'bali-monkey-forest',
+		name: 'Bali Monkey Forest',
+		website: '',
+		},
+		{
+		slug: 'bar-abend',
+		name: 'Bar Abend',
+		website: '',
+		},
+		{
+		slug: 'bird',
+		name: 'Bird (Okayama)',
+		website: '',
+		},
+		{
 		slug: 'blackbird-nest',
 		name: 'Blackbird Nest',
 		website: 'http://blog.livedoor.jp/blackbird_nest/',
+		},
+		{
+		slug: 'buddy',
+		name: 'Buddy',
+		website: '',
+		},
+		{
+		slug: 'bunca',
+		name: 'Bunca',
+		website: '',
+		},
+		{
+		slug: 'bunka-civic-hall',
+		name: 'Bunka Civic Hall',
+		website: '',
+		},
+		{
+		slug: 'cafe-ecailler',
+		name: 'Cafe Ecailler',
+		website: '',
+		},
+		{
+		slug: 'cafe-kohana',
+		name: 'Café Kohana',
+		website: '',
+		},
+		{
+		slug: 'cafe-u-u',
+		name: 'Café U_U (Yuugao)',
+		website: '',
+		},
+		{
+		slug: 'candy',
+		name: 'Candy (Kyoto)',
+		website: '',
+		},
+		{
+		slug: 'charlies-club',
+		name: 'Charlie\'s Club',
+		website: '',
+		},
+		{
+		slug: 'd-bop',
+		name: 'D-Bop (Sapporo)',
+		website: '',
+		},
+		{
+		slug: 'disk-union-shinjuku',
+		name: 'Disk Union Shinjuku',
+		website: '',
+		},
+		{
+		slug: 'dolca-vida',
+		name: 'Dolce Vida',
+		website: '',
+		},
+		{
+		slug: 'dolphy-2nd',
+		name: 'Dolphy 2nd Bashamichi',
+		website: '',
+		},
+		{
+		slug: 'east-one-tower',
+		name: 'East One Tower',
+		website: '',
+		},
+		{
+		slug: 'gate-hotel',
+		name: 'Gate Hotel',
+		website: '',
+		},
+		{
+		slug: 'glee',
+		name: 'Glee',
+		website: '',
+		},
+		{
+		slug: 'good-honest-grub',
+		name: 'Good Honest Grub',
+		website: '',
 		},
 		{
 		slug: 'hakuryukan',
@@ -759,9 +869,29 @@ var clubs = [
 		website: 'http://www.hakuryukan.jp/',
 		},
 		{
+		slug: 'hiroo-plaza',
+		name: 'Hiroo Plaza',
+		website: '',
+		},
+		{
 		slug: 'hot-house',
 		name: 'Hot House',
 		website: 'http://d.hatena.ne.jp/hothousegogo/',
+		},
+		{
+		slug: 'jazz-avenue',
+		name: 'Jazz Avenue (Okayama)',
+		website: '',
+		},
+		{
+		slug: 'jazz-flash',
+		name: 'Jazz Flash (Niigata)',
+		website: '',
+		},
+		{
+		slug: 'jazz-inn-lovely',
+		name: 'Jazz Inn Lovely (Nagoya)',
+		website: '',
 		},
 		{
 		slug: 'jazz-is',
@@ -769,9 +899,59 @@ var clubs = [
 		website: 'http://www5b.biglobe.ne.jp/%7Ejazz-is/',
 		},
 		{
+		slug: 'jazz-on-top',
+		name: 'Jazz On Top (Osaka)',
+		website: '',
+		},
+		{
+		slug: 'jazz-ya',
+		name: 'Jazz-ya (Osaka)',
+		website: '',
+		},
+		{
 		slug: 'jazzspot-j',
 		name: 'Jazzspot J',
 		website: 'http://www.jazzspot-j.com/',
+		},
+		{
+		slug: 'keio-plaza',
+		name: 'Keio Plaza Hotel Bar',
+		website: '',
+		},
+		{
+		slug: 'la-donna',
+		name: 'La Donna',
+		website: '',
+		},
+		{
+		slug: 'le-club-jazz',
+		name: 'Le Club Jazz (Kyoto)',
+		website: '',
+		},
+		{
+		slug: 'live-spot-rag',
+		name: 'Live Spot Rag',
+		website: '',
+		},
+		{
+		slug: 'maduro',
+		name: 'Maduro',
+		website: '',
+		},
+		{
+		slug: 'manhattan-bleu',
+		name: 'Manhattan Bleu',
+		website: '',
+		},
+		{
+		slug: 'nakano-zero-planetarium',
+		name: 'Nakano Zero Planetarium',
+		website: '',
+		},
+		{
+		slug: 'new-airegin',
+		name: 'New Airegin (Yokohama)',
+		website: '',
 		},
 		{
 		slug: 'new-tones-apple',
@@ -779,9 +959,59 @@ var clubs = [
 		website: 'http://www.newtonesapple.info/',
 		},
 		{
+		slug: 'new-york-bar',
+		name: 'New York Bar',
+		website: '',
+		},
+		{
+		slug: 'nhk-music-hall',
+		name: 'NHK Music Hall',
+		website: '',
+		},
+		{
+		slug: 'nikko-senhime-monogatari',
+		name: 'Nikko Senhime Monogatari',
+		website: '',
+		},
+		{
+		slug: 'opera-city',
+		name: 'Opera City',
+		website: '',
+		},
+		{
+		slug: 'ore-no',
+		name: 'Ore No',
+		website: 'https://www.oreno.co.jp/',
+		},
+		{
+		slug: 'orpheus-studios',
+		name: 'Orpheus Studios',
+		website: '',
+		},
+		{
+		slug: 'paggey-club',
+		name: 'Paggey Club (Osaka)',
+		website: '',
+		},
+		{
+		slug: 'pannonica',
+		name: 'Pannonica (Morioka)',
+		website: '',
+		},
+		{
 		slug: 'pearl-bar',
 		name: 'Pearl Bar',
 		website: 'http://www.pearl-bar.co.jp/pc/',
+		},
+		{
+		slug: 'piano-lounge-jj',
+		name: 'Piano Lounge JJ',
+		website: '',
+		},
+		{
+		slug: 'plug',
+		name: 'Plug',
+		website: '',
 		},
 		{
 		slug: 'praca-onze',
@@ -789,9 +1019,119 @@ var clubs = [
 		website: 'http://www.praca11.net/',
 		},
 		{
+		slug: 'rakuya-jimbocho',
+		name: 'Rakuya Jimbocho',
+		website: '',
+		},
+		{
+		slug: 'rakuya-nakameguro',
+		name: 'Rakuya Nakameguro',
+		website: '',
+		},
+		{
+		slug: 'rit-bar',
+		name: 'Rit Bar',
+		website: '',
+		},
+		{
+		slug: 'royal-horse',
+		name: 'Royal Horse (Osaka)',
+		website: '',
+		},
+		{
+		slug: 'sapporo-city-jazz-fest',
+		name: 'Sapporo City Jazz Fest',
+		website: '',
+		},
+		{
+		slug: 'silk-road-cafe',
+		name: 'Silk Road Cafe',
+		website: '',
+		},
+		{
+		slug: 'slowboat',
+		name: 'Slowboat (Sapporo)',
+		website: '',
+		},
+		{
+		slug: 'smile',
+		name: 'Smile',
+		website: '',
+		},
+		{
+		slug: 'sone',
+		name: 'Sone (Kobe)',
+		website: '',
+		},
+		{
+		slug: 'star-eyes',
+		name: 'Star Eyes (Nagoya)',
+		website: '',
+		},
+		{
+		slug: 'studio-dede',
+		name: 'Studio Dede',
+		website: '',
+		},
+		{
+		slug: 'sumida-jazz-fest',
+		name: 'Sumida Jazz Fest',
+		website: '',
+		},
+		{
+		slug: 'suzuki-house-concert',
+		name: 'Suzuki House Concert',
+		website: '',
+		},
+		{
+		slug: 'table-taku',
+		name: 'Table Taku',
+		website: '',
+		},
+		{
+		slug: 'tokyo-club-hongo',
+		name: 'Tokyo Club Hongo',
+		website: '',
+		},
+		{
+		slug: 'tokyo-club-meguro',
+		name: 'Tokyo Club Meguro',
+		website: '',
+		},
+		{
+		slug: 'tokyo-club-suidobashi',
+		name: 'Tokyo Club Suidobashi',
+		website: '',
+		},
+		{
+		slug: 'triphony-hall',
+		name: 'Triphony Hall',
+		website: '',
+		},
+		{
+		slug: 'vassoniel',
+		name: 'Vassoniel',
+		website: '',
+		},
+		{
 		slug: 'voice',
 		name: 'Voice',
 		website: 'http://jazz-bar-voice.com/',
+		},
+		{
+		slug: 'wild-music-studio',
+		name: 'Wild Music Studio',
+		website: '',
+		},
+		{
+		slug: 'xex',
+		name: 'Xex',
+		website: '',
+		},
+		{
+		slug: 'your-big-family',
+		name: 'Your Big Family',
+		website: '',
 		},
 	]},
 ];
