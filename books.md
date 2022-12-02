@@ -7,13 +7,13 @@ title: Books
 READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022-xx-xx
-1. Ken Follett: The Hammer of Eden
 1. Ken Follett: Lie Down With Lions
 1. Ken Follett: Code To Zero
 1. Ian McDonald: Brasyl
 
 READ:
 
+1. Ken Follett: The Hammer of Eden		2022-12-01
 1. Tom Cooper: Florida Man            2022-11-24
 1. Ken Follett: The Evening and the Morning     2022-11-20
 1. Ken Follett: A Column of Fire				2022-11-12
