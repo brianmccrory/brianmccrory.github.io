@@ -1,0 +1,11 @@
+
+.showTMP {
+	display: none;	
+}
+.hidetrue {
+	color: lightgrey;
+	font-style: italic;
+}
+
+.hidefalse {
+}

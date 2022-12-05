@@ -4,20 +4,59 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="shortcut icon" href="https://c.s-microsoft.com/favicon.ico?v2" />
-    <title>Visits</title>
+    <link rel="stylesheet" href="main.css" />
+    <title>Schedule</title>
     <link rel="manifest" href="/manifest.json">
 	<script src="data/schedule.js" defer></script>	
 	<script src="app-schedule.js" defer></script>	
+	<!-- script src="persist.js" defer></script -->	
+	<script src="db.js" defer></script>
   </head>
   <body>
   <header>
 	<p>Header element (was an image)</p>
 </header>
+
+<div>
+<button id="clearCache" onclick="clearCache(); getAndDisplayLiveCache();">Clear cache</button>
+<div id="clearCacheMessage"></div>
+</div>
+
+<div>
+<button id="populateCache" onclick="populateCache(); getAndDisplayLiveCache();">Populate cache</button>
+<div id="populateCacheMessage"></div>
+</div>
+
+
+<!-- 
+<button id="persist">Persist</button>
+<div id="app">
+      <div id="textbox">
+        <textarea id="newmessage"></textarea>
+        <button onclick="submitNote()">Add note</button>
+      </div>
+    </div>
+
+NOTES:
+<div id="notes"></div>
+<input type=checkbox onclick="flipNoteOrder()">Flip note order</input>
+
+<p>
+
+SAVED LIVES:
+<div id="savedLives"></div>
+-->
+
+<div id="savedContent"></div>
+
+
 <main>
 
 	<h1>Schedule</h1>
 	<section id="content"></section>
 </main>
+
+
 <footer>
 	<p>&copy; two-thousand-twenty-two 2022.</p>
 </footer>
