@@ -66,7 +66,7 @@ var clubs = [
 		},
 		{
 		slug: 'deep',
-		name: 'The Deep',
+		name: 'Deep',
 		website: 'http://www.jazz-thedeep.com/',
 		},
 		{
@@ -114,7 +114,7 @@ var clubs = [
 		},
 		{
 		slug: 'all-of-me',
-		name: 'All of Me',
+		name: 'All Of Me',
 		website: 'http://www.allofmeclub.com/',
 		},
 		{

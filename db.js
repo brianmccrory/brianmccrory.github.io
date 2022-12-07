@@ -343,6 +343,7 @@ function displayLiveCache(liveCache) {
 		content += `<li id="li${key}" class="hide${isSaved}"> [${key}] [<a href='' id='${key}' onclick="toggleIsSaved(${key}, ${isSaved});`;
 		content += ` document.getElementById('li${key}').removeClass('hide${activeLabel}').addClass('hide${inactiveLabel}');`;
 		content += ` document.getElementById('${key}').innerHTML='${savedLabel}'; return false;">${unsavedLabel}</a>] `;
+		content +=  ` [<a href='' id ='${key}' onclick="; return false;">delete</a>] `;
 		content +=  obj['club'] + ": " + obj['event'];
 		content += " isSaved=" + isSaved + " obj[isSaved]=" + obj['isSaved'] + " ";
 		content += "</li>\n";
