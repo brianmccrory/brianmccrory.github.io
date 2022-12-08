@@ -1,6 +1,7 @@
 let db;
 let dbReq = indexedDB.open('scheduledb', 13);
 let reverseOrder = false;
+let latestDate = '';
 
 dbReq.onupgradeneeded = function(event) {
   // Set the db variable to our database so we can use it!  
@@ -225,22 +226,45 @@ function clearCache() {
 	let store = tx.objectStore('allLives');
 	store.clear();
 	tx.oncomplete = function() {
-		console.log('clearAllLives allLives table cleared');
-		 document.getElementById('clearCacheMessage').innerHTML = "Cache cleared at " + new Date().toDateString() + " " + new Date().toLocaleTimeString();
-		 setTimeout(function() { document.getElementById('clearCacheMessage').innerHTML = "";}, 3000);
+		showConsoleMessage("Cache cleared");
 	};
 }
 
 
-function populateCache() {
+function pruneCache() {
+	showConsoleMessage("Cache pruned");
+}
+
+function showConsoleMessage(message) {
+	document.getElementById('consoleMessage').innerHTML = message + " (" + new Date().toDateString() + " " + new Date().toLocaleTimeString() + ")";
+	setTimeout(function() { document.getElementById('consoleMessage').innerHTML = "";}, 3000);	
+}
+
+function showLatestDate(message) {
+	document.getElementById('latestDate').innerHTML = message;	
+}
+
+function populateCache(addDays) {
 	let tx = db.transaction(['allLives'], 'readwrite');
 	let store = tx.objectStore('allLives');
 	let count = 0;
-//	console.log('copyLivesToStorage size='  + Object.keys(schedule).length);
+	let findDate;
+	if (!latestDate) {
+		findDate = new Date();
+		findDate.setDate(findDate.getDate()); // don't add days since we start from today
+		console.log("no latest date found, using " + findDate);	
+		latestDate = findDate;
+		showLatestDate(findDate);
+	} else {
+		findDate = new Date(latestDate);
+		findDate.setDate(findDate.getDate() + addDays);
+		console.log("latest date found, using " + findDate);	
+	}
+
 	for (let date in schedule) {
-//		console.log('copyLivesToStorage date=' + date + ' size='  + Object.keys(schedule[date]).length);	
+		if (new Date(date) < findDate)
+			continue;
 		for (let club in schedule[date]) {
-//			console.log('copyLivesToStorage date=' + date + ' club=' + club + ' size='  + schedule[date][club].length);	
 			for (let i=0; i<schedule[date][club].length; i++) {
 				let eventTitle = "'" + schedule[date][club][i] + "'";
 				let event = {'date': date, 'club': club, 'event': eventTitle, 'timestamp': Date.now()};
@@ -248,19 +272,17 @@ function populateCache() {
 				count++;
 			}
 		}
+		break;
 	}
 	
 	tx.oncomplete = function() {
-		console.log('copyLivesToStorage complete count=' + count);
-		document.getElementById('populateCacheMessage').innerHTML = "Cache populated at " + new Date().toDateString() + " " + new Date().toLocaleTimeString();
-		setTimeout(function() { document.getElementById('populateCacheMessage').innerHTML = "";}, 3000);
+		showConsoleMessage("Cache populated with " + count + " events");
 	}
 
   tx.onerror = function(event) {
     alert('error storing allLives');
   }
 }
-
 
 // upon a page refresh, merge the schedule from schedule.js with data in indexeddb (favoring indexdb data)
 function mergeScheduleToStorage(db, schedule) {
@@ -308,8 +330,8 @@ function getAndDisplayLiveCache() {
 		liveCache.push({key: cursor.key, value: cursor.value});
       	cursor.continue();    
      } else {
-		console.log("number of rows: " + liveCache.length);
 		displayLiveCache(liveCache);
+		getCacheLatestDate();
      }
   }
   req.onerror = function(event) {
@@ -389,4 +411,29 @@ function toggleIsSaved(key, isSaved) {
   tx.onerror = function(event) {
     alert('toggleIsSaved error saving live' + event.target.errorCode);
   }	
+}
+
+
+function getCacheLatestDate() {
+  let tx = db.transaction(['allLives'], 'readonly');
+  let store = tx.objectStore('allLives');  
+  let index = store.index('date');
+  let req = store.openCursor(null, 'prev'); // 
+  req.onsuccess = function(event) {
+    // The result of req.onsuccess is an IDBCursor
+    let cursor = event.target.result;
+    if (cursor != null) {      // If the cursor isn't null, we got an IndexedDB item.
+		latestDate = cursor.value.date;
+		showLatestDate(latestDate);
+      	// cursor.continue();    
+     } else {
+//		latestDate = '';
+		showLatestDate(latestDate);
+		// displayLiveCache(liveCache);
+		console.log("End of cursor, latestDate=" + latestDate);
+     }
+  }
+  req.onerror = function(event) {
+  	alert('getCacheLatestDate error in cursor request ' + event.target.errorCode);
+  }
 }

@@ -17,15 +17,16 @@
 	<p>Header element (was an image)</p>
 </header>
 
-<div>
-<button id="clearCache" onclick="clearCache(); getAndDisplayLiveCache();">Clear cache</button>
-<div id="clearCacheMessage"></div>
-</div>
+<div>Latest Date:<div class="inline" id="latestDate" align=left></div></div>
 
-<div>
-<button id="populateCache" onclick="populateCache(); getAndDisplayLiveCache();">Populate cache</button>
-<div id="populateCacheMessage"></div>
-</div>
+<div>Console: <div class="inline" id="consoleMessage"></div></div>
+
+
+<div><button id="populateCache" onclick="populateCache(1); getAndDisplayLiveCache();">Populate cache (+1 day)</button></div>
+
+<div><button id="pruneCache" onclick="pruneCache(); getAndDisplayLiveCache();">Prune cache of old events</button></div>
+
+<div><button id="clearCache" onclick="clearCache(); getAndDisplayLiveCache();">Clear cache</button></div>
 
 
 <!-- 

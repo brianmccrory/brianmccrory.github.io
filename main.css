@@ -9,3 +9,10 @@
 
 .hidefalse {
 }
+
+.inline {
+    display: inline;   
+    width: 100px;
+    height: 20px;
+    border: 2px solid red;
+}
