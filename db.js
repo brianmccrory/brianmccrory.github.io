@@ -225,14 +225,16 @@ function clearCache() {
 	let tx = db.transaction(['allLives'], 'readwrite');
 	let store = tx.objectStore('allLives');
 	store.clear();
+	latestDate = "";
 	tx.oncomplete = function() {
+		showLatestDate(latestDate);
 		showConsoleMessage("Cache cleared");
 	};
 }
 
 
 function pruneCache() {
-	showConsoleMessage("Cache pruned");
+	showConsoleMessage("Cache pruned (TBD: not implemented yet)");
 }
 
 function showConsoleMessage(message) {
@@ -248,22 +250,31 @@ function populateCache(addDays) {
 	let tx = db.transaction(['allLives'], 'readwrite');
 	let store = tx.objectStore('allLives');
 	let count = 0;
-	let findDate;
+	let findDateStart;
+	let findDateEnd;
 	if (!latestDate) {
-		findDate = new Date();
-		findDate.setDate(findDate.getDate()); // don't add days since we start from today
-		console.log("no latest date found, using " + findDate);	
-		latestDate = findDate;
-		showLatestDate(findDate);
+		findDateStart= new Date();
+		findDateEnd = new Date();
+		findDateStart.setDate(findDateStart.getDate()); // start from today
+		findDateEnd.setDate(findDateEnd.getDate()+1);
+		console.log("no latest date found, using " + findDateStart);	
+		latestDate = findDateStart;
+		showLatestDate(latestDate);
 	} else {
-		findDate = new Date(latestDate);
-		findDate.setDate(findDate.getDate() + addDays);
-		console.log("latest date found, using " + findDate);	
+		findDateStart = new Date(latestDate);
+		findDateEnd = new Date(latestDate);
+		findDateStart.setDate(findDateStart.getDate());
+		findDateEnd.setDate(findDateEnd.getDate() + addDays);
+		console.log("latest date found, using " + findDateStart);	
+		latestDate = findDateEnd;
+		showLatestDate(latestDate);
 	}
 
 	for (let date in schedule) {
-		if (new Date(date) < findDate)
+		if (new Date(date) < findDateStart)
 			continue;
+		if (new Date(date) > findDateEnd)
+			break;
 		for (let club in schedule[date]) {
 			for (let i=0; i<schedule[date][club].length; i++) {
 				let eventTitle = "'" + schedule[date][club][i] + "'";
@@ -272,7 +283,6 @@ function populateCache(addDays) {
 				count++;
 			}
 		}
-		break;
 	}
 	
 	tx.oncomplete = function() {
@@ -359,7 +369,7 @@ function displayLiveCache(liveCache) {
 			unsavedLabel = activeLabel;
 		}
 		if (curDate != date) {
-			content += "</ul><h3>" + date + "</h3><ul>\n";
+			content += `</ul><h3>${date}</h3><ul>\n`;
 			curDate = date;
 		}
 		content += `<li id="li${key}" class="hide${isSaved}"> [${key}] [<a href='' id='${key}' onclick="toggleIsSaved(${key}, ${isSaved});`;
@@ -367,7 +377,7 @@ function displayLiveCache(liveCache) {
 		content += ` document.getElementById('${key}').innerHTML='${savedLabel}'; return false;">${unsavedLabel}</a>] `;
 		content +=  ` [<a href='' id ='${key}' onclick="; return false;">delete</a>] `;
 		content +=  obj['club'] + ": " + obj['event'];
-		content += " isSaved=" + isSaved + " obj[isSaved]=" + obj['isSaved'] + " ";
+//		content += " isSaved=" + isSaved + " obj[isSaved]=" + obj['isSaved'] + " ";
 		content += "</li>\n";
 		if (isSaved == true) {
 			// TODO: if not already in savedContent...
@@ -412,7 +422,6 @@ function toggleIsSaved(key, isSaved) {
     alert('toggleIsSaved error saving live' + event.target.errorCode);
   }	
 }
-
 
 function getCacheLatestDate() {
   let tx = db.transaction(['allLives'], 'readonly');
