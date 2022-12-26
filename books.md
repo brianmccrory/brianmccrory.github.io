@@ -7,10 +7,10 @@ title: Books
 READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022-xx-xx
-1. Ian McDonald: Brasyl
 
 READ:
 
+1. Ian McDonald: Brasyl					2022-12-25
 1. Ken Follett: Lie Down With Lions			2022-12-23
 1. Ken Follett: Code to Zero      2022-12-14
 1. Ken Follett: The Hammer of Eden		2022-12-01
