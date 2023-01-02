@@ -2,6 +2,9 @@ let db;
 let dbReq = indexedDB.open('scheduledb', 13);
 let reverseOrder = false;
 let latestDate = '';
+let startDate = new Date();
+let endDate = new Date();
+let liveCache = [];
 
 dbReq.onupgradeneeded = function(event) {
   // Set the db variable to our database so we can use it!  
@@ -55,7 +58,10 @@ dbReq.onsuccess = function(event) {
 
 //  mergeScheduleToStorage(db, schedule);
 
-  getAndDisplayLiveCache();
+	if (liveCache.size == 0) {
+		populateCache(1);	
+	}
+  	getAndDisplayLiveCache();
 
 }
 dbReq.onerror = function(event) {
@@ -227,11 +233,15 @@ function clearCache() {
 	store.clear();
 	latestDate = "";
 	tx.oncomplete = function() {
-		showLatestDate(latestDate);
+		showStartEndDates();
 		showConsoleMessage("Cache cleared");
 	};
 }
 
+function setLatestDate() {
+	latestDate = document.getElementById('latestDateEntry').value;
+	showStartEndDates();
+}
 
 function pruneCache() {
 	showConsoleMessage("Cache pruned (TBD: not implemented yet)");
@@ -242,8 +252,13 @@ function showConsoleMessage(message) {
 	setTimeout(function() { document.getElementById('consoleMessage').innerHTML = "";}, 3000);	
 }
 
-function showLatestDate(message) {
-	document.getElementById('latestDate').innerHTML = message;	
+function showLatestDateEntry(message) {
+	document.getElementById('latestDateEntry').value = message;	
+}
+function showStartEndDates() {
+//	document.getElementById('latestDate').innerHTML = message;	
+	document.getElementById('startDate').innerHTML = startDate.toDateString();	
+	document.getElementById('endDate').innerHTML = endDate.toDateString();	
 }
 
 function populateCache(addDays) {
@@ -251,24 +266,21 @@ function populateCache(addDays) {
 	let store = tx.objectStore('allLives');
 	let count = 0;
 	let findDateStart;
-	let findDateEnd;
-	if (!latestDate) {
+	if (!startDate) {
 		findDateStart= new Date();
-		findDateEnd = new Date();
-		findDateStart.setDate(findDateStart.getDate()); // start from today
-		findDateEnd.setDate(findDateEnd.getDate()+1);
-		console.log("no latest date found, using " + findDateStart);	
-		latestDate = findDateStart;
-		showLatestDate(latestDate);
 	} else {
-		findDateStart = new Date(latestDate);
-		findDateEnd = new Date(latestDate);
-		findDateStart.setDate(findDateStart.getDate());
-		findDateEnd.setDate(findDateEnd.getDate() + addDays);
-		console.log("latest date found, using " + findDateStart);	
-		latestDate = findDateEnd;
-		showLatestDate(latestDate);
+		findDateStart = new Date(startDate);	
 	}
+	let findDateEnd;
+	if (!endDate) {
+		findDateEnd = new Date(startDate);
+	} else {
+		findDateEnd = new Date(endDate);
+	}
+	findDateEnd.setDate(findDateStart.getDate() + addDays);
+	endDate = findDateEnd;
+	showStartEndDates();
+	
 
 	for (let date in schedule) {
 		if (new Date(date) < findDateStart)
@@ -331,7 +343,6 @@ function getAndDisplayLiveCache() {
   let tx = db.transaction(['allLives'], 'readonly');
   let store = tx.objectStore('allLives');  
   let req = store.openCursor(null, 'next'); // TODO: support reverse order
-  let liveCache = []; // TODO: instead of an array, maybe an object?
 
   req.onsuccess = function(event) {
     // The result of req.onsuccess is an IDBCursor
@@ -433,11 +444,11 @@ function getCacheLatestDate() {
     let cursor = event.target.result;
     if (cursor != null) {      // If the cursor isn't null, we got an IndexedDB item.
 		latestDate = cursor.value.date;
-		showLatestDate(latestDate);
+		showStartEndDates();
       	// cursor.continue();    
      } else {
 //		latestDate = '';
-		showLatestDate(latestDate);
+		showStartEndDates();
 		// displayLiveCache(liveCache);
 		console.log("End of cursor, latestDate=" + latestDate);
      }

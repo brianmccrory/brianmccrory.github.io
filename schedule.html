@@ -17,7 +17,11 @@
 	<p>Header element (was an image)</p>
 </header>
 
-<div>Latest Date:<div class="inline" id="latestDate" align=left></div></div>
+<div>
+<div>Start Date:<div class="inline" id="startDate" align=left></div>
+<div>End Date:<div class="inline" id="endDate" align=left></div>
+</div>
+<div><form onsubmit="setLatestDate(); return false;">Update:<input type=text id="latestDateEntry" align=left></form></div>
 
 <div>Console: <div class="inline" id="consoleMessage"></div></div>
 
