@@ -7,6 +7,9 @@ title: Books
 READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022-xx-xx
+1. Ed Caesar: The Moth and the Mountain
+1. Harlan Coben: Live Wire
+1. Harlan Coben: Don't Let Go
 
 READ:
 
