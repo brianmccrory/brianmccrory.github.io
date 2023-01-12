@@ -10,10 +10,10 @@ READING:
 1. Ed Caesar: The Moth and the Mountain
 1. Harlan Coben: Home
 1. Harlan Coben: Live Wire
-1. Harlan Coben: Don't Let Go
 
 READ:
 
+1. Harlan Coben: Don't Let Go   2023-01-11
 1. Ian McDonald: Brasyl					2022-12-25
 1. Ken Follett: Lie Down With Lions			2022-12-23
 1. Ken Follett: Code to Zero      2022-12-14
