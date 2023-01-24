@@ -23,33 +23,15 @@
 </div>
 <div><form onsubmit="setLatestDate(); return false;">Update:<input type=text id="latestDateEntry" align=left></form></div>
 
-<div>Console: <div class="inline" id="consoleMessage"></div></div>
+<div>DEBUG: <div class="inline" id="debugMessage"></div></div>
 
 
-<div><button id="populateCache" onclick="populateCache(1); getAndDisplayLiveCache();">Populate cache (+1 day)</button></div>
-<div><button id="populateCache" onclick="populateCache(10); getAndDisplayLiveCache();">Populate cache (+10 days)</button></div>
+<div><button id="populateCache" onclick="populateCache(1);">Populate cache (+1 day)</button></div>
+<div><button id="populateCache" onclick="populateCache(10);">Populate cache (+10 days)</button></div>
+<div><button id="clearCache" onclick="clearCache();">Clear cache</button></div>
+<div><button id="pruneCache" onclick="pruneCache();">(TBD) Prune cache of old events</button></div>
 
-<div><button id="pruneCache" onclick="pruneCache(); getAndDisplayLiveCache();">Prune cache of old events</button></div>
-
-<div><button id="clearCache" onclick="clearCache(); getAndDisplayLiveCache();">Clear cache</button></div>
-
-
-<!-- 
-<button id="persist">Persist</button>
-<div id="app">
-      <div id="textbox">
-        <textarea id="newmessage"></textarea>
-        <button onclick="submitNote()">Add note</button>
-      </div>
-    </div>
-
-NOTES:
-<div id="notes"></div>
-<input type=checkbox onclick="flipNoteOrder()">Flip note order</input>
-
-<p>
-
-SAVED LIVES:
+<!--
 <div id="savedLives"></div>
 -->
 

@@ -10,19 +10,6 @@ dbReq.onupgradeneeded = function(event) {
   // Set the db variable to our database so we can use it!  
   db = event.target.result;
 
-  // Create an object store named notes. Object stores
-  // in databases are where data are stored.
-  let notes;
-  if (!db.objectStoreNames.contains('notes')) {
-  		notes = db.createObjectStore('notes', {autoIncrement: true});
-  	} else {
-		notes = dbReq.transaction.objectStore('notes');
-	}
-	
-	if (!notes.indexNames.contains('timestamp')) {
-		notes.createIndex('timestamp', 'timestamp');
-	}
-	
 	let savedLives;
   if (!db.objectStoreNames.contains('savedLives')) {
   		savedLives = db.createObjectStore('savedLives', {autoIncrement: true});
@@ -48,9 +35,6 @@ dbReq.onupgradeneeded = function(event) {
 }
 dbReq.onsuccess = function(event) {
   db = event.target.result;
-//  getAndDisplayNotes(db);  
-//  getAndDisplaySavedLives(db);
-//displayLives();
   
 // DEBUG: already loaded to cache, so commment:
 //  clearAllLives(db); // changed to clearCache()
@@ -68,32 +52,6 @@ dbReq.onerror = function(event) {
   alert('error opening database ' + event.target.errorCode);
 }
 
-function addStickyNote(db, message) {
-  // Start a database transaction and get the notes object store
-  let tx = db.transaction(['notes'], 'readwrite');
-  let store = tx.objectStore('notes');  // Put the sticky note into the object store
-  let note = {text: message, timestamp: Date.now()};
-  store.add(note);  // Wait for the database transaction to complete
-  tx.oncomplete = function() { 
-	getAndDisplayNotes(db); 
-	}
-  tx.onerror = function(event) {
-    alert('error storing note ' + event.target.errorCode);
-  }
-}
-
-function submitNote() {
-  let message = document.getElementById('newmessage');
-  addStickyNote(db, message.value);
-  message.value = '';
-}
-
-function flipNoteOrder(notes) {
-	reverseOrder = !reverseOrder;
-	getAndDisplayNotes(db);
-}
-
-
 function saveLive(name) {
 	addSavedLive(db, name);
 }
@@ -103,11 +61,10 @@ function deleteLive(key) {
 }
 
 function addSavedLive(db, name) {
-  // Start a database transaction and get the notes object store
   let tx = db.transaction(['savedLives'], 'readwrite');
-  let store = tx.objectStore('savedLives');  // Put the sticky note into the object store
+  let store = tx.objectStore('savedLives');
   let savedLive = {name: name};
-  store.add(savedLive);  // Wait for the database transaction to complete
+  store.add(savedLive);
   tx.oncomplete = function() { 
 	// no need to reload anymore...
 //	getAndDisplaySavedLives(db); 
@@ -118,10 +75,9 @@ function addSavedLive(db, name) {
 }
 
 function deleteSavedLive(db, key) {
-  // Start a database transaction and get the notes object store
   let tx = db.transaction(['savedLives'], 'readwrite');
-  let store = tx.objectStore('savedLives');  // Put the sticky note into the object store
-  store.delete(key);  // Wait for the database transaction to complete
+  let store = tx.objectStore('savedLives');
+  store.delete(key);
   tx.oncomplete = function() {
 	// no need to reload anymore... 
 //	getAndDisplaySavedLives(db); 
@@ -132,42 +88,6 @@ function deleteSavedLive(db, key) {
 }
 
 
-function getAndDisplayNotes(db) {
-  let tx = db.transaction(['notes'], 'readonly');
-  let store = tx.objectStore('notes');  
-  let index = store.index('timestamp');
-  
-  // Create a cursor request to get all items in the store, which 
-  // we collect in the allNotes array
-  let req = store.openCursor(null, reverseOrder ? 'prev' : 'next');
-  let allNotes = [];
-
-  req.onsuccess = function(event) {
-    // The result of req.onsuccess is an IDBCursor
-    let cursor = event.target.result;    
-    if (cursor != null) {      // If the cursor isn't null, we got an IndexedDB item.
-      // Add it to the note array and have the cursor continue!
-      allNotes.push(cursor.value);
-      cursor.continue();    
-     } else {      // If we have a null cursor, it means we've gotten
-      // all the items in the store, so display the notes we got
-      displayNotes(allNotes);    
-     }
-  }
-} 
-    
-    
-function displayNotes(notes) {
-  let listHTML = '<ul>';
-  for (let i = 0; i < notes.length; i++) {
-    let note = notes[i];
-    listHTML += '<li>' + note.text + ' ' + 
-      new Date(note.timestamp).toString() + '</li>';
-  }
-  document.getElementById('notes').innerHTML = listHTML;
-}
-
-
 function getAndDisplaySavedLives(db) {
   let tx = db.transaction(['savedLives'], 'readonly');
   let store = tx.objectStore('savedLives');  
@@ -175,14 +95,11 @@ function getAndDisplaySavedLives(db) {
   let allSavedLives = [];
 
   req.onsuccess = function(event) {
-    // The result of req.onsuccess is an IDBCursor
     let cursor = event.target.result;    
-    if (cursor != null) {      // If the cursor isn't null, we got an IndexedDB item.
-      // Add it to the note array and have the cursor continue!
+    if (cursor != null) {
       allSavedLives.push({key: cursor.key, value: cursor.value});
       cursor.continue();    
-     } else {      // If we have a null cursor, it means we've gotten
-      // all the items in the store, so display the notes we got
+     } else {
       displaySavedLives(allSavedLives);    
      }
   }
@@ -200,12 +117,10 @@ function getSavedLives(db) {
   req.onsuccess = function(event) {
     // The result of req.onsuccess is an IDBCursor
     let cursor = event.target.result;    
-    if (cursor != null) {      // If the cursor isn't null, we got an IndexedDB item.
-      // Add it to the note array and have the cursor continue!
+    if (cursor != null) {
       allSavedLives.push({key: cursor.key, value: cursor.value});
       cursor.continue();    
-     } else {      // If we have a null cursor, it means we've gotten
-      // all the items in the store, so display the notes we got
+     } else {
       return allSavedLives;   
      }
   }
@@ -214,7 +129,10 @@ function getSavedLives(db) {
   }
 }
 
+
 function displaySavedLives(savedLives) {
+	document.getElementById('savedLives').innerHTML = '';
+
   let listHTML = '<ul>';
   for (let i = 0; i < savedLives.length; i++) {
     let savedLive = savedLives[i];
@@ -234,7 +152,8 @@ function clearCache() {
 	latestDate = "";
 	tx.oncomplete = function() {
 		showStartEndDates();
-		showConsoleMessage("Cache cleared");
+		showDebugMessage("Cache cleared");
+		displayLiveCache();
 	};
 }
 
@@ -244,12 +163,12 @@ function setLatestDate() {
 }
 
 function pruneCache() {
-	showConsoleMessage("Cache pruned (TBD: not implemented yet)");
+	showDebugMessage("Cache pruned (TBD: not implemented yet)");
 }
 
-function showConsoleMessage(message) {
-	document.getElementById('consoleMessage').innerHTML = message + " (" + new Date().toDateString() + " " + new Date().toLocaleTimeString() + ")";
-	setTimeout(function() { document.getElementById('consoleMessage').innerHTML = "";}, 3000);	
+function showDebugMessage(message) {
+	document.getElementById('debugMessage').innerHTML = message + " (" + new Date().toDateString() + " " + new Date().toLocaleTimeString() + ")";
+	setTimeout(function() { document.getElementById('debugMessage').innerHTML = "";}, 3000);	
 }
 
 function showLatestDateEntry(message) {
@@ -265,40 +184,43 @@ function populateCache(addDays) {
 	let tx = db.transaction(['allLives'], 'readwrite');
 	let store = tx.objectStore('allLives');
 	let count = 0;
-	let findDateStart;
-	if (!startDate) {
-		findDateStart= new Date();
+	let findStartDate;
+	let findEndDate;
+	if (endDate) {
+		findStartDate = new Date(endDate); // start from previous end date
 	} else {
-		findDateStart = new Date(startDate);	
+		findStartDate = new Date(); // start from today
 	}
-	let findDateEnd;
-	if (!endDate) {
-		findDateEnd = new Date(startDate);
-	} else {
-		findDateEnd = new Date(endDate);
-	}
-	findDateEnd.setDate(findDateStart.getDate() + addDays);
-	endDate = findDateEnd;
+	findEndDate = new Date(findStartDate);
+	findEndDate.setDate(findEndDate.getDate() + addDays);
+
+	startDate = findStartDate; // update startDate
+	endDate = findEndDate; // update endDate
 	showStartEndDates();
 	
+	console.log("start=" + findStartDate + " end=" + findEndDate);
 
 	for (let date in schedule) {
-		if (new Date(date) < findDateStart)
+		if (new Date(date) < findStartDate)
 			continue;
-		if (new Date(date) > findDateEnd)
+		if (new Date(date) > findEndDate)
 			break;
+		console.log("Adding events for date=" + date);
 		for (let club in schedule[date]) {
-			for (let i=0; i<schedule[date][club].length; i++) {
+			for (let i=0; i<schedule[date][club].length; i++) { // handles single/multiple events at club on one day
 				let eventTitle = "'" + schedule[date][club][i] + "'";
 				let event = {'date': date, 'club': club, 'event': eventTitle, 'timestamp': Date.now()};
 				store.add(event);
 				count++;
 			}
 		}
+		console.log( "Added " + count + " events to store using store.add(event)");
 	}
 	
 	tx.oncomplete = function() {
-		showConsoleMessage("Cache populated with " + count + " events");
+		console.log("Cache populated with " + count + " events");
+		showDebugMessage("Cache populated with " + count + " events");
+		getAndDisplayLiveCache();
 	}
 
   tx.onerror = function(event) {
@@ -350,6 +272,8 @@ function getAndDisplayLiveCache() {
     if (cursor != null) {      // If the cursor isn't null, we got an IndexedDB item.
 		liveCache.push({key: cursor.key, value: cursor.value});
       	cursor.continue();    
+      console.log("cursor=" + cursor.key + " " + cursor.value.name);
+
      } else {
 		displayLiveCache(liveCache);
 		getCacheLatestDate();
@@ -362,9 +286,9 @@ function getAndDisplayLiveCache() {
 
 
 function displayLiveCache(liveCache) {
-// moved and modified from app-schedule.js where it was running inline 
-	let savedContent = '<ul>';
-	let content = '<ul>';
+	document.getElementById('content').innerHTML = 'Updating...';
+	let savedContent = 'SAVED CONTENT: <ul>';
+	let content = 'CONTENT: <ul>';
 	let curDate = '';
 	for (let row in liveCache) {
 		let key = liveCache[row].key;
