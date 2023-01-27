@@ -834,7 +834,7 @@ var clubs = [
 		website: '',
 		},
 		{
-		slug: 'dolca-vida',
+		slug: 'dolce-vida',
 		name: 'Dolce Vida',
 		website: '',
 		},
