@@ -7,10 +7,10 @@ title: Books
 READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022-xx-xx
-1. Ed Caesar: The Moth and the Mountain
 
 READ:
 
+1. Ed Caesar: The Moth and the Mountain   2023-02-06
 1. Harlan Coben: Home			2023-01-27
 1. Harlan Coben: Live Wire      2023-01-17
 1. Harlan Coben: Don't Let Go   2023-01-11
