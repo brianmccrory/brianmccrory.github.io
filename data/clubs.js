@@ -370,6 +370,11 @@ var clubs = [
 		website: 'http://blueheat.jp/',
 		},
 		{
+		slug: 'bon-courage',
+		name: 'Bon Courage',
+		website: 'https://bon-courage.tokyo/',
+		},
+		{
 		slug: 'casa-da-kei',
 		name: 'Casa Da Kei',
 		website: 'http://www.casa-da-kei.com/',
