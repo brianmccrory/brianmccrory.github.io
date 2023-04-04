@@ -6,9 +6,12 @@ title: Books
 
 READING:
 
-1. Kotaro Isaka: Who Ga You Ga              2022-xx-xx
+1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
+1. Naomi Alderman: The Power				2023-04-xx
+1. Quentin Tarantino: Once Upon a Time in Hollywood		2023-04-xx
 
-READ:
+
+# 2023:
 
 1. Hanif Kureishi: Intimacy		2023-03-28
 1. Ken Follett: Never			2023-03-27
@@ -18,6 +21,9 @@ READ:
 1. Harlan Coben: Home			2023-01-27
 1. Harlan Coben: Live Wire      2023-01-17
 1. Harlan Coben: Don't Let Go   2023-01-11
+
+# 2022
+
 1. Ian McDonald: Brasyl					2022-12-25
 1. Ken Follett: Lie Down With Lions			2022-12-23
 1. Ken Follett: Code to Zero      2022-12-14
@@ -59,13 +65,13 @@ READ:
 1. Alex Skolnick: Geek to Guitar Hero	    2022-03-02
 1. Robert Galbraith: Career of Evil	      2022-02-28
 1. Robert Galbraith: The Silkworm	        2022-02-20
-2. Ken Follett: The Key to Rebecca        2022-02-12
-3. Ken Follett: Jackdaws                  2022-02-07
-4. Robert Galbraith: Cuckoo's Calling	    2022-02-01
-5. Ken Follett: The Man from St. Petersburg	2022-01-26
-6. Henri Charriere: Papillon		2022-01-21
-7. Ken Follett: A Place Called Freedom	2022-01-08
-8. Ken Follett: A Dangerous Fortune	2022-01-02
+1. Ken Follett: The Key to Rebecca        2022-02-12
+1. Ken Follett: Jackdaws                  2022-02-07
+1. Robert Galbraith: Cuckoo's Calling	    2022-02-01
+1. Ken Follett: The Man from St. Petersburg	2022-01-26
+1. Henri Charriere: Papillon		2022-01-21
+1. Ken Follett: A Place Called Freedom	2022-01-08
+1. Ken Follett: A Dangerous Fortune	2022-01-02
 
 # 2021
 
@@ -870,13 +876,15 @@ READ:
 # Distant Past
 
 1. Judy Blume Tales of a Fourth Grade Nothing etc 
-2. Beverly Cleary
-3. Douglas Adams Books Hitchhikers Guide to the Galaxy etc 
-4. Steven King The Stand etc 
-5. Clive Barker books Books of Blood Weaveworld etc 
-6. Dean Koontz 
-7. Terry Brooks Sword of Shannara 
-8. Milan Kundera 
-9. José Saramago 
-10. W. G. Sebald
+1. Beverly Cleary
+1. Douglas Adams Books Hitchhikers Guide to the Galaxy etc 
+1. Kurt Vonnegut: Cat's Cradle, Sirens of Titan, Breakfast of Champions, ...
+1. Steven King The Stand etc 
+1. Clive Barker books Books of Blood Weaveworld etc 
+1. Dean Koontz 
+1. Terry Brooks Sword of Shannara 
+1. Milan Kundera 
+1. José Saramago 
+1. W. G. Sebald
+
 
