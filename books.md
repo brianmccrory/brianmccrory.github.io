@@ -8,11 +8,11 @@ READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
 1. Naomi Alderman: The Power				2023-04-xx
-1. Quentin Tarantino: Once Upon a Time in Hollywood		2023-04-xx
 
 
 # 2023:
 
+1. Quentin Tarantino: Once Upon a Time in Hollywood		2023-04-18
 1. Hanif Kureishi: Intimacy		2023-03-28
 1. Ken Follett: Never			2023-03-27
 1. Dan Brown: Origin			2023-03-24
