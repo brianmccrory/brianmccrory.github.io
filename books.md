@@ -12,6 +12,7 @@ READING:
 
 # 2023:
 
+1. Paul Auster: Invisible					2023-04-24
 1. Quentin Tarantino: Once Upon a Time in Hollywood		2023-04-18
 1. Hanif Kureishi: Intimacy		2023-03-28
 1. Ken Follett: Never			2023-03-27
