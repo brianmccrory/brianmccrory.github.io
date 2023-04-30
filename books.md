@@ -7,11 +7,11 @@ title: Books
 READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
-1. Naomi Alderman: The Power				2023-04-xx
 
 
 # 2023:
 
+1. Naomi Alderman: The Power				2023-04-30
 1. Paul Auster: Invisible					2023-04-24
 1. Quentin Tarantino: Once Upon a Time in Hollywood		2023-04-18
 1. Hanif Kureishi: Intimacy		2023-03-28
