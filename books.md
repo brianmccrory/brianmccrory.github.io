@@ -10,11 +10,11 @@ READING:
 1. Carlos Ruiz Zafon: The City of Mist
 1. Douglas Adams: The Long Dark Tea-Time of the Soul
 1. Ken Follett: Hornet Flight
-1. Jason Fagone: The Woman Who Smashed Codes		2023-05-xx
 
 
 # 2023:
 
+1. Jason Fagone: The Woman Who Smashed Codes		2023-05-28
 1. Douglas Adams: Dirk Gently's Holistic Detective Agency		2023-05-13
 1. Naomi Alderman: The Power				2023-04-30
 1. Paul Auster: Invisible					2023-04-24
