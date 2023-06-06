@@ -8,12 +8,12 @@ READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
 1. Carlos Ruiz Zafon: The City of Mist
-1. Douglas Adams: The Long Dark Tea-Time of the Soul
 1. Ken Follett: Hornet Flight
 
 
 # 2023:
 
+1. Douglas Adams: The Long Dark Tea-Time of the Soul	2023-06-05
 1. Jason Fagone: The Woman Who Smashed Codes		2023-05-28
 1. Douglas Adams: Dirk Gently's Holistic Detective Agency		2023-05-13
 1. Naomi Alderman: The Power				2023-04-30
