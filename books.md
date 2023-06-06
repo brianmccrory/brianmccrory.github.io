@@ -9,7 +9,7 @@ READING:
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
 1. Carlos Ruiz Zafon: The City of Mist
 1. Ken Follett: Hornet Flight
-
+1. Roy Sorensen: A Cabinet of Philosophical Curiosities
 
 # 2023:
 
