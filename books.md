@@ -8,11 +8,11 @@ READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
 1. Carlos Ruiz Zafon: The City of Mist
-1. Ken Follett: Hornet Flight
 1. Roy Sorensen: A Cabinet of Philosophical Curiosities
 
 # 2023:
 
+1. Ken Follett: Hornet Flight			2023-06-15
 1. Douglas Adams: The Long Dark Tea-Time of the Soul	2023-06-05
 1. Jason Fagone: The Woman Who Smashed Codes		2023-05-28
 1. Douglas Adams: Dirk Gently's Holistic Detective Agency		2023-05-13
