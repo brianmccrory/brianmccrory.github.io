@@ -7,12 +7,12 @@ title: Books
 READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
-1. Carlos Ruiz Zafon: The City of Mist
 1. Roy Sorensen: A Cabinet of Philosophical Curiosities
 1. William Zinsser: On Writing Well
 
 # 2023:
 
+1. Carlos Ruiz Zafon: The City of Mist      2023-07-01
 1. Robert Galbraith: The Ink Black Heart      2023-06-25
 1. Ken Follett: Hornet Flight			2023-06-15
 1. Douglas Adams: The Long Dark Tea-Time of the Soul	2023-06-05
