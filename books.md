@@ -9,11 +9,11 @@ READING:
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
 1. Roy Sorensen: A Cabinet of Philosophical Curiosities
 1. Ken Follett: World Without End
-1. William Zinsser: On Writing Well (25th Anniversary Edition)
 
 
 # 2023
 
+1. William Zinsser: On Writing Well (25th Anniversary Edition)		2023-07-28
 1. Richard Flanagan: Gould's Book of Fish      2023-07-08
 1. Carlos Ruiz Zafon: The City of Mist      2023-07-01
 1. Robert Galbraith: The Ink Black Heart      2023-06-25
