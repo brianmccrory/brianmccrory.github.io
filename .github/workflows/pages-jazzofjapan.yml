@@ -1,4 +1,4 @@
-name: Deploy Jekyll from different repo with GitHub Pages dependencies preinstalled
+name: Deploy jazzofjapan repo
 
 on:
   # (DISABLED) Runs on pushes targeting the default branch
