@@ -12,10 +12,10 @@ READING:
 1. Margaret Atwood: Oryx and Crake
 1. Steven Hall: The Raw Shark Texts
 1. Ken Follett: Pillars of the Earth
-1. Ken Follett: The Evening and the Morning
 
 # 2023
 
+1. Ken Follett: The Evening and the Morning		2023-08-27
 1. Ken Follett: World Without End				2023-08-14
 1. William Zinsser: On Writing Well (25th Anniversary Edition)		2023-07-28
 1. Richard Flanagan: Gould's Book of Fish      2023-07-08
