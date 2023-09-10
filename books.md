@@ -9,11 +9,11 @@ READING:
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
 1. Roy Sorensen: A Cabinet of Philosophical Curiosities
 1. Margaret Atwood: Oryx and Crake
-1. Steven Hall: The Raw Shark Texts
 1. Ken Follett: Pillars of the Earth
 
 # 2023
 
+1. Steven Hall: The Raw Shark Texts        2023-09-10
 1. Richard Flanagan: Death of a River Guide		2023-09-05
 1. Ken Follett: The Evening and the Morning		2023-08-27
 1. Ken Follett: World Without End				2023-08-14
