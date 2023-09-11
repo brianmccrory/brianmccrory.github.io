@@ -10,6 +10,7 @@ READING:
 1. Roy Sorensen: A Cabinet of Philosophical Curiosities
 1. Margaret Atwood: Oryx and Crake
 1. Ken Follett: Pillars of the Earth
+1. Ruth Ware: The Turn of the Key
 
 # 2023
 
