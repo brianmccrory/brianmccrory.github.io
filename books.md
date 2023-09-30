@@ -7,11 +7,12 @@ title: Books
 READING:
 
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
-1. Roy Sorensen: A Cabinet of Philosophical Curiosities
 1. Ken Follett: Pillars of the Earth
 
 # 2023
 
+1. Carlos Ruiz Zafon: The City of Mist      2023-09-29
+1. Roy Sorensen: A Cabinet of Philosophical Curiosities		2023-09-24
 1. Margaret Atwood: Oryx and Crake			2023-09-22
 1. Ruth Ware: The Turn of the Key			2023-09-15
 1. Steven Hall: The Raw Shark Texts        2023-09-10
