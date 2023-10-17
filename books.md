@@ -11,6 +11,7 @@ READING:
 
 # 2023
 
+1. Pascal Mercier: Night Train To Lisbon	2023-10-16
 1. Carlos Ruiz Zafon: The City of Mist      2023-09-29
 1. Roy Sorensen: A Cabinet of Philosophical Curiosities		2023-09-24
 1. Margaret Atwood: Oryx and Crake			2023-09-22
