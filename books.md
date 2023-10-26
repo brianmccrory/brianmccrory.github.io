@@ -9,10 +9,10 @@ READING:
 1. Kotaro Isaka: Who Ga You Ga              2022/23-xx-xx
 1. Ken Follett: Pillars of the Earth
 1. Margaret Atwood: The Year of the Flood
-1. Ken Follett: Triple
 
 # 2023
 
+1. Ken Follett: Triple						2023-10-25
 1. Iris Yamashita: City Under One Roof		2023-10-17
 1. Pascal Mercier: Night Train To Lisbon	2023-10-16
 1. Carlos Ruiz Zafon: The City of Mist      2023-09-29
