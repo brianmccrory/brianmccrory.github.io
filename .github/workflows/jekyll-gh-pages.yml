@@ -23,5 +23,19 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+ # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+# removed everything here (in steps:), so that any checkins to this repo will not auto-build and deploy (which wipes out other builds I may have deployed here to the pages site for brianmccrory.github.io)
 
-# removed everything here, so that any checkins to this repo will not auto-build and deploy (which wipes out other builds I may have deployed here to the pages site for brianmccrory.github.io)
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+# removed everything here (in steps:), so that any checkins to this repo will not auto-build and deploy (which wipes out other builds I may have deployed here to the pages site for brianmccrory.github.io)
+      
