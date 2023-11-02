@@ -1,4 +1,4 @@
-name: Deploy Jekyll from different repo with GitHub Pages dependencies preinstalled
+name: Deploy Jekyll from different repo (brianmcc) with GitHub Pages dependencies preinstalled
 
 on:
   # (DISABLED) Runs on pushes targeting the default branch
