@@ -27,6 +27,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Null Build Operation
+        run: echo "Skipping Build..."
 # removed everything here (in steps:), so that any checkins to this repo will not auto-build and deploy (which wipes out other builds I may have deployed here to the pages site for brianmccrory.github.io)
 
   # Deployment job
@@ -37,5 +39,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Null Deploy Operation
+        run: echo "Skipping Deploy..."
 # removed everything here (in steps:), so that any checkins to this repo will not auto-build and deploy (which wipes out other builds I may have deployed here to the pages site for brianmccrory.github.io)
       
