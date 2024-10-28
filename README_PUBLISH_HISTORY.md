@@ -19,6 +19,7 @@
 
 ### 2018 Feb
 
+{:start="10"}
 10. [Akiko Suda: *Flowers On The Hill*](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill)
 11. [Hiroco Nagano: *Okurimono*](https://www.jazzofjapan.com/p/hiroco-nagano-okurimono)
 12. [Kaori Vibes Quartet: *Flying Mind*](https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind)
@@ -38,6 +39,7 @@
 
 ### 2018 Mar
 
+{:start="25"}
 25. [Mayuko Katakura: *Inspiration*](https://www.jazzofjapan.com/p/mayuko-katakura-inspiration)
 26. [Sachiko Ikuta Trio: *Haru No Kaze*](https://www.jazzofjapan.com/p/sachiko-ikuta-trio-haru)
 27. [Sumito Oi: *Sumitty & The Funfair*](https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair)
