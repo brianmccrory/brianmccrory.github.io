@@ -7,6 +7,8 @@
 
 ## 1. Trumpet
 
+![album cover](images/george-nakajima-first-touch-460.jpeg) | ![album cover](images/hikariichihara-moveon-460.jpeg) | ![album cover](images/tetsujiyoshida-mikikonagatake-knuttel-460.jpeg)
+
 -   [*Duo*](https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo) by Shinpei Ruike & George Nakajima
 -   [*Humadope*](https://www.jazzofjapan.com/p/keisuke-nakamura-humadope) by Keisuke Nakamura
 -   [*Humadope 2*](https://www.jazzofjapan.com/p/keisuke-nakamura-humadope-2) by Keisuke Nakamura
