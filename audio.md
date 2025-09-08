@@ -1,5 +1,8 @@
 
 
+# [Jazz of Japan](https://www.jazzofjapan.com/)
+
+
 # Audio Mixes
 
 *These are compilations of audio excerpts from albums featured on this site.*
@@ -7,12 +10,31 @@
 ---
 
 
+## Audio Mix #22
+
+<audio controls>
+<source src="./audio/compilation-22.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+1.  “Upper Levels” - [NHORHM: *New Heritage of Real Heavy Metal*](https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal) - 00:00
+2.  “Full House” - [Yuji Ito & Koichi Hirata Duo: *Two for the Road*](https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road) - 03:15
+3.  “La Tierra” - [Michiyo Matsushita Trio: *Free*](https://www.jazzofjapan.com/p/michiyo-matsushita-trio-free) - 07:07
+4.  “Sign” - [Ryosuke Hashizume Group: *As We Breathe*](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe) - 10:43
+5.  “Take Me in Your Arms” - [Chihiro Yamanaka: *Abyss*](https://www.jazzofjapan.com/p/chihiro-yamanaka-abyss) - 14:16
+6.  “The Ways to Come Back Home Again” - [Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa: *Tides of Blue*](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue) - 17:47
+
+![img](./images/nhorhm-new-heritage-of-real-heavy-metal-460.jpeg) | ![img](./images/yuji-ito-koichi-hirata-duo-two-for-the-road-460.jpeg) | ![img](./images/michiyo-matsushita-trio-free-460.jpeg)
+![img](./images/ryosuke-hashizume-group-as-we-breathe-460.jpeg) | ![img](./images/chihiro-yamanaka-abyss-460.jpeg) | ![img](./images/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue-460.jpeg)
+
+---
+
 
 ## Audio Mix #21
 
 <audio controls>
-  <source src="./audio/compilation-21.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+<source src="./audio/compilation-21.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
 </audio>
 
 1.  “Long Way to Go” - [Kanoko Kitajima: *Long Way to Go*](https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go) - 00:00
@@ -34,8 +56,10 @@
 
 ## Audio Mix #20
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-20.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “A Goat Climbs a Peak” - [Ghost Peak: *The Goat on a Peak*](https://www.jazzofjapan.com/p/ghost-peak-goat-on-a-peak) - 00:00
 2.  “The Laughing Stock” - [Hikari Ichihara Group: *Unity*](https://www.jazzofjapan.com/p/hikari-ichihara-group-unity) - 03:13
@@ -56,8 +80,10 @@
 
 ## Audio Mix #19
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-19.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Nostalgio” - [Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi: *Boundary*](https://www.jazzofjapan.com/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary) - 00:00
 2.  “Owari to Hajimari” - [Nobie & Takayoshi Baba: *Owari to Hajimari*](https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari) - 03:38
@@ -78,8 +104,10 @@
 
 ## Audio Mix #18
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-18.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Vain Pursuit” - [Chie Nishimura: *Virtual Silence*](https://www.jazzofjapan.com/p/chie-nishimura-virtual-silence) - 00:00
 2.  “Siciliano” - [Makiyo Sakai: *Silver Painting*](https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting) - 03:10
@@ -100,8 +128,10 @@
 
 ## Audio Mix #17
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-17.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “May Song” - [Koichi Sato: *Embryo*](https://www.jazzofjapan.com/p/koichi-sato-embryo) - 00:00
 2.  “Blues” - [Yasumasa Kumagai & Ryu Kawamura: *Ol’ School Jazz*](https://www.jazzofjapan.com/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz) - 03:01
@@ -122,8 +152,10 @@
 
 ## Audio Mix #16
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-16.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Vibrant Line” - [Reiko Yamamoto: *The Square Pyramid*](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid) - 00:00
 2.  “Nature Boy” - [Yuki Ito: *Retattanni no Mori*](https://www.jazzofjapan.com/p/yuki-ito-retattanni-no-mori) - 03:23
@@ -144,8 +176,10 @@
 
 ## Audio Mix #15
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-15.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Mysterious Dress” - [Jabuticaba: *Jabuticaba*](https://www.jazzofjapan.com/p/jabuticaba-jabuticaba) - 00:00
 2.  “Le Bourgeon” - [Nami Kano: *Mawsim*](https://www.jazzofjapan.com/p/nami-kano-mawsim) - 02:20
@@ -166,8 +200,10 @@
 
 ## Audio Mix #14
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-14.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “J” - [Kaoru Azuma / Hitomi Nishiyama: *Faces*](https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces) - 00:00
 2.  “First Contact” - [Mase Hiroko Quintet: *First Contact*](https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact) - 02:25
@@ -188,8 +224,10 @@
 
 ## Audio Mix #13
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-13.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Hi no Kodomotachi” - [Rabbitoo: *The Torch*](https://www.jazzofjapan.com/p/rabbitoo-the-torch) - 00:00
 2.  “Through the Lights” - [Kaori Vibes Quartet: *Starry Nights*](https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights) - 02:34
@@ -210,8 +248,10 @@
 
 ## Audio Mix #12
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-12.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “No Return” - [Yuichi Narita: *Urban Nocturne*](https://www.jazzofjapan.com/p/yuichi-narita-urban-nocturne) - 00:00
 2.  “Primavera de Batata” - [Sul Madrugada: *Luar*](https://www.jazzofjapan.com/p/sul-madrugada-luar) - 01:28
@@ -232,8 +272,10 @@
 
 ## Audio Mix #11
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-11.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Frida” - [Mariko Maeda: *Awareness*](https://www.jazzofjapan.com/p/mariko-maeda-awareness) - 00:00
 2.  “Face to Face” - [Hiro Kimura Quintet: *Folds*](https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds) - 01:42
@@ -256,8 +298,10 @@
 
 ## Audio Mix #10
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-10.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Zai Jian” - [Ami Fukui Trio: *Urban Clutter*](https://www.jazzofjapan.com/p/ami-fukui-trio-urban-clutter) - 00:00
 2.  “Victory” - [Yukako Yamano & Yukari Inoue: *Dubai Suite*](https://www.jazzofjapan.com/p/yukakoyamano-yukariinoue-dubai) - 02:48
@@ -281,8 +325,10 @@
 
 ## Audio Mix #9
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-9.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “JB’s Poem” - [Yoshihito “P” Koizumi P-Project: *By Coincidence*](https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence) - 00:00
 2.  “Mane” - [Naoko Sakata Trio: *Flower Clouds*](https://www.jazzofjapan.com/p/naoko-sakata-trio-flower-clouds) - 01:03
@@ -306,8 +352,10 @@
 
 ## Audio Mix #8
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-8.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “For All We Know” - [Masako Kunisada: *Wonderful Life*](https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life) - 00:00
 2.  “Street Lights” - [Aquapit: *Aquapit*](https://www.jazzofjapan.com/p/aquapit-aquapit) - 01:27
@@ -335,8 +383,10 @@
 
 ## Audio Mix #7
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-7.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Balkan Tale” - [Chihiro Yamanaka Trio: *Living Without Friday*](https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-living-without-friday) - 00:00
 2.  “Face” - [Ryosuke Hashizume Group: *Wordless*](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless) - 01:03
@@ -369,8 +419,10 @@
 
 ## Audio Mix #6
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-6.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Beatrice” - [Miki Hayama: *Prelude to a Kiss*](https://www.jazzofjapan.com/p/miki-hayama-prelude-to-a-kiss) - 00:00
 2.  “Workout” - [Seiji Tada: *Workout!!*](https://www.jazzofjapan.com/p/seiji-tada-workout) - 01:03
@@ -401,8 +453,10 @@
 
 ## Audio Mix #5
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-5.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Fairy Woods” - [Zephyr: *Zephyr*](https://www.jazzofjapan.com/p/zephyr-zephyr) - 00:00
 2.  “Do Re Mi” - [Harumi Nomoto Trio: *Virgo*](https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo) - 01:03
@@ -433,8 +487,10 @@
 
 ## Audio Mix #4
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-4.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “I Need a Change, Too” - [Yasumasa Kumagai: *I Need a Change, Too*](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too) - 00:00
 2.  “Offer Refused” - [Hakuei Kim Trio: *Open the Green Door*](https://www.jazzofjapan.com/p/hakuei-kim-trio-open-the-green-door) - 01:53
@@ -469,8 +525,10 @@
 
 ## Audio Mix #3
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-3.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Spur” - [Les Komatis: *Les Komatis*](https://www.jazzofjapan.com/p/les-komatis-les-komatis) - 00:00
 2.  “A Dancer’s Melancholy” - [Mayuko Katakura: *The Echoes of Three*](https://www.jazzofjapan.com/p/mayuko-katakura-echoes-of-three) - 01:03
@@ -503,8 +561,10 @@
 
 ## Audio Mix #2
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “In a Reverse Way” - [Takuji Yamada: *Lite Blue*](https://www.jazzofjapan.com/p/takuji-yamada-lite-blue) - 00:00
 2.  “Circle for Peace” - [Seiji Endo: *Circle for Peace*](https://www.jazzofjapan.com/p/seiji-endo-circle-for-peace) - 00:48
@@ -536,8 +596,10 @@
 
 ## Audio Mix #1
 
-*TK insert image gallery*
-*TK insert audio file*
+<audio controls>
+<source src="./audio/compilation-1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 1.  “Unspoken Language” - [Kazumi Ikenaga: *Niwatazumi*](https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi) - 00:00
 2.  “Night and Day” - [Akane Matsumoto: *Night & Day*](https://www.jazzofjapan.com/p/akane-matsumoto-night-and-day) - 00:48
