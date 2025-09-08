@@ -2,7 +2,7 @@
 
 *This four-part index lists the albums, musicians, and clubs currently featured on this site, along with a chronological timeline of articles published here.*
 
-[Albums](#albums) | [Musicians](#musicians) | [Clubs](#clubs) | [Publish History Timeline](#publish-history-timeline)
+[Albums](#albums) ・ [Musicians](#musicians) ・ [Clubs](#clubs) ・ [Publish History Timeline](#publish-history-timeline)
 
 # Albums
 
