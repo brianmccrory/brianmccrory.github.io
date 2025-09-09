@@ -20,9 +20,9 @@ This browser does not support the audio element.
 7. “Hand of Time” - [[https://www.jazzofjapan.com/p/taeko-kurita-akira-sotoyama-duo][Taeko Kurita & Akira Sotoyama: /Duo/]] - 19:19
 8. “Mr. M” - [[https://www.jazzofjapan.com/p/taeko-kurita-ko-tsu-ko-tsu][Taeko Kurita: /Ko-tsu-ko-tsu/]] - 22:37
 9. “Vocalise” - [[https://www.jazzofjapan.com/p/koto-ha-to-shiro-o-matoeba][Koto ha, To: /Shiro o Matoeba/]] - 25:26
-[[./images/kanoko-kitajima-long-way-to-go-460.jpeg]] | [[./images/setagaya-trio-progress-460.jpeg]] | [[./images/yosuke-sato-george-nakajima-longing-460.jpeg]]
-[[./images/kunpei-nakabayashi-orchestra-circles-460.jpeg]] | [[./images/mayuko-katakura-duality-of-my-soul-460.jpeg]] | [[./images/melodies-melodies-460.jpeg]]
-[[./images/taeko-kurita-akira-sotoyama-duo-460.jpeg]] | [[./images/taeko-kurita-ko-tsu-ko-tsu-460.jpeg]] | [[./images/koto-ha-to-shiro-o-mateoba-460.jpeg]]
+| [[./images/kanoko-kitajima-long-way-to-go-460.jpeg]] | [[./images/setagaya-trio-progress-460.jpeg]] | [[./images/yosuke-sato-george-nakajima-longing-460.jpeg]] |
+| [[./images/kunpei-nakabayashi-orchestra-circles-460.jpeg]] | [[./images/mayuko-katakura-duality-of-my-soul-460.jpeg]] | [[./images/melodies-melodies-460.jpeg]] |
+| [[./images/taeko-kurita-akira-sotoyama-duo-460.jpeg]] | [[./images/taeko-kurita-ko-tsu-ko-tsu-460.jpeg]] | [[./images/koto-ha-to-shiro-o-mateoba-460.jpeg]] |
 -----
 ** Audio Mix #20
 #+BEGIN_EXPORT html
@@ -40,9 +40,9 @@ This browser does not support the audio element.
 7. “Barubaro” - [[https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary][Kaito Nakamura: /Invisible Diary/]] - 19:55
 8. “Ai San San” - [[https://www.jazzofjapan.com/p/shinya-fukumori-trio-for-2-akis][Shinya Fukumori Trio: /For 2 Akis/]] - 22:54
 9. “Stolen Moments” - [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-stolen-moments][Layla Tomomi Sakai: /Stolen Moments/]] - 26:11
-[[./images/ghost-peak-goat-on-a-peak-460.jpeg]] | [[./images/hikari-ichihara-group-unity-460.jpeg]] | [[./images/hitomi-nishiyama-echo-460.jpeg]]
-[[./images/hitomi-nishiyama-trio-im-missing-you-460.jpeg]] | [[./images/fe-live-at-virtuoso-460.jpeg]] | [[./images/akane-matsumoto-ayumi-koketsu-trust-460.jpeg]]
-[[./images/kaito-nakamura-invisible-diary-460.jpeg]] | [[./images/shinya-fukumori-trio-for-2-akis-460.jpeg]] | [[./images/layla-tomomi-sakai-stolen-moments-460.jpeg]]
+| [[./images/ghost-peak-goat-on-a-peak-460.jpeg]] | [[./images/hikari-ichihara-group-unity-460.jpeg]] | [[./images/hitomi-nishiyama-echo-460.jpeg]] |
+| [[./images/hitomi-nishiyama-trio-im-missing-you-460.jpeg]] | [[./images/fe-live-at-virtuoso-460.jpeg]] | [[./images/akane-matsumoto-ayumi-koketsu-trust-460.jpeg]] |
+| [[./images/kaito-nakamura-invisible-diary-460.jpeg]] | [[./images/shinya-fukumori-trio-for-2-akis-460.jpeg]] | [[./images/layla-tomomi-sakai-stolen-moments-460.jpeg]] |
 -----
 ** Audio Mix #19
 #+BEGIN_EXPORT html
@@ -60,9 +60,9 @@ This browser does not support the audio element.
 7. “Voltex” - [[https://www.jazzofjapan.com/p/ami-fukui-trio-mcy][Ami Fukui Trio: /MCY/]] - 19:21
 8. “Hanauta” - [[https://www.jazzofjapan.com/p/hideaki-hori-wataru-hamasaki-encounter][Hideaki Hori & Wataru Hamasaki: /Encounter/]] - 22:34
 9. “Poinciana” - [[https://www.jazzofjapan.com/p/emiko-voice-yuka-yanagihara-enyana][Emiko Voice & Yuka Yanagihara: /Enyana/]] - 26:04
-[[./images/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg]] | [[./images/nobie-takayoshi-baba-owari-to-hajimari-460.jpeg]] | [[./images/daiki-yasukagawa-new-trio-three-roses-460.jpeg]]
-[[./images/motoi-kanamori-the-live-460.jpeg]] | [[./images/magnolia-el-viento-y-las-flores-460.jpeg]] | [[./images/miyuki-moriya-beyond-the-sea-460.jpeg]]
-[[./images/ami-fukui-trio-mcy-460.jpeg]] | [[./images/hideaki-hori-wataru-hamasaki-encounter-460.jpeg]] | [[./images/emiko-voice-yuka-yanagihara-enyana-460.jpeg]]
+| [[./images/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary-460.jpeg]] | [[./images/nobie-takayoshi-baba-owari-to-hajimari-460.jpeg]] | [[./images/daiki-yasukagawa-new-trio-three-roses-460.jpeg]] |
+| [[./images/motoi-kanamori-the-live-460.jpeg]] | [[./images/magnolia-el-viento-y-las-flores-460.jpeg]] | [[./images/miyuki-moriya-beyond-the-sea-460.jpeg]] |
+| [[./images/ami-fukui-trio-mcy-460.jpeg]] | [[./images/hideaki-hori-wataru-hamasaki-encounter-460.jpeg]] | [[./images/emiko-voice-yuka-yanagihara-enyana-460.jpeg]] |
 -----
 ** Audio Mix #18
 #+BEGIN_EXPORT html
@@ -80,9 +80,9 @@ This browser does not support the audio element.
 7. “Erica” - [[https://www.jazzofjapan.com/p/seiji-endo-piano-pieces-collection-ii][Seiji Endo: /Piano Pieces Collection II/]] - 16:50
 8. “Updraft” - [[https://www.jazzofjapan.com/p/hiro-kimura-trees][Hiro Kimura: /Trees/]] - 20:42
 9. “Oh Lady Be Good” - [[https://www.jazzofjapan.com/p/akane-matsumoto-oh-lady-be-good][Akane Matsumoto: /Oh, Lady Be Good/]] - 24:22
-[[./images/chie-nishimura-virtual-silence-460.jpeg]] | [[./images/makiyo-sakai-silver-painting-460.jpeg]] | [[./images/ryo-hashizume-side-two-460.jpeg]]
-[[./images/fumie-chiba-rougequeue-460.jpeg]] | [[./images/yuka-yanagihara-trio-beloved-ones-460.jpeg]] | [[./images/seiji-endo-piano-pieces-collection-460.jpeg]]
-[[./images/seiji-endo-piano-pieces-collection-ii-460.jpeg]] | [[./images/hiro-kimura-trees-460.jpeg]] | [[./images/akane-matsumoto-oh-lady-be-good-460.jpeg]]
+| [[./images/chie-nishimura-virtual-silence-460.jpeg]] | [[./images/makiyo-sakai-silver-painting-460.jpeg]] | [[./images/ryo-hashizume-side-two-460.jpeg]] |
+| [[./images/fumie-chiba-rougequeue-460.jpeg]] | [[./images/yuka-yanagihara-trio-beloved-ones-460.jpeg]] | [[./images/seiji-endo-piano-pieces-collection-460.jpeg]] |
+| [[./images/seiji-endo-piano-pieces-collection-ii-460.jpeg]] | [[./images/hiro-kimura-trees-460.jpeg]] | [[./images/akane-matsumoto-oh-lady-be-good-460.jpeg]] |
 -----
 ** Audio Mix #17
 #+BEGIN_EXPORT html
@@ -100,9 +100,9 @@ This browser does not support the audio element.
 7. “The Rider” - [[https://www.jazzofjapan.com/p/hitomi-nishiyama-dot][Hitomi Nishiyama: /Dot/]] - 19:20
 8. “Chatchar” - [[https://www.jazzofjapan.com/p/mamoru-ishida-afterglow][Mamoru Ishida: /Afterglow/]] - 22:44
 9. “True Face” - [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-viento][Mabumi Yamaguchi: /Viento/]] - 26:59
-[[./images/koichi-sato-embryo-460.jpeg]] | [[./images/yasumasakumagai-ryukawamura-olschool-460.jpeg]] | [[./images/nobie-primary-460.jpeg]]
-[[./images/sayaka-kishi-trio-banquet-460.jpeg]] | [[./images/clepsydra-un-jour-460.jpeg]] | [[./images/sumire-kuribayashi-trio-toys-460.jpeg]]
-[[./images/hitomi-nishiyama-dot-460.jpeg]] | [[./images/mamoru-ishida-afterglow-460.jpeg]] | [[./images/mabumi-yamaguchi-viento-460.jpeg]]
+| [[./images/koichi-sato-embryo-460.jpeg]] | [[./images/yasumasakumagai-ryukawamura-olschool-460.jpeg]] | [[./images/nobie-primary-460.jpeg]] |
+| [[./images/sayaka-kishi-trio-banquet-460.jpeg]] | [[./images/clepsydra-un-jour-460.jpeg]] | [[./images/sumire-kuribayashi-trio-toys-460.jpeg]] |
+| [[./images/hitomi-nishiyama-dot-460.jpeg]] | [[./images/mamoru-ishida-afterglow-460.jpeg]] | [[./images/mabumi-yamaguchi-viento-460.jpeg]] |
 -----
 ** Audio Mix #16
 #+BEGIN_EXPORT html
@@ -120,9 +120,9 @@ This browser does not support the audio element.
 7. “I Will Wait for You” - [[https://www.jazzofjapan.com/p/yoshiko-saita-back-in-time-to-boston][Yoshiko Saita: /Back in Time to Boston/]] - 17:38
 8. “The Sea Seven Years Voyage” - [[https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality][Eri Chichibu: /Crossing Reality/]] - 20:47
 9. “Neste Pais” - [[https://www.jazzofjapan.com/p/banda-feliz-boa-viagem][Banda Feliz: /Boa Viagem/]] - 23:46
-[[./images/reiko-yamamoto-square-pyramid-460.jpeg]] | [[./images/yuki-ito-retattanni-no-mori-460.jpeg]] | [[./images/kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg]]
-[[./images/hikari-ichihara-sara-smile-460.jpeg]] | [[./images/akihiro-yoshimoto-oxymoron-460.jpeg]] | [[./images/motohiko-ichino-sketches-460.jpeg]]
-[[./images/yoshiko-saita-back-in-time-to-boston-460.jpeg]] | [[./images/eri-chichibu-crossing-reality.jpg]] | [[./images/banda-feliz-boa-viagem-460.jpeg]]
+| [[./images/reiko-yamamoto-square-pyramid-460.jpeg]] | [[./images/yuki-ito-retattanni-no-mori-460.jpeg]] | [[./images/kazumi-ikenaga-taihei-asakawa-nordnote-460.jpeg]] |
+| [[./images/hikari-ichihara-sara-smile-460.jpeg]] | [[./images/akihiro-yoshimoto-oxymoron-460.jpeg]] | [[./images/motohiko-ichino-sketches-460.jpeg]] |
+| [[./images/yoshiko-saita-back-in-time-to-boston-460.jpeg]] | [[./images/eri-chichibu-crossing-reality.jpg]] | [[./images/banda-feliz-boa-viagem-460.jpeg]] |
 -----
 ** Audio Mix #15
 #+BEGIN_EXPORT html
@@ -140,9 +140,9 @@ This browser does not support the audio element.
 7. “Punk” - [[https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been][Erisa Ogawa: /Where Have U Been?/]] - 16:12
 8. “Narrow and Wide” - [[https://www.jazzofjapan.com/p/otohito-fuse-trio-isolated][Otohito Fuse Trio: /Isolated/]] - 18:46
 9. “Desifinado” - [[https://www.jazzofjapan.com/p/miwo-tranquillo][Miwo: /Tranquillo/]] - 21:49
-[[./images/jabuticaba-jabuticaba-460.jpeg]] | [[./images/nami-kano-mawsim-460.jpeg]] | [[./images/efreydut-fairway-460.jpeg]]
-[[./images/hitomi-nishiyama-trio-calling-460.jpeg]] | [[./images/takumi-seino-motohiko-ichino-frozen-dust-460.jpeg]] | [[./images/noriko-satomi-project-n-460.jpg]]
-[[./images/erisa-ogawa-where-have-u-been-460.jpeg]] | [[./images/otohito-fuse-trio-isolated-460.jpeg]] | [[./images/miwo-tranquillo-460.jpeg]]
+| [[./images/jabuticaba-jabuticaba-460.jpeg]] | [[./images/nami-kano-mawsim-460.jpeg]] | [[./images/efreydut-fairway-460.jpeg]] |
+| [[./images/hitomi-nishiyama-trio-calling-460.jpeg]] | [[./images/takumi-seino-motohiko-ichino-frozen-dust-460.jpeg]] | [[./images/noriko-satomi-project-n-460.jpg]] |
+| [[./images/erisa-ogawa-where-have-u-been-460.jpeg]] | [[./images/otohito-fuse-trio-isolated-460.jpeg]] | [[./images/miwo-tranquillo-460.jpeg]] |
 -----
 ** Audio Mix #14
 #+BEGIN_EXPORT html
@@ -160,9 +160,9 @@ This browser does not support the audio element.
 7. “Minor King” - [[https://www.jazzofjapan.com/p/hiroshi-fukutomi-memory-stones][Hiroshi Fukutomi: /Memory Stones/]] - 15:16
 8. “Quand Biron Voulut Danser” - [[https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal][Chihiro Yamanaka: /Lach Doch Mal/]] - 17:35
 9. “M.T.” - [[https://www.jazzofjapan.com/p/naoko-tanaka-appreciation][Naoko Tanaka: /Appreciation/]] - 19:32
-[[./images/kaoru-azuma-hitomi-nishiyama-faces-460.jpeg]] | [[./images/mase-hiroko-quintet-first-contact-460.jpeg]] | [[./images/yuka-yanagihara-inner-views-460.jpeg]]
-[[./images/keisuke-nakamura-humadope-2-460.jpeg]] | [[./images/ami-fukui-nova-manha-460.jpeg]] | [[./images/polyglot-talk-vol-1-460.jpeg]]
-[[./images/hiroshi-fukutomi-memory-stones-460.jpeg]] | [[./images/chihiro-yamanaka-lach-460.jpeg]] | [[./images/naoko-tanaka-appreciation-460.jpeg]]
+| [[./images/kaoru-azuma-hitomi-nishiyama-faces-460.jpeg]] | [[./images/mase-hiroko-quintet-first-contact-460.jpeg]] | [[./images/yuka-yanagihara-inner-views-460.jpeg]] |
+| [[./images/keisuke-nakamura-humadope-2-460.jpeg]] | [[./images/ami-fukui-nova-manha-460.jpeg]] | [[./images/polyglot-talk-vol-1-460.jpeg]] |
+| [[./images/hiroshi-fukutomi-memory-stones-460.jpeg]] | [[./images/chihiro-yamanaka-lach-460.jpeg]] | [[./images/naoko-tanaka-appreciation-460.jpeg]] |
 -----
 ** Audio Mix #13
 #+BEGIN_EXPORT html
@@ -180,9 +180,9 @@ This browser does not support the audio element.
 7. “A Song for U U” - [[https://www.jazzofjapan.com/p/hideaki-hori-melodies-for-night-day][Hideaki Hori: /Melodies for Night & Day/]] - 13:37
 8. “Uta Oto” - [[https://www.jazzofjapan.com/p/miyuki-moriya-uta-oto][Miyuki Moriya: /Uta Oto/]] - 15:36
 9. “My Favorite Things” - [[https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb][Baby Brothers: /Happy Christmas with Bb/]] - 18:09
-[[./images/rabbitoo-torch-460.jpeg]] | [[./images/kaori-vibes-quartet-starry-nights-460.jpeg]] | [[./images/shinpeiruike-georgenakajima-duo-460.jpeg]]
-[[./images/akane-matsumoto-little-girl-blue-460.jpeg]] | [[./images/nanami-haruta-ii-460.jpeg]] | [[./images/hideaki-hori-horizon-460.jpeg]]
-[[./images/hideaki-hori-melodies-night-day-460.jpeg]] | [[./images/miyuki-moriya-uta-oto-460.jpeg]] | [[./images/babybrothers-happy-christmas-460.jpeg]]
+| [[./images/rabbitoo-torch-460.jpeg]] | [[./images/kaori-vibes-quartet-starry-nights-460.jpeg]] | [[./images/shinpeiruike-georgenakajima-duo-460.jpeg]] |
+| [[./images/akane-matsumoto-little-girl-blue-460.jpeg]] | [[./images/nanami-haruta-ii-460.jpeg]] | [[./images/hideaki-hori-horizon-460.jpeg]] |
+| [[./images/hideaki-hori-melodies-night-day-460.jpeg]] | [[./images/miyuki-moriya-uta-oto-460.jpeg]] | [[./images/babybrothers-happy-christmas-460.jpeg]] |
 -----
 ** Audio Mix #12
 #+BEGIN_EXPORT html
@@ -200,9 +200,9 @@ This browser does not support the audio element.
 7. “Green Chimneys” - [[https://www.jazzofjapan.com/p/mikiko-nagatake-solo][Mikiko Nagatake: /Solo/]] - 12:57
 8. “Apologetic Blues” - [[https://www.jazzofjapan.com/p/yasumasa-kumagai-last-resort][Yasumasa Kumagai & J-Jazz Homies: /Last Resort/]] - 14:37
 9. “Chovendo na Roseira” - [[https://www.jazzofjapan.com/p/emiko-voice-standard-trio][Emiko Voice: /Standard Trio/]] - 16:57
-[[./images/yuichi-narita-urban-nocturne-460.jpeg]] | [[./images/sul-madrugada-luar-460.jpeg]] | [[./images/yukakoyamano-imperial-460.jpeg]]
-[[./images/bungalow-abstract-messages-460.jpeg]] | [[./images/fnk-canvas-460.jpeg]] | [[./images/mamoru-ishida-ishida-mamoru-4-460.jpeg]]
-[[./images/mikiko-nagatake-solo-460.jpeg]] | [[./images/yasumasa-kumagai-last-resort-460.jpeg]] | [[./images/emiko-voice-standard-trio-460.jpeg]]
+| [[./images/yuichi-narita-urban-nocturne-460.jpeg]] | [[./images/sul-madrugada-luar-460.jpeg]] | [[./images/yukakoyamano-imperial-460.jpeg]] |
+| [[./images/bungalow-abstract-messages-460.jpeg]] | [[./images/fnk-canvas-460.jpeg]] | [[./images/mamoru-ishida-ishida-mamoru-4-460.jpeg]] |
+| [[./images/mikiko-nagatake-solo-460.jpeg]] | [[./images/yasumasa-kumagai-last-resort-460.jpeg]] | [[./images/emiko-voice-standard-trio-460.jpeg]] |
 -----
 ** Audio Mix #11
 #+BEGIN_EXPORT html
@@ -221,10 +221,10 @@ This browser does not support the audio element.
 8. “Conversations With Moore” - [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic][Ryosuke Hashizume Group: /Acoustic Fluid/]] - 14:43
 9. “Triste” - [[https://www.jazzofjapan.com/p/fumika-asari-introducin][Fumika Asari: /Introducin’/]] - 17:15
 10. “Inori” - [[https://www.jazzofjapan.com/p/tetsuji-yoshida-and-mikiko-nagatake][Tetsuji Yoshida & Mikiko Nagatake Duo: /Live at Knuttel House/]] - 19:18
-[[./images/mariko-maeda-awareness-460.jpeg]] | [[./images/hiro-kimura-folds-460.jpeg]] | [[./images/hitomi-nishiyama-vibrant-460.jpeg]]
-[[./images/yuichiro-aratake-music-make-460.jpeg]] | [[./images/akihiro-yoshimoto-64-charlesgate-460.jpeg]] | [[./images/seiji-harakawa-skipping-down-460.jpeg]]
-[[./images/akane-matsumoto-nanami-haruta-for-460.jpeg]] | [[./images/ryosukehashizume-acoustic-460.jpeg]] | [[./images/fumika-asari-introducin-460.jpeg]]
-[[./images/tetsujiyoshida-mikikonagatake-knuttel-460.jpeg]] |   |  
+| [[./images/mariko-maeda-awareness-460.jpeg]] | [[./images/hiro-kimura-folds-460.jpeg]] | [[./images/hitomi-nishiyama-vibrant-460.jpeg]] |
+| [[./images/yuichiro-aratake-music-make-460.jpeg]] | [[./images/akihiro-yoshimoto-64-charlesgate-460.jpeg]] | [[./images/seiji-harakawa-skipping-down-460.jpeg]] |
+| [[./images/akane-matsumoto-nanami-haruta-for-460.jpeg]] | [[./images/ryosukehashizume-acoustic-460.jpeg]] | [[./images/fumika-asari-introducin-460.jpeg]] |
+| [[./images/tetsujiyoshida-mikikonagatake-knuttel-460.jpeg]] |   |   |
 -----
 ** Audio Mix #10
 #+BEGIN_EXPORT html
@@ -244,10 +244,10 @@ This browser does not support the audio element.
 9. “I Can’t Fly” - [[https://www.jazzofjapan.com/p/shunichi-yanagi-trio-slope][Shunichi Yanagi Trio: /Slope/]] - 15:31
 10. “A Foggy Day” - [[https://www.jazzofjapan.com/p/rie-taguchi-the-gift-ii][Rie Taguchi: /The Gift II/]] - 17:35
 11. “First Touch” - [[https://www.jazzofjapan.com/p/george-nakajima-trio-first-touch][George Nakajima Trio: /First Touch/]] - 19:16
-[[./images/amifukui-urbanclutter-460.jpeg]] | [[./images/yukakoyamano-dubai-460.jpeg]] | [[./images/bungalow-unseen-460.jpeg]]
-[[./images/haruminomoto-another-460.jpeg]] | [[./images/yukakoyamano-third-460.jpeg]] | [[./images/yasumasakumagai-pray-460.jpeg]]
-[[./images/chihiroyamanaka-outsideby-460.jpeg]] | [[./images/naoko-akimoto-no-one-else-460.jpeg]] | [[./images/shunichi-yanagi-slope-460.jpeg]]
-[[./images/rietaguchi-gift-ii-460.jpeg]] | [[./images/george-nakajima-first-touch-460.jpeg]] |  
+| [[./images/amifukui-urbanclutter-460.jpeg]] | [[./images/yukakoyamano-dubai-460.jpeg]] | [[./images/bungalow-unseen-460.jpeg]] |
+| [[./images/haruminomoto-another-460.jpeg]] | [[./images/yukakoyamano-third-460.jpeg]] | [[./images/yasumasakumagai-pray-460.jpeg]] |
+| [[./images/chihiroyamanaka-outsideby-460.jpeg]] | [[./images/naoko-akimoto-no-one-else-460.jpeg]] | [[./images/shunichi-yanagi-slope-460.jpeg]] |
+| [[./images/rietaguchi-gift-ii-460.jpeg]] | [[./images/george-nakajima-first-touch-460.jpeg]] |   |
 -----
 ** Audio Mix #9
 #+BEGIN_EXPORT html
@@ -267,10 +267,10 @@ This browser does not support the audio element.
 9. “Goteborg” - [[https://www.jazzofjapan.com/p/toshihiko-inoue-and-masaki-hayashi][Toshihiko Inoue & Masaki Hayashi: /Mistral/]] - 14:32
 10. “It Might as Well Be Spring” - [[https://www.jazzofjapan.com/p/trigraph-fever][Trigraph: /Fever/]] - 16:36
 11. “Nuovo Cinema Paradiso” - [[https://www.jazzofjapan.com/p/ruriko-kawamura-blossoms][Ruriko Kawamura: /Blossoms/]] - 18:49
-[[./images/yoshihitopkoizumi-bycoin-460.jpeg]] | [[./images/naokosakata-flowerclouds-460.jpeg]] | [[./images/fumiechiba-beautifuldays-460.jpeg]]
-[[./images/fumiko-yamazaki-here-460.jpeg]] | [[./images/kato-sato-duet-460.jpeg]] | [[./images/fukuda-nunokawa-childhood-460.jpeg]]
-[[./images/protean-protean-460.jpeg]] | [[./images/meucoracao-halltone-460.jpeg]] | [[./images/toshihikoinoue-mistral-460.jpeg]]
-[[./images/trigraph-fever-460.jpeg]] | [[./images/rurikokawamura-blossoms-460.jpeg]] |  
+| [[./images/yoshihitopkoizumi-bycoin-460.jpeg]] | [[./images/naokosakata-flowerclouds-460.jpeg]] | [[./images/fumiechiba-beautifuldays-460.jpeg]] |
+| [[./images/fumiko-yamazaki-here-460.jpeg]] | [[./images/kato-sato-duet-460.jpeg]] | [[./images/fukuda-nunokawa-childhood-460.jpeg]] |
+| [[./images/protean-protean-460.jpeg]] | [[./images/meucoracao-halltone-460.jpeg]] | [[./images/toshihikoinoue-mistral-460.jpeg]] |
+| [[./images/trigraph-fever-460.jpeg]] | [[./images/rurikokawamura-blossoms-460.jpeg]] |   |
 -----
 ** Audio Mix #8
 #+BEGIN_EXPORT html
@@ -293,11 +293,11 @@ This browser does not support the audio element.
 12. “Living Time Event V” - [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-madrigal][Chihiro Yamanaka Trio: /Madrigal/]] - 13:14
 13. “Libertango” - [[https://www.jazzofjapan.com/p/arco-live-at-yoncha][Arco: /Live At Yoncha/]] - 14:17
 14. “Mirage” - [[https://www.jazzofjapan.com/p/yukiko-hayakawa-trio-gallery][Yukiko Hayakawa Trio: /Gallery/]] - 15:35
-[[./images/masakokunisada-wonderful-460.jpeg]] | [[./images/aquapit-aquapit-460.jpeg]] | [[./images/naokotanaka-memories-460.jpeg]]
-[[./images/tcq-memoriesoft-460.jpeg]] | [[./images/akanematsumoto-memories-460.jpeg]] | [[./images/takayukiyagi-newdeparture-460.jpeg]]
-[[./images/mikihirose-scratch-460.jpeg]] | [[./images/yukaueda-dois-460.jpeg]] | [[./images/waterme-waterme-460.jpeg]]
-[[./images/duo-tremolo-resonance-460.jpeg]] | [[./images/layla-tomomi-sakai-whisper-460.jpeg]] | [[./images/chihiroyamanaka-madrigal-460.jpeg]]
-[[./images/arco-liveatyoncha-460.jpeg]] | [[./images/yukiko-hayakawa-gallery-460.jpeg]] |  
+| [[./images/masakokunisada-wonderful-460.jpeg]] | [[./images/aquapit-aquapit-460.jpeg]] | [[./images/naokotanaka-memories-460.jpeg]] |
+| [[./images/tcq-memoriesoft-460.jpeg]] | [[./images/akanematsumoto-memories-460.jpeg]] | [[./images/takayukiyagi-newdeparture-460.jpeg]] |
+| [[./images/mikihirose-scratch-460.jpeg]] | [[./images/yukaueda-dois-460.jpeg]] | [[./images/waterme-waterme-460.jpeg]] |
+| [[./images/duo-tremolo-resonance-460.jpeg]] | [[./images/layla-tomomi-sakai-whisper-460.jpeg]] | [[./images/chihiroyamanaka-madrigal-460.jpeg]] |
+| [[./images/arco-liveatyoncha-460.jpeg]] | [[./images/yukiko-hayakawa-gallery-460.jpeg]] |   |
 -----
 ** Audio Mix #7
 #+BEGIN_EXPORT html
@@ -324,12 +324,12 @@ This browser does not support the audio element.
 16. “Grasshopper” - [[https://www.jazzofjapan.com/p/fuse-live-fuse][Fuse: /Live Fuse/]] - 16:28
 17. “Taxi” - [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-when-october][Chihiro Yamanaka Trio: /When October Goes/]] - 17:34
 18. “Major to Minor” - [[https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor][Kohsuke Mine Quintet: /Major to Minor/]] - 18:37
-[[./images/chihiroyamanaka-living-460.jpeg]] | [[./images/ryosukehashizume-wordless-460.jpeg]] | [[./images/emikovoice-sugadairo-phase2-460.jpeg]]
-[[./images/maiko-solo-460.jpeg]] | [[./images/yukariinoue-sakura-460.jpeg]] | [[./images/erikoshimizu-sora-460.jpeg]]
-[[./images/manabuohishi-gift-460.jpeg]] | [[./images/yukomiyawaki-songof-460.jpeg]] | [[./images/shunichiyanagi-bubblefish-460.jpeg]]
-[[./images/babybrothers-bbcover-460.jpeg]] | [[./images/bungalow-metropolitan-460.jpeg]] | [[./images/haruminomoto-belinda-460.jpeg]]
-[[./images/yukaueda-agora-460.jpeg]] | [[./images/motoikanamori-mysoul-460.jpeg]] | [[./images/arco-birth-460.jpeg]]
-[[./images/fuse-live-460.jpeg]] | [[./images/chihiroyamanaka-october-460.jpeg]] | [[./images/kohsukemine-major-460.jpeg]]
+| [[./images/chihiroyamanaka-living-460.jpeg]] | [[./images/ryosukehashizume-wordless-460.jpeg]] | [[./images/emikovoice-sugadairo-phase2-460.jpeg]] |
+| [[./images/maiko-solo-460.jpeg]] | [[./images/yukariinoue-sakura-460.jpeg]] | [[./images/erikoshimizu-sora-460.jpeg]] |
+| [[./images/manabuohishi-gift-460.jpeg]] | [[./images/yukomiyawaki-songof-460.jpeg]] | [[./images/shunichiyanagi-bubblefish-460.jpeg]] |
+| [[./images/babybrothers-bbcover-460.jpeg]] | [[./images/bungalow-metropolitan-460.jpeg]] | [[./images/haruminomoto-belinda-460.jpeg]] |
+| [[./images/yukaueda-agora-460.jpeg]] | [[./images/motoikanamori-mysoul-460.jpeg]] | [[./images/arco-birth-460.jpeg]] |
+| [[./images/fuse-live-460.jpeg]] | [[./images/chihiroyamanaka-october-460.jpeg]] | [[./images/kohsukemine-major-460.jpeg]] |
 -----
 ** Audio Mix #6
 #+BEGIN_EXPORT html
@@ -354,12 +354,12 @@ This browser does not support the audio element.
 14. “Ghosts Tear” - [[https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori][Reikan Kobayashi: /Gakudan Hitori/]] - 13:40
 15. “Tuck Box” - [[https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle][Miyuki Moriya: /Cat’s Cradle/]] - 14:43
 16. “Part I” - [[https://www.jazzofjapan.com/p/trio-export-small-pieces-for-flying-padre][Trio Export 63.1.0.X: /Small Pieces for Flying Padre/]] - 15:46
-[[./images/mikihayama-prelude-460.jpeg]] | [[./images/seijitada-workout-460.jpeg]] | [[./images/hideakihori-inmywords-460.jpeg]]
-[[./images/routinejazzsextet-routine-460.jpeg]] | [[./images/maikotrio-three-460.jpeg]] | [[./images/rabbitoo-national-460.jpeg]]
-[[./images/kanazawa-kuribayashi-nijuso-460.jpeg]] | [[./images/norikosatomi-lovesupreme-460.jpeg]] | [[./images/azumi-almostlike-460.jpeg]]
-[[./images/hiromimiura-wedont-460.jpeg]] | [[./images/yudomatsuo-bonanza-460.jpeg]] | [[./images/daikiyasukagawa-trios2-460.jpeg]]
-[[./images/fumiokarashima-beginning-460.jpeg]] | [[./images/reikankobayashi-gakudan-460.jpeg]] | [[./images/miyukimoriya-cats-460.jpeg]]
-[[./images/trioexport-smallpieces-460.jpeg]] |   |  
+| [[./images/mikihayama-prelude-460.jpeg]] | [[./images/seijitada-workout-460.jpeg]] | [[./images/hideakihori-inmywords-460.jpeg]] |
+| [[./images/routinejazzsextet-routine-460.jpeg]] | [[./images/maikotrio-three-460.jpeg]] | [[./images/rabbitoo-national-460.jpeg]] |
+| [[./images/kanazawa-kuribayashi-nijuso-460.jpeg]] | [[./images/norikosatomi-lovesupreme-460.jpeg]] | [[./images/azumi-almostlike-460.jpeg]] |
+| [[./images/hiromimiura-wedont-460.jpeg]] | [[./images/yudomatsuo-bonanza-460.jpeg]] | [[./images/daikiyasukagawa-trios2-460.jpeg]] |
+| [[./images/fumiokarashima-beginning-460.jpeg]] | [[./images/reikankobayashi-gakudan-460.jpeg]] | [[./images/miyukimoriya-cats-460.jpeg]] |
+| [[./images/trioexport-smallpieces-460.jpeg]] |   |   |
 -----
 ** Audio Mix #5
 #+BEGIN_EXPORT html
@@ -384,12 +384,12 @@ This browser does not support the audio element.
 14. “Sequel to a Dream” - [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone][Mabumi Yamaguchi: /Let Your Mind Alone/]] - 13:40
 15. “Under a Blanket of Blue” - [[https://www.jazzofjapan.com/p/yako-horikita-shining-hour][Yako Horikita: /Shining Hour/]] - 16:44
 16. “Galaxies” - [[https://www.jazzofjapan.com/p/nhorhm-extra-edition][NHORHM: /New Heritage of Real Heavy Metal -Extra Edition-/]] - 17:47
-[[./images/zephyr-zephyr-460.jpeg]] | [[./images/haruminomoto-virgo-460.jpeg]] | [[./images/yuichiroaratake-light-460.jpeg]]
-[[./images/hikariichihara-moveon-460.jpeg]] | [[./images/hitominishiyama-sympathy-460.jpeg]] | [[./images/seijiendo-genji-460.jpeg]]
-[[./images/laylatomomisakai-island-460.jpeg]] | [[./images/nobie-benin-460.jpeg]] | [[./images/daikiyasukagawa-kanmai-460.jpeg]]
-[[./images/sayakakishi-lifeis-460.jpeg]] | [[./images/minoruyoshiki-soulstation-path-460.jpeg]] | [[./images/shinichikato-bassoncinema-460.jpeg]]
-[[./images/miejoke-etrenne-460.jpeg]] | [[./images/mabumiyamaguchi-letyour-460.jpeg]] | [[./images/yakohorikita-shininghour-460.jpeg]]
-[[./images/hitominishiyama-nhorhm-extra-460.jpeg]] |   |  
+| [[./images/zephyr-zephyr-460.jpeg]] | [[./images/haruminomoto-virgo-460.jpeg]] | [[./images/yuichiroaratake-light-460.jpeg]] |
+| [[./images/hikariichihara-moveon-460.jpeg]] | [[./images/hitominishiyama-sympathy-460.jpeg]] | [[./images/seijiendo-genji-460.jpeg]] |
+| [[./images/laylatomomisakai-island-460.jpeg]] | [[./images/nobie-benin-460.jpeg]] | [[./images/daikiyasukagawa-kanmai-460.jpeg]] |
+| [[./images/sayakakishi-lifeis-460.jpeg]] | [[./images/minoruyoshiki-soulstation-path-460.jpeg]] | [[./images/shinichikato-bassoncinema-460.jpeg]] |
+| [[./images/miejoke-etrenne-460.jpeg]] | [[./images/mabumiyamaguchi-letyour-460.jpeg]] | [[./images/yakohorikita-shininghour-460.jpeg]] |
+| [[./images/hitominishiyama-nhorhm-extra-460.jpeg]] |   |   |
 -----
 ** Audio Mix #4
 #+BEGIN_EXPORT html
@@ -417,13 +417,13 @@ This browser does not support the audio element.
 17. “Playing” - [[https://www.jazzofjapan.com/p/akane-matsumoto-playing-new-york][Akane Matsumoto: /Playing New York/]] - 20:46
 18. “Sturm Und Drang” - [[https://www.jazzofjapan.com/p/blue-dot-halo][Blue Dot: /Halo/]] - 21:49
 19. “From a Distance” - [[https://www.jazzofjapan.com/p/masako-kunisada-m][Masako Kunisada: /M/]] - 22:52
-[[./images/yasumasakumagai-ineed-460.jpeg]] | [[./images/hakueikim-open-460.jpeg]] | [[./images/amifukui-amizm-460.jpeg]]
-[[./images/koichisato-utopia-460.jpeg]] | [[./images/taiheiasakawa-touch-460.jpeg]] | [[./images/sayaketts-colors-460.jpeg]]
-[[./images/seijiendo-sakura-460.jpeg]] | [[./images/michiyomatsushita-sally-460.jpeg]] | [[./images/trispace-trispace-460.jpeg]]
-[[./images/fumiechiba-tip-460.jpeg]] | [[./images/taiheiasakawa-waltz-460.jpeg]] | [[./images/sanaeishikawa-grownup-460.jpeg]]
-[[./images/tokuhirodoi-amalthea-460.jpeg]] | [[./images/makifujimura-best-460.jpeg]] | [[./images/ryosukehashizume-visible-460.jpeg]]
-[[./images/ruike-nakajima-n40-460.jpeg]] | [[./images/akanematsumoto-playing-460.jpeg]] | [[./images/bluedot-halo-460.jpeg]]
-[[./images/masakokunisada-m-460.jpeg]] |   |  
+| [[./images/yasumasakumagai-ineed-460.jpeg]] | [[./images/hakueikim-open-460.jpeg]] | [[./images/amifukui-amizm-460.jpeg]] |
+| [[./images/koichisato-utopia-460.jpeg]] | [[./images/taiheiasakawa-touch-460.jpeg]] | [[./images/sayaketts-colors-460.jpeg]] |
+| [[./images/seijiendo-sakura-460.jpeg]] | [[./images/michiyomatsushita-sally-460.jpeg]] | [[./images/trispace-trispace-460.jpeg]] |
+| [[./images/fumiechiba-tip-460.jpeg]] | [[./images/taiheiasakawa-waltz-460.jpeg]] | [[./images/sanaeishikawa-grownup-460.jpeg]] |
+| [[./images/tokuhirodoi-amalthea-460.jpeg]] | [[./images/makifujimura-best-460.jpeg]] | [[./images/ryosukehashizume-visible-460.jpeg]] |
+| [[./images/ruike-nakajima-n40-460.jpeg]] | [[./images/akanematsumoto-playing-460.jpeg]] | [[./images/bluedot-halo-460.jpeg]] |
+| [[./images/masakokunisada-m-460.jpeg]] |   |   |
 -----
 ** Audio Mix #3
 #+BEGIN_EXPORT html
@@ -450,12 +450,12 @@ This browser does not support the audio element.
 16. “Big Catch” - [[https://www.jazzofjapan.com/p/hamasaki-matsumoto-bigcatch][Wataru Hamasaki Meets Akane Matsumoto Trio: /Big Catch/]] - 14:46
 17. “Sabaku No Akari” - [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color][Akihiro Yoshimoto Quartet: /Moving Color/]] - 15:49
 18. “Our Love Is Here to Stay” - [[https://www.jazzofjapan.com/p/hideaki-hori-trio-unconditional-love][Hideaki Hori Trio: /Unconditional Love/]] - 18:24
-[[./images/leskomatis-leskomatis-460.jpeg]] | [[./images/mayukokatakura-echoes-460.jpeg]] | [[./images/hitominishiyama-parallax-live-460.jpeg]]
-[[./images/manabuohishi-wish-460.jpeg]] | [[./images/haradairiki-youvechanged-460.jpeg]] | [[./images/kenichiroshinzawa-pianoworks-460.jpeg]]
-[[./images/miki-hayama-wideangle-460.jpeg]] | [[./images/yuyawakai-images-460.jpeg]] | [[./images/ayumikoketsu-rainbowtales-460.jpeg]]
-[[./images/bungalow-pastlife-460.jpeg]] | [[./images/sanaeishikawa-feellike-460.jpeg]] | [[./images/taiheiasakawa-catas-460.jpeg]]
-[[./images/koomura-introspect-460.jpeg]] | [[./images/takakoyamada-flow-460.jpeg]] | [[./images/yukakoyamano-first-460.jpeg]]
-[[./images/hamasaki-matsumoto-bigcatch-460.jpeg]] | [[./images/akihiroyoshimoto-moving-460.jpeg]] | [[./images/hideakihori-unconditional-460.jpeg]]
+| [[./images/leskomatis-leskomatis-460.jpeg]] | [[./images/mayukokatakura-echoes-460.jpeg]] | [[./images/hitominishiyama-parallax-live-460.jpeg]] |
+| [[./images/manabuohishi-wish-460.jpeg]] | [[./images/haradairiki-youvechanged-460.jpeg]] | [[./images/kenichiroshinzawa-pianoworks-460.jpeg]] |
+| [[./images/miki-hayama-wideangle-460.jpeg]] | [[./images/yuyawakai-images-460.jpeg]] | [[./images/ayumikoketsu-rainbowtales-460.jpeg]] |
+| [[./images/bungalow-pastlife-460.jpeg]] | [[./images/sanaeishikawa-feellike-460.jpeg]] | [[./images/taiheiasakawa-catas-460.jpeg]] |
+| [[./images/koomura-introspect-460.jpeg]] | [[./images/takakoyamada-flow-460.jpeg]] | [[./images/yukakoyamano-first-460.jpeg]] |
+| [[./images/hamasaki-matsumoto-bigcatch-460.jpeg]] | [[./images/akihiroyoshimoto-moving-460.jpeg]] | [[./images/hideakihori-unconditional-460.jpeg]] |
 -----
 ** Audio Mix #2
 #+BEGIN_EXPORT html
@@ -481,12 +481,12 @@ This browser does not support the audio element.
 15. “New Journey” - [[https://www.jazzofjapan.com/p/ami-fukui-trio-new-journey][Ami Fukui Trio: /New Journey/]] - 12:12
 16. “All the Things You Are” - [[https://www.jazzofjapan.com/p/atomi-hamada-this-is-atomi][Atomi Hamada: /This is Atomi/]] - 13:15
 17. “Cross Point” - [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-cross-point][Kaori Vibes Quartet: /Cross Point/]] - 14:18
-[[./images/takujiyamada-liteblue-460.jpeg]] | [[./images/seijiendo-circle-460.jpeg]] | [[./images/koichisato-melancholy-460.jpeg]]
-[[./images/rietaguchi-gift-460.jpeg]] | [[./images/ryosukehashizume-needfulthings-460.jpeg]] | [[./images/toshihikoinoue-vayu-460.jpeg]]
-[[./images/sohnosukeimaizumi-rin-460.jpeg]] | [[./images/mayukokatakura-inspiration-460.jpeg]] | [[./images/sachikoikuta-haru-460.jpeg]]
-[[./images/sumito-oi-funfair-460.jpeg]] | [[./images/tomokamiwa-colors-460.jpeg]] | [[./images/hitominishiyama-musicinyou-460.jpeg]]
-[[./images/seijiendo-tsutaeteikou-460.jpeg]] | [[./images/meucoracao-atempo-460.jpeg]] | [[./images/amifukui-newjourney-460.jpeg]]
-[[./images/atomihamada-thisis-460.jpeg]] | [[./images/kaorivibesquartet-crosspoint-460.jpeg]] |  
+| [[./images/takujiyamada-liteblue-460.jpeg]] | [[./images/seijiendo-circle-460.jpeg]] | [[./images/koichisato-melancholy-460.jpeg]] |
+| [[./images/rietaguchi-gift-460.jpeg]] | [[./images/ryosukehashizume-needfulthings-460.jpeg]] | [[./images/toshihikoinoue-vayu-460.jpeg]] |
+| [[./images/sohnosukeimaizumi-rin-460.jpeg]] | [[./images/mayukokatakura-inspiration-460.jpeg]] | [[./images/sachikoikuta-haru-460.jpeg]] |
+| [[./images/sumito-oi-funfair-460.jpeg]] | [[./images/tomokamiwa-colors-460.jpeg]] | [[./images/hitominishiyama-musicinyou-460.jpeg]] |
+| [[./images/seijiendo-tsutaeteikou-460.jpeg]] | [[./images/meucoracao-atempo-460.jpeg]] | [[./images/amifukui-newjourney-460.jpeg]] |
+| [[./images/atomihamada-thisis-460.jpeg]] | [[./images/kaorivibesquartet-crosspoint-460.jpeg]] |   |
 -----
 ** Audio Mix #1
 #+BEGIN_EXPORT html
@@ -512,9 +512,9 @@ This browser does not support the audio element.
 15. “Speed Harassment” - [[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope][Keisuke Nakamura: /Humadope/]] - 11:13
 16. “Sopa de Ajo” - [[https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible][Junichiro Ohkuchi Trio: /Invisible/]] - 12:01
 17. “Mrs. Parker of KC” - [[https://www.jazzofjapan.com/p/mayuko-katakura-faith][Mayuko Katakura: /Faith/]] - 13:04
-[[./images/kazumiikenaga-niwatazumi-460.jpeg]] | [[./images/akanematsumoto-night-460.jpeg]] | [[./images/ayumikoketsu-art-460.jpeg]]
-[[./images/bungalow-youalreadyknow-460.jpeg]] | [[./images/emikovoice-carta-square-460.jpeg]] | [[./images/ryosukehashizume-incompletevoices-460.jpeg]]
-[[./images/yasumasakumagai-jstraightahead-460.jpeg]] | [[./images/arco-asymmetry-460.jpeg]] | [[./images/sayakakishi-featte-460.jpeg]]
-[[./images/akikosuda-flowersonthehill-460.jpeg]] | [[./images/hiroconagano-okurimono-460.jpeg]] | [[./images/kaorinakajima-flyingmind-460.jpeg]]
-[[./images/satoshikosugi-bassontimes-460.jpeg]] | [[./images/hitominishiyama-manyseasons-460.jpeg]] | [[./images/keisukenakamura-humadope-460.jpeg]]
-[[./images/junichiroohkuchi-invisible-460.jpeg]] | [[./images/mayukokatakura-faith-460.jpeg]] |  
+| [[./images/kazumiikenaga-niwatazumi-460.jpeg]] | [[./images/akanematsumoto-night-460.jpeg]] | [[./images/ayumikoketsu-art-460.jpeg]] |
+| [[./images/bungalow-youalreadyknow-460.jpeg]] | [[./images/emikovoice-carta-square-460.jpeg]] | [[./images/ryosukehashizume-incompletevoices-460.jpeg]] |
+| [[./images/yasumasakumagai-jstraightahead-460.jpeg]] | [[./images/arco-asymmetry-460.jpeg]] | [[./images/sayakakishi-featte-460.jpeg]] |
+| [[./images/akikosuda-flowersonthehill-460.jpeg]] | [[./images/hiroconagano-okurimono-460.jpeg]] | [[./images/kaorinakajima-flyingmind-460.jpeg]] |
+| [[./images/satoshikosugi-bassontimes-460.jpeg]] | [[./images/hitominishiyama-manyseasons-460.jpeg]] | [[./images/keisukenakamura-humadope-460.jpeg]] |
+| [[./images/junichiroohkuchi-invisible-460.jpeg]] | [[./images/mayukokatakura-faith-460.jpeg]] |   |

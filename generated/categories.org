@@ -4,7 +4,7 @@
 * Albums by Category
 /Albums featured on this site are organized into categories based on the primary instrument or artist (primary or first listed) for each album. Each album appears once and in one category only./
 ** 1. Trumpet
-[[./images/shinpeiruike-georgenakajima-duo-460.jpeg]] | [[./images/tetsujiyoshida-mikikonagatake-knuttel-460.jpeg]] | [[./images/hikariichihara-moveon-460.jpeg]]
+| [[./images/shinpeiruike-georgenakajima-duo-460.jpeg]] | [[./images/tetsujiyoshida-mikikonagatake-knuttel-460.jpeg]] | [[./images/hikariichihara-moveon-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo][Duo]]/ by Shinpei Ruike & George Nakajima
 -  /[[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope][Humadope]]/ by Keisuke Nakamura
 -  /[[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope-2][Humadope 2]]/ by Keisuke Nakamura
@@ -17,7 +17,7 @@
 -  /[[https://www.jazzofjapan.com/p/hikari-ichihara-group-unity][Unity]]/ by Hikari Ichihara Group *
 - /See all: [[https://www.jazzofjapan.com/t/trumpet][#trumpet]]/
 ** 2. Saxophone
-[[./images/bungalow-abstract-messages-460.jpeg]] | [[./images/ayumikoketsu-art-460.jpeg]] | [[./images/ryosuke-hashizume-group-as-we-breathe-460.jpeg]]
+| [[./images/bungalow-abstract-messages-460.jpeg]] | [[./images/ayumikoketsu-art-460.jpeg]] | [[./images/ryosuke-hashizume-group-as-we-breathe-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-64-charlesgate][64 Charlesgate]]/ by Akihiro Yoshimoto Quartet
 -  /[[https://www.jazzofjapan.com/p/bungalow-abstract-messages][Abstract Messages]]/ by Bungalow
 -  /[[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic][Acoustic Fluid]]/ by Ryosuke Hashizume Group
@@ -60,37 +60,37 @@
 -  /[[https://www.jazzofjapan.com/p/zephyr-zephyr][Zephyr]]/ by Zephyr
 - /See all: [[https://www.jazzofjapan.com/t/saxophone][#saxophone]]/
 ** 3. Trombone
-[[./images/mariko-maeda-awareness-460.jpeg]] | [[./images/akane-matsumoto-nanami-haruta-for-460.jpeg]] | [[./images/nanami-haruta-ii-460.jpeg]]
+| [[./images/mariko-maeda-awareness-460.jpeg]] | [[./images/akane-matsumoto-nanami-haruta-for-460.jpeg]] | [[./images/nanami-haruta-ii-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/mariko-maeda-awareness][Awareness]]/ by Mariko Maeda
 -  /[[https://www.jazzofjapan.com/p/akane-matsumoto-nanami-haruta-for][For My Lady]]/ by Akane Matsumoto & Nanami Haruta
 -  /[[https://www.jazzofjapan.com/p/nanami-haruta-ii][II]]/ by Nanami Haruta *
 - /See all: [[https://www.jazzofjapan.com/t/trombone][#trombone]]/
 ** 4. Flute
-[[./images/banda-feliz-boa-viagem-460.jpeg]] | [[./images/makiyo-sakai-silver-painting-460.jpeg]] | [[./images/erisa-ogawa-where-have-u-been-460.jpeg]]
+| [[./images/banda-feliz-boa-viagem-460.jpeg]] | [[./images/makiyo-sakai-silver-painting-460.jpeg]] | [[./images/erisa-ogawa-where-have-u-been-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/banda-feliz-boa-viagem][Boa Viagem]]/ by Banda Feliz /(Brazilian/Latin jazz)/
 -  /[[https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori][Gakudan Hitori]]/ by Reikan Kobayashi
 -  /[[https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting][Silver Painting]]/ by Makiyo Sakai *
 -  /[[https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been][Where Have U Been?]]/ by Erisa Ogawa
 - /See all: [[https://www.jazzofjapan.com/t/flute][#flute]]/
 ** 5. Clarinet
-[[./images/tokuhirodoi-amalthea-460.jpeg]]
+| [[./images/tokuhirodoi-amalthea-460.jpeg]] | [[./images/tokuhirodoi-amalthea-460.jpeg]] | [[./images/tokuhirodoi-amalthea-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea][Amalthea]]/ by Tokuhiro Doi Quartet *
 - /See all: [[https://www.jazzofjapan.com/t/clarinet][#clarinet]]/
 ** 6. Violin
-[[./images/norikosatomi-lovesupreme-460.jpeg]] | [[./images/maikotrio-three-460.jpeg]] | [[./images/noriko-satomi-project-n-460.jpg]]
+| [[./images/norikosatomi-lovesupreme-460.jpeg]] | [[./images/maikotrio-three-460.jpeg]] | [[./images/noriko-satomi-project-n-460.jpg]] |
 -  /[[https://www.jazzofjapan.com/p/noriko-satomi-a-love-supreme][A Love Supreme]]/ by Noriko Satomi
 -  /[[https://www.jazzofjapan.com/p/maiko-trio-live-three][Live! Three]]/ by Maiko Trio
 -  /[[https://www.jazzofjapan.com/p/noriko-satomi-project-n][Project-N]]/ by Noriko Satomi *
 -  /[[https://www.jazzofjapan.com/p/maiko-solo][Solo]]/ by Maiko /(solo)/
 - /See all: [[https://www.jazzofjapan.com/t/violin][#violin]]/
 ** 7. Cello
-[[./images/arco-asymmetry-460.jpeg]] | [[./images/arco-birth-460.jpeg]] | [[./images/arco-liveatyoncha-460.jpeg]]
+| [[./images/arco-asymmetry-460.jpeg]] | [[./images/arco-birth-460.jpeg]] | [[./images/arco-liveatyoncha-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/arco-asymmetry][Asymmetry]]/ by Arco
 -  /[[https://www.jazzofjapan.com/p/arco-birth][Birth]]/ by Arco
 -  /[[https://www.jazzofjapan.com/p/arco-live-at-yoncha][Live At Yoncha]]/ by Arco *
 - /See all: [[https://www.jazzofjapan.com/t/cello][#cello]]/
 ** 8. Vibraphone
-[[./images/magnolia-el-viento-y-las-flores-460.jpeg]] | [[./images/kaori-vibes-quartet-starry-nights-460.jpeg]] | [[./images/reiko-yamamoto-square-pyramid-460.jpeg]]
+| [[./images/magnolia-el-viento-y-las-flores-460.jpeg]] | [[./images/kaori-vibes-quartet-starry-nights-460.jpeg]] | [[./images/reiko-yamamoto-square-pyramid-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/kaori-vibes-quartet-cross-point][Cross Point]]/ by Kaori Vibes Quartet
 -  /[[https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores][El viento y las flores]]/ by Magnolia *
 -  /[[https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind][Flying Mind]]/ by Kaori Vibes Quartet
@@ -99,7 +99,7 @@
 -  /[[https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid][The Square Pyramid]]/ by Reiko Yamamoto
 - /See all: [[https://www.jazzofjapan.com/t/vibraphone][#vibraphone]]/
 ** 9. Guitar
-[[./images/fumika-asari-introducin-460.jpeg]] | [[./images/fe-live-at-virtuoso-460.jpeg]] | [[./images/hiroshi-fukutomi-memory-stones-460.jpeg]]
+| [[./images/fumika-asari-introducin-460.jpeg]] | [[./images/fe-live-at-virtuoso-460.jpeg]] | [[./images/hiroshi-fukutomi-memory-stones-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/yudo-matsuo-bonanza][Bonanza]]/ by Yudo Matsuo
 -  /[[https://www.jazzofjapan.com/p/shigeo-fukuda-and-toshiki-nunokawa][Childhood’s Dream]]/ by Shigeo Fukuda & Toshiki Nunokawa
 -  /[[https://www.jazzofjapan.com/p/takumi-seino-motohiko-ichino-frozen-dust][Frozen Dust]]/ by Takumi Seino & Motohiko Ichino /(free/experimental)/
@@ -115,7 +115,7 @@
 -  /[[https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road][Two for the Road]]/ by Yuji Ito & Koichi Hirata Duo *
 - /See all: [[https://www.jazzofjapan.com/t/guitar][#guitar]]/
 ** 10. Piano
-[[./images/mamoru-ishida-afterglow-460.jpeg]] | [[./images/fumiechiba-beautifuldays-460.jpeg]] | [[./images/haruminomoto-belinda-460.jpeg]]
+| [[./images/mamoru-ishida-afterglow-460.jpeg]] | [[./images/fumiechiba-beautifuldays-460.jpeg]] | [[./images/haruminomoto-belinda-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/yukako-yamano-1st-stage][1st Stage]]/ by Yukako Yamano
 -  /[[https://www.jazzofjapan.com/p/yukako-yamano-3rd-stage][3rd Stage]]/ by Yukako Yamano /(solo)/
 -  /[[https://www.jazzofjapan.com/p/chihiro-yamanaka-abyss][Abyss]]/ by Chihiro Yamanaka
@@ -228,7 +228,7 @@
 -  /[[https://www.jazzofjapan.com/p/manabu-ohishi-trio-wish][Wish]]/ by Manabu Ohishi Trio
 - /See all: [[https://www.jazzofjapan.com/t/piano][#piano]]/
 ** 11. Bass
-[[./images/kunpei-nakabayashi-orchestra-circles-460.jpeg]] | [[./images/yasumasakumagai-ryukawamura-olschool-460.jpeg]] | [[./images/daiki-yasukagawa-new-trio-three-roses-460.jpeg]]
+| [[./images/kunpei-nakabayashi-orchestra-circles-460.jpeg]] | [[./images/yasumasakumagai-ryukawamura-olschool-460.jpeg]] | [[./images/daiki-yasukagawa-new-trio-three-roses-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/shinichi-kato-bass-on-cinema][Bass on Cinema]]/ by Shinichi Kato
 -  /[[https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times][Bass on Times]]/ by Satoshi Kosugi
 -  /[[https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence][By Coincidence]]/ by Yoshihito “P” Koizumi P-Project
@@ -245,7 +245,7 @@
 -  /[[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-trios-ii][Trios II]]/ by Daiki Yasukagawa Trio
 - /See all: [[https://www.jazzofjapan.com/t/bass][#bass]]/
 ** 12. Drums
-[[./images/koomura-introspect-460.jpeg]] | [[./images/kaito-nakamura-invisible-diary-460.jpeg]] | [[./images/hiro-kimura-trees-460.jpeg]]
+| [[./images/koomura-introspect-460.jpeg]] | [[./images/kaito-nakamura-invisible-diary-460.jpeg]] | [[./images/hiro-kimura-trees-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds][Folds]]/ by Hiro Kimura Quintet
 -  /[[https://www.jazzofjapan.com/p/shinya-fukumori-trio-for-2-akis][For 2 Akis]]/ by Shinya Fukumori Trio /(free/experimental)/ *
 -  /[[https://www.jazzofjapan.com/p/blue-dot-halo][Halo]]/ by Blue Dot
@@ -260,7 +260,7 @@
 -  /[[https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed][You’ve Changed]]/ by Hara Dairiki Trio
 - /See all: [[https://www.jazzofjapan.com/t/drums][#drums]]/
 ** 13. Vocals
-[[./images/makifujimura-best-460.jpeg]] | [[./images/emiko-voice-yuka-yanagihara-enyana-460.jpeg]] | [[./images/koto-ha-to-shiro-o-mateoba-460.jpeg]]
+| [[./images/makifujimura-best-460.jpeg]] | [[./images/emiko-voice-yuka-yanagihara-enyana-460.jpeg]] | [[./images/koto-ha-to-shiro-o-mateoba-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/meu-coracao-a-tempo][A Tempo]]/ by Meu Coracao /(Brazilian/Latin jazz)/
 -  /[[https://www.jazzofjapan.com/p/yuka-ueda-agora][Agora]]/ by Yuka Ueda /(Brazilian/Latin jazz)/
 -  /[[https://www.jazzofjapan.com/p/azumi-almost-like-being-in-love][Almost Like Being in Love]]/ by Azumi
