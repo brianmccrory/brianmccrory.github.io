@@ -1,11 +1,16 @@
 name: Build with markdown export and Deploy
 on:
   push:
-    branches:
-      - main
-      
+    branches: ["main"]
+  workflow_dispatch:
+
+
 permissions:
   contents: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   publish:
