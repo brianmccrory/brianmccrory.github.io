@@ -1,22 +1,27 @@
 name: Build with markdown export and Deploy
-on: [push]
+on:
+  push:
+    branches:
+      - main
+      
 permissions:
   contents: write
+
 jobs:
-  build-and-deploy:
-    concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
+      - name: Check out
         uses: actions/checkout@v4
       
-      - name: Install Emacs
+      - name: Install emacs-nox
         run: sudo apt install emacs-nox --yes
 
-      - name: Build site
+      - name: Build site (build.sh)
         run: ./build.sh 
 
-      - name: Deploy 🚀
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: . # The folder the action should deploy.
+          branch: gh-pages
+          folder: .
