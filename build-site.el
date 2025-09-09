@@ -22,7 +22,7 @@
 	     :recursive t
 	     :base-directory "generated"
 	     :publishing-function 'org-html-publish-to-html
-	     :publishing-directory "."
+	     :publishing-directory "_site"
 	     :with-author t
 	     :with-creator nil
 	     :with-toc nil
