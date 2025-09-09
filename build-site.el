@@ -20,10 +20,10 @@
       (list
        (list "brianmccrory.github.io:main"
 	     :recursive t
-	     :base-directory "."
+	     :base-directory "generated"
 	     :publishing-function 'org-html-publish-to-html
 	     :publishing-directory "p"
-	     :with-author nil
+	     :with-author t
 	     :with-creator nil
 	     :with-toc nil
 	     :section-numbers nil

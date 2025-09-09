@@ -1,7 +1,6 @@
-#+OPTIONS: toc:nil
-
-* [[https://www.jazzofjapan.com/][Jazz of Japan]]
-
+#+author: Brian McCrory
+#+options: preamble:nil postamble:nil
+[[https://www.jazzofjapan.com/][Jazz of Japan]]
 * Albums by Category
 /Albums featured on this site are organized into categories based on the primary instrument or artist (primary or first listed) for each album. Each album appears once and in one category only./
 ** 1. Trumpet
