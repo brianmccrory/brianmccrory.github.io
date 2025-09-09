@@ -1,7 +1,5 @@
 name: Build and Deploy
-# on: [push]
-on:
-  workflow_dispatch:
+on: [push]
 permissions:
   contents: write
 jobs:
@@ -11,6 +9,12 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
+      
+      - name: Install Emacs
+        run: sudo apt install emacs-nox --yes
+
+      - name: Build site
+        run: ./build.sh 
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
