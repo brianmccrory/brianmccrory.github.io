@@ -10,6 +10,7 @@
 
 (require 'ox-publish)
 
+(setq org-export-with-toc nil)
 (setq org-publish-project-alist
       (list
        (list "brianmccrory.github.io"
