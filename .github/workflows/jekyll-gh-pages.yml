@@ -1,7 +1,7 @@
 name: Build with markdown export and Deploy
 on:
-  push:
-    branches: ["main"]
+#  push:
+#    branches: ["main"]
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages

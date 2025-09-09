@@ -1,9 +1,302 @@
 #+author: Brian McCrory
 #+options: preamble:nil postamble:nil
 [[https://www.jazzofjapan.com/][Jazz of Japan]]
-* Albums by Category
-/Albums featured on this site are organized into categories based on the primary instrument or artist (primary or first listed) for each album. Each album appears once and in one category only./
-** 1. Trumpet
+* Albums Index
+-----
+** Albums by Release Year
+*2025 Releases*
+- [[https://www.jazzofjapan.com/p/emiko-voice-yuka-yanagihara-enyana][/Enyana/]] by Emiko Voice & Yuka Yanagihara
+- [[https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary][/Invisible Diary/]] by Kaito Nakamura
+- [[https://www.jazzofjapan.com/p/melodies-melodies][/Melodies/]] by Melodies
+- [[https://www.jazzofjapan.com/p/mayuko-katakura-duality-of-my-soul][/The Duality of My Soul/]] by Mayuko Katakura
+- [[https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue][/Tides of Blue/]] by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa
+*2024 Releases*
+- [[https://www.jazzofjapan.com/p/yoshiko-saita-back-in-time-to-boston][/Back in Time to Boston/]] by Yoshiko Saita
+- [[https://www.jazzofjapan.com/p/sayaka-kishi-trio-banquet][/Banquet/]] by Sayaka Kishi Trio
+- [[https://www.jazzofjapan.com/p/yuka-yanagihara-trio-beloved-ones][/Beloved Ones/]] by Yuka Yanagihara Trio
+- [[https://www.jazzofjapan.com/p/miyuki-moriya-beyond-the-sea][/Beyond the Sea/]] by Miyuki Moriya
+- [[https://www.jazzofjapan.com/p/taeko-kurita-akira-sotoyama-duo][/Duo/]] by Taeko Kurita & Akira Sotoyama
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-echo][/Echo/]] by Hitomi Nishiyama
+- [[https://www.jazzofjapan.com/p/efreydut-fairway][/Fairway/]] by eFreydut
+- [[https://www.jazzofjapan.com/p/michiyo-matsushita-trio-free][/Free/]] by Michiyo Matsushita Trio
+- [[https://www.jazzofjapan.com/p/otohito-fuse-trio-isolated][/Isolated/]] by Otohito Fuse Trio
+- [[https://www.jazzofjapan.com/p/nami-kano-mawsim][/Mawsim/]] by Nami Kano
+- [[https://www.jazzofjapan.com/p/setagaya-trio-progress][/Progress/]] by Setagaya Trio
+- [[https://www.jazzofjapan.com/p/akane-matsumoto-ayumi-koketsu-trust][/Trust/]] by Akane Matsumoto & Ayumi Koketsu
+- [[https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road][/Two for the Road/]] by Yuji Ito & Koichi Hirata Duo
+*2023 Releases*
+- [[https://www.jazzofjapan.com/p/mamoru-ishida-afterglow][/Afterglow/]] by Mamoru Ishida
+- [[https://www.jazzofjapan.com/p/mariko-maeda-awareness][/Awareness/]] by Mariko Maeda
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-dot][/Dot/]] by Hitomi Nishiyama
+- [[https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds][/Folds/]] by Hiro Kimura Quintet
+- [[https://www.jazzofjapan.com/p/akane-matsumoto-nanami-haruta-for][/For My Lady/]] by Akane Matsumoto & Nanami Haruta
+- [[https://www.jazzofjapan.com/p/yosuke-sato-george-nakajima-longing][/Longing/]] by Yosuke Sato & George Nakajima
+- [[https://www.jazzofjapan.com/p/ami-fukui-trio-mcy][/MCY/]] by Ami Fukui Trio
+- [[https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari][/Owari to Hajimari/]] by Nobie & Takayoshi Baba
+- [[https://www.jazzofjapan.com/p/seiji-endo-piano-pieces-collection-ii][/Piano Pieces Collection II/]] by Seiji Endo
+- [[https://www.jazzofjapan.com/p/ghost-peak-goat-on-a-peak][/The Goat on a Peak/]] by Ghost Peak
+- [[https://www.jazzofjapan.com/p/motoi-kanamori-the-live][/The Live/]] by Motoi Kanamori
+- [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-viento][/Viento/]] by Mabumi Yamaguchi
+*2022 Releases*
+- [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-64-charlesgate][/64 Charlesgate/]] by Akihiro Yoshimoto Quartet
+- [[https://www.jazzofjapan.com/p/naoko-tanaka-appreciation][/Appreciation/]] by Naoko Tanaka
+- [[https://www.jazzofjapan.com/p/fnk-canvas][/Canvas/]] by FNK
+- [[https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality][/Crossing Reality/]] by Eri Chichibu
+- [[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo][/Duo/]] by Shinpei Ruike & George Nakajima
+- [[https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores][/El viento y las flores/]] by Magnolia
+- [[https://www.jazzofjapan.com/p/nanami-haruta-ii][/II/]] by Nanami Haruta
+- [[https://www.jazzofjapan.com/p/akane-matsumoto-little-girl-blue][/Little Girl Blue/]] by Akane Matsumoto
+- [[https://www.jazzofjapan.com/p/sul-madrugada-luar][/Luar/]] by Sul Madrugada
+- [[https://www.jazzofjapan.com/p/hideaki-hori-melodies-for-night-day][/Melodies for Night & Day/]] by Hideaki Hori
+- [[https://www.jazzofjapan.com/p/ami-fukui-trio-nova-manha][/Nova Manhã/]] by Ami Fukui Trio
+- [[https://www.jazzofjapan.com/p/mikiko-nagatake-solo][/Solo/]] by Mikiko Nagatake
+- [[https://www.jazzofjapan.com/p/emiko-voice-standard-trio][/Standard Trio/]] by Emiko Voice
+- [[https://www.jazzofjapan.com/p/daiki-yasukagawa-new-trio-three-roses][/The Three Roses/]] by Daiki Yasukagawa New Trio
+*2021 Releases*
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-calling][/Calling/]] by Hitomi Nishiyama Trio
+- [[https://www.jazzofjapan.com/p/kunpei-nakabayashi-orchestra-circles][/Circles/]] by Kunpei Nakabayashi Orchestra
+- [[https://www.jazzofjapan.com/p/yukakoyamano-yukariinoue-dubai][/Dubai Suite/]] by Yukako Yamano & Yukari Inoue
+- [[https://www.jazzofjapan.com/p/koichi-sato-embryo][/Embryo/]] by Koichi Sato
+- [[https://www.jazzofjapan.com/p/george-nakajima-trio-first-touch][/First Touch/]] by George Nakajima Trio
+- [[https://www.jazzofjapan.com/p/jabuticaba-jabuticaba][/Jabuticaba/]] by Jabuticaba
+- [[https://www.jazzofjapan.com/p/tetsuji-yoshida-and-mikiko-nagatake][/Live at Knuttel House/]] by Tetsuji Yoshida & Mikiko Nagatake Duo
+- [[https://www.jazzofjapan.com/p/fe-live-at-virtuoso][/Live at Virtuoso/]] by Fe
+- [[https://www.jazzofjapan.com/p/seiji-endo-piano-pieces-collection][/Piano Pieces Collection/]] by Seiji Endo
+- [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights][/Starry Nights/]] by Kaori Vibes Quartet
+- [[https://www.jazzofjapan.com/p/rie-taguchi-the-gift-ii][/The Gift II/]] by Rie Taguchi
+- [[https://www.jazzofjapan.com/p/hiro-kimura-trees][/Trees/]] by Hiro Kimura
+- [[https://www.jazzofjapan.com/p/yuichi-narita-urban-nocturne][/Urban Nocturne/]] by Yuichi Narita
+- [[https://www.jazzofjapan.com/p/miyuki-moriya-uta-oto][/Uta Oto/]] by Miyuki Moriya
+- [[https://www.jazzofjapan.com/p/chie-nishimura-virtual-silence][/Virtual Silence/]] by Chie Nishimura
+*2020 Releases*
+- [[https://www.jazzofjapan.com/p/bungalow-abstract-messages][/Abstract Messages/]] by Bungalow
+- [[https://www.jazzofjapan.com/p/banda-feliz-boa-viagem][/Boa Viagem/]] by Banda Feliz
+- [[https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces][/Faces/]] by Kaoru Azuma / Hitomi Nishiyama
+- [[https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact][/First Contact/]] by Mase Hiroko Quintet
+- [[https://www.jazzofjapan.com/p/fumika-asari-introducin][/Introducin’/]] by Fumika Asari
+- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-last-resort][/Last Resort/]] by Yasumasa Kumagai & J-Jazz Homies
+- [[https://www.jazzofjapan.com/p/kazumi-ikenaga-taihei-asakawa-nordnote][/NordNote/]] by Kazumi Ikenaga & Taihei Asakawa
+- [[https://www.jazzofjapan.com/p/seiji-harakawa-quartet-skipping-down][/Skipping Down the Street/]] by Seiji Harakawa Quartet
+- [[https://www.jazzofjapan.com/p/polyglot-talk-vol-1][/Talk, Vol. 1/]] by Polyglot
+- [[https://www.jazzofjapan.com/p/miwo-tranquillo][/Tranquillo/]] by Miwo
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-vibrant][/Vibrant/]] by Hitomi Nishiyama
+*2019 Releases*
+- [[https://www.jazzofjapan.com/p/noriko-satomi-a-love-supreme][/A Love Supreme/]] by Noriko Satomi
+- [[https://www.jazzofjapan.com/p/arco-birth][/Birth/]] by Arco
+- [[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope-2][/Humadope 2/]] by Keisuke Nakamura
+- [[https://www.jazzofjapan.com/p/yuka-yanagihara-trio-inner-views][/Inner Views/]] by Yuka Yanagihara Trio
+- [[https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great][/Life Is Too Great/]] by Sayaka Kishi Trio
+- [[https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go][/Long Way to Go/]] by Kanoko Kitajima
+- [[https://www.jazzofjapan.com/p/nhorhm-extra-edition][/New Heritage of Real Heavy Metal -Extra Edition-/]] by NHORHM
+- [[https://www.jazzofjapan.com/p/akane-matsumoto-oh-lady-be-good][/Oh, Lady Be Good/]] by Akane Matsumoto
+- [[https://www.jazzofjapan.com/p/minoru-yoshiki-soulstation-path-of-hope][/Path of Hope/]] by Minoru Yoshiki Soulstation
+- [[https://www.jazzofjapan.com/p/duo-tremolo-resonance][/Resonance/]] by Duo Tremolo
+- [[https://www.jazzofjapan.com/p/yuki-ito-retattanni-no-mori][/Retattanni no Mori/]] by Yuki Ito
+- [[https://www.jazzofjapan.com/p/trio-export-small-pieces-for-flying-padre][/Small Pieces for Flying Padre/]] by Trio Export 63.1.0.X
+- [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-stolen-moments][/Stolen Moments/]] by Layla Tomomi Sakai
+- [[https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid][/The Square Pyramid/]] by Reiko Yamamoto
+- [[https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been][/Where Have U Been?/]] by Erisa Ogawa
+*2018 Releases*
+- [[https://www.jazzofjapan.com/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary][/Boundary/]] by Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi
+- [[https://www.jazzofjapan.com/p/nobie-benin-rio-tokyo][/Bénin Rio Tokyo/]] by Nobie
+- [[https://www.jazzofjapan.com/p/mie-joke-etrenne][/Etrenne/]] by Mie Joké
+- [[https://www.jazzofjapan.com/p/shinya-fukumori-trio-for-2-akis][/For 2 Akis/]] by Shinya Fukumori Trio
+- [[https://www.jazzofjapan.com/p/seiji-endo-genji-monogatari-volume-1][/Genji Monogatari Volume 1/]] by Seiji Endo
+- [[https://www.jazzofjapan.com/p/sanae-ishikawa-grown-up-christmas][/Grown-up Christmas Gift/]] by Sanae Ishikawa
+- [[https://www.jazzofjapan.com/p/yukako-yamano-imperial][/Imperial/]] by Yukako Yamano
+- [[https://www.jazzofjapan.com/p/arco-live-at-yoncha][/Live At Yoncha/]] by Arco
+- [[https://www.jazzofjapan.com/p/motoi-kanamori-my-soul-meeting][/My Soul Meeting/]] by Motoi Kanamori
+- [[https://www.jazzofjapan.com/p/takayuki-yagi-new-departure][/New Departure/]] by Takayuki Yagi
+- [[https://www.jazzofjapan.com/p/michiyo-matsushita-sally-gardens][/Sally Gardens/]] by Michiyo Matsushita
+- [[https://www.jazzofjapan.com/p/maiko-solo][/Solo/]] by Maiko
+- [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-island][/The Island/]] by Layla Tomomi Sakai
+- [[https://www.jazzofjapan.com/p/taihei-asakawa-waltz-for-debby][/Waltz for Debby/]] by Taihei Asakawa
+- [[https://www.jazzofjapan.com/p/seiji-tada-workout][/Workout!!/]] by Seiji Tada
+*2017 Releases*
+- [[https://www.jazzofjapan.com/p/yukako-yamano-3rd-stage][/3rd Stage/]] by Yukako Yamano
+- [[https://www.jazzofjapan.com/p/arco-asymmetry][/Asymmetry/]] by Arco
+- [[https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days][/Beautiful Days/]] by Fumie Chiba
+- [[https://www.jazzofjapan.com/p/emiko-voice-carta][/Carta/]] by Emiko Voice
+- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices][/Incomplete Voices/]] by Ryosuke Hashizume Group
+- [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone][/Let Your Mind Alone/]] by Mabumi Yamaguchi
+- [[https://www.jazzofjapan.com/p/tcq-memories-of-t][/Memories of T/]] by TCQ
+- [[https://www.jazzofjapan.com/p/akane-matsumoto-night-and-day][/Night & Day/]] by Akane Matsumoto
+- [[https://www.jazzofjapan.com/p/hideaki-kanazawa-sumire-kuribayashi-nijuso][/Nijuso/]] by Hideaki Kanazawa & Sumire Kuribayashi
+- [[https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi][/Niwatazumi/]] by Kazumi Ikenaga
+- [[https://www.jazzofjapan.com/p/hiroco-nagano-okurimono][/Okurimono/]] by Hiroco Nagano
+- [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-takashi-sugawa-oxymoron][/Oxymoron/]] by Akihiro Yoshimoto & Takashi Sugawa
+- [[https://www.jazzofjapan.com/p/noriko-satomi-project-n][/Project-N/]] by Noriko Satomi
+- [[https://www.jazzofjapan.com/p/yako-horikita-shining-hour][/Shining Hour/]] by Yako Horikita
+- [[https://www.jazzofjapan.com/p/koto-ha-to-shiro-o-matoeba][/Shiro o Matoeba/]] by Koto ha, To
+- [[https://www.jazzofjapan.com/p/atomi-hamada-this-is-atomi][/This is Atomi/]] by Atomi Hamada
+- [[https://www.jazzofjapan.com/p/bungalow-you-already-know][/You Already Know/]] by Bungalow
+*2016 Releases*
+- [[https://www.jazzofjapan.com/p/meu-coracao-a-tempo][/A Tempo/]] by Meu Coracao
+- [[https://www.jazzofjapan.com/p/ayumi-koketsu-art][/Art/]] by Ayumi Koketsu
+- [[https://www.jazzofjapan.com/p/ruriko-kawamura-blossoms][/Blossoms/]] by Ruriko Kawamura
+- [[https://www.jazzofjapan.com/p/seiji-endo-circle-for-peace][/Circle for Peace/]] by Seiji Endo
+- [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-cross-point][/Cross Point/]] by Kaori Vibes Quartet
+- [[https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill][/Flowers On The Hill/]] by Akiko Suda
+- [[https://www.jazzofjapan.com/p/blue-dot-halo][/Halo/]] by Blue Dot
+- [[https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible][/Invisible/]] by Junichiro Ohkuchi Trio
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-parallax-live][/Live/]] by Hitomi Nishiyama Trio “Parallax”
+- [[https://www.jazzofjapan.com/p/maiko-trio-live-three][/Live! Three/]] by Maiko Trio
+- [[https://www.jazzofjapan.com/p/koichi-sato-melancholy][/Melancholy of a Journey/]] by Koichi Sato
+- [[https://www.jazzofjapan.com/p/ami-fukui-trio-new-journey][/New Journey/]] by Ami Fukui Trio
+- [[https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting][/Silver Painting/]] by Makiyo Sakai
+- [[https://www.jazzofjapan.com/p/rie-taguchi-gift][/The Gift/]] by Rie Taguchi
+- [[https://www.jazzofjapan.com/p/rabbitoo-the-torch][/The Torch/]] by Rabbitoo
+- [[https://www.jazzofjapan.com/p/toshihiko-inoue-vayu][/Vayu/]] by Toshihiko Inoue
+- [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-whisper-not][/Whisper Not/]] by Layla Tomomi Sakai
+*2015 Releases*
+- [[https://www.jazzofjapan.com/p/tomoka-miwa-colors][/Colors in Silence/]] by Tomoka Miwa
+- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead][/J-Straight Ahead/]] by Yasumasa Kumagai
+- [[https://www.jazzofjapan.com/p/les-komatis-les-komatis][/Les Komatis/]] by Les Komatis
+- [[https://www.jazzofjapan.com/p/naoko-tanaka-trio-memories][/Memories/]] by Naoko Tanaka Trio
+- [[https://www.jazzofjapan.com/p/akane-matsumoto-memories-of-you][/Memories of You/]] by Akane Matsumoto
+- [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color][/Moving Color/]] by Akihiro Yoshimoto Quartet
+- [[https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal][/New Heritage of Real Heavy Metal/]] by NHORHM
+- [[https://www.jazzofjapan.com/p/sohnosuke-imaizumi-rin][/Rin/]] by Sohnosuke Imaizumi
+- [[https://www.jazzofjapan.com/p/fumie-chiba-rougequeue][/Rougequeue/]] by Fumie Chiba
+- [[https://www.jazzofjapan.com/p/shunichi-yanagi-trio-slope][/Slope/]] by Shunichi Yanagi Trio
+- [[https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair][/Sumitty & The Funfair/]] by Sumito Oi
+- [[https://www.jazzofjapan.com/p/mayuko-katakura-echoes-of-three][/The Echoes of Three/]] by Mayuko Katakura
+- [[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-trios-ii][/Trios II/]] by Daiki Yasukagawa Trio
+- [[https://www.jazzofjapan.com/p/seiji-endo-tsutaete-ikou][/Tsutaete Ikou/]] by Seiji Endo
+- [[https://www.jazzofjapan.com/p/bungalow-unseen-scenes][/Unseen Scenes/]] by Bungalow
+*2014 Releases*
+- [[https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te][/Featuring Te/]] by Sayaka Kishi
+- [[https://www.jazzofjapan.com/p/trigraph-fever][/Fever/]] by Trigraph
+- [[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope][/Humadope/]] by Keisuke Nakamura
+- [[https://www.jazzofjapan.com/p/masako-kunisada-m][/M/]] by Masako Kunisada
+- [[https://www.jazzofjapan.com/p/hiroshi-fukutomi-memory-stones][/Memory Stones/]] by Hiroshi Fukutomi
+- [[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-n40][/N.40°/]] by Shinpei Ruike & George Nakajima
+- [[https://www.jazzofjapan.com/p/rabbitoo-national-anthem-of-unknown][/National Anthem of Unknown Country/]] by Rabbitoo
+- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two][/Side Two/]] by Ryosuke Hashizume Group
+- [[https://www.jazzofjapan.com/p/sumire-kuribayashi-trio-toys][/Toys/]] by Sumire Kuribayashi Trio
+- [[https://www.jazzofjapan.com/p/hideaki-hori-trio-unconditional-love][/Unconditional Love/]] by Hideaki Hori Trio
+- [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo][/Virgo/]] by Harumi Nomoto Trio
+- [[https://www.jazzofjapan.com/p/water-me-water-me][/Water Me!/]] by Water Me!
+*2013 Releases*
+- [[https://www.jazzofjapan.com/p/yukako-yamano-1st-stage][/1st Stage/]] by Yukako Yamano
+- [[https://www.jazzofjapan.com/p/ami-fukui-amizm][/Amizm/]] by Ami Fukui
+- [[https://www.jazzofjapan.com/p/maki-fujimura-best-wishes][/Best Wishes/]] by Maki Fujimura
+- [[https://www.jazzofjapan.com/p/hamasaki-matsumoto-bigcatch][/Big Catch/]] by Wataru Hamasaki Meets Akane Matsumoto Trio
+- [[https://www.jazzofjapan.com/p/yuka-ueda-dois][/Dois/]] by Yuka Ueda
+- [[https://www.jazzofjapan.com/p/naoko-sakata-trio-flower-clouds][/Flower Clouds/]] by Naoko Sakata Trio
+- [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind][/Flying Mind/]] by Kaori Vibes Quartet
+- [[https://www.jazzofjapan.com/p/yuya-wakai-images][/Images/]] by Yuya Wakai
+- [[https://www.jazzofjapan.com/p/toshihiko-inoue-and-masaki-hayashi][/Mistral/]] by Toshihiko Inoue & Masaki Hayashi
+- [[https://www.jazzofjapan.com/p/bungalow-past-life][/Past Life/]] by Bungalow
+- [[https://www.jazzofjapan.com/p/miki-hirose-scratch][/Scratch/]] by Miki Hirose
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-sympathy][/Sympathy/]] by Hitomi Nishiyama Trio
+- [[https://www.jazzofjapan.com/p/takako-yamada-flow-of-time][/The Flow of Time/]] by Takako Yamada
+- [[https://www.jazzofjapan.com/p/taihei-asakawa-trio-touch-of-winter][/Touch of Winter/]] by Taihei Asakawa Trio
+- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-visible-invisible][/VisibleInvisible/]] by Ryosuke Hashizume Group
+- [[https://www.jazzofjapan.com/p/hiromi-miura-we-dont-know-yet][/We Don’t Know Yet/]] by Hiromi Miura
+- [[https://www.jazzofjapan.com/p/zephyr-zephyr][/Zephyr/]] by Zephyr
+*2012 Releases*
+- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic][/Acoustic Fluid/]] by Ryosuke Hashizume Group
+- [[https://www.jazzofjapan.com/p/yudo-matsuo-bonanza][/Bonanza/]] by Yudo Matsuo
+- [[https://www.jazzofjapan.com/p/shunichi-yanagi-trio-bubble-fish][/Bubble Fish/]] by Shunichi Yanagi Trio
+- [[https://www.jazzofjapan.com/p/manabu-ohishi-trio-gift][/Gift/]] by Manabu Ohishi Trio
+- [[https://www.jazzofjapan.com/p/sachiko-ikuta-trio-haru][/Haru No Kaze/]] by Sachiko Ikuta Trio
+- [[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-kanmai][/Kanmai/]] by Daiki Yasukagawa Trio
+- [[https://www.jazzofjapan.com/p/taeko-kurita-ko-tsu-ko-tsu][/Ko-tsu-ko-tsu/]] by Taeko Kurita
+- [[https://www.jazzofjapan.com/p/takuji-yamada-lite-blue][/Lite Blue/]] by Takuji Yamada
+- [[https://www.jazzofjapan.com/p/naoko-akimoto-no-one-else][/No One Else/]] by Naoko Akimoto
+- [[https://www.jazzofjapan.com/p/ayumi-koketsu-rainbow-tales][/Rainbow Tales/]] by Ayumi Koketsu
+- [[https://www.jazzofjapan.com/p/yukari-inoue-sakura][/Sakura/]] by Yukari Inoue
+- [[https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation][/Sakura Meditation/]] by Seiji Endo
+- [[https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life][/Wonderful Life/]] by Masako Kunisada
+*2011 Releases*
+- [[https://www.jazzofjapan.com/p/yuka-ueda-agora][/Agora/]] by Yuka Ueda
+- [[https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea][/Amalthea/]] by Tokuhiro Doi Quartet
+- [[https://www.jazzofjapan.com/p/aquapit-aquapit][/Aquapit/]] by Aquapit
+- [[https://www.jazzofjapan.com/p/shinichi-kato-bass-on-cinema][/Bass on Cinema/]] by Shinichi Kato
+- [[https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence][/By Coincidence/]] by Yoshihito “P” Koizumi P-Project
+- [[https://www.jazzofjapan.com/p/taihei-asakawa-catastrophe-in-jazz][/Catastrophe in Jazz/]] by Taihei Asakawa
+- [[https://www.jazzofjapan.com/p/shigeo-fukuda-and-toshiki-nunokawa][/Childhood’s Dream/]] by Shigeo Fukuda & Toshiki Nunokawa
+- [[https://www.jazzofjapan.com/p/takumi-seino-motohiko-ichino-frozen-dust][/Frozen Dust/]] by Takumi Seino & Motohiko Ichino
+- [[https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori][/Gakudan Hitori/]] by Reikan Kobayashi
+- [[https://www.jazzofjapan.com/p/fumiko-yamazaki-here-goes][/Here Goes!/]] by Fumiko Yamazaki
+- [[https://www.jazzofjapan.com/p/ko-omura-introspect][/Introspect/]] by Ko Omura
+- [[https://www.jazzofjapan.com/p/mamoru-ishida-ishida-mamoru-4-feat][/Ishida Mamoru 4 feat. Mike Rivett/]] by Mamoru Ishida
+- [[https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis][/Metropolitan Oasis/]] by Bungalow
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-music-in-you][/Music in You/]] by Hitomi Nishiyama Trio
+- [[https://www.jazzofjapan.com/p/nobie-primary][/Primary/]] by Nobie
+- [[https://www.jazzofjapan.com/p/yuko-miyawaki-song-of-flower][/Song of Flower/]] by Yuko Miyawaki
+- [[https://www.jazzofjapan.com/p/clepsydra-un-jour][/Un Jour/]] by Clepsydra
+- [[https://www.jazzofjapan.com/p/hikari-ichihara-group-unity][/Unity/]] by Hikari Ichihara Group
+- [[https://www.jazzofjapan.com/p/koichi-sato-utopia][/Utopia/]] by Koichi Sato
+*2010 Releases*
+- [[https://www.jazzofjapan.com/p/azumi-almost-like-being-in-love][/Almost Like Being in Love/]] by Azumi
+- [[https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle][/Cat’s Cradle/]] by Miyuki Moriya
+- [[https://www.jazzofjapan.com/p/mayuko-katakura-faith][/Faith/]] by Mayuko Katakura
+- [[https://www.jazzofjapan.com/p/hideaki-hori-trio-in-my-words][/In My Words/]] by Hideaki Hori Trio
+- [[https://www.jazzofjapan.com/p/hikari-ichihara-group-move-on][/Move On/]] by Hikari Ichihara Group
+- [[https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one][/Music Make Us One/]] by Yuichiro Aratake
+- [[https://www.jazzofjapan.com/p/akane-matsumoto-playing-new-york][/Playing New York/]] by Akane Matsumoto
+- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-pray][/Pray/]] by Yasumasa Kumagai
+- [[https://www.jazzofjapan.com/p/eriko-shimizu-sora][/Sora/]] by Eriko Shimizu
+- [[https://www.jazzofjapan.com/p/trispace-trispace][/Trispace/]] by Trispace
+- [[https://www.jazzofjapan.com/p/ami-fukui-trio-urban-clutter][/Urban Clutter/]] by Ami Fukui Trio
+- [[https://www.jazzofjapan.com/p/manabu-ohishi-trio-wish][/Wish/]] by Manabu Ohishi Trio
+*2009 Releases*
+- [[https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times][/Bass on Times/]] by Satoshi Kosugi
+- [[https://www.jazzofjapan.com/p/sayaketts-colors][/Colors/]] by Sayaketts
+- [[https://www.jazzofjapan.com/p/meu-coracao-hall-tone][/Hall Tone/]] by Meu Coracao
+- [[https://www.jazzofjapan.com/p/mayuko-katakura-inspiration][/Inspiration/]] by Mayuko Katakura
+- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-needful-things][/Needful Things/]] by Ryosuke Hashizume
+- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz][/Ol’ School Jazz/]] by Yasumasa Kumagai & Ryu Kawamura
+- [[https://www.jazzofjapan.com/p/emiko-voice-x-suga-dairo-phase-2][/Phase 2/]] by Emiko Voice x Suga Dairo
+- [[https://www.jazzofjapan.com/p/kenichiro-shinzawa-piano-works][/Piano Works/]] by Ken’ichiro Shinzawa
+- [[https://www.jazzofjapan.com/p/protean-protean][/Protean/]] by Protean
+- [[https://www.jazzofjapan.com/p/fumie-chiba-trio-tip-of-dream][/Tip of Dream/]] by Fumie Chiba Trio
+- [[https://www.jazzofjapan.com/p/miki-hayama-trio-wide-angle][/Wide Angle/]] by Miki Hayama Trio
+- [[https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed][/You’ve Changed/]] by Hara Dairiki Trio
+*2008 Releases*
+- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe][/As We Breathe/]] by Ryosuke Hashizume Group
+- [[https://www.jazzofjapan.com/p/hideaki-hori-wataru-hamasaki-encounter][/Encounter/]] by Hideaki Hori & Wataru Hamasaki
+- [[https://www.jazzofjapan.com/p/yukiko-hayakawa-trio-gallery][/Gallery/]] by Yukiko Hayakawa Trio
+- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too][/I Need a Change, Too/]] by Yasumasa Kumagai
+- [[https://www.jazzofjapan.com/p/routine-jazz-sextet-routine-jazz-sextet][/Routine Jazz Sextet/]] by Routine Jazz Sextet
+*2007 Releases*
+- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-abyss][/Abyss/]] by Chihiro Yamanaka
+- [[https://www.jazzofjapan.com/p/baby-brothers-bb][/Bb/]] by Baby Brothers
+- [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-belinda][/Belinda/]] by Harumi Nomoto Trio
+- [[https://www.jazzofjapan.com/p/sanae-ishikawa-feel-like-makin-love][/Feel Like Makin’ Love/]] by Sanae Ishikawa
+- [[https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb][/Happy Christmas with Bb/]] by Baby Brothers
+- [[https://www.jazzofjapan.com/p/fuse-live-fuse][/Live Fuse/]] by Fuse
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-many-seasons][/Many Seasons/]] by Hitomi Nishiyama Trio
+- [[https://www.jazzofjapan.com/p/motohiko-ichino-sketches][/Sketches/]] by Motohiko Ichino
+*2006 Releases*
+- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal][/Lach Doch Mal/]] by Chihiro Yamanaka
+- [[https://www.jazzofjapan.com/p/miki-hayama-prelude-to-a-kiss][/Prelude to a Kiss/]] by Miki Hayama
+- [[https://www.jazzofjapan.com/p/hikari-ichihara-sara-smile][/Sara Smile/]] by Hikari Ichihara
+- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless][/Wordless/]] by Ryosuke Hashizume Group
+*2005 Releases*
+- [[https://www.jazzofjapan.com/p/hakuei-kim-trio-open-the-green-door][/Open the Green Door/]] by Hakuei Kim Trio
+- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-outside-by-the-swing][/Outside by the Swing/]] by Chihiro Yamanaka
+- [[https://www.jazzofjapan.com/p/yuichiro-aratake-light-flows-in][/The Light Flows In/]] by Yuichiro Aratake
+*2004 Releases*
+- [[https://www.jazzofjapan.com/p/fumio-karashima-trio-its-just-beginning][/It’s Just Beginning/]] by Fumio Karashima Trio
+- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-im-missing-you][/I’m Missing You/]] by Hitomi Nishiyama Trio
+- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-madrigal][/Madrigal/]] by Chihiro Yamanaka Trio
+*2003 Releases*
+- [[https://www.jazzofjapan.com/p/hideaki-hori-horizon][/Horizon/]] by Hideaki Hori
+*2002 Releases*
+- [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-another-ordinary-day][/Another Ordinary Day/]] by Harumi Nomoto Trio
+- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-when-october][/When October Goes/]] by Chihiro Yamanaka Trio
+*2001 Releases*
+- [[https://www.jazzofjapan.com/p/shinichi-kato-and-masahiko-sato-duet][/Duet/]] by Shinichi Kato & Masahiko Sato
+- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-living-without-friday][/Living Without Friday/]] by Chihiro Yamanaka Trio
+*1993 Releases*
+- [[https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor][/Major to Minor/]] by Kohsuke Mine Quintet
+-----
+** Albums by Category
+/In this list, albums are organized into categories based on the primary instrument or artist (primary or first listed) for each album./
+*** 1. Trumpet
 | [[./images/shinpeiruike-georgenakajima-duo-460.jpeg]] | [[./images/tetsujiyoshida-mikikonagatake-knuttel-460.jpeg]] | [[./images/hikariichihara-moveon-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo][Duo]]/ by Shinpei Ruike & George Nakajima
 -  /[[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope][Humadope]]/ by Keisuke Nakamura
@@ -14,15 +307,15 @@
 -  /[[https://www.jazzofjapan.com/p/hikari-ichihara-sara-smile][Sara Smile]]/ by Hikari Ichihara
 -  /[[https://www.jazzofjapan.com/p/miki-hirose-scratch][Scratch]]/ by Miki Hirose
 -  /[[https://www.jazzofjapan.com/p/yuko-miyawaki-song-of-flower][Song of Flower]]/ by Yuko Miyawaki
--  /[[https://www.jazzofjapan.com/p/hikari-ichihara-group-unity][Unity]]/ by Hikari Ichihara Group *
+-  /[[https://www.jazzofjapan.com/p/hikari-ichihara-group-unity][Unity]]/ by Hikari Ichihara Group
 - /See all: [[https://www.jazzofjapan.com/t/trumpet][#trumpet]]/
-** 2. Saxophone
+*** 2. Saxophone
 | [[./images/bungalow-abstract-messages-460.jpeg]] | [[./images/ayumikoketsu-art-460.jpeg]] | [[./images/ryosuke-hashizume-group-as-we-breathe-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-64-charlesgate][64 Charlesgate]]/ by Akihiro Yoshimoto Quartet
 -  /[[https://www.jazzofjapan.com/p/bungalow-abstract-messages][Abstract Messages]]/ by Bungalow
 -  /[[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic][Acoustic Fluid]]/ by Ryosuke Hashizume Group
 -  /[[https://www.jazzofjapan.com/p/ayumi-koketsu-art][Art]]/ by Ayumi Koketsu
--  /[[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe][As We Breathe]]/ by Ryosuke Hashizume Group *
+-  /[[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe][As We Breathe]]/ by Ryosuke Hashizume Group
 -  /[[https://www.jazzofjapan.com/p/miyuki-moriya-beyond-the-sea][Beyond the Sea]]/ by Miyuki Moriya
 -  /[[https://www.jazzofjapan.com/p/hamasaki-matsumoto-bigcatch][Big Catch]]/ by Wataru Hamasaki Meets Akane Matsumoto Trio
 -  /[[https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle][Cat’s Cradle]]/ by Miyuki Moriya
@@ -59,46 +352,46 @@
 -  /[[https://www.jazzofjapan.com/p/bungalow-you-already-know][You Already Know]]/ by Bungalow
 -  /[[https://www.jazzofjapan.com/p/zephyr-zephyr][Zephyr]]/ by Zephyr
 - /See all: [[https://www.jazzofjapan.com/t/saxophone][#saxophone]]/
-** 3. Trombone
+*** 3. Trombone
 | [[./images/mariko-maeda-awareness-460.jpeg]] | [[./images/akane-matsumoto-nanami-haruta-for-460.jpeg]] | [[./images/nanami-haruta-ii-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/mariko-maeda-awareness][Awareness]]/ by Mariko Maeda
 -  /[[https://www.jazzofjapan.com/p/akane-matsumoto-nanami-haruta-for][For My Lady]]/ by Akane Matsumoto & Nanami Haruta
--  /[[https://www.jazzofjapan.com/p/nanami-haruta-ii][II]]/ by Nanami Haruta *
+-  /[[https://www.jazzofjapan.com/p/nanami-haruta-ii][II]]/ by Nanami Haruta
 - /See all: [[https://www.jazzofjapan.com/t/trombone][#trombone]]/
-** 4. Flute
+*** 4. Flute
 | [[./images/banda-feliz-boa-viagem-460.jpeg]] | [[./images/makiyo-sakai-silver-painting-460.jpeg]] | [[./images/erisa-ogawa-where-have-u-been-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/banda-feliz-boa-viagem][Boa Viagem]]/ by Banda Feliz /(Brazilian/Latin jazz)/
 -  /[[https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori][Gakudan Hitori]]/ by Reikan Kobayashi
--  /[[https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting][Silver Painting]]/ by Makiyo Sakai *
+-  /[[https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting][Silver Painting]]/ by Makiyo Sakai
 -  /[[https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been][Where Have U Been?]]/ by Erisa Ogawa
 - /See all: [[https://www.jazzofjapan.com/t/flute][#flute]]/
-** 5. Clarinet
+*** 5. Clarinet
 | [[./images/tokuhirodoi-amalthea-460.jpeg]] | [[./images/tokuhirodoi-amalthea-460.jpeg]] | [[./images/tokuhirodoi-amalthea-460.jpeg]] |
--  /[[https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea][Amalthea]]/ by Tokuhiro Doi Quartet *
+-  /[[https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea][Amalthea]]/ by Tokuhiro Doi Quartet
 - /See all: [[https://www.jazzofjapan.com/t/clarinet][#clarinet]]/
-** 6. Violin
+*** 6. Violin
 | [[./images/norikosatomi-lovesupreme-460.jpeg]] | [[./images/maikotrio-three-460.jpeg]] | [[./images/noriko-satomi-project-n-460.jpg]] |
 -  /[[https://www.jazzofjapan.com/p/noriko-satomi-a-love-supreme][A Love Supreme]]/ by Noriko Satomi
 -  /[[https://www.jazzofjapan.com/p/maiko-trio-live-three][Live! Three]]/ by Maiko Trio
--  /[[https://www.jazzofjapan.com/p/noriko-satomi-project-n][Project-N]]/ by Noriko Satomi *
+-  /[[https://www.jazzofjapan.com/p/noriko-satomi-project-n][Project-N]]/ by Noriko Satomi
 -  /[[https://www.jazzofjapan.com/p/maiko-solo][Solo]]/ by Maiko /(solo)/
 - /See all: [[https://www.jazzofjapan.com/t/violin][#violin]]/
-** 7. Cello
+*** 7. Cello
 | [[./images/arco-asymmetry-460.jpeg]] | [[./images/arco-birth-460.jpeg]] | [[./images/arco-liveatyoncha-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/arco-asymmetry][Asymmetry]]/ by Arco
 -  /[[https://www.jazzofjapan.com/p/arco-birth][Birth]]/ by Arco
--  /[[https://www.jazzofjapan.com/p/arco-live-at-yoncha][Live At Yoncha]]/ by Arco *
+-  /[[https://www.jazzofjapan.com/p/arco-live-at-yoncha][Live At Yoncha]]/ by Arco
 - /See all: [[https://www.jazzofjapan.com/t/cello][#cello]]/
-** 8. Vibraphone
+*** 8. Vibraphone
 | [[./images/magnolia-el-viento-y-las-flores-460.jpeg]] | [[./images/kaori-vibes-quartet-starry-nights-460.jpeg]] | [[./images/reiko-yamamoto-square-pyramid-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/kaori-vibes-quartet-cross-point][Cross Point]]/ by Kaori Vibes Quartet
--  /[[https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores][El viento y las flores]]/ by Magnolia *
+-  /[[https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores][El viento y las flores]]/ by Magnolia
 -  /[[https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind][Flying Mind]]/ by Kaori Vibes Quartet
 -  /[[https://www.jazzofjapan.com/p/fumiko-yamazaki-here-goes][Here Goes!]]/ by Fumiko Yamazaki
 -  /[[https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights][Starry Nights]]/ by Kaori Vibes Quartet
 -  /[[https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid][The Square Pyramid]]/ by Reiko Yamamoto
 - /See all: [[https://www.jazzofjapan.com/t/vibraphone][#vibraphone]]/
-** 9. Guitar
+*** 9. Guitar
 | [[./images/fumika-asari-introducin-460.jpeg]] | [[./images/fe-live-at-virtuoso-460.jpeg]] | [[./images/hiroshi-fukutomi-memory-stones-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/yudo-matsuo-bonanza][Bonanza]]/ by Yudo Matsuo
 -  /[[https://www.jazzofjapan.com/p/shigeo-fukuda-and-toshiki-nunokawa][Childhood’s Dream]]/ by Shigeo Fukuda & Toshiki Nunokawa
@@ -112,9 +405,9 @@
 -  /[[https://www.jazzofjapan.com/p/motohiko-ichino-sketches][Sketches]]/ by Motohiko Ichino
 -  /[[https://www.jazzofjapan.com/p/ghost-peak-goat-on-a-peak][The Goat on a Peak]]/ by Ghost Peak /(free/experimental)/
 -  /[[https://www.jazzofjapan.com/p/rabbitoo-the-torch][The Torch]]/ by Rabbitoo
--  /[[https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road][Two for the Road]]/ by Yuji Ito & Koichi Hirata Duo *
+-  /[[https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road][Two for the Road]]/ by Yuji Ito & Koichi Hirata Duo
 - /See all: [[https://www.jazzofjapan.com/t/guitar][#guitar]]/
-** 10. Piano
+*** 10. Piano
 | [[./images/mamoru-ishida-afterglow-460.jpeg]] | [[./images/fumiechiba-beautifuldays-460.jpeg]] | [[./images/haruminomoto-belinda-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/yukako-yamano-1st-stage][1st Stage]]/ by Yukako Yamano
 -  /[[https://www.jazzofjapan.com/p/yukako-yamano-3rd-stage][3rd Stage]]/ by Yukako Yamano /(solo)/
@@ -211,7 +504,7 @@
 -  /[[https://www.jazzofjapan.com/p/mayuko-katakura-echoes-of-three][The Echoes of Three]]/ by Mayuko Katakura
 -  /[[https://www.jazzofjapan.com/p/takako-yamada-flow-of-time][The Flow of Time]]/ by Takako Yamada
 -  /[[https://www.jazzofjapan.com/p/yuichiro-aratake-light-flows-in][The Light Flows In]]/ by Yuichiro Aratake /(solo)/
--  /[[https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue][Tides of Blue]]/ by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa *
+-  /[[https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue][Tides of Blue]]/ by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa
 -  /[[https://www.jazzofjapan.com/p/fumie-chiba-trio-tip-of-dream][Tip of Dream]]/ by Fumie Chiba Trio
 -  /[[https://www.jazzofjapan.com/p/taihei-asakawa-trio-touch-of-winter][Touch of Winter]]/ by Taihei Asakawa Trio
 -  /[[https://www.jazzofjapan.com/p/sumire-kuribayashi-trio-toys][Toys]]/ by Sumire Kuribayashi Trio
@@ -227,12 +520,12 @@
 -  /[[https://www.jazzofjapan.com/p/miki-hayama-trio-wide-angle][Wide Angle]]/ by Miki Hayama Trio
 -  /[[https://www.jazzofjapan.com/p/manabu-ohishi-trio-wish][Wish]]/ by Manabu Ohishi Trio
 - /See all: [[https://www.jazzofjapan.com/t/piano][#piano]]/
-** 11. Bass
+*** 11. Bass
 | [[./images/kunpei-nakabayashi-orchestra-circles-460.jpeg]] | [[./images/yasumasakumagai-ryukawamura-olschool-460.jpeg]] | [[./images/daiki-yasukagawa-new-trio-three-roses-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/shinichi-kato-bass-on-cinema][Bass on Cinema]]/ by Shinichi Kato
 -  /[[https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times][Bass on Times]]/ by Satoshi Kosugi
 -  /[[https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence][By Coincidence]]/ by Yoshihito “P” Koizumi P-Project
--  /[[https://www.jazzofjapan.com/p/kunpei-nakabayashi-orchestra-circles][Circles]]/ by Kunpei Nakabayashi Orchestra *
+-  /[[https://www.jazzofjapan.com/p/kunpei-nakabayashi-orchestra-circles][Circles]]/ by Kunpei Nakabayashi Orchestra
 -  /[[https://www.jazzofjapan.com/p/shinichi-kato-and-masahiko-sato-duet][Duet]]/ by Shinichi Kato & Masahiko Sato
 -  /[[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-kanmai][Kanmai]]/ by Daiki Yasukagawa Trio
 -  /[[https://www.jazzofjapan.com/p/motoi-kanamori-my-soul-meeting][My Soul Meeting]]/ by Motoi Kanamori
@@ -244,10 +537,10 @@
 -  /[[https://www.jazzofjapan.com/p/daiki-yasukagawa-new-trio-three-roses][The Three Roses]]/ by Daiki Yasukagawa New Trio
 -  /[[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-trios-ii][Trios II]]/ by Daiki Yasukagawa Trio
 - /See all: [[https://www.jazzofjapan.com/t/bass][#bass]]/
-** 12. Drums
+*** 12. Drums
 | [[./images/koomura-introspect-460.jpeg]] | [[./images/kaito-nakamura-invisible-diary-460.jpeg]] | [[./images/hiro-kimura-trees-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds][Folds]]/ by Hiro Kimura Quintet
--  /[[https://www.jazzofjapan.com/p/shinya-fukumori-trio-for-2-akis][For 2 Akis]]/ by Shinya Fukumori Trio /(free/experimental)/ *
+-  /[[https://www.jazzofjapan.com/p/shinya-fukumori-trio-for-2-akis][For 2 Akis]]/ by Shinya Fukumori Trio /(free/experimental)/
 -  /[[https://www.jazzofjapan.com/p/blue-dot-halo][Halo]]/ by Blue Dot
 -  /[[https://www.jazzofjapan.com/p/ko-omura-introspect][Introspect]]/ by Ko Omura
 -  /[[https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary][Invisible Diary]]/ by Kaito Nakamura
@@ -259,7 +552,7 @@
 -  /[[https://www.jazzofjapan.com/p/hiro-kimura-trees][Trees]]/ by Hiro Kimura
 -  /[[https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed][You’ve Changed]]/ by Hara Dairiki Trio
 - /See all: [[https://www.jazzofjapan.com/t/drums][#drums]]/
-** 13. Vocals
+*** 13. Vocals
 | [[./images/makifujimura-best-460.jpeg]] | [[./images/emiko-voice-yuka-yanagihara-enyana-460.jpeg]] | [[./images/koto-ha-to-shiro-o-mateoba-460.jpeg]] |
 -  /[[https://www.jazzofjapan.com/p/meu-coracao-a-tempo][A Tempo]]/ by Meu Coracao /(Brazilian/Latin jazz)/
 -  /[[https://www.jazzofjapan.com/p/yuka-ueda-agora][Agora]]/ by Yuka Ueda /(Brazilian/Latin jazz)/
@@ -291,7 +584,7 @@
 -  /[[https://www.jazzofjapan.com/p/emiko-voice-x-suga-dairo-phase-2][Phase 2]]/ by Emiko Voice x Suga Dairo
 -  /[[https://www.jazzofjapan.com/p/nobie-primary][Primary]]/ by Nobie
 -  /[[https://www.jazzofjapan.com/p/yako-horikita-shining-hour][Shining Hour]]/ by Yako Horikita
--  /[[https://www.jazzofjapan.com/p/koto-ha-to-shiro-o-matoeba][Shiro o Matoeba]]/ by Koto ha, To *
+-  /[[https://www.jazzofjapan.com/p/koto-ha-to-shiro-o-matoeba][Shiro o Matoeba]]/ by Koto ha, To
 -  /[[https://www.jazzofjapan.com/p/emiko-voice-standard-trio][Standard Trio]]/ by Emiko Voice /(Brazilian/Latin jazz)/
 -  /[[https://www.jazzofjapan.com/p/layla-tomomi-sakai-stolen-moments][Stolen Moments]]/ by Layla Tomomi Sakai
 -  /[[https://www.jazzofjapan.com/p/rie-taguchi-gift][The Gift]]/ by Rie Taguchi
@@ -305,7 +598,3 @@
 -  /[[https://www.jazzofjapan.com/p/layla-tomomi-sakai-whisper-not][Whisper Not]]/ by Layla Tomomi Sakai
 -  /[[https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life][Wonderful Life]]/ by Masako Kunisada
 - /See all: [[https://www.jazzofjapan.com/t/vocals][#vocals]]/
-
-#+BEGIN_EXAMPLE
-   *: latest article in category
-#+END_EXAMPLE

@@ -1,0 +1,35 @@
+baseURL = 'https://www.jazzofjapan.com'
+languageCode = 'en-us'
+title = 'Jazz of Japan'
+theme = 'ananke'
+
+# for audio control in html (https://ox-hugo.scripter.co/doc/goldmark/)
+[markup.goldmark.renderer]
+  unsafe = true
+
+# https://gohugo.io/host-and-deploy/host-on-github-pages/
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[menus]
+  # [[menus.main]]
+  #   name = 'Home'
+  #   pageRef = 'https://www.jazzofjapan.com/'
+  #   weight = 10
+  [[menus.main]]
+    name = 'Albums Index'
+    pageRef = 'albums-index'
+    weight = 20
+  [[menus.main]]
+    name = 'Musicians Index'
+    pageRef = 'musicians-index'
+    weight = 30
+  [[menus.main]]
+    name = 'Audio Mixes'
+    pageRef = 'audio-mixes'
+    weight = 40
+  [[menus.main]]
+    name = 'Publish History Timeline'
+    pageRef = 'timeline'
+    weight = 50

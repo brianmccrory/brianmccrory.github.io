@@ -7,471 +7,471 @@
 /Chronological sitemap with links to articles/
 
 *January 2018*
-- [[https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi][Kazumi Ikenaga: /Niwatazumi/]]
-- [[https://www.jazzofjapan.com/p/akane-matsumoto-night-and-day][Akane Matsumoto: /Night & Day/]]
-- [[https://www.jazzofjapan.com/p/ayumi-koketsu-art][Ayumi Koketsu: /Art/]]
-- [[https://www.jazzofjapan.com/p/bungalow-you-already-know][Bungalow: /You Already Know/]]
-- [[https://www.jazzofjapan.com/p/emiko-voice-carta][Emiko Voice: /Carta/]]
-- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices][Ryosuke Hashizume Group: /Incomplete Voices/]]
-- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead][Yasumasa Kumagai: /J-Straight Ahead/]]
-- [[https://www.jazzofjapan.com/p/arco-asymmetry][Arco: /Asymmetry/]]
-- [[https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te][Sayaka Kishi: /Featuring Te/]]
+1. [@1] [[https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi][Kazumi Ikenaga: /Niwatazumi/]]
+2. [@2] [[https://www.jazzofjapan.com/p/akane-matsumoto-night-and-day][Akane Matsumoto: /Night & Day/]]
+3. [@3] [[https://www.jazzofjapan.com/p/ayumi-koketsu-art][Ayumi Koketsu: /Art/]]
+4. [@4] [[https://www.jazzofjapan.com/p/bungalow-you-already-know][Bungalow: /You Already Know/]]
+5. [@5] [[https://www.jazzofjapan.com/p/emiko-voice-carta][Emiko Voice: /Carta/]]
+6. [@6] [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices][Ryosuke Hashizume Group: /Incomplete Voices/]]
+7. [@7] [[https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead][Yasumasa Kumagai: /J-Straight Ahead/]]
+8. [@8] [[https://www.jazzofjapan.com/p/arco-asymmetry][Arco: /Asymmetry/]]
+9. [@9] [[https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te][Sayaka Kishi: /Featuring Te/]]
 *February 2018*
-- [[https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill][Akiko Suda: /Flowers On The Hill/]]
-- [[https://www.jazzofjapan.com/p/hiroco-nagano-okurimono][Hiroco Nagano: /Okurimono/]]
-- [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind][Kaori Vibes Quartet: /Flying Mind/]]
-- [[https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times][Satoshi Kosugi: /Bass on Times/]]
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-many-seasons][Hitomi Nishiyama Trio: /Many Seasons/]]
-- [[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope][Keisuke Nakamura: /Humadope/]]
-- [[https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible][Junichiro Ohkuchi Trio: /Invisible/]]
-- [[https://www.jazzofjapan.com/p/mayuko-katakura-faith][Mayuko Katakura: /Faith/]]
-- [[https://www.jazzofjapan.com/p/takuji-yamada-lite-blue][Takuji Yamada: /Lite Blue/]]
-- [[https://www.jazzofjapan.com/p/seiji-endo-circle-for-peace][Seiji Endo: /Circle for Peace/]]
-- [[https://www.jazzofjapan.com/p/koichi-sato-melancholy][Koichi Sato: /Melancholy of a Journey/]]
-- [[https://www.jazzofjapan.com/p/rie-taguchi-gift][Rie Taguchi: /The Gift/]]
-- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-needful-things][Ryosuke Hashizume: /Needful Things/]]
-- [[https://www.jazzofjapan.com/p/toshihiko-inoue-vayu][Toshihiko Inoue: /Vayu/]]
-- [[https://www.jazzofjapan.com/p/sohnosuke-imaizumi-rin][Sohnosuke Imaizumi: /Rin/]]
+10. [@10] [[https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill][Akiko Suda: /Flowers On The Hill/]]
+11. [@11] [[https://www.jazzofjapan.com/p/hiroco-nagano-okurimono][Hiroco Nagano: /Okurimono/]]
+12. [@12] [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind][Kaori Vibes Quartet: /Flying Mind/]]
+13. [@13] [[https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times][Satoshi Kosugi: /Bass on Times/]]
+14. [@14] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-many-seasons][Hitomi Nishiyama Trio: /Many Seasons/]]
+15. [@15] [[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope][Keisuke Nakamura: /Humadope/]]
+16. [@16] [[https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible][Junichiro Ohkuchi Trio: /Invisible/]]
+17. [@17] [[https://www.jazzofjapan.com/p/mayuko-katakura-faith][Mayuko Katakura: /Faith/]]
+18. [@18] [[https://www.jazzofjapan.com/p/takuji-yamada-lite-blue][Takuji Yamada: /Lite Blue/]]
+19. [@19] [[https://www.jazzofjapan.com/p/seiji-endo-circle-for-peace][Seiji Endo: /Circle for Peace/]]
+20. [@20] [[https://www.jazzofjapan.com/p/koichi-sato-melancholy][Koichi Sato: /Melancholy of a Journey/]]
+21. [@21] [[https://www.jazzofjapan.com/p/rie-taguchi-gift][Rie Taguchi: /The Gift/]]
+22. [@22] [[https://www.jazzofjapan.com/p/ryosuke-hashizume-needful-things][Ryosuke Hashizume: /Needful Things/]]
+23. [@23] [[https://www.jazzofjapan.com/p/toshihiko-inoue-vayu][Toshihiko Inoue: /Vayu/]]
+24. [@24] [[https://www.jazzofjapan.com/p/sohnosuke-imaizumi-rin][Sohnosuke Imaizumi: /Rin/]]
 *March 2018*
-- [[https://www.jazzofjapan.com/p/mayuko-katakura-inspiration][Mayuko Katakura: /Inspiration/]]
-- [[https://www.jazzofjapan.com/p/sachiko-ikuta-trio-haru][Sachiko Ikuta Trio: /Haru No Kaze/]]
-- [[https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair][Sumito Oi: /Sumitty & The Funfair/]]
-- [[https://www.jazzofjapan.com/p/tomoka-miwa-colors][Tomoka Miwa: /Colors in Silence/]]
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-music-in-you][Hitomi Nishiyama Trio: /Music in You/]]
-- [[https://www.jazzofjapan.com/p/seiji-endo-tsutaete-ikou][Seiji Endo: /Tsutaete Ikou/]]
-- [[https://www.jazzofjapan.com/p/meu-coracao-a-tempo][Meu Coracao: /A Tempo/]]
-- [[https://www.jazzofjapan.com/p/ami-fukui-trio-new-journey][Ami Fukui Trio: /New Journey/]]
-- [[https://www.jazzofjapan.com/p/atomi-hamada-this-is-atomi][Atomi Hamada: /This is Atomi/]]
-- [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-cross-point][Kaori Vibes Quartet: /Cross Point/]]
-- [[https://www.jazzofjapan.com/p/les-komatis-les-komatis][Les Komatis: /Les Komatis/]]
+25. [@25] [[https://www.jazzofjapan.com/p/mayuko-katakura-inspiration][Mayuko Katakura: /Inspiration/]]
+26. [@26] [[https://www.jazzofjapan.com/p/sachiko-ikuta-trio-haru][Sachiko Ikuta Trio: /Haru No Kaze/]]
+27. [@27] [[https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair][Sumito Oi: /Sumitty & The Funfair/]]
+28. [@28] [[https://www.jazzofjapan.com/p/tomoka-miwa-colors][Tomoka Miwa: /Colors in Silence/]]
+29. [@29] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-music-in-you][Hitomi Nishiyama Trio: /Music in You/]]
+30. [@30] [[https://www.jazzofjapan.com/p/seiji-endo-tsutaete-ikou][Seiji Endo: /Tsutaete Ikou/]]
+31. [@31] [[https://www.jazzofjapan.com/p/meu-coracao-a-tempo][Meu Coracao: /A Tempo/]]
+32. [@32] [[https://www.jazzofjapan.com/p/ami-fukui-trio-new-journey][Ami Fukui Trio: /New Journey/]]
+33. [@33] [[https://www.jazzofjapan.com/p/atomi-hamada-this-is-atomi][Atomi Hamada: /This is Atomi/]]
+34. [@34] [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-cross-point][Kaori Vibes Quartet: /Cross Point/]]
+35. [@35] [[https://www.jazzofjapan.com/p/les-komatis-les-komatis][Les Komatis: /Les Komatis/]]
 *April 2018*
-- [[https://www.jazzofjapan.com/p/mayuko-katakura-echoes-of-three][Mayuko Katakura: /The Echoes of Three/]]
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-parallax-live][Hitomi Nishiyama Trio “Parallax”: /Live/]]
-- [[https://www.jazzofjapan.com/p/manabu-ohishi-trio-wish][Manabu Ohishi Trio: /Wish/]]
-- [[https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed][Hara Dairiki Trio: /You’ve Changed/]]
-- [[https://www.jazzofjapan.com/p/kenichiro-shinzawa-piano-works][Ken’ichiro Shinzawa: /Piano Works/]]
-- [[https://www.jazzofjapan.com/p/miki-hayama-trio-wide-angle][Miki Hayama Trio: /Wide Angle/]]
-- [[https://www.jazzofjapan.com/p/yuya-wakai-images][Yuya Wakai: /Images/]]
+36. [@36] [[https://www.jazzofjapan.com/p/mayuko-katakura-echoes-of-three][Mayuko Katakura: /The Echoes of Three/]]
+37. [@37] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-parallax-live][Hitomi Nishiyama Trio “Parallax”: /Live/]]
+38. [@38] [[https://www.jazzofjapan.com/p/manabu-ohishi-trio-wish][Manabu Ohishi Trio: /Wish/]]
+39. [@39] [[https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed][Hara Dairiki Trio: /You’ve Changed/]]
+40. [@40] [[https://www.jazzofjapan.com/p/kenichiro-shinzawa-piano-works][Ken’ichiro Shinzawa: /Piano Works/]]
+41. [@41] [[https://www.jazzofjapan.com/p/miki-hayama-trio-wide-angle][Miki Hayama Trio: /Wide Angle/]]
+42. [@42] [[https://www.jazzofjapan.com/p/yuya-wakai-images][Yuya Wakai: /Images/]]
 *May 2018*
-- [[https://www.jazzofjapan.com/p/ayumi-koketsu-rainbow-tales][Ayumi Koketsu: /Rainbow Tales/]]
-- [[https://www.jazzofjapan.com/p/bungalow-past-life][Bungalow: /Past Life/]]
-- [[https://www.jazzofjapan.com/p/sanae-ishikawa-feel-like-makin-love][Sanae Ishikawa: /Feel Like Makin’ Love/]]
-- [[https://www.jazzofjapan.com/p/taihei-asakawa-catastrophe-in-jazz][Taihei Asakawa: /Catastrophe in Jazz/]]
+43. [@43] [[https://www.jazzofjapan.com/p/ayumi-koketsu-rainbow-tales][Ayumi Koketsu: /Rainbow Tales/]]
+44. [@44] [[https://www.jazzofjapan.com/p/bungalow-past-life][Bungalow: /Past Life/]]
+45. [@45] [[https://www.jazzofjapan.com/p/sanae-ishikawa-feel-like-makin-love][Sanae Ishikawa: /Feel Like Makin’ Love/]]
+46. [@46] [[https://www.jazzofjapan.com/p/taihei-asakawa-catastrophe-in-jazz][Taihei Asakawa: /Catastrophe in Jazz/]]
 *July 2018*
-- [[https://www.jazzofjapan.com/p/ko-omura-introspect][Ko Omura: /Introspect/]]
-- [[https://www.jazzofjapan.com/p/takako-yamada-flow-of-time][Takako Yamada: /The Flow of Time/]]
+47. [@47] [[https://www.jazzofjapan.com/p/ko-omura-introspect][Ko Omura: /Introspect/]]
+48. [@48] [[https://www.jazzofjapan.com/p/takako-yamada-flow-of-time][Takako Yamada: /The Flow of Time/]]
 *August 2018*
-- [[https://www.jazzofjapan.com/p/yukako-yamano-1st-stage][Yukako Yamano: /1st Stage/]]
-- [[https://www.jazzofjapan.com/p/hamasaki-matsumoto-bigcatch][Wataru Hamasaki Meets Akane Matsumoto Trio: /Big Catch/]]
-- [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color][Akihiro Yoshimoto Quartet: /Moving Color/]]
-- [[https://www.jazzofjapan.com/p/hideaki-hori-trio-unconditional-love][Hideaki Hori Trio: /Unconditional Love/]]
-- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too][Yasumasa Kumagai: /I Need a Change, Too/]]
+49. [@49] [[https://www.jazzofjapan.com/p/yukako-yamano-1st-stage][Yukako Yamano: /1st Stage/]]
+50. [@50] [[https://www.jazzofjapan.com/p/hamasaki-matsumoto-bigcatch][Wataru Hamasaki Meets Akane Matsumoto Trio: /Big Catch/]]
+51. [@51] [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color][Akihiro Yoshimoto Quartet: /Moving Color/]]
+52. [@52] [[https://www.jazzofjapan.com/p/hideaki-hori-trio-unconditional-love][Hideaki Hori Trio: /Unconditional Love/]]
+53. [@53] [[https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too][Yasumasa Kumagai: /I Need a Change, Too/]]
 *September 2018*
-- [[https://www.jazzofjapan.com/p/hakuei-kim-trio-open-the-green-door][Hakuei Kim Trio: /Open the Green Door/]]
-- [[https://www.jazzofjapan.com/p/ami-fukui-amizm][Ami Fukui: /Amizm/]]
-- [[https://www.jazzofjapan.com/p/koichi-sato-utopia][Koichi Sato: /Utopia/]]
+54. [@54] [[https://www.jazzofjapan.com/p/hakuei-kim-trio-open-the-green-door][Hakuei Kim Trio: /Open the Green Door/]]
+55. [@55] [[https://www.jazzofjapan.com/p/ami-fukui-amizm][Ami Fukui: /Amizm/]]
+56. [@56] [[https://www.jazzofjapan.com/p/koichi-sato-utopia][Koichi Sato: /Utopia/]]
 *October 2018*
-- [[https://www.jazzofjapan.com/p/taihei-asakawa-trio-touch-of-winter][Taihei Asakawa Trio: /Touch of Winter/]]
-- [[https://www.jazzofjapan.com/p/sayaketts-colors][Sayaketts: /Colors/]]
-- [[https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation][Seiji Endo: /Sakura Meditation/]]
-- [[https://www.jazzofjapan.com/p/michiyo-matsushita-sally-gardens][Michiyo Matsushita: /Sally Gardens/]]
+57. [@57] [[https://www.jazzofjapan.com/p/taihei-asakawa-trio-touch-of-winter][Taihei Asakawa Trio: /Touch of Winter/]]
+58. [@58] [[https://www.jazzofjapan.com/p/sayaketts-colors][Sayaketts: /Colors/]]
+59. [@59] [[https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation][Seiji Endo: /Sakura Meditation/]]
+60. [@60] [[https://www.jazzofjapan.com/p/michiyo-matsushita-sally-gardens][Michiyo Matsushita: /Sally Gardens/]]
 *November 2018*
-- [[https://www.jazzofjapan.com/p/trispace-trispace][Trispace: /Trispace/]]
+61. [@61] [[https://www.jazzofjapan.com/p/trispace-trispace][Trispace: /Trispace/]]
 *December 2018*
-- [[https://www.jazzofjapan.com/p/fumie-chiba-trio-tip-of-dream][Fumie Chiba Trio: /Tip of Dream/]]
-- [[https://www.jazzofjapan.com/p/taihei-asakawa-waltz-for-debby][Taihei Asakawa: /Waltz for Debby/]]
-- [[https://www.jazzofjapan.com/p/sanae-ishikawa-grown-up-christmas][Sanae Ishikawa: /Grown-up Christmas Gift/]]
+62. [@62] [[https://www.jazzofjapan.com/p/fumie-chiba-trio-tip-of-dream][Fumie Chiba Trio: /Tip of Dream/]]
+63. [@63] [[https://www.jazzofjapan.com/p/taihei-asakawa-waltz-for-debby][Taihei Asakawa: /Waltz for Debby/]]
+64. [@64] [[https://www.jazzofjapan.com/p/sanae-ishikawa-grown-up-christmas][Sanae Ishikawa: /Grown-up Christmas Gift/]]
 *January 2019*
-- [[https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea][Tokuhiro Doi Quartet: /Amalthea/]]
-- [[https://www.jazzofjapan.com/p/maki-fujimura-best-wishes][Maki Fujimura: /Best Wishes/]]
-- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-visible-invisible][Ryosuke Hashizume Group: /Visible/Invisible/]]
+65. [@65] [[https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea][Tokuhiro Doi Quartet: /Amalthea/]]
+66. [@66] [[https://www.jazzofjapan.com/p/maki-fujimura-best-wishes][Maki Fujimura: /Best Wishes/]]
+67. [@67] [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-visible-invisible][Ryosuke Hashizume Group: /Visible/Invisible/]]
 *February 2019*
-- [[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-n40][Shinpei Ruike & George Nakajima: /N.40°/]]
-- [[https://www.jazzofjapan.com/p/akane-matsumoto-playing-new-york][Akane Matsumoto: /Playing New York/]]
+68. [@68] [[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-n40][Shinpei Ruike & George Nakajima: /N.40°/]]
+69. [@69] [[https://www.jazzofjapan.com/p/akane-matsumoto-playing-new-york][Akane Matsumoto: /Playing New York/]]
 *March 2019*
-- [[https://www.jazzofjapan.com/p/blue-dot-halo][Blue Dot: /Halo/]]
-- [[https://www.jazzofjapan.com/p/masako-kunisada-m][Masako Kunisada: /M/]]
-- [[https://www.jazzofjapan.com/p/zephyr-zephyr][Zephyr: /Zephyr/]]
+70. [@70] [[https://www.jazzofjapan.com/p/blue-dot-halo][Blue Dot: /Halo/]]
+71. [@71] [[https://www.jazzofjapan.com/p/masako-kunisada-m][Masako Kunisada: /M/]]
+72. [@72] [[https://www.jazzofjapan.com/p/zephyr-zephyr][Zephyr: /Zephyr/]]
 *April 2019*
-- [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo][Harumi Nomoto Trio: /Virgo/]]
+73. [@73] [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo][Harumi Nomoto Trio: /Virgo/]]
 *May 2019*
-- [[https://www.jazzofjapan.com/p/yuichiro-aratake-light-flows-in][Yuichiro Aratake: /The Light Flows In/]]
-- [[https://www.jazzofjapan.com/p/hikari-ichihara-group-move-on][Hikari Ichihara Group: /Move On/]]
+74. [@74] [[https://www.jazzofjapan.com/p/yuichiro-aratake-light-flows-in][Yuichiro Aratake: /The Light Flows In/]]
+75. [@75] [[https://www.jazzofjapan.com/p/hikari-ichihara-group-move-on][Hikari Ichihara Group: /Move On/]]
 *June 2019*
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-sympathy][Hitomi Nishiyama Trio: /Sympathy/]]
+76. [@76] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-sympathy][Hitomi Nishiyama Trio: /Sympathy/]]
 *July 2019*
-- [[https://www.jazzofjapan.com/p/seiji-endo-genji-monogatari-volume-1][Seiji Endo: /Genji Monogatari Volume 1/]]
-- [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-island][Layla Tomomi Sakai: /The Island/]]
+77. [@77] [[https://www.jazzofjapan.com/p/seiji-endo-genji-monogatari-volume-1][Seiji Endo: /Genji Monogatari Volume 1/]]
+78. [@78] [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-island][Layla Tomomi Sakai: /The Island/]]
 *August 2019*
-- [[https://www.jazzofjapan.com/p/nobie-benin-rio-tokyo][Nobie: /Bénin Rio Tokyo/]]
-- [[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-kanmai][Daiki Yasukagawa Trio: /Kanmai/]]
+79. [@79] [[https://www.jazzofjapan.com/p/nobie-benin-rio-tokyo][Nobie: /Bénin Rio Tokyo/]]
+80. [@80] [[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-kanmai][Daiki Yasukagawa Trio: /Kanmai/]]
 *September 2019*
-- [[https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great][Sayaka Kishi Trio: /Life Is Too Great/]]
-- [[https://www.jazzofjapan.com/p/minoru-yoshiki-soulstation-path-of-hope][Minoru Yoshiki Soulstation: /Path of Hope/]]
-- [[https://www.jazzofjapan.com/p/shinichi-kato-bass-on-cinema][Shinichi Kato: /Bass on Cinema/]]
+81. [@81] [[https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great][Sayaka Kishi Trio: /Life Is Too Great/]]
+82. [@82] [[https://www.jazzofjapan.com/p/minoru-yoshiki-soulstation-path-of-hope][Minoru Yoshiki Soulstation: /Path of Hope/]]
+83. [@83] [[https://www.jazzofjapan.com/p/shinichi-kato-bass-on-cinema][Shinichi Kato: /Bass on Cinema/]]
 *October 2019*
-- [[https://www.jazzofjapan.com/p/mie-joke-etrenne][Mie Joké: /Etrenne/]]
+84. [@84] [[https://www.jazzofjapan.com/p/mie-joke-etrenne][Mie Joké: /Etrenne/]]
 *November 2019*
-- [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone][Mabumi Yamaguchi: /Let Your Mind Alone/]]
+85. [@85] [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone][Mabumi Yamaguchi: /Let Your Mind Alone/]]
 *December 2019*
-- [[https://www.jazzofjapan.com/p/yako-horikita-shining-hour][Yako Horikita: /Shining Hour/]]
+86. [@86] [[https://www.jazzofjapan.com/p/yako-horikita-shining-hour][Yako Horikita: /Shining Hour/]]
 *January 2020*
-- [[https://www.jazzofjapan.com/p/nhorhm-extra-edition][NHORHM: /New Heritage of Real Heavy Metal -Extra Edition-/]]
-- [[https://www.jazzofjapan.com/p/miki-hayama-prelude-to-a-kiss][Miki Hayama: /Prelude to a Kiss/]]
-- [[https://www.jazzofjapan.com/p/seiji-tada-workout][Seiji Tada: /Workout!!/]]
-- [[https://www.jazzofjapan.com/p/hideaki-hori-trio-in-my-words][Hideaki Hori Trio: /In My Words/]]
-- [[https://www.jazzofjapan.com/p/routine-jazz-sextet-routine-jazz-sextet][Routine Jazz Sextet: /Routine Jazz Sextet/]]
-- [[https://www.jazzofjapan.com/p/maiko-trio-live-three][Maiko Trio: /Live! Three/]]
-- [[https://www.jazzofjapan.com/p/rabbitoo-national-anthem-of-unknown][Rabbitoo: /National Anthem of Unknown Country/]]
-- [[https://www.jazzofjapan.com/p/hideaki-kanazawa-sumire-kuribayashi-nijuso][Hideaki Kanazawa & Sumire Kuribayashi: /Nijuso/]]
-- [[https://www.jazzofjapan.com/p/noriko-satomi-a-love-supreme][Noriko Satomi: /A Love Supreme/]]
+87. [@87] [[https://www.jazzofjapan.com/p/nhorhm-extra-edition][NHORHM: /New Heritage of Real Heavy Metal -Extra Edition-/]]
+88. [@88] [[https://www.jazzofjapan.com/p/miki-hayama-prelude-to-a-kiss][Miki Hayama: /Prelude to a Kiss/]]
+89. [@89] [[https://www.jazzofjapan.com/p/seiji-tada-workout][Seiji Tada: /Workout!!/]]
+90. [@90] [[https://www.jazzofjapan.com/p/hideaki-hori-trio-in-my-words][Hideaki Hori Trio: /In My Words/]]
+91. [@91] [[https://www.jazzofjapan.com/p/routine-jazz-sextet-routine-jazz-sextet][Routine Jazz Sextet: /Routine Jazz Sextet/]]
+92. [@92] [[https://www.jazzofjapan.com/p/maiko-trio-live-three][Maiko Trio: /Live! Three/]]
+93. [@93] [[https://www.jazzofjapan.com/p/rabbitoo-national-anthem-of-unknown][Rabbitoo: /National Anthem of Unknown Country/]]
+94. [@94] [[https://www.jazzofjapan.com/p/hideaki-kanazawa-sumire-kuribayashi-nijuso][Hideaki Kanazawa & Sumire Kuribayashi: /Nijuso/]]
+95. [@95] [[https://www.jazzofjapan.com/p/noriko-satomi-a-love-supreme][Noriko Satomi: /A Love Supreme/]]
 *February 2020*
-- [[https://www.jazzofjapan.com/p/azumi-almost-like-being-in-love][Azumi: /Almost Like Being in Love/]]
-- [[https://www.jazzofjapan.com/p/hiromi-miura-we-dont-know-yet][Hiromi Miura: /We Don’t Know Yet/]]
-- [[https://www.jazzofjapan.com/p/yudo-matsuo-bonanza][Yudo Matsuo: /Bonanza/]]
-- [[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-trios-ii][Daiki Yasukagawa Trio: /Trios II/]]
-- [[https://www.jazzofjapan.com/p/fumio-karashima-trio-its-just-beginning][Fumio Karashima Trio: /It’s Just Beginning/]]
-- [[https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori][Reikan Kobayashi: /Gakudan Hitori/]]
-- [[https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle][Miyuki Moriya: /Cat’s Cradle/]]
-- [[https://www.jazzofjapan.com/p/trio-export-small-pieces-for-flying-padre][Trio Export 63.1.0.X: /Small Pieces for Flying Padre/]]
-- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-living-without-friday][Chihiro Yamanaka Trio: /Living Without Friday/]]
-- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless][Ryosuke Hashizume Group: /Wordless/]]
-- [[https://www.jazzofjapan.com/p/emiko-voice-x-suga-dairo-phase-2][Emiko Voice x Suga Dairo: /Phase 2/]]
-- [[https://www.jazzofjapan.com/p/maiko-solo][Maiko: /Solo/]]
+96. [@96] [[https://www.jazzofjapan.com/p/azumi-almost-like-being-in-love][Azumi: /Almost Like Being in Love/]]
+97. [@97] [[https://www.jazzofjapan.com/p/hiromi-miura-we-dont-know-yet][Hiromi Miura: /We Don’t Know Yet/]]
+98. [@98] [[https://www.jazzofjapan.com/p/yudo-matsuo-bonanza][Yudo Matsuo: /Bonanza/]]
+99. [@99] [[https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-trios-ii][Daiki Yasukagawa Trio: /Trios II/]]
+100. [@100] [[https://www.jazzofjapan.com/p/fumio-karashima-trio-its-just-beginning][Fumio Karashima Trio: /It’s Just Beginning/]]
+101. [@101] [[https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori][Reikan Kobayashi: /Gakudan Hitori/]]
+102. [@102] [[https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle][Miyuki Moriya: /Cat’s Cradle/]]
+103. [@103] [[https://www.jazzofjapan.com/p/trio-export-small-pieces-for-flying-padre][Trio Export 63.1.0.X: /Small Pieces for Flying Padre/]]
+104. [@104] [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-living-without-friday][Chihiro Yamanaka Trio: /Living Without Friday/]]
+105. [@105] [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless][Ryosuke Hashizume Group: /Wordless/]]
+106. [@106] [[https://www.jazzofjapan.com/p/emiko-voice-x-suga-dairo-phase-2][Emiko Voice x Suga Dairo: /Phase 2/]]
+107. [@107] [[https://www.jazzofjapan.com/p/maiko-solo][Maiko: /Solo/]]
 *March 2020*
-- [[https://www.jazzofjapan.com/p/yukari-inoue-sakura][Yukari Inoue: /Sakura/]]
-- [[https://www.jazzofjapan.com/p/eriko-shimizu-sora][Eriko Shimizu: /Sora/]]
-- [[https://www.jazzofjapan.com/p/manabu-ohishi-trio-gift][Manabu Ohishi Trio: /Gift/]]
-- [[https://www.jazzofjapan.com/p/yuko-miyawaki-song-of-flower][Yuko Miyawaki: /Song of Flower/]]
-- [[https://www.jazzofjapan.com/p/shunichi-yanagi-trio-bubble-fish][Shunichi Yanagi Trio: /Bubble Fish/]]
-- [[https://www.jazzofjapan.com/p/baby-brothers-bb][Baby Brothers: /Bb/]]
-- [[https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis][Bungalow: /Metropolitan Oasis/]]
+108. [@108] [[https://www.jazzofjapan.com/p/yukari-inoue-sakura][Yukari Inoue: /Sakura/]]
+109. [@109] [[https://www.jazzofjapan.com/p/eriko-shimizu-sora][Eriko Shimizu: /Sora/]]
+110. [@110] [[https://www.jazzofjapan.com/p/manabu-ohishi-trio-gift][Manabu Ohishi Trio: /Gift/]]
+111. [@111] [[https://www.jazzofjapan.com/p/yuko-miyawaki-song-of-flower][Yuko Miyawaki: /Song of Flower/]]
+112. [@112] [[https://www.jazzofjapan.com/p/shunichi-yanagi-trio-bubble-fish][Shunichi Yanagi Trio: /Bubble Fish/]]
+113. [@113] [[https://www.jazzofjapan.com/p/baby-brothers-bb][Baby Brothers: /Bb/]]
+114. [@114] [[https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis][Bungalow: /Metropolitan Oasis/]]
 *April 2020*
-- [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-belinda][Harumi Nomoto Trio: /Belinda/]]
-- [[https://www.jazzofjapan.com/p/yuka-ueda-agora][Yuka Ueda: /Agora/]]
-- [[https://www.jazzofjapan.com/p/motoi-kanamori-my-soul-meeting][Motoi Kanamori: /My Soul Meeting/]]
+115. [@115] [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-belinda][Harumi Nomoto Trio: /Belinda/]]
+116. [@116] [[https://www.jazzofjapan.com/p/yuka-ueda-agora][Yuka Ueda: /Agora/]]
+117. [@117] [[https://www.jazzofjapan.com/p/motoi-kanamori-my-soul-meeting][Motoi Kanamori: /My Soul Meeting/]]
 *May 2020*
-- [[https://www.jazzofjapan.com/p/arco-birth][Arco: /Birth/]]
+118. [@118] [[https://www.jazzofjapan.com/p/arco-birth][Arco: /Birth/]]
 *August 2020*
-- [[https://www.jazzofjapan.com/p/fuse-live-fuse][Fuse: /Live Fuse/]]
-- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-when-october][Chihiro Yamanaka Trio: /When October Goes/]]
-- [[https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor][Kohsuke Mine Quintet: /Major to Minor/]]
+119. [@119] [[https://www.jazzofjapan.com/p/fuse-live-fuse][Fuse: /Live Fuse/]]
+120. [@120] [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-when-october][Chihiro Yamanaka Trio: /When October Goes/]]
+121. [@121] [[https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor][Kohsuke Mine Quintet: /Major to Minor/]]
 *September 2020*
-- [[https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life][Masako Kunisada: /Wonderful Life/]]
-- [[https://www.jazzofjapan.com/p/aquapit-aquapit][Aquapit: /Aquapit/]]
+122. [@122] [[https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life][Masako Kunisada: /Wonderful Life/]]
+123. [@123] [[https://www.jazzofjapan.com/p/aquapit-aquapit][Aquapit: /Aquapit/]]
 *October 2020*
-- [[https://www.jazzofjapan.com/p/naoko-tanaka-trio-memories][Naoko Tanaka Trio: /Memories/]]
+124. [@124] [[https://www.jazzofjapan.com/p/naoko-tanaka-trio-memories][Naoko Tanaka Trio: /Memories/]]
 *November 2020*
-- [[https://www.jazzofjapan.com/p/tcq-memories-of-t][TCQ: /Memories of T/]]
-- [[https://www.jazzofjapan.com/p/akane-matsumoto-memories-of-you][Akane Matsumoto: /Memories of You/]]
+125. [@125] [[https://www.jazzofjapan.com/p/tcq-memories-of-t][TCQ: /Memories of T/]]
+126. [@126] [[https://www.jazzofjapan.com/p/akane-matsumoto-memories-of-you][Akane Matsumoto: /Memories of You/]]
 *January 2021*
-- [[https://www.jazzofjapan.com/p/takayuki-yagi-new-departure][Takayuki Yagi: /New Departure/]]
+127. [@127] [[https://www.jazzofjapan.com/p/takayuki-yagi-new-departure][Takayuki Yagi: /New Departure/]]
 *February 2021*
-- [[https://www.jazzofjapan.com/p/miki-hirose-scratch][Miki Hirose: /Scratch/]]
-- [[https://www.jazzofjapan.com/p/yuka-ueda-dois][Yuka Ueda: /Dois/]]
-- [[https://www.jazzofjapan.com/p/water-me-water-me][Water Me!: /Water Me!/]]
+128. [@128] [[https://www.jazzofjapan.com/p/miki-hirose-scratch][Miki Hirose: /Scratch/]]
+129. [@129] [[https://www.jazzofjapan.com/p/yuka-ueda-dois][Yuka Ueda: /Dois/]]
+130. [@130] [[https://www.jazzofjapan.com/p/water-me-water-me][Water Me!: /Water Me!/]]
 *March 2021*
-- [[https://www.jazzofjapan.com/p/duo-tremolo-resonance][Duo Tremolo: /Resonance/]]
-- [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-whisper-not][Layla Tomomi Sakai: /Whisper Not/]]
-- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-madrigal][Chihiro Yamanaka Trio: /Madrigal/]]
-- [[https://www.jazzofjapan.com/p/arco-live-at-yoncha][Arco: /Live At Yoncha/]]
+131. [@131] [[https://www.jazzofjapan.com/p/duo-tremolo-resonance][Duo Tremolo: /Resonance/]]
+132. [@132] [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-whisper-not][Layla Tomomi Sakai: /Whisper Not/]]
+133. [@133] [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-madrigal][Chihiro Yamanaka Trio: /Madrigal/]]
+134. [@134] [[https://www.jazzofjapan.com/p/arco-live-at-yoncha][Arco: /Live At Yoncha/]]
 *April 2021*
-- [[https://www.jazzofjapan.com/p/yukiko-hayakawa-trio-gallery][Yukiko Hayakawa Trio: /Gallery/]]
+135. [@135] [[https://www.jazzofjapan.com/p/yukiko-hayakawa-trio-gallery][Yukiko Hayakawa Trio: /Gallery/]]
 *May 2021*
-- [[https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence][Yoshihito “P” Koizumi P-Project: /By Coincidence/]]
-- [[https://www.jazzofjapan.com/p/naoko-sakata-trio-flower-clouds][Naoko Sakata Trio: /Flower Clouds/]]
-- [[https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days][Fumie Chiba: /Beautiful Days/]]
+136. [@136] [[https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence][Yoshihito “P” Koizumi P-Project: /By Coincidence/]]
+137. [@137] [[https://www.jazzofjapan.com/p/naoko-sakata-trio-flower-clouds][Naoko Sakata Trio: /Flower Clouds/]]
+138. [@138] [[https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days][Fumie Chiba: /Beautiful Days/]]
 *June 2021*
-- [[https://www.jazzofjapan.com/p/fumiko-yamazaki-here-goes][Fumiko Yamazaki: /Here Goes!/]]
-- [[https://www.jazzofjapan.com/p/shinichi-kato-and-masahiko-sato-duet][Shinichi Kato & Masahiko Sato: /Duet/]]
-- [[https://www.jazzofjapan.com/p/shigeo-fukuda-and-toshiki-nunokawa][Shigeo Fukuda & Toshiki Nunokawa: /Childhood’s Dream/]]
-- [[https://www.jazzofjapan.com/p/protean-protean][Protean: /Protean/]]
+139. [@139] [[https://www.jazzofjapan.com/p/fumiko-yamazaki-here-goes][Fumiko Yamazaki: /Here Goes!/]]
+140. [@140] [[https://www.jazzofjapan.com/p/shinichi-kato-and-masahiko-sato-duet][Shinichi Kato & Masahiko Sato: /Duet/]]
+141. [@141] [[https://www.jazzofjapan.com/p/shigeo-fukuda-and-toshiki-nunokawa][Shigeo Fukuda & Toshiki Nunokawa: /Childhood’s Dream/]]
+142. [@142] [[https://www.jazzofjapan.com/p/protean-protean][Protean: /Protean/]]
 *July 2021*
-- [[https://www.jazzofjapan.com/p/meu-coracao-hall-tone][Meu Coracao: /Hall Tone/]]
-- [[https://www.jazzofjapan.com/p/toshihiko-inoue-and-masaki-hayashi][Toshihiko Inoue & Masaki Hayashi: /Mistral/]]
+143. [@143] [[https://www.jazzofjapan.com/p/meu-coracao-hall-tone][Meu Coracao: /Hall Tone/]]
+144. [@144] [[https://www.jazzofjapan.com/p/toshihiko-inoue-and-masaki-hayashi][Toshihiko Inoue & Masaki Hayashi: /Mistral/]]
 *August 2021*
-- [[https://www.jazzofjapan.com/p/trigraph-fever][Trigraph: /Fever/]]
+145. [@145] [[https://www.jazzofjapan.com/p/trigraph-fever][Trigraph: /Fever/]]
 *October 2021*
-- [[https://www.jazzofjapan.com/p/ruriko-kawamura-blossoms][Ruriko Kawamura: /Blossoms/]]
+146. [@146] [[https://www.jazzofjapan.com/p/ruriko-kawamura-blossoms][Ruriko Kawamura: /Blossoms/]]
 *December 2021*
-- [[https://www.jazzofjapan.com/p/ami-fukui-trio-urban-clutter][Ami Fukui Trio: /Urban Clutter/]]
+147. [@147] [[https://www.jazzofjapan.com/p/ami-fukui-trio-urban-clutter][Ami Fukui Trio: /Urban Clutter/]]
 *January 2022*
-- [[https://www.jazzofjapan.com/p/yukakoyamano-yukariinoue-dubai][Yukako Yamano & Yukari Inoue: /Dubai Suite/]]
+148. [@148] [[https://www.jazzofjapan.com/p/yukakoyamano-yukariinoue-dubai][Yukako Yamano & Yukari Inoue: /Dubai Suite/]]
 *May 2022*
-- [[https://www.jazzofjapan.com/p/bungalow-unseen-scenes][Bungalow: /Unseen Scenes/]]
+149. [@149] [[https://www.jazzofjapan.com/p/bungalow-unseen-scenes][Bungalow: /Unseen Scenes/]]
 *July 2022*
-- [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-another-ordinary-day][Harumi Nomoto Trio: /Another Ordinary Day/]]
+150. [@150] [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-another-ordinary-day][Harumi Nomoto Trio: /Another Ordinary Day/]]
 *August 2022*
-- [[https://www.jazzofjapan.com/p/yukako-yamano-3rd-stage][Yukako Yamano: /3rd Stage/]]
+151. [@151] [[https://www.jazzofjapan.com/p/yukako-yamano-3rd-stage][Yukako Yamano: /3rd Stage/]]
 *September 2022*
-- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-pray][Yasumasa Kumagai: /Pray/]]
-- Akiko Koizumi & Kana Hiramatsu Duo: /Reverie/ †
-- Baby Brothers: /Happy Christmas with Bb/ †
-- Akiko Toyama Trio: /All Is In The Sky/ †
-- Seiji Endo: /Angel Eyes/ †
-- Yuka Ueda: /Pianistas E Mim/ †
-- Clepsydra: /Un Jour/ †
-- Hiromi Shimizu: /Hiromi As Is in New York/ †
+152. [@152] [[https://www.jazzofjapan.com/p/yasumasa-kumagai-pray][Yasumasa Kumagai: /Pray/]]
+153. [@153] Akiko Koizumi & Kana Hiramatsu Duo: /Reverie/ †
+154. [@154] Baby Brothers: /Happy Christmas with Bb/ †
+155. [@155] Akiko Toyama Trio: /All Is In The Sky/ †
+156. [@156] Seiji Endo: /Angel Eyes/ †
+157. [@157] Yuka Ueda: /Pianistas E Mim/ †
+158. [@158] Clepsydra: /Un Jour/ †
+159. [@159] Hiromi Shimizu: /Hiromi As Is in New York/ †
 *October 2022*
-- Hikari Ichihara: /Sara Smile/ †
-- Fumio Karashima: /Great Time/ †
-- Emiko x Dairo Suga: /Phase 1/ †
-- Trispace: /Aria/ †
-- Hitomi Nishiyama: /Parallax/ †
-- Fumie Chiba: /Rougequeue/ †
-- Q Ishikawa & Seiji Endo: /Nakayoshi/ †
-- Ryosuke Hashizume Group: /Side Two/ †
-- Satomi Kawakami: /Orchid/ †
-- Junichiro Ohkuchi Trio: /Big Smile/ †
-- Michiyo Matsushita: /Prayer for Peace/ †
-- Yurie Nejime: /Sometime Back/ †
-- Yukari Inoue & Shunji Takenaka: /Moegi/ †
-- Yuri Hirota: /Flea Circus/ †
-- Maki Fujimura: /What's Love?/ †
-- Nobie: /Primary/ †
-- Hitomi Nishiyama: /Astrolabe/ †
-- Chihiro Yamanaka: /Lach Doch Mal/ †
-- Chie Ayado: /For All We Know/ †
-- Hiromi Shimizu: /'Round Midnight/ †
-- Fumie Chiba Trio: /Echoes/ †
-- Meu Coração: /Hall Tone 2/ †
-- Mikako Nishikawa: /Day Dream/ †
-- Hitomi Nishiyama Trio "Parallax": /Shift/ †
-- Yuichiro Aratake: /Reunion at Bunca/ †
-- Maki Nakao: /Super Moon/ †
-- Kohei Kawanami & Heitetsu Rin: /Ginrin Trip/ †
-- Maki Fujimura: /Yours/ †
-- Hitomi Yamakami: /As We Are/ †
-- Chihiro Yamanaka: /After Hours/ †
+160. [@160] Hikari Ichihara: /Sara Smile/ †
+161. [@161] Fumio Karashima: /Great Time/ †
+162. [@162] Emiko x Dairo Suga: /Phase 1/ †
+163. [@163] Trispace: /Aria/ †
+164. [@164] Hitomi Nishiyama: /Parallax/ †
+165. [@165] Fumie Chiba: /Rougequeue/ †
+166. [@166] Q Ishikawa & Seiji Endo: /Nakayoshi/ †
+167. [@167] Ryosuke Hashizume Group: /Side Two/ †
+168. [@168] Satomi Kawakami: /Orchid/ †
+169. [@169] Junichiro Ohkuchi Trio: /Big Smile/ †
+170. [@170] Michiyo Matsushita: /Prayer for Peace/ †
+171. [@171] Yurie Nejime: /Sometime Back/ †
+172. [@172] Yukari Inoue & Shunji Takenaka: /Moegi/ †
+173. [@173] Yuri Hirota: /Flea Circus/ †
+174. [@174] Maki Fujimura: /What's Love?/ †
+175. [@175] Nobie: /Primary/ †
+176. [@176] Hitomi Nishiyama: /Astrolabe/ †
+177. [@177] Chihiro Yamanaka: /Lach Doch Mal/ †
+178. [@178] Chie Ayado: /For All We Know/ †
+179. [@179] Hiromi Shimizu: /'Round Midnight/ †
+180. [@180] Fumie Chiba Trio: /Echoes/ †
+181. [@181] Meu Coração: /Hall Tone 2/ †
+182. [@182] Mikako Nishikawa: /Day Dream/ †
+183. [@183] Hitomi Nishiyama Trio "Parallax": /Shift/ †
+184. [@184] Yuichiro Aratake: /Reunion at Bunca/ †
+185. [@185] Maki Nakao: /Super Moon/ †
+186. [@186] Kohei Kawanami & Heitetsu Rin: /Ginrin Trip/ †
+187. [@187] Maki Fujimura: /Yours/ †
+188. [@188] Hitomi Yamakami: /As We Are/ †
+189. [@189] Chihiro Yamanaka: /After Hours/ †
 *November 2022*
-- Tomoko Gakudan: /Moment/ †
-- Akiko Toyama Trio: /Ambition/ †
-- Girafe: /Asa No Kirin/ †
-- Ritsuko Iwayama: /Dramatic Moments/ †
-- Tsutomu Okada: /Laughing Heart/ †
-- Chihiro Yamanaka: /Abyss/ †
-- Ryosuke Hashizume Group: /As We Breathe/ †
-- Ruriko Kawamura: /Loo Loo/ †
-- Hitomi Yamakami: /Withness/ †
-- Yuri Hirota: /Magical Moonlight/ †
-- Chihiro Yamanaka: /Bravogue/ †
-- Sanae Ishikawa Seasonal Japanese Songbook Project: /Winter/ †
+190. [@190] Tomoko Gakudan: /Moment/ †
+191. [@191] Akiko Toyama Trio: /Ambition/ †
+192. [@192] Girafe: /Asa No Kirin/ †
+193. [@193] Ritsuko Iwayama: /Dramatic Moments/ †
+194. [@194] Tsutomu Okada: /Laughing Heart/ †
+195. [@195] Chihiro Yamanaka: /Abyss/ †
+196. [@196] Ryosuke Hashizume Group: /As We Breathe/ †
+197. [@197] Ruriko Kawamura: /Loo Loo/ †
+198. [@198] Hitomi Yamakami: /Withness/ †
+199. [@199] Yuri Hirota: /Magical Moonlight/ †
+200. [@200] Chihiro Yamanaka: /Bravogue/ †
+201. [@201] Sanae Ishikawa Seasonal Japanese Songbook Project: /Winter/ †
 *December 2022*
-- Shinichi Kato: /B-Hot Creations/ †
-- Girafe: /Haru No Sketch/ †
+202. [@202] Shinichi Kato: /B-Hot Creations/ †
+203. [@203] Girafe: /Haru No Sketch/ †
 *January 2023*
-- Labtranquillo: /Tide/ †
-- Sawa Shiraishi: /Tea for Two/ †
+204. [@204] Labtranquillo: /Tide/ †
+205. [@205] Sawa Shiraishi: /Tea for Two/ †
 *May 2023*
-- [[https://www.jazzofjapan.com/p/introduction-to-jazz-of-japan][Introduction to Jazz of Japan]] ^
-- [[https://www.jazzofjapan.com/p/yoyogi-naru][Yoyogi Naru]] ~
-- [[https://www.jazzofjapan.com/p/alfie][Alfie]] ~
-- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-outside-by-the-swing][Chihiro Yamanaka: /Outside by the Swing/]]
-- [[https://www.jazzofjapan.com/p/birdland][Birdland]] ~
-- [[https://www.jazzofjapan.com/p/into-the-blue][Into the Blue]] ~
-- [[https://www.jazzofjapan.com/p/paco][Paco]] ~
-- [[https://www.jazzofjapan.com/p/ps-bar][P's Bar]] ~
-- [[https://www.jazzofjapan.com/p/our-delight][Our Delight]] ~
-- [[https://www.jazzofjapan.com/p/naoko-akimoto-no-one-else][Naoko Akimoto: /No One Else/]]
-- [[https://www.jazzofjapan.com/p/hot-house][Hot House]] ~
-- [[https://www.jazzofjapan.com/p/all-of-me][All of Me]] ~
-- [[https://www.jazzofjapan.com/p/polka-dots][Polka Dots]] ~
-- [[https://www.jazzofjapan.com/p/shunichi-yanagi-trio-slope][Shunichi Yanagi Trio: /Slope/]]
-- [[https://www.jazzofjapan.com/p/the-deep][The Deep]] ~
-- [[https://www.jazzofjapan.com/p/barbra][Barbra]] ~
-- [[https://www.jazzofjapan.com/p/rie-taguchi-the-gift-ii][Rie Taguchi: /The Gift II/]]
-- [[https://www.jazzofjapan.com/p/apollo][Apollo]] ~
-- [[https://www.jazzofjapan.com/p/cafe-beulmans][Cafe Beulmans]] ~
-- [[https://www.jazzofjapan.com/p/porto][Porto]] ~
+206. [@206] [[https://www.jazzofjapan.com/p/introduction-to-jazz-of-japan][Introduction to Jazz of Japan]] ^
+207. [@207] [[https://www.jazzofjapan.com/p/yoyogi-naru][Yoyogi Naru]] ~
+208. [@208] [[https://www.jazzofjapan.com/p/alfie][Alfie]] ~
+209. [@209] [[https://www.jazzofjapan.com/p/chihiro-yamanaka-outside-by-the-swing][Chihiro Yamanaka: /Outside by the Swing/]]
+210. [@210] [[https://www.jazzofjapan.com/p/birdland][Birdland]] ~
+211. [@211] [[https://www.jazzofjapan.com/p/into-the-blue][Into the Blue]] ~
+212. [@212] [[https://www.jazzofjapan.com/p/paco][Paco]] ~
+213. [@213] [[https://www.jazzofjapan.com/p/ps-bar][P's Bar]] ~
+214. [@214] [[https://www.jazzofjapan.com/p/our-delight][Our Delight]] ~
+215. [@215] [[https://www.jazzofjapan.com/p/naoko-akimoto-no-one-else][Naoko Akimoto: /No One Else/]]
+216. [@216] [[https://www.jazzofjapan.com/p/hot-house][Hot House]] ~
+217. [@217] [[https://www.jazzofjapan.com/p/all-of-me][All of Me]] ~
+218. [@218] [[https://www.jazzofjapan.com/p/polka-dots][Polka Dots]] ~
+219. [@219] [[https://www.jazzofjapan.com/p/shunichi-yanagi-trio-slope][Shunichi Yanagi Trio: /Slope/]]
+220. [@220] [[https://www.jazzofjapan.com/p/the-deep][The Deep]] ~
+221. [@221] [[https://www.jazzofjapan.com/p/barbra][Barbra]] ~
+222. [@222] [[https://www.jazzofjapan.com/p/rie-taguchi-the-gift-ii][Rie Taguchi: /The Gift II/]]
+223. [@223] [[https://www.jazzofjapan.com/p/apollo][Apollo]] ~
+224. [@224] [[https://www.jazzofjapan.com/p/cafe-beulmans][Cafe Beulmans]] ~
+225. [@225] [[https://www.jazzofjapan.com/p/porto][Porto]] ~
 *June 2023*
-- [[https://www.jazzofjapan.com/p/bullys][Bully's]] ~
-- [[https://www.jazzofjapan.com/p/george-nakajima-trio-first-touch][George Nakajima Trio: /First Touch/]]
-- [[https://www.jazzofjapan.com/p/a-un][A-Un]] ~
-- [[https://www.jazzofjapan.com/p/jz-brat][JZ Brat]] ~
-- [[https://www.jazzofjapan.com/p/body-and-soul][Body & Soul]] ~
-- [[https://www.jazzofjapan.com/p/mariko-maeda-awareness][Mariko Maeda: /Awareness/]]
-- [[https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds][Hiro Kimura Quintet: /Folds/]]
-- [[https://www.jazzofjapan.com/p/soultrane][Soultrane]] ~
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-vibrant][Hitomi Nishiyama: /Vibrant/]]
-- [[https://www.jazzofjapan.com/p/donfan][Donfan]] ~
-- [[https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one][Yuichiro Aratake: /Music Make Us One/]]
+226. [@226] [[https://www.jazzofjapan.com/p/bullys][Bully's]] ~
+227. [@227] [[https://www.jazzofjapan.com/p/george-nakajima-trio-first-touch][George Nakajima Trio: /First Touch/]]
+228. [@228] [[https://www.jazzofjapan.com/p/a-un][A-Un]] ~
+229. [@229] [[https://www.jazzofjapan.com/p/jz-brat][JZ Brat]] ~
+230. [@230] [[https://www.jazzofjapan.com/p/body-and-soul][Body & Soul]] ~
+231. [@231] [[https://www.jazzofjapan.com/p/mariko-maeda-awareness][Mariko Maeda: /Awareness/]]
+232. [@232] [[https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds][Hiro Kimura Quintet: /Folds/]]
+233. [@233] [[https://www.jazzofjapan.com/p/soultrane][Soultrane]] ~
+234. [@234] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-vibrant][Hitomi Nishiyama: /Vibrant/]]
+235. [@235] [[https://www.jazzofjapan.com/p/donfan][Donfan]] ~
+236. [@236] [[https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one][Yuichiro Aratake: /Music Make Us One/]]
 *July 2023*
-- [[https://www.jazzofjapan.com/p/intro][Intro]] ~
-- [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-64-charlesgate][Akihiro Yoshimoto Quartet: /64 Charlesgate/]]
-- [[https://www.jazzofjapan.com/p/seiji-harakawa-quartet-skipping-down][Seiji Harakawa Quartet: /Skipping Down the Street/]]
-- [[https://www.jazzofjapan.com/p/independence][Independence]] ~
-- [[https://www.jazzofjapan.com/p/jazz-bird][Jazz Bird]] ~
-- [[https://www.jazzofjapan.com/p/akane-matsumoto-nanami-haruta-for][Akane Matsumoto & Nanami Haruta: /For My Lady/]]
-- [[https://www.jazzofjapan.com/p/boozy-muse][Boozy Muse]] ~
-- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic][Ryosuke Hashizume Group: /Acoustic Fluid/]]
+237. [@237] [[https://www.jazzofjapan.com/p/intro][Intro]] ~
+238. [@238] [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-64-charlesgate][Akihiro Yoshimoto Quartet: /64 Charlesgate/]]
+239. [@239] [[https://www.jazzofjapan.com/p/seiji-harakawa-quartet-skipping-down][Seiji Harakawa Quartet: /Skipping Down the Street/]]
+240. [@240] [[https://www.jazzofjapan.com/p/independence][Independence]] ~
+241. [@241] [[https://www.jazzofjapan.com/p/jazz-bird][Jazz Bird]] ~
+242. [@242] [[https://www.jazzofjapan.com/p/akane-matsumoto-nanami-haruta-for][Akane Matsumoto & Nanami Haruta: /For My Lady/]]
+243. [@243] [[https://www.jazzofjapan.com/p/boozy-muse][Boozy Muse]] ~
+244. [@244] [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic][Ryosuke Hashizume Group: /Acoustic Fluid/]]
 *August 2023*
-- [[https://www.jazzofjapan.com/p/cochi][Cochi]] ~
-- [[https://www.jazzofjapan.com/p/fumika-asari-introducin][Fumika Asari: /Introducin’/]]
-- [[https://www.jazzofjapan.com/p/zimagine][Zimagine]] ~
-- [[https://www.jazzofjapan.com/p/tetsuji-yoshida-and-mikiko-nagatake][Tetsuji Yoshida & Mikiko Nagatake Duo: /Live at Knuttel House/]]
-- [[https://www.jazzofjapan.com/p/knuttel-house][Knuttel House]] ~
-- [[https://www.jazzofjapan.com/p/yuichi-narita-urban-nocturne][Yuichi Narita: /Urban Nocturne/]]
-- [[https://www.jazzofjapan.com/p/sul-madrugada-luar][Sul Madrugada: /Luar/]]
+245. [@245] [[https://www.jazzofjapan.com/p/cochi][Cochi]] ~
+246. [@246] [[https://www.jazzofjapan.com/p/fumika-asari-introducin][Fumika Asari: /Introducin’/]]
+247. [@247] [[https://www.jazzofjapan.com/p/zimagine][Zimagine]] ~
+248. [@248] [[https://www.jazzofjapan.com/p/tetsuji-yoshida-and-mikiko-nagatake][Tetsuji Yoshida & Mikiko Nagatake Duo: /Live at Knuttel House/]]
+249. [@249] [[https://www.jazzofjapan.com/p/knuttel-house][Knuttel House]] ~
+250. [@250] [[https://www.jazzofjapan.com/p/yuichi-narita-urban-nocturne][Yuichi Narita: /Urban Nocturne/]]
+251. [@251] [[https://www.jazzofjapan.com/p/sul-madrugada-luar][Sul Madrugada: /Luar/]]
 *September 2023*
-- [[https://www.jazzofjapan.com/p/yukako-yamano-imperial][Yukako Yamano: /Imperial/]]
-- [[https://www.jazzofjapan.com/p/bungalow-abstract-messages][Bungalow: /Abstract Messages/]]
-- [[https://www.jazzofjapan.com/p/dug][Dug]] ~
-- [[https://www.jazzofjapan.com/p/fnk-canvas][FNK: /Canvas/]]
-- [[https://www.jazzofjapan.com/p/mamoru-ishida-ishida-mamoru-4-feat][Mamoru Ishida: /Ishida Mamoru 4 feat. Mike Rivett/]]
-- [[https://www.jazzofjapan.com/p/no-room-for-squares][No Room for Squares]] ~
-- [[https://www.jazzofjapan.com/p/mikiko-nagatake-solo][Mikiko Nagatake: /Solo/]]
+252. [@252] [[https://www.jazzofjapan.com/p/yukako-yamano-imperial][Yukako Yamano: /Imperial/]]
+253. [@253] [[https://www.jazzofjapan.com/p/bungalow-abstract-messages][Bungalow: /Abstract Messages/]]
+254. [@254] [[https://www.jazzofjapan.com/p/dug][Dug]] ~
+255. [@255] [[https://www.jazzofjapan.com/p/fnk-canvas][FNK: /Canvas/]]
+256. [@256] [[https://www.jazzofjapan.com/p/mamoru-ishida-ishida-mamoru-4-feat][Mamoru Ishida: /Ishida Mamoru 4 feat. Mike Rivett/]]
+257. [@257] [[https://www.jazzofjapan.com/p/no-room-for-squares][No Room for Squares]] ~
+258. [@258] [[https://www.jazzofjapan.com/p/mikiko-nagatake-solo][Mikiko Nagatake: /Solo/]]
 *October 2023*
-- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-last-resort][Yasumasa Kumagai & J-Jazz Homies: /Last Resort/]]
-- [[https://www.jazzofjapan.com/p/emiko-voice-standard-trio][Emiko Voice: /Standard Trio/]]
-- [[https://www.jazzofjapan.com/p/rabbitoo-the-torch][Rabbitoo: /The Torch/]]
-- [[https://www.jazzofjapan.com/p/sometime][Sometime]] ~
+259. [@259] [[https://www.jazzofjapan.com/p/yasumasa-kumagai-last-resort][Yasumasa Kumagai & J-Jazz Homies: /Last Resort/]]
+260. [@260] [[https://www.jazzofjapan.com/p/emiko-voice-standard-trio][Emiko Voice: /Standard Trio/]]
+261. [@261] [[https://www.jazzofjapan.com/p/rabbitoo-the-torch][Rabbitoo: /The Torch/]]
+262. [@262] [[https://www.jazzofjapan.com/p/sometime][Sometime]] ~
 *November 2023*
-- [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights][Kaori Vibes Quartet: /Starry Nights/]]
-- [[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo][Shinpei Ruike & George Nakajima: /Duo/]]
-- [[https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi][Kazumi Ikenaga: /Niwatazumi/]] *
-- [[https://www.jazzofjapan.com/p/akane-matsumoto-little-girl-blue][Akane Matsumoto: /Little Girl Blue/]]
-- [[https://www.jazzofjapan.com/p/nanami-haruta-ii][Nanami Haruta: /II/]]
+263. [@263] [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights][Kaori Vibes Quartet: /Starry Nights/]]
+264. [@264] [[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo][Shinpei Ruike & George Nakajima: /Duo/]]
+265. [@265] [[https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi][Kazumi Ikenaga: /Niwatazumi/]] *
+266. [@266] [[https://www.jazzofjapan.com/p/akane-matsumoto-little-girl-blue][Akane Matsumoto: /Little Girl Blue/]]
+267. [@267] [[https://www.jazzofjapan.com/p/nanami-haruta-ii][Nanami Haruta: /II/]]
 *December 2023*
-- [[https://www.jazzofjapan.com/p/lydian][Lydian]] ~
-- [[https://www.jazzofjapan.com/p/hideaki-hori-horizon][Hideaki Hori: /Horizon/]]
-- [[https://www.jazzofjapan.com/p/hideaki-hori-melodies-for-night-day][Hideaki Hori: /Melodies for Night & Day/]]
-- [[https://www.jazzofjapan.com/p/whats-j-jazz][What's J Jazz?]] ^
-- [[https://www.jazzofjapan.com/p/miyuki-moriya-uta-oto][Miyuki Moriya: /Uta Oto/]]
-- [[https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb][Baby Brothers: /Happy Christmas with Bb/]]
-- [[https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces][Kaoru Azuma / Hitomi Nishiyama: /Faces/]]
+268. [@268] [[https://www.jazzofjapan.com/p/lydian][Lydian]] ~
+269. [@269] [[https://www.jazzofjapan.com/p/hideaki-hori-horizon][Hideaki Hori: /Horizon/]]
+270. [@270] [[https://www.jazzofjapan.com/p/hideaki-hori-melodies-for-night-day][Hideaki Hori: /Melodies for Night & Day/]]
+271. [@271] [[https://www.jazzofjapan.com/p/whats-j-jazz][What's J Jazz?]] ^
+272. [@272] [[https://www.jazzofjapan.com/p/miyuki-moriya-uta-oto][Miyuki Moriya: /Uta Oto/]]
+273. [@273] [[https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb][Baby Brothers: /Happy Christmas with Bb/]]
+274. [@274] [[https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces][Kaoru Azuma / Hitomi Nishiyama: /Faces/]]
 *January 2024*
-- [[https://www.jazzofjapan.com/p/pit-inn][Pit Inn]] ~
-- [[https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact][Mase Hiroko Quintet: /First Contact/]]
-- [[https://www.jazzofjapan.com/p/yuka-yanagihara-trio-inner-views][Yuka Yanagihara Trio: /Inner Views/]]
-- [[https://www.jazzofjapan.com/p/kohaku][Kohaku]] ~
-- [[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope-2][Keisuke Nakamura: /Humadope 2/]]
-- [[https://www.jazzofjapan.com/p/ami-fukui-trio-nova-manha][Ami Fukui Trio: /Nova Manhã/]]
+275. [@275] [[https://www.jazzofjapan.com/p/pit-inn][Pit Inn]] ~
+276. [@276] [[https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact][Mase Hiroko Quintet: /First Contact/]]
+277. [@277] [[https://www.jazzofjapan.com/p/yuka-yanagihara-trio-inner-views][Yuka Yanagihara Trio: /Inner Views/]]
+278. [@278] [[https://www.jazzofjapan.com/p/kohaku][Kohaku]] ~
+279. [@279] [[https://www.jazzofjapan.com/p/keisuke-nakamura-humadope-2][Keisuke Nakamura: /Humadope 2/]]
+280. [@280] [[https://www.jazzofjapan.com/p/ami-fukui-trio-nova-manha][Ami Fukui Trio: /Nova Manhã/]]
 *February 2024*
-- [[https://www.jazzofjapan.com/p/polyglot-talk-vol-1][Polyglot: /Talk, Vol. 1/]]
-- [[https://www.jazzofjapan.com/p/b-flat][B-flat]] ~
-- [[https://www.jazzofjapan.com/p/hiroshi-fukutomi-memory-stones][Hiroshi Fukutomi: /Memory Stones/]]
-- [[https://www.jazzofjapan.com/p/jazz-spots-of-japan][Jazz Spots of Japan]] ^
-- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal][Chihiro Yamanaka: /Lach Doch Mal/]]
-- [[https://www.jazzofjapan.com/p/naoko-tanaka-appreciation][Naoko Tanaka: /Appreciation/]]
+281. [@281] [[https://www.jazzofjapan.com/p/polyglot-talk-vol-1][Polyglot: /Talk, Vol. 1/]]
+282. [@282] [[https://www.jazzofjapan.com/p/b-flat][B-flat]] ~
+283. [@283] [[https://www.jazzofjapan.com/p/hiroshi-fukutomi-memory-stones][Hiroshi Fukutomi: /Memory Stones/]]
+284. [@284] [[https://www.jazzofjapan.com/p/jazz-spots-of-japan][Jazz Spots of Japan]] ^
+285. [@285] [[https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal][Chihiro Yamanaka: /Lach Doch Mal/]]
+286. [@286] [[https://www.jazzofjapan.com/p/naoko-tanaka-appreciation][Naoko Tanaka: /Appreciation/]]
 *March 2024*
-- [[https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible][Junichiro Ohkuchi Trio: /Invisible/]] *
-- [[https://www.jazzofjapan.com/p/jabuticaba-jabuticaba][Jabuticaba: /Jabuticaba/]]
-- [[https://www.jazzofjapan.com/p/nami-kano-mawsim][Nami Kano: /Mawsim/]]
-- [[https://www.jazzofjapan.com/p/expression][Expression]] ~
-- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too][Yasumasa Kumagai: /I Need a Change, Too/]] *
-- [[https://www.jazzofjapan.com/p/efreydut-fairway][eFreydut: /Fairway/]]
+287. [@287] [[https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible][Junichiro Ohkuchi Trio: /Invisible/]] *
+288. [@288] [[https://www.jazzofjapan.com/p/jabuticaba-jabuticaba][Jabuticaba: /Jabuticaba/]]
+289. [@289] [[https://www.jazzofjapan.com/p/nami-kano-mawsim][Nami Kano: /Mawsim/]]
+290. [@290] [[https://www.jazzofjapan.com/p/expression][Expression]] ~
+291. [@291] [[https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too][Yasumasa Kumagai: /I Need a Change, Too/]] *
+292. [@292] [[https://www.jazzofjapan.com/p/efreydut-fairway][eFreydut: /Fairway/]]
 *April 2024*
-- [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color][Akihiro Yoshimoto Quartet: /Moving Color/]] *
-- [[https://www.jazzofjapan.com/p/bon-courage][Bon Courage]] ~
-- [[https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation][Seiji Endo: /Sakura Meditation/]] *
-- [[https://www.jazzofjapan.com/p/ami-fukui-amizm][Ami Fukui: /Amizm/]] *
-- [[https://www.jazzofjapan.com/p/satin-doll][Satin Doll]] ~
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-calling][Hitomi Nishiyama Trio: /Calling/]]
+293. [@293] [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color][Akihiro Yoshimoto Quartet: /Moving Color/]] *
+294. [@294] [[https://www.jazzofjapan.com/p/bon-courage][Bon Courage]] ~
+295. [@295] [[https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation][Seiji Endo: /Sakura Meditation/]] *
+296. [@296] [[https://www.jazzofjapan.com/p/ami-fukui-amizm][Ami Fukui: /Amizm/]] *
+297. [@297] [[https://www.jazzofjapan.com/p/satin-doll][Satin Doll]] ~
+298. [@298] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-calling][Hitomi Nishiyama Trio: /Calling/]]
 *May 2024*
-- [[https://www.jazzofjapan.com/p/takumi-seino-motohiko-ichino-frozen-dust][Takumi Seino & Motohiko Ichino: /Frozen Dust/]]
-- [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone][Mabumi Yamaguchi: /Let Your Mind Alone/]] *
-- [[https://www.jazzofjapan.com/p/noriko-satomi-project-n][Noriko Satomi: /Project-N/]]
-- [[https://www.jazzofjapan.com/p/koen-dori-classics][Koen-Dori Classics]] ~
-- [[https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been][Erisa Ogawa: /Where Have U Been?/]]
+299. [@299] [[https://www.jazzofjapan.com/p/takumi-seino-motohiko-ichino-frozen-dust][Takumi Seino & Motohiko Ichino: /Frozen Dust/]]
+300. [@300] [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone][Mabumi Yamaguchi: /Let Your Mind Alone/]] *
+301. [@301] [[https://www.jazzofjapan.com/p/noriko-satomi-project-n][Noriko Satomi: /Project-N/]]
+302. [@302] [[https://www.jazzofjapan.com/p/koen-dori-classics][Koen-Dori Classics]] ~
+303. [@303] [[https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been][Erisa Ogawa: /Where Have U Been?/]]
 *June 2024*
-- [[https://www.jazzofjapan.com/p/blue-note-tokyo][Blue Note Tokyo]] ~
-- [[https://www.jazzofjapan.com/p/otohito-fuse-trio-isolated][Otohito Fuse Trio: /Isolated/]]
-- [[https://www.jazzofjapan.com/p/salt-peanuts][Salt Peanuts]] ~
-- [[https://www.jazzofjapan.com/p/miwo-tranquillo][Miwo: /Tranquillo/]]
-- [[https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid][Reiko Yamamoto: /The Square Pyramid/]]
+304. [@304] [[https://www.jazzofjapan.com/p/blue-note-tokyo][Blue Note Tokyo]] ~
+305. [@305] [[https://www.jazzofjapan.com/p/otohito-fuse-trio-isolated][Otohito Fuse Trio: /Isolated/]]
+306. [@306] [[https://www.jazzofjapan.com/p/salt-peanuts][Salt Peanuts]] ~
+307. [@307] [[https://www.jazzofjapan.com/p/miwo-tranquillo][Miwo: /Tranquillo/]]
+308. [@308] [[https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid][Reiko Yamamoto: /The Square Pyramid/]]
 *July 2024*
-- [[https://www.jazzofjapan.com/p/yuki-ito-retattanni-no-mori][Yuki Ito: /Retattanni no Mori/]]
-- [[https://www.jazzofjapan.com/p/kazumi-ikenaga-taihei-asakawa-nordnote][Kazumi Ikenaga & Taihei Asakawa: /NordNote/]]
-- [[https://www.jazzofjapan.com/p/hikari-ichihara-sara-smile][Hikari Ichihara: /Sara Smile/]]
-- [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-takashi-sugawa-oxymoron][Akihiro Yoshimoto & Takashi Sugawa: /Oxymoron/]]
-- [[https://www.jazzofjapan.com/p/motohiko-ichino-sketches][Motohiko Ichino: /Sketches/]]
+309. [@309] [[https://www.jazzofjapan.com/p/yuki-ito-retattanni-no-mori][Yuki Ito: /Retattanni no Mori/]]
+310. [@310] [[https://www.jazzofjapan.com/p/kazumi-ikenaga-taihei-asakawa-nordnote][Kazumi Ikenaga & Taihei Asakawa: /NordNote/]]
+311. [@311] [[https://www.jazzofjapan.com/p/hikari-ichihara-sara-smile][Hikari Ichihara: /Sara Smile/]]
+312. [@312] [[https://www.jazzofjapan.com/p/akihiro-yoshimoto-takashi-sugawa-oxymoron][Akihiro Yoshimoto & Takashi Sugawa: /Oxymoron/]]
+313. [@313] [[https://www.jazzofjapan.com/p/motohiko-ichino-sketches][Motohiko Ichino: /Sketches/]]
 *August 2024*
-- [[https://www.jazzofjapan.com/p/yoshiko-saita-back-in-time-to-boston][Yoshiko Saita: /Back in Time to Boston/]]
-- [[https://www.jazzofjapan.com/p/somethin][Somethin’]] ~
-- [[https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality][Eri Chichibu: /Crossing Reality/]]
-- [[https://www.jazzofjapan.com/p/banda-feliz-boa-viagem][Banda Feliz: /Boa Viagem/]]
-- [[https://www.jazzofjapan.com/p/koichi-sato-embryo][Koichi Sato: /Embryo/]]
-- [[https://www.jazzofjapan.com/p/gate-one][Gate One]] ~
-- [[https://www.jazzofjapan.com/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz][Yasumasa Kumagai & Ryu Kawamura: /Ol’ School Jazz/]]
+314. [@314] [[https://www.jazzofjapan.com/p/yoshiko-saita-back-in-time-to-boston][Yoshiko Saita: /Back in Time to Boston/]]
+315. [@315] [[https://www.jazzofjapan.com/p/somethin][Somethin’]] ~
+316. [@316] [[https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality][Eri Chichibu: /Crossing Reality/]]
+317. [@317] [[https://www.jazzofjapan.com/p/banda-feliz-boa-viagem][Banda Feliz: /Boa Viagem/]]
+318. [@318] [[https://www.jazzofjapan.com/p/koichi-sato-embryo][Koichi Sato: /Embryo/]]
+319. [@319] [[https://www.jazzofjapan.com/p/gate-one][Gate One]] ~
+320. [@320] [[https://www.jazzofjapan.com/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz][Yasumasa Kumagai & Ryu Kawamura: /Ol’ School Jazz/]]
 *September 2024*
-- [[https://www.jazzofjapan.com/p/jazzspot-j][Jazzspot J]] ~
-- [[https://www.jazzofjapan.com/p/nobie-primary][Nobie: /Primary/]]
-- [[https://www.jazzofjapan.com/p/sayaka-kishi-trio-banquet][Sayaka Kishi Trio: /Banquet/]]
-- [[https://www.jazzofjapan.com/p/apple-jump][Apple Jump]] ~
-- [[https://www.jazzofjapan.com/p/clepsydra-un-jour][Clepsydra: /Un Jour/]]
-- [[https://www.jazzofjapan.com/p/sumire-kuribayashi-trio-toys][Sumire Kuribayashi Trio: /Toys/]]
+321. [@321] [[https://www.jazzofjapan.com/p/jazzspot-j][Jazzspot J]] ~
+322. [@322] [[https://www.jazzofjapan.com/p/nobie-primary][Nobie: /Primary/]]
+323. [@323] [[https://www.jazzofjapan.com/p/sayaka-kishi-trio-banquet][Sayaka Kishi Trio: /Banquet/]]
+324. [@324] [[https://www.jazzofjapan.com/p/apple-jump][Apple Jump]] ~
+325. [@325] [[https://www.jazzofjapan.com/p/clepsydra-un-jour][Clepsydra: /Un Jour/]]
+326. [@326] [[https://www.jazzofjapan.com/p/sumire-kuribayashi-trio-toys][Sumire Kuribayashi Trio: /Toys/]]
 *October 2024*
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-dot][Hitomi Nishiyama: /Dot/]]
-- [[https://www.jazzofjapan.com/p/kanmachi-63][Kanmachi 63]] ~
-- [[https://www.jazzofjapan.com/p/mamoru-ishida-afterglow][Mamoru Ishida: /Afterglow/]]
-- [[https://www.jazzofjapan.com/p/sweet-rain][Sweet Rain]] ~
-- [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-viento][Mabumi Yamaguchi: /Viento/]]
-- [[https://www.jazzofjapan.com/p/chie-nishimura-virtual-silence][Chie Nishimura: /Virtual Silence/]]
+327. [@327] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-dot][Hitomi Nishiyama: /Dot/]]
+328. [@328] [[https://www.jazzofjapan.com/p/kanmachi-63][Kanmachi 63]] ~
+329. [@329] [[https://www.jazzofjapan.com/p/mamoru-ishida-afterglow][Mamoru Ishida: /Afterglow/]]
+330. [@330] [[https://www.jazzofjapan.com/p/sweet-rain][Sweet Rain]] ~
+331. [@331] [[https://www.jazzofjapan.com/p/mabumi-yamaguchi-viento][Mabumi Yamaguchi: /Viento/]]
+332. [@332] [[https://www.jazzofjapan.com/p/chie-nishimura-virtual-silence][Chie Nishimura: /Virtual Silence/]]
 *November 2024*
-- [[https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting][Makiyo Sakai: /Silver Painting/]]
-- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two][Ryosuke Hashizume Group: /Side Two/]]
-- [[https://www.jazzofjapan.com/p/someday][Someday]] ~
-- [[https://www.jazzofjapan.com/p/fumie-chiba-rougequeue][Fumie Chiba: /Rougequeue/]]
-- [[https://www.jazzofjapan.com/p/naru][Naru]] ~
-- [[https://www.jazzofjapan.com/p/yuka-yanagihara-trio-beloved-ones][Yuka Yanagihara Trio: /Beloved Ones/]]
-- [[https://www.jazzofjapan.com/p/seiji-endo-piano-pieces-collection][Seiji Endo: /Piano Pieces Collection/]]
+333. [@333] [[https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting][Makiyo Sakai: /Silver Painting/]]
+334. [@334] [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two][Ryosuke Hashizume Group: /Side Two/]]
+335. [@335] [[https://www.jazzofjapan.com/p/someday][Someday]] ~
+336. [@336] [[https://www.jazzofjapan.com/p/fumie-chiba-rougequeue][Fumie Chiba: /Rougequeue/]]
+337. [@337] [[https://www.jazzofjapan.com/p/naru][Naru]] ~
+338. [@338] [[https://www.jazzofjapan.com/p/yuka-yanagihara-trio-beloved-ones][Yuka Yanagihara Trio: /Beloved Ones/]]
+339. [@339] [[https://www.jazzofjapan.com/p/seiji-endo-piano-pieces-collection][Seiji Endo: /Piano Pieces Collection/]]
 *December 2024*
-- [[https://www.jazzofjapan.com/p/ten-top-10s-for-live-jazz-in-tokyo][Ten Top 10s for Live Jazz in Tokyo]] ^
-- [[https://www.jazzofjapan.com/p/seiji-endo-piano-pieces-collection-ii][Seiji Endo: /Piano Pieces Collection II/]]
-- [[https://www.jazzofjapan.com/p/hiro-kimura-trees][Hiro Kimura: /Trees/]]
-- [[https://www.jazzofjapan.com/p/akane-matsumoto-oh-lady-be-good][Akane Matsumoto: /Oh, Lady Be Good/]]
-- [[https://www.jazzofjapan.com/p/jazz-nutty][Jazz Nutty]] ~
-- [[https://www.jazzofjapan.com/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary][Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi: /Boundary/]]
+340. [@340] [[https://www.jazzofjapan.com/p/ten-top-10s-for-live-jazz-in-tokyo][Ten Top 10s for Live Jazz in Tokyo]] ^
+341. [@341] [[https://www.jazzofjapan.com/p/seiji-endo-piano-pieces-collection-ii][Seiji Endo: /Piano Pieces Collection II/]]
+342. [@342] [[https://www.jazzofjapan.com/p/hiro-kimura-trees][Hiro Kimura: /Trees/]]
+343. [@343] [[https://www.jazzofjapan.com/p/akane-matsumoto-oh-lady-be-good][Akane Matsumoto: /Oh, Lady Be Good/]]
+344. [@344] [[https://www.jazzofjapan.com/p/jazz-nutty][Jazz Nutty]] ~
+345. [@345] [[https://www.jazzofjapan.com/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary][Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi: /Boundary/]]
 *January 2025*
-- [[https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari][Nobie & Takayoshi Baba: /Owari to Hajimari/]]
-- [[https://www.jazzofjapan.com/p/daiki-yasukagawa-new-trio-three-roses][Daiki Yasukagawa New Trio: /The Three Roses/]]
-- [[https://www.jazzofjapan.com/p/motoi-kanamori-the-live][Motoi Kanamori: /The Live/]]
-- [[https://www.jazzofjapan.com/p/velvet-sun][Velvet Sun]] ~
+346. [@346] [[https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari][Nobie & Takayoshi Baba: /Owari to Hajimari/]]
+347. [@347] [[https://www.jazzofjapan.com/p/daiki-yasukagawa-new-trio-three-roses][Daiki Yasukagawa New Trio: /The Three Roses/]]
+348. [@348] [[https://www.jazzofjapan.com/p/motoi-kanamori-the-live][Motoi Kanamori: /The Live/]]
+349. [@349] [[https://www.jazzofjapan.com/p/velvet-sun][Velvet Sun]] ~
 *February 2025*
-- [[https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores][Magnolia: /El viento y las flores/]]
-- [[https://www.jazzofjapan.com/p/miyuki-moriya-beyond-the-sea][Miyuki Moriya: /Beyond the Sea/]]
-- [[https://www.jazzofjapan.com/p/ami-fukui-trio-mcy][Ami Fukui Trio: /MCY/]]
-- [[https://www.jazzofjapan.com/p/hideaki-hori-wataru-hamasaki-encounter][Hideaki Hori & Wataru Hamasaki: /Encounter/]]
-- [[https://www.jazzofjapan.com/p/strings][Strings]] ~
+350. [@350] [[https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores][Magnolia: /El viento y las flores/]]
+351. [@351] [[https://www.jazzofjapan.com/p/miyuki-moriya-beyond-the-sea][Miyuki Moriya: /Beyond the Sea/]]
+352. [@352] [[https://www.jazzofjapan.com/p/ami-fukui-trio-mcy][Ami Fukui Trio: /MCY/]]
+353. [@353] [[https://www.jazzofjapan.com/p/hideaki-hori-wataru-hamasaki-encounter][Hideaki Hori & Wataru Hamasaki: /Encounter/]]
+354. [@354] [[https://www.jazzofjapan.com/p/strings][Strings]] ~
 *March 2025*
-- [[https://www.jazzofjapan.com/p/emiko-voice-yuka-yanagihara-enyana][Emiko Voice & Yuka Yanagihara: /Enyana/]]
-- [[https://www.jazzofjapan.com/p/ghost-peak-goat-on-a-peak][Ghost Peak: /The Goat on a Peak/]]
-- [[https://www.jazzofjapan.com/p/hikari-ichihara-group-unity][Hikari Ichihara Group: /Unity/]]
-- [[https://www.jazzofjapan.com/p/sunny-side][Sunny Side]] ~
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-echo][Hitomi Nishiyama: /Echo/]]
-- [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-im-missing-you][Hitomi Nishiyama Trio: /I’m Missing You/]]
+355. [@355] [[https://www.jazzofjapan.com/p/emiko-voice-yuka-yanagihara-enyana][Emiko Voice & Yuka Yanagihara: /Enyana/]]
+356. [@356] [[https://www.jazzofjapan.com/p/ghost-peak-goat-on-a-peak][Ghost Peak: /The Goat on a Peak/]]
+357. [@357] [[https://www.jazzofjapan.com/p/hikari-ichihara-group-unity][Hikari Ichihara Group: /Unity/]]
+358. [@358] [[https://www.jazzofjapan.com/p/sunny-side][Sunny Side]] ~
+359. [@359] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-echo][Hitomi Nishiyama: /Echo/]]
+360. [@360] [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-im-missing-you][Hitomi Nishiyama Trio: /I’m Missing You/]]
 *April 2025*
-- [[https://www.jazzofjapan.com/p/fe-live-at-virtuoso][Fe: /Live at Virtuoso/]]
-- [[https://www.jazzofjapan.com/p/akane-matsumoto-ayumi-koketsu-trust][Akane Matsumoto & Ayumi Koketsu: /Trust/]]
-- [[https://www.jazzofjapan.com/p/nardis][Nardis]] ~
-- [[https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary][Kaito Nakamura: /Invisible Diary/]]
-- [[https://www.jazzofjapan.com/p/shinya-fukumori-trio-for-2-akis][Shinya Fukumori Trio: /For 2 Akis/]]
-- [[https://www.jazzofjapan.com/p/oto-ya-hiroo][Oto-ya Hiroo]] ~
+361. [@361] [[https://www.jazzofjapan.com/p/fe-live-at-virtuoso][Fe: /Live at Virtuoso/]]
+362. [@362] [[https://www.jazzofjapan.com/p/akane-matsumoto-ayumi-koketsu-trust][Akane Matsumoto & Ayumi Koketsu: /Trust/]]
+363. [@363] [[https://www.jazzofjapan.com/p/nardis][Nardis]] ~
+364. [@364] [[https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary][Kaito Nakamura: /Invisible Diary/]]
+365. [@365] [[https://www.jazzofjapan.com/p/shinya-fukumori-trio-for-2-akis][Shinya Fukumori Trio: /For 2 Akis/]]
+366. [@366] [[https://www.jazzofjapan.com/p/oto-ya-hiroo][Oto-ya Hiroo]] ~
 *May 2025*
-- [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-stolen-moments][Layla Tomomi Sakai: /Stolen Moments/]]
-- [[https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go][Kanoko Kitajima: /Long Way to Go/]]
-- [[https://www.jazzofjapan.com/p/setagaya-trio-progress][Setagaya Trio: /Progress/]]
-- [[https://www.jazzofjapan.com/p/thelonious][Thelonious]] ~
-- [[https://www.jazzofjapan.com/p/yosuke-sato-george-nakajima-longing][Yosuke Sato & George Nakajima: /Longing/]]
+367. [@367] [[https://www.jazzofjapan.com/p/layla-tomomi-sakai-stolen-moments][Layla Tomomi Sakai: /Stolen Moments/]]
+368. [@368] [[https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go][Kanoko Kitajima: /Long Way to Go/]]
+369. [@369] [[https://www.jazzofjapan.com/p/setagaya-trio-progress][Setagaya Trio: /Progress/]]
+370. [@370] [[https://www.jazzofjapan.com/p/thelonious][Thelonious]] ~
+371. [@371] [[https://www.jazzofjapan.com/p/yosuke-sato-george-nakajima-longing][Yosuke Sato & George Nakajima: /Longing/]]
 *June 2025*
-- [[https://www.jazzofjapan.com/p/kunpei-nakabayashi-orchestra-circles][Kunpei Nakabayashi Orchestra: /Circles/]]
-- [[https://www.jazzofjapan.com/p/mayuko-katakura-duality-of-my-soul][Mayuko Katakura: /The Duality of My Soul/]]
-- [[https://www.jazzofjapan.com/p/in-f][In F]] ~
-- [[https://www.jazzofjapan.com/p/melodies-melodies][Melodies: /Melodies/]]
-- [[https://www.jazzofjapan.com/p/taeko-kurita-akira-sotoyama-duo][Taeko Kurita & Akira Sotoyama: /Duo/]]
+372. [@372] [[https://www.jazzofjapan.com/p/kunpei-nakabayashi-orchestra-circles][Kunpei Nakabayashi Orchestra: /Circles/]]
+373. [@373] [[https://www.jazzofjapan.com/p/mayuko-katakura-duality-of-my-soul][Mayuko Katakura: /The Duality of My Soul/]]
+374. [@374] [[https://www.jazzofjapan.com/p/in-f][In F]] ~
+375. [@375] [[https://www.jazzofjapan.com/p/melodies-melodies][Melodies: /Melodies/]]
+376. [@376] [[https://www.jazzofjapan.com/p/taeko-kurita-akira-sotoyama-duo][Taeko Kurita & Akira Sotoyama: /Duo/]]
 *July 2025*
-- [[https://www.jazzofjapan.com/p/taeko-kurita-ko-tsu-ko-tsu][Taeko Kurita: /Ko-tsu-ko-tsu/]]
-- [[https://www.jazzofjapan.com/p/koto-ha-to-shiro-o-matoeba][Koto ha, To: /Shiro o Matoeba/]]
-- [[https://www.jazzofjapan.com/p/natural][Natural]] ~
-- [[https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal][NHORHM: /New Heritage of Real Heavy Metal/]]
+377. [@377] [[https://www.jazzofjapan.com/p/taeko-kurita-ko-tsu-ko-tsu][Taeko Kurita: /Ko-tsu-ko-tsu/]]
+378. [@378] [[https://www.jazzofjapan.com/p/koto-ha-to-shiro-o-matoeba][Koto ha, To: /Shiro o Matoeba/]]
+379. [@379] [[https://www.jazzofjapan.com/p/natural][Natural]] ~
+380. [@380] [[https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal][NHORHM: /New Heritage of Real Heavy Metal/]]
 *August 2025*
-- [[https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road][Yuji Ito & Koichi Hirata Duo: /Two for the Road/]]
-- [[https://www.jazzofjapan.com/p/michiyo-matsushita-trio-free][Michiyo Matsushita Trio: /Free/]]
-- [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe][Ryosuke Hashizume Group: /As We Breathe/]]
-- [[https://www.jazzofjapan.com/p/chihiro-yamanaka-abyss][Chihiro Yamanaka: /Abyss/]]
-- [[https://www.jazzofjapan.com/p/bigboy][Bigboy]] ~
+381. [@381] [[https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road][Yuji Ito & Koichi Hirata Duo: /Two for the Road/]]
+382. [@382] [[https://www.jazzofjapan.com/p/michiyo-matsushita-trio-free][Michiyo Matsushita Trio: /Free/]]
+383. [@383] [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe][Ryosuke Hashizume Group: /As We Breathe/]]
+384. [@384] [[https://www.jazzofjapan.com/p/chihiro-yamanaka-abyss][Chihiro Yamanaka: /Abyss/]]
+385. [@385] [[https://www.jazzofjapan.com/p/bigboy][Bigboy]] ~
 *September 2025*
-- [[https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue][Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa: /Tides of Blue/]]
+386. [@386] [[https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue][Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa: /Tides of Blue/]]
 -----
 #+BEGIN_EXAMPLE
 KEY:
