@@ -1,1 +1,0 @@
-# brianmccrory.github.io
