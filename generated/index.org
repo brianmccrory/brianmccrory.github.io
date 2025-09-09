@@ -2,7 +2,7 @@
 #+options: preamble:nil postamble:nil
 [[https://www.jazzofjapan.com/][Jazz of Japan]]
 * Resources
-- [[https://www.jazzofjapan.com/unified][Unified Index]]
-- [[https://www.jazzofjapan.com/audio-mixes][Audio Mixes]]
-- [[https://www.jazzofjapan.com/categories][Album Categories]]
-- [[https://www.jazzofjapan.com/timeline][Publish History Timeline]]]
+- [[https://resources.jazzofjapan.com/unified][Unified Index]]
+- [[https://resources.jazzofjapan.com/audio-mixes][Audio Mixes]]
+- [[https://resources.jazzofjapan.com/categories][Album Categories]]
+- [[https://resources.jazzofjapan.com/timeline][Publish History Timeline]]]
