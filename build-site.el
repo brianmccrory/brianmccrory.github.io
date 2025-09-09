@@ -6,6 +6,7 @@
 (package-initialize)
 (unless package-archive-contents
   (package-refresh-contents))
+
 (package-install 'htmlize)
 
 (require 'ox-publish)
@@ -15,21 +16,18 @@
       org-html-head-include-default-style nil
       org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
 
-;;(setq org-export-with-toc nil)
 (setq org-publish-project-alist
       (list
-       (list "brianmccrory.github.io"
+       (list "brianmccrory.github.io:main"
 	     :recursive t
-	     :base-directory "~/git/brianmccrory.github.io"
+	     :base-directory "."
 	     :publishing-function 'org-html-publish-to-html
-;;	     :publishing-function 'org-md-publish-to-md
 	     :publishing-directory "."
 	     :with-author nil
 	     :with-creator nil
 	     :with-toc nil
 	     :section-numbers nil
-	     :time-stamp-file nil)))
-;; REF: M-x describe-variable org-publish-project-alias
+	     :time-stamp-file t)))
 
 (org-publish-all t)
 
