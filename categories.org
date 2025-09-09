@@ -1,3 +1,4 @@
+#+OPTIONS: toc:nil
 
 * [[https://www.jazzofjapan.com/][Jazz of Japan]]
 
