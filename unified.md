@@ -1,8 +1,15 @@
-# [Jazz of Japan](https://www.jazzofjapan.com/)
+
+# Table of Contents
+
+-   [Albums](#org2e26011)
+-   [Musicians](#org4813781)
+-   [Clubs](#org652737f)
+-   [Publish History Timeline](#orgc8a66df)
 
 *This four-part index lists the albums, musicians, and clubs currently featured on this site, along with a chronological timeline of articles published here.*
 
-[Albums](#albums) ・ [Musicians](#musicians) ・ [Clubs](#clubs) ・ [Publish History Timeline](#publish-history-timeline)
+
+<a id="org2e26011"></a>
 
 # Albums
 
@@ -349,6 +356,8 @@
 
 ---
 
+
+<a id="org4813781"></a>
 
 # Musicians
 
@@ -872,6 +881,8 @@
 ---
 
 
+<a id="org652737f"></a>
+
 # Clubs
 
 *This list includes some venues that have permanently closed or changed. Be sure to check official websites or phone specific venues for details.*
@@ -938,6 +949,8 @@
 
 ---
 
+
+<a id="orgc8a66df"></a>
 
 # Publish History Timeline
 

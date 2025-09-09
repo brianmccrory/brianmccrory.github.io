@@ -1,11 +1,36 @@
 
+# Table of Contents
+
+-   [Jazz of Japan](#org9106e7b)
+-   [Albums by Category](#org4e65a6e)
+    -   [1. Trumpet](#org751f456)
+    -   [2. Saxophone](#org5ac2aaf)
+    -   [3. Trombone](#orga5ccb79)
+    -   [4. Flute](#org7229d69)
+    -   [5. Clarinet](#org290a344)
+    -   [6. Violin](#orgefe0f2a)
+    -   [7. Cello](#orgcd6ec86)
+    -   [8. Vibraphone](#orgb994c05)
+    -   [9. Guitar](#org04ea31b)
+    -   [10. Piano](#orgd85c18e)
+    -   [11. Bass](#org66895dd)
+    -   [12. Drums](#orgbc1ef39)
+    -   [13. Vocals](#orgfb22b08)
+
+
+<a id="org9106e7b"></a>
+
 # [Jazz of Japan](https://www.jazzofjapan.com/)
 
+
+<a id="org4e65a6e"></a>
 
 # Albums by Category
 
 *Albums featured on this site are organized into categories based on the primary instrument or artist (primary or first listed) for each album. Each album appears once and in one category only.*
 
+
+<a id="org751f456"></a>
 
 ## 1. Trumpet
 
@@ -23,6 +48,8 @@
 -   *[Unity](https://www.jazzofjapan.com/p/hikari-ichihara-group-unity)* by Hikari Ichihara Group \*
 -   *See all: [#trumpet](https://www.jazzofjapan.com/t/trumpet)*
 
+
+<a id="org5ac2aaf"></a>
 
 ## 2. Saxophone
 
@@ -71,6 +98,8 @@
 -   *See all: [#saxophone](https://www.jazzofjapan.com/t/saxophone)*
 
 
+<a id="orga5ccb79"></a>
+
 ## 3. Trombone
 
 ![img](./images/mariko-maeda-awareness-460.jpeg) | ![img](./images/akane-matsumoto-nanami-haruta-for-460.jpeg) | ![img](./images/nanami-haruta-ii-460.jpeg)
@@ -80,6 +109,8 @@
 -   *[II](https://www.jazzofjapan.com/p/nanami-haruta-ii)* by Nanami Haruta \*
 -   *See all: [#trombone](https://www.jazzofjapan.com/t/trombone)*
 
+
+<a id="org7229d69"></a>
 
 ## 4. Flute
 
@@ -92,6 +123,8 @@
 -   *See all: [#flute](https://www.jazzofjapan.com/t/flute)*
 
 
+<a id="org290a344"></a>
+
 ## 5. Clarinet
 
 ![img](./images/tokuhirodoi-amalthea-460.jpeg)
@@ -99,6 +132,8 @@
 -   *[Amalthea](https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea)* by Tokuhiro Doi Quartet \*
 -   *See all: [#clarinet](https://www.jazzofjapan.com/t/clarinet)*
 
+
+<a id="orgefe0f2a"></a>
 
 ## 6. Violin
 
@@ -111,6 +146,8 @@
 -   *See all: [#violin](https://www.jazzofjapan.com/t/violin)*
 
 
+<a id="orgcd6ec86"></a>
+
 ## 7. Cello
 
 ![img](./images/arco-asymmetry-460.jpeg) | ![img](./images/arco-birth-460.jpeg) | ![img](./images/arco-liveatyoncha-460.jpeg)
@@ -120,6 +157,8 @@
 -   *[Live At Yoncha](https://www.jazzofjapan.com/p/arco-live-at-yoncha)* by Arco \*
 -   *See all: [#cello](https://www.jazzofjapan.com/t/cello)*
 
+
+<a id="orgb994c05"></a>
 
 ## 8. Vibraphone
 
@@ -133,6 +172,8 @@
 -   *[The Square Pyramid](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid)* by Reiko Yamamoto
 -   *See all: [#vibraphone](https://www.jazzofjapan.com/t/vibraphone)*
 
+
+<a id="org04ea31b"></a>
 
 ## 9. Guitar
 
@@ -153,6 +194,8 @@
 -   *[Two for the Road](https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road)* by Yuji Ito & Koichi Hirata Duo \*
 -   *See all: [#guitar](https://www.jazzofjapan.com/t/guitar)*
 
+
+<a id="orgd85c18e"></a>
 
 ## 10. Piano
 
@@ -271,6 +314,8 @@
 -   *See all: [#piano](https://www.jazzofjapan.com/t/piano)*
 
 
+<a id="org66895dd"></a>
+
 ## 11. Bass
 
 ![img](./images/kunpei-nakabayashi-orchestra-circles-460.jpeg) | ![img](./images/yasumasakumagai-ryukawamura-olschool-460.jpeg) | ![img](./images/daiki-yasukagawa-new-trio-three-roses-460.jpeg)
@@ -292,6 +337,8 @@
 -   *See all: [#bass](https://www.jazzofjapan.com/t/bass)*
 
 
+<a id="orgbc1ef39"></a>
+
 ## 12. Drums
 
 ![img](./images/koomura-introspect-460.jpeg) | ![img](./images/kaito-nakamura-invisible-diary-460.jpeg) | ![img](./images/hiro-kimura-trees-460.jpeg)
@@ -310,6 +357,8 @@
 -   *[You’ve Changed](https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed)* by Hara Dairiki Trio
 -   *See all: [#drums](https://www.jazzofjapan.com/t/drums)*
 
+
+<a id="orgfb22b08"></a>
 
 ## 13. Vocals
 
