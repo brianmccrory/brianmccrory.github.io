@@ -18,8 +18,8 @@
 	     :publishing-function 'org-md-publish-to-md
 	     :publishing-directory "."
 	     :with-author nil
-	     :with-creator t
-	     :with-toc t
+	     :with-creator nil
+	     :with-toc nil
 	     :section-numbers nil
 	     :time-stamp-file nil)))
 ;; REF: M-x describe-variable org-publish-project-alias
