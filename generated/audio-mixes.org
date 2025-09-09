@@ -1,15 +1,16 @@
 #+author: Brian McCrory
-#+title: Audio Mixes
 #+options: preamble:nil postamble:nil
-* [[https://www.jazzofjapan.com/][Jazz of Japan]]
+[[https://www.jazzofjapan.com/][Jazz of Japan]]
 * Audio Mixes
 /These are compilations of audio excerpts from albums featured on this site./
 -----
 ** Audio Mix #21
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-21.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Long Way to Go” - [[https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go][Kanoko Kitajima: /Long Way to Go/]] - 00:00
 2. “Mehta” - [[https://www.jazzofjapan.com/p/setagaya-trio-progress][Setagaya Trio: /Progress/]] - 03:18
 3. “Stablemates” - [[https://www.jazzofjapan.com/p/yosuke-sato-george-nakajima-longing][Yosuke Sato & George Nakajima: /Longing/]] - 06:25
@@ -24,10 +25,12 @@ This browser does not support the audio element.
 [[./images/taeko-kurita-akira-sotoyama-duo-460.jpeg]] | [[./images/taeko-kurita-ko-tsu-ko-tsu-460.jpeg]] | [[./images/koto-ha-to-shiro-o-mateoba-460.jpeg]]
 -----
 ** Audio Mix #20
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-20.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “A Goat Climbs a Peak” - [[https://www.jazzofjapan.com/p/ghost-peak-goat-on-a-peak][Ghost Peak: /The Goat on a Peak/]] - 00:00
 2. “The Laughing Stock” - [[https://www.jazzofjapan.com/p/hikari-ichihara-group-unity][Hikari Ichihara Group: /Unity/]] - 03:13
 3. “Arrakis” - [[https://www.jazzofjapan.com/p/hitomi-nishiyama-echo][Hitomi Nishiyama: /Echo/]] - 06:22
@@ -42,10 +45,12 @@ This browser does not support the audio element.
 [[./images/kaito-nakamura-invisible-diary-460.jpeg]] | [[./images/shinya-fukumori-trio-for-2-akis-460.jpeg]] | [[./images/layla-tomomi-sakai-stolen-moments-460.jpeg]]
 -----
 ** Audio Mix #19
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-19.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Nostalgio” - [[https://www.jazzofjapan.com/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary][Megumi Yonezawa / Masa Kamaguchi / Ken Kobayashi: /Boundary/]] - 00:00
 2. “Owari to Hajimari” - [[https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari][Nobie & Takayoshi Baba: /Owari to Hajimari/]] - 03:38
 3. “Wunderbarland” - [[https://www.jazzofjapan.com/p/daiki-yasukagawa-new-trio-three-roses][Daiki Yasukagawa New Trio: /The Three Roses/]] - 06:50
@@ -60,10 +65,12 @@ This browser does not support the audio element.
 [[./images/ami-fukui-trio-mcy-460.jpeg]] | [[./images/hideaki-hori-wataru-hamasaki-encounter-460.jpeg]] | [[./images/emiko-voice-yuka-yanagihara-enyana-460.jpeg]]
 -----
 ** Audio Mix #18
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-18.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Vain Pursuit” - [[https://www.jazzofjapan.com/p/chie-nishimura-virtual-silence][Chie Nishimura: /Virtual Silence/]] - 00:00
 2. “Siciliano” - [[https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting][Makiyo Sakai: /Silver Painting/]] - 03:10
 3. “Slumber” - [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two][Ryosuke Hashizume Group: /Side Two/]] - 06:27
@@ -78,10 +85,12 @@ This browser does not support the audio element.
 [[./images/seiji-endo-piano-pieces-collection-ii-460.jpeg]] | [[./images/hiro-kimura-trees-460.jpeg]] | [[./images/akane-matsumoto-oh-lady-be-good-460.jpeg]]
 -----
 ** Audio Mix #17
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-17.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “May Song” - [[https://www.jazzofjapan.com/p/koichi-sato-embryo][Koichi Sato: /Embryo/]] - 00:00
 2. “Blues” - [[https://www.jazzofjapan.com/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz][Yasumasa Kumagai & Ryu Kawamura: /Ol’ School Jazz/]] - 03:01
 3. “Loop” - [[https://www.jazzofjapan.com/p/nobie-primary][Nobie: /Primary/]] - 05:24
@@ -96,10 +105,12 @@ This browser does not support the audio element.
 [[./images/hitomi-nishiyama-dot-460.jpeg]] | [[./images/mamoru-ishida-afterglow-460.jpeg]] | [[./images/mabumi-yamaguchi-viento-460.jpeg]]
 -----
 ** Audio Mix #16
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-16.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Vibrant Line” - [[https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid][Reiko Yamamoto: /The Square Pyramid/]] - 00:00
 2. “Nature Boy” - [[https://www.jazzofjapan.com/p/yuki-ito-retattanni-no-mori][Yuki Ito: /Retattanni no Mori/]] - 03:23
 3. “Saenk kun dit hoved du blomst” - [[https://www.jazzofjapan.com/p/kazumi-ikenaga-taihei-asakawa-nordnote][Kazumi Ikenaga & Taihei Asakawa: /NordNote/]] - 06:15
@@ -114,10 +125,12 @@ This browser does not support the audio element.
 [[./images/yoshiko-saita-back-in-time-to-boston-460.jpeg]] | [[./images/eri-chichibu-crossing-reality.jpg]] | [[./images/banda-feliz-boa-viagem-460.jpeg]]
 -----
 ** Audio Mix #15
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-15.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Mysterious Dress” - [[https://www.jazzofjapan.com/p/jabuticaba-jabuticaba][Jabuticaba: /Jabuticaba/]] - 00:00
 2. “Le Bourgeon” - [[https://www.jazzofjapan.com/p/nami-kano-mawsim][Nami Kano: /Mawsim/]] - 02:20
 3. “Savichara” - [[https://www.jazzofjapan.com/p/efreydut-fairway][eFreydut: /Fairway/]] - 04:39
@@ -132,10 +145,12 @@ This browser does not support the audio element.
 [[./images/erisa-ogawa-where-have-u-been-460.jpeg]] | [[./images/otohito-fuse-trio-isolated-460.jpeg]] | [[./images/miwo-tranquillo-460.jpeg]]
 -----
 ** Audio Mix #14
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-14.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “J” - [[https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces][Kaoru Azuma / Hitomi Nishiyama: /Faces/]] - 00:00
 2. “First Contact” - [[https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact][Mase Hiroko Quintet: /First Contact/]] - 02:25
 3. “After Tours” - [[https://www.jazzofjapan.com/p/yuka-yanagihara-trio-inner-views][Yuka Yanagihara Trio: /Inner Views/]] - 04:43
@@ -150,10 +165,12 @@ This browser does not support the audio element.
 [[./images/hiroshi-fukutomi-memory-stones-460.jpeg]] | [[./images/chihiro-yamanaka-lach-460.jpeg]] | [[./images/naoko-tanaka-appreciation-460.jpeg]]
 -----
 ** Audio Mix #13
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-13.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Hi no Kodomotachi” - [[https://www.jazzofjapan.com/p/rabbitoo-the-torch][Rabbitoo: /The Torch/]] - 00:00
 2. “Through the Lights” - [[https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights][Kaori Vibes Quartet: /Starry Nights/]] - 02:34
 3. “Plus fort que nous” - [[https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo][Shinpei Ruike & George Nakajima: /Duo/]] - 04:37
@@ -168,10 +185,12 @@ This browser does not support the audio element.
 [[./images/hideaki-hori-melodies-night-day-460.jpeg]] | [[./images/miyuki-moriya-uta-oto-460.jpeg]] | [[./images/babybrothers-happy-christmas-460.jpeg]]
 -----
 ** Audio Mix #12
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-12.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “No Return” - [[https://www.jazzofjapan.com/p/yuichi-narita-urban-nocturne][Yuichi Narita: /Urban Nocturne/]] - 00:00
 2. “Primavera de Batata” - [[https://www.jazzofjapan.com/p/sul-madrugada-luar][Sul Madrugada: /Luar/]] - 01:28
 3. “Catherine no Yuutsu” - [[https://www.jazzofjapan.com/p/yukako-yamano-imperial][Yukako Yamano: /Imperial/]] - 03:31
@@ -186,10 +205,12 @@ This browser does not support the audio element.
 [[./images/mikiko-nagatake-solo-460.jpeg]] | [[./images/yasumasa-kumagai-last-resort-460.jpeg]] | [[./images/emiko-voice-standard-trio-460.jpeg]]
 -----
 ** Audio Mix #11
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-11.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Frida” - [[https://www.jazzofjapan.com/p/mariko-maeda-awareness][Mariko Maeda: /Awareness/]] - 00:00
 2. “Face to Face” - [[https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds][Hiro Kimura Quintet: /Folds/]] - 01:42
 3. “Recollection” - [[https://www.jazzofjapan.com/p/hitomi-nishiyama-vibrant][Hitomi Nishiyama: /Vibrant/]] - 03:46
@@ -206,10 +227,12 @@ This browser does not support the audio element.
 [[./images/tetsujiyoshida-mikikonagatake-knuttel-460.jpeg]] |   |  
 -----
 ** Audio Mix #10
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-10.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Zai Jian” - [[https://www.jazzofjapan.com/p/ami-fukui-trio-urban-clutter][Ami Fukui Trio: /Urban Clutter/]] - 00:00
 2. “Victory” - [[https://www.jazzofjapan.com/p/yukakoyamano-yukariinoue-dubai][Yukako Yamano & Yukari Inoue: /Dubai Suite/]] - 02:48
 3. “Dancing Elephant” - [[https://www.jazzofjapan.com/p/bungalow-unseen-scenes][Bungalow: /Unseen Scenes/]] - 04:32
@@ -227,10 +250,12 @@ This browser does not support the audio element.
 [[./images/rietaguchi-gift-ii-460.jpeg]] | [[./images/george-nakajima-first-touch-460.jpeg]] |  
 -----
 ** Audio Mix #9
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-9.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “JB’s Poem” - [[https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence][Yoshihito “P” Koizumi P-Project: /By Coincidence/]] - 00:00
 2. “Mane” - [[https://www.jazzofjapan.com/p/naoko-sakata-trio-flower-clouds][Naoko Sakata Trio: /Flower Clouds/]] - 01:03
 3. “Water Drops” - [[https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days][Fumie Chiba: /Beautiful Days/]] - 03:07
@@ -248,10 +273,12 @@ This browser does not support the audio element.
 [[./images/trigraph-fever-460.jpeg]] | [[./images/rurikokawamura-blossoms-460.jpeg]] |  
 -----
 ** Audio Mix #8
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-8.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “For All We Know” - [[https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life][Masako Kunisada: /Wonderful Life/]] - 00:00
 2. “Street Lights” - [[https://www.jazzofjapan.com/p/aquapit-aquapit][Aquapit: /Aquapit/]] - 01:27
 3. “Sailing” - [[https://www.jazzofjapan.com/p/naoko-tanaka-trio-memories][Naoko Tanaka Trio: /Memories/]] - 02:30
@@ -273,10 +300,12 @@ This browser does not support the audio element.
 [[./images/arco-liveatyoncha-460.jpeg]] | [[./images/yukiko-hayakawa-gallery-460.jpeg]] |  
 -----
 ** Audio Mix #7
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-7.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Balkan Tale” - [[https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-living-without-friday][Chihiro Yamanaka Trio: /Living Without Friday/]] - 00:00
 2. “Face” - [[https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless][Ryosuke Hashizume Group: /Wordless/]] - 01:03
 3. “Confirmation” - [[https://www.jazzofjapan.com/p/emiko-voice-x-suga-dairo-phase-2][Emiko Voice x Suga Dairo: /Phase 2/]] - 02:06
@@ -303,10 +332,12 @@ This browser does not support the audio element.
 [[./images/fuse-live-460.jpeg]] | [[./images/chihiroyamanaka-october-460.jpeg]] | [[./images/kohsukemine-major-460.jpeg]]
 -----
 ** Audio Mix #6
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-6.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Beatrice” - [[https://www.jazzofjapan.com/p/miki-hayama-prelude-to-a-kiss][Miki Hayama: /Prelude to a Kiss/]] - 00:00
 2. “Workout” - [[https://www.jazzofjapan.com/p/seiji-tada-workout][Seiji Tada: /Workout!!/]] - 01:03
 3. “This is New” - [[https://www.jazzofjapan.com/p/hideaki-hori-trio-in-my-words][Hideaki Hori Trio: /In My Words/]] - 02:06
@@ -331,10 +362,12 @@ This browser does not support the audio element.
 [[./images/trioexport-smallpieces-460.jpeg]] |   |  
 -----
 ** Audio Mix #5
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-5.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Fairy Woods” - [[https://www.jazzofjapan.com/p/zephyr-zephyr][Zephyr: /Zephyr/]] - 00:00
 2. “Do Re Mi” - [[https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo][Harumi Nomoto Trio: /Virgo/]] - 01:03
 3. “I Loves You, Porgy” - [[https://www.jazzofjapan.com/p/yuichiro-aratake-light-flows-in][Yuichiro Aratake: /The Light Flows In/]] - 02:06
@@ -359,10 +392,12 @@ This browser does not support the audio element.
 [[./images/hitominishiyama-nhorhm-extra-460.jpeg]] |   |  
 -----
 ** Audio Mix #4
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-4.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “I Need a Change, Too” - [[https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too][Yasumasa Kumagai: /I Need a Change, Too/]] - 00:00
 2. “Offer Refused” - [[https://www.jazzofjapan.com/p/hakuei-kim-trio-open-the-green-door][Hakuei Kim Trio: /Open the Green Door/]] - 01:53
 3. “Absinthe” - [[https://www.jazzofjapan.com/p/ami-fukui-amizm][Ami Fukui: /Amizm/]] - 02:56
@@ -391,10 +426,12 @@ This browser does not support the audio element.
 [[./images/masakokunisada-m-460.jpeg]] |   |  
 -----
 ** Audio Mix #3
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-3.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Spur” - [[https://www.jazzofjapan.com/p/les-komatis-les-komatis][Les Komatis: /Les Komatis/]] - 00:00
 2. “A Dancer’s Melancholy” - [[https://www.jazzofjapan.com/p/mayuko-katakura-echoes-of-three][Mayuko Katakura: /The Echoes of Three/]] - 01:03
 3. “Move” - [[https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-parallax-live][Hitomi Nishiyama Trio “Parallax”: /Live/]] - 02:06
@@ -421,10 +458,12 @@ This browser does not support the audio element.
 [[./images/hamasaki-matsumoto-bigcatch-460.jpeg]] | [[./images/akihiroyoshimoto-moving-460.jpeg]] | [[./images/hideakihori-unconditional-460.jpeg]]
 -----
 ** Audio Mix #2
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-2.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “In a Reverse Way” - [[https://www.jazzofjapan.com/p/takuji-yamada-lite-blue][Takuji Yamada: /Lite Blue/]] - 00:00
 2. “Circle for Peace” - [[https://www.jazzofjapan.com/p/seiji-endo-circle-for-peace][Seiji Endo: /Circle for Peace/]] - 00:48
 3. “The Railway Station” - [[https://www.jazzofjapan.com/p/koichi-sato-melancholy][Koichi Sato: /Melancholy of a Journey/]] - 01:36
@@ -450,10 +489,12 @@ This browser does not support the audio element.
 [[./images/atomihamada-thisis-460.jpeg]] | [[./images/kaorivibesquartet-crosspoint-460.jpeg]] |  
 -----
 ** Audio Mix #1
+#+BEGIN_EXPORT html
 <audio controls>
 <source src="./audio/compilation-1.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
+#+END_EXPORT
 1. “Unspoken Language” - [[https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi][Kazumi Ikenaga: /Niwatazumi/]] - 00:00
 2. “Night and Day” - [[https://www.jazzofjapan.com/p/akane-matsumoto-night-and-day][Akane Matsumoto: /Night & Day/]] - 00:48
 3. “Cool Bunny” - [[https://www.jazzofjapan.com/p/ayumi-koketsu-art][Ayumi Koketsu: /Art/]] - 01:36
