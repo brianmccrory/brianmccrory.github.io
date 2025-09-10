@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = 'Jazz of Japan'
 theme = 'ananke'
 
-# for audio control in html (https://ox-hugo.scripter.co/doc/goldmark/)
+# org to hugo: https://ox-hugo.scripter.co/doc/image-links/
+
+# for audio control in html: https://ox-hugo.scripter.co/doc/goldmark/
 [markup.goldmark.renderer]
   unsafe = true
 

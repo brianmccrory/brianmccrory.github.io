@@ -1,8 +1,0 @@
-#+author: Brian McCrory
-#+options: preamble:nil postamble:nil
-[[https://www.jazzofjapan.com/][Jazz of Japan]]
-* Resources
-- [[https://resources.jazzofjapan.com/albums-index][Albums Index]]
-- [[https://resources.jazzofjapan.com/musicians-index][Musicians Index]]
-- [[https://resources.jazzofjapan.com/audio-mixes][Audio Mixes]]
-- [[https://resources.jazzofjapan.com/timeline][Publish History Timeline]]

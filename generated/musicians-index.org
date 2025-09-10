@@ -1,7 +1,8 @@
 #+author: Brian McCrory
+#+title: Musicians Index
 #+options: preamble:nil postamble:nil
-[[https://www.jazzofjapan.com/][Jazz of Japan]]
-* Musicians Index
+#+HUGO_BASE_DIR: ~/git/brianmccrory.github.io/
+
 - Abe, Atsushi (阿部篤志, piano): [[https://www.jazzofjapan.com/p/emiko-voice-standard-trio][/Standard Trio/]]
 - Abe, Daisuke (阿部大輔, guitar, [[https://daisukeabe.com/][/web/]]): [[https://www.jazzofjapan.com/p/takuji-yamada-lite-blue][/Lite Blue/]]
 - Afra (あふら, human beatbox, [[http://afra.jp/][/web/]]): [[https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too][/I Need a Change, Too/]]

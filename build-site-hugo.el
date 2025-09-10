@@ -9,24 +9,20 @@
 (package-install 'ox-hugo)
 
 (require 'ox-publish)
-(use-package ox-hugo
-  :ensure t
-  :after ox)
+(require 'ox-hugo)
 
 (with-eval-after-load 'ox-hugo
   (add-to-list 'org-hugo-special-block-type-properties '("html" . (:raw t))))
 
-(defun my/org-hugo-batch-export-all (base-dir output-dir)
+(defun my/org-hugo-batch-export-all (base-dir)
   (dolist (file (directory-files-recursively base-dir "\\.org$"))
     (with-current-buffer (find-file-noselect file)
       (org-mode)
-      (setq org-hugo-base-dir base-dir)
-      (setq org-hugo-auto-set-lastmod t) ; optional
-      (let ((org-export-use-babel t)) ; if you want to execute src blocks
+      (setq org-hugo-base-dir "generated")
+      (setq org-hugo-auto-set-lastmod t)
+      (let ((org-export-use-babel t))
         (org-hugo-export-wim-to-md :all-subtrees)))))
         
-(my/org-hugo-batch-export-all "generated-org" "_site-hugo")
-
-;;(org-publish-all t)
+(my/org-hugo-batch-export-all "generated")
 
 (message "Build complete")

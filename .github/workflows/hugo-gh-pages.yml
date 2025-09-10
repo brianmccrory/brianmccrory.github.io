@@ -1,6 +1,4 @@
 name: Build with Hugo export and Deploy
-# COPIED FROM: https://gohugo.io/host-and-deploy/host-on-github-pages/
-#name: Build and deploy
 on:
   push:
     branches:
@@ -79,15 +77,10 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys:
             hugo-
-
-# insert commands to convert org to hugo md
       - name: Install emacs-nox
         run: sudo apt install emacs-nox --yes
-
-#      - name: Convert org to hugo markdown (build-hugo.sh)
-#        run: ./build-hugo.sh
-
-# resuming copypaste...
+      - name: Convert org to hugo markdown
+        run: ./build-hugo.sh
       - name: Build the site
         run: |
           hugo \
