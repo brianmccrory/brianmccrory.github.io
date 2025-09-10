@@ -4,6 +4,7 @@ title = 'Jazz of Japan'
 theme = 'ananke'
 
 # org to hugo: https://ox-hugo.scripter.co/doc/image-links/
+# analytics: https://discourse.gohugo.io/t/free-hosted-analytics-providers-that-arent-google/11615
 
 # for audio control in html: https://ox-hugo.scripter.co/doc/goldmark/
 [markup.goldmark.renderer]

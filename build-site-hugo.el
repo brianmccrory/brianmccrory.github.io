@@ -8,8 +8,8 @@
 
 (package-install 'ox-hugo)
 
-(require 'ox-publish)
-(require 'ox-hugo)
+;;(require 'ox-publish)
+;;(require 'ox-hugo)
 
 (with-eval-after-load 'ox-hugo
   (add-to-list 'org-hugo-special-block-type-properties '("html" . (:raw t))))
