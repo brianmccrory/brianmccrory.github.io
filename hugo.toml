@@ -1,38 +1,34 @@
 baseURL = 'https://www.jazzofjapan.com'
 languageCode = 'en-us'
-title = 'Jazz of Japan'
+title = 'Jazz of Japan Docs'
 theme = 'ananke'
+googleAnalytics = 'G-01CL7RCR0Q'
 
-# org to hugo: https://ox-hugo.scripter.co/doc/image-links/
-# analytics: https://discourse.gohugo.io/t/free-hosted-analytics-providers-that-arent-google/11615
-
-# for audio control in html: https://ox-hugo.scripter.co/doc/goldmark/
 [markup.goldmark.renderer]
   unsafe = true
 
-# https://gohugo.io/host-and-deploy/host-on-github-pages/
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
 [menus]
-  # [[menus.main]]
-  #   name = 'Home'
-  #   pageRef = 'https://www.jazzofjapan.com/'
-  #   weight = 10
   [[menus.main]]
     name = 'Albums Index'
-    pageRef = 'albums-index'
-    weight = 20
-  [[menus.main]]
-    name = 'Musicians Index'
-    pageRef = 'musicians-index'
+    pageRef = 'resources/albums-index'
     weight = 30
   [[menus.main]]
-    name = 'Audio Mixes'
-    pageRef = 'audio-mixes'
+    name = 'Musicians Index'
+    pageRef = 'resources/musicians-index'
     weight = 40
   [[menus.main]]
-    name = 'Publish History Timeline'
-    pageRef = 'timeline'
+    name = 'Audio Mixes'
+    pageRef = 'resources/audio-mixes'
     weight = 50
+  [[menus.main]]
+    name = 'Timeline'
+    pageRef = 'resources/timeline'
+    weight = 60
+  [[menus.main]]
+    name = 'Jazz of Japan'
+    url = 'https://www.jazzofjapan.com/'
+    weight = 70

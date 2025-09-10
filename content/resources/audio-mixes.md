@@ -1,13 +1,11 @@
 +++
 title = "Audio Mixes"
 author = ["Brian McCrory"]
-lastmod = 2025-09-10T11:40:25-07:00
+lastmod = 2025-09-10T12:37:12-07:00
 draft = false
 +++
 
-_These are compilations of audio excerpts from albums featured on this site._
-
----
+_Compilations of audio excerpts from albums featured on this site._
 
 
 ## Audio Mix #21 {#audio-mix-21}
@@ -626,3 +624,5 @@ This browser does not support the audio element.
 | ![](/images/akikosuda-flowersonthehill-460.jpeg)     | ![](/images/hiroconagano-okurimono-460.jpeg)      | ![](/images/kaorinakajima-flyingmind-460.jpeg)          |
 | ![](/images/satoshikosugi-bassontimes-460.jpeg)      | ![](/images/hitominishiyama-manyseasons-460.jpeg) | ![](/images/keisukenakamura-humadope-460.jpeg)          |
 | ![](/images/junichiroohkuchi-invisible-460.jpeg)     | ![](/images/mayukokatakura-faith-460.jpeg)        |                                                         |
+
+---

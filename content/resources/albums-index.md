@@ -1,9 +1,12 @@
 +++
 title = "Albums Index"
 author = ["Brian McCrory"]
-lastmod = 2025-09-10T11:40:25-07:00
+lastmod = 2025-09-10T12:37:12-07:00
 draft = false
 +++
+
+_Index of albums featured on this site by release year and category._
+
 
 ## Albums by Release Year {#albums-by-release-year}
 
@@ -353,7 +356,7 @@ draft = false
 
 ## Albums by Category {#albums-by-category}
 
-_In this list, albums are organized into categories based on the primary instrument or artist (primary or first listed) for each album._
+_Categories are based on the primary instrument or artist (primary or first listed) for each album._
 
 
 ### 1. Trumpet {#1-dot-trumpet}
