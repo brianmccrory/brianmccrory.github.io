@@ -1,7 +1,7 @@
 +++
 title = "Publish History Timeline"
 author = ["Brian McCrory"]
-lastmod = 2025-09-10T11:08:28-07:00
+lastmod = 2025-09-10T11:40:26-07:00
 draft = false
 +++
 
