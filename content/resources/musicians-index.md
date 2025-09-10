@@ -1,7 +1,7 @@
 +++
 title = "Musicians Index"
 author = ["Brian McCrory"]
-lastmod = 2025-09-10T12:37:13-07:00
+lastmod = 2025-09-10T14:25:33-07:00
 draft = false
 +++
 
@@ -303,15 +303,7 @@ _Index of the musicians and the albums discussed on this site._
 
 -   M-oto (エムオート, human beat box): [_M_](https://www.jazzofjapan.com/p/masako-kunisada-m)
 -   Maeda, Mariko (前田真梨子, trombone, [_web_](https://maedamario.wixsite.com/maeda-mariko)): [_Awareness_](https://www.jazzofjapan.com/p/mariko-maeda-awareness)
-
-
-## m {#m}
-
 -   maiko (マイコ, violin, [_web_](https://jvmaiko.com/)): [_Dot_](https://www.jazzofjapan.com/p/hitomi-nishiyama-dot) · [_Echo_](https://www.jazzofjapan.com/p/hitomi-nishiyama-echo) · [_Live! Three_](https://www.jazzofjapan.com/p/maiko-trio-live-three) · [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim) · [_Solo_](https://www.jazzofjapan.com/p/maiko-solo)
-
-
-## M {#m}
-
 -   Makino, Ryutaro (牧野竜太郎, vocal, [_web_](http://www.ryutaromakino.com/)): [_Music Make Us One_](https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one)
 -   Manasia, Jeremy (piano, [_web_](http://www.jeremymanasia.com/)): [_Art_](https://www.jazzofjapan.com/p/ayumi-koketsu-art)
 -   Maret, Grégoire (harmonica, [_web_](https://en.wikipedia.org/wiki/Gr%C3%A9goire_Maret)): [_Back in Time to Boston_](https://www.jazzofjapan.com/p/yoshiko-saita-back-in-time-to-boston)
