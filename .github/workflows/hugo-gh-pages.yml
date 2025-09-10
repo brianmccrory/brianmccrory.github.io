@@ -78,7 +78,9 @@ jobs:
           restore-keys:
             hugo-
       - name: Install emacs-nox
-        run: sudo apt install emacs-nox --yes
+        run: |
+	  sudo apt install emacs-nox --yes
+	  echo "emacs: $(emacs --version)"
       - name: Convert org to hugo markdown
         run: ./build-hugo.sh
       - name: Build the site
