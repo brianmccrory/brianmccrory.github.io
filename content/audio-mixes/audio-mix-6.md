@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #6"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -6
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #6 {#audio-mix-6}
+_Compilation of audio excerpts from 2020-01-09 to 2020-02-19._
 
 <audio controls>
 <source src="/audio/compilation-6.mp3" type="audio/mpeg">
@@ -41,5 +36,3 @@ This browser does not support the audio element.
 | ![](/images/hiromimiura-wedont-460.jpeg)          | ![](/images/yudomatsuo-bonanza-460.jpeg)       | ![](/images/daikiyasukagawa-trios2-460.jpeg) |
 | ![](/images/fumiokarashima-beginning-460.jpeg)    | ![](/images/reikankobayashi-gakudan-460.jpeg)  | ![](/images/miyukimoriya-cats-460.jpeg)      |
 | ![](/images/trioexport-smallpieces-460.jpeg)      |                                                |                                              |
-
----

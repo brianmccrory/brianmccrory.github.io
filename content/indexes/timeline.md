@@ -1,10 +1,8 @@
 +++
 title = "Publish History Timeline"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
-weight = 1
+weight = 40
 +++
 
 _Chronological sitemap with links to articles._
@@ -20,6 +18,8 @@ _Chronological sitemap with links to articles._
 -   \#7 [Yasumasa Kumagai: _J-Straight Ahead_](https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead)
 -   \#8 [Arco: _Asymmetry_](https://www.jazzofjapan.com/p/arco-asymmetry)
 -   \#9 [Sayaka Kishi: _Featuring Te_](https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te)
+
+<!--more-->
 
 **February 2018**
 

@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #21"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -21
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #21 {#audio-mix-21}
+_Compilation of audio excerpts from 2025-05-10 to 2025-07-12._
 
 <audio controls>
 <source src="/audio/compilation-21.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|
 | ![](/images/kunpei-nakabayashi-orchestra-circles-460.jpeg) | ![](/images/mayuko-katakura-duality-of-my-soul-460.jpeg) | ![](/images/melodies-melodies-460.jpeg)                   |
 | ![](/images/taeko-kurita-akira-sotoyama-duo-460.jpeg)      | ![](/images/taeko-kurita-ko-tsu-ko-tsu-460.jpeg)         | ![](/images/koto-ha-to-shiro-o-mateoba-460.jpeg)          |
-
----

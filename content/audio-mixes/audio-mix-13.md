@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #13"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -13
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #13 {#audio-mix-13}
+_Compilation of audio excerpts from 2023-10-22 to 2023-12-24._
 
 <audio controls>
 <source src="/audio/compilation-13.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |--------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|
 | ![](/images/akane-matsumoto-little-girl-blue-460.jpeg) | ![](/images/nanami-haruta-ii-460.jpeg)                  | ![](/images/hideaki-hori-horizon-460.jpeg)            |
 | ![](/images/hideaki-hori-melodies-night-day-460.jpeg)  | ![](/images/miyuki-moriya-uta-oto-460.jpeg)             | ![](/images/babybrothers-happy-christmas-460.jpeg)    |
-
----

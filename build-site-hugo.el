@@ -21,10 +21,11 @@
       (setq org-hugo-base-dir base-dir)
       (setq org-hugo-default-section-directory section-dir)
       (setq org-hugo-auto-set-lastmod t)
+      (setq org-export-with-author nil)
       (let ((org-export-use-babel t))
         (org-hugo-export-wim-to-md :all-subtrees)))))
         
-(my/org-hugo-batch-export-all "generated" "^[^a].*\\.org$\\|^a[^u].*\\.org$\\|^au[^d].*\\.org$\\|^aud[^i].*\\.org$\\|^audi[^o].*\\.org$" "resources")
+(my/org-hugo-batch-export-all "generated" "^[^a].*\\.org$\\|^a[^u].*\\.org$\\|^au[^d].*\\.org$\\|^aud[^i].*\\.org$\\|^audi[^o].*\\.org$" "indexes")
 (my/org-hugo-batch-export-all "generated" "^audio-.*\\.org$" "audio-mixes")
 
 (message "Build complete")

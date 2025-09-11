@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #15"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -15
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #15 {#audio-mix-15}
+_Compilation of audio excerpts from 2024-03-08 to 2024-06-14._
 
 <audio controls>
 <source src="/audio/compilation-15.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |-----------------------------------------------------|----------------------------------------------------------------|----------------------------------------------|
 | ![](/images/hitomi-nishiyama-trio-calling-460.jpeg) | ![](/images/takumi-seino-motohiko-ichino-frozen-dust-460.jpeg) | ![](/images/noriko-satomi-project-n-460.jpg) |
 | ![](/images/erisa-ogawa-where-have-u-been-460.jpeg) | ![](/images/otohito-fuse-trio-isolated-460.jpeg)               | ![](/images/miwo-tranquillo-460.jpeg)        |
-
----

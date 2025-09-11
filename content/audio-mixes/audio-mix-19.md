@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #19"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -19
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #19 {#audio-mix-19}
+_Compilation of audio excerpts from 2024-12-31 to 2025-03-02._
 
 <audio controls>
 <source src="/audio/compilation-19.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |-----------------------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------|
 | ![](/images/motoi-kanamori-the-live-460.jpeg)                               | ![](/images/magnolia-el-viento-y-las-flores-460.jpeg)        | ![](/images/miyuki-moriya-beyond-the-sea-460.jpeg)          |
 | ![](/images/ami-fukui-trio-mcy-460.jpeg)                                    | ![](/images/hideaki-hori-wataru-hamasaki-encounter-460.jpeg) | ![](/images/emiko-voice-yuka-yanagihara-enyana-460.jpeg)    |
-
----

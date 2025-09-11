@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #16"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -16
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #16 {#audio-mix-16}
+_Compilation of audio excerpts from 2024-06-24 to 2024-08-16._
 
 <audio controls>
 <source src="/audio/compilation-16.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------|
 | ![](/images/hikari-ichihara-sara-smile-460.jpeg)           | ![](/images/akihiro-yoshimoto-oxymoron-460.jpeg)  | ![](/images/motohiko-ichino-sketches-460.jpeg)               |
 | ![](/images/yoshiko-saita-back-in-time-to-boston-460.jpeg) | ![](/images/eri-chichibu-crossing-reality.jpg)    | ![](/images/banda-feliz-boa-viagem-460.jpeg)                 |
-
----

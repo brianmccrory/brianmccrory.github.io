@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #5"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -5
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #5 {#audio-mix-5}
+_Compilation of audio excerpts from 2019-03-21 to 2020-01-07._
 
 <audio controls>
 <source src="/audio/compilation-5.mp3" type="audio/mpeg">
@@ -41,5 +36,3 @@ This browser does not support the audio element.
 | ![](/images/sayakakishi-lifeis-460.jpeg)           | ![](/images/minoruyoshiki-soulstation-path-460.jpeg) | ![](/images/shinichikato-bassoncinema-460.jpeg) |
 | ![](/images/miejoke-etrenne-460.jpeg)              | ![](/images/mabumiyamaguchi-letyour-460.jpeg)        | ![](/images/yakohorikita-shininghour-460.jpeg)  |
 | ![](/images/hitominishiyama-nhorhm-extra-460.jpeg) |                                                      |                                                 |
-
----

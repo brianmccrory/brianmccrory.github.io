@@ -1,10 +1,8 @@
 +++
-title = "Musicians Index"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+title = "Musicians"
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
-weight = 1
+weight = 20
 +++
 
 _Index of the musicians and the albums discussed on this site._
@@ -35,6 +33,8 @@ _Index of the musicians and the albums discussed on this site._
 -   Awaya, Takumi (粟谷巧, bass, [_web_](https://www.tunecore.co.jp/artists?id=447933&lang=en)): [_II_](https://www.jazzofjapan.com/p/nanami-haruta-ii) · [_The Duality of My Soul_](https://www.jazzofjapan.com/p/mayuko-katakura-duality-of-my-soul)
 -   Azuma, Kaoru (東かおる, vocal, [_web_](https://kaoruazuma.com/)): [_Faces_](https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces)
 -   Azumi (あづみ, vocal, [_web_](https://ameblo.jp/azumi-aikawa/)): [_Almost Like Being in Love_](https://www.jazzofjapan.com/p/azumi-almost-like-being-in-love)
+
+<!--more-->
 
 
 ## B {#b}

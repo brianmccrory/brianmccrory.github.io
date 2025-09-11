@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #11"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -11
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #11 {#audio-mix-11}
+_Compilation of audio excerpts from 2023-06-09 to 2023-08-11._
 
 <audio controls>
 <source src="/audio/compilation-11.mp3" type="audio/mpeg">
@@ -33,5 +28,3 @@ This browser does not support the audio element.
 | ![](/images/yuichiro-aratake-music-make-460.jpeg)           | ![](/images/akihiro-yoshimoto-64-charlesgate-460.jpeg) | ![](/images/seiji-harakawa-skipping-down-460.jpeg) |
 | ![](/images/akane-matsumoto-nanami-haruta-for-460.jpeg)     | ![](/images/ryosukehashizume-acoustic-460.jpeg)        | ![](/images/fumika-asari-introducin-460.jpeg)      |
 | ![](/images/tetsujiyoshida-mikikonagatake-knuttel-460.jpeg) |                                                        |                                                    |
-
----

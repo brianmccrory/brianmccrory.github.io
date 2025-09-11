@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #8"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -8
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #8 {#audio-mix-8}
+_Compilation of audio excerpts from 2020-09-13 to 2021-04-13._
 
 <audio controls>
 <source src="/audio/compilation-8.mp3" type="audio/mpeg">
@@ -38,5 +33,3 @@ This browser does not support the audio element.
 | ![](/images/mikihirose-scratch-460.jpeg)       | ![](/images/yukaueda-dois-460.jpeg)              | ![](/images/waterme-waterme-460.jpeg)           |
 | ![](/images/duo-tremolo-resonance-460.jpeg)    | ![](/images/layla-tomomi-sakai-whisper-460.jpeg) | ![](/images/chihiroyamanaka-madrigal-460.jpeg)  |
 | ![](/images/arco-liveatyoncha-460.jpeg)        | ![](/images/yukiko-hayakawa-gallery-460.jpeg)    |                                                 |
-
----

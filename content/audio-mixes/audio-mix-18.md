@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #18"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -18
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #18 {#audio-mix-18}
+_Compilation of audio excerpts from 2024-10-25 to 2024-12-20._
 
 <audio controls>
 <source src="/audio/compilation-18.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |-------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
 | ![](/images/fumie-chiba-rougequeue-460.jpeg)                | ![](/images/yuka-yanagihara-trio-beloved-ones-460.jpeg) | ![](/images/seiji-endo-piano-pieces-collection-460.jpeg) |
 | ![](/images/seiji-endo-piano-pieces-collection-ii-460.jpeg) | ![](/images/hiro-kimura-trees-460.jpeg)                 | ![](/images/akane-matsumoto-oh-lady-be-good-460.jpeg)    |
-
----

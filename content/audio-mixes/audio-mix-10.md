@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #10"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -10
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #10 {#audio-mix-10}
+_Compilation of audio excerpts from 2021-12-30 to 2023-06-02._
 
 <audio controls>
 <source src="/audio/compilation-10.mp3" type="audio/mpeg">
@@ -34,5 +29,3 @@ This browser does not support the audio element.
 | ![](/images/haruminomoto-another-460.jpeg)      | ![](/images/yukakoyamano-third-460.jpeg)          | ![](/images/yasumasakumagai-pray-460.jpeg)  |
 | ![](/images/chihiroyamanaka-outsideby-460.jpeg) | ![](/images/naoko-akimoto-no-one-else-460.jpeg)   | ![](/images/shunichi-yanagi-slope-460.jpeg) |
 | ![](/images/rietaguchi-gift-ii-460.jpeg)        | ![](/images/george-nakajima-first-touch-460.jpeg) |                                             |
-
----

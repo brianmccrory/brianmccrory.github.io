@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #9"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:19-07:00
 draft = false
 weight = -9
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #9 {#audio-mix-9}
+_Compilation of audio excerpts from 2021-05-05 to 2021-10-19._
 
 <audio controls>
 <source src="/audio/compilation-9.mp3" type="audio/mpeg">
@@ -34,5 +29,3 @@ This browser does not support the audio element.
 | ![](/images/fumiko-yamazaki-here-460.jpeg)     | ![](/images/kato-sato-duet-460.jpeg)           | ![](/images/fukuda-nunokawa-childhood-460.jpeg) |
 | ![](/images/protean-protean-460.jpeg)          | ![](/images/meucoracao-halltone-460.jpeg)      | ![](/images/toshihikoinoue-mistral-460.jpeg)    |
 | ![](/images/trigraph-fever-460.jpeg)           | ![](/images/rurikokawamura-blossoms-460.jpeg)  |                                                 |
-
----

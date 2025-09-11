@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #1"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -1
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #1 {#audio-mix-1}
+_Compilation of audio excerpts from 2018-01-26 to 2018-02-16._
 
 <audio controls>
 <source src="/audio/compilation-1.mp3" type="audio/mpeg">
@@ -42,5 +37,3 @@ This browser does not support the audio element.
 | ![](/images/akikosuda-flowersonthehill-460.jpeg)     | ![](/images/hiroconagano-okurimono-460.jpeg)      | ![](/images/kaorinakajima-flyingmind-460.jpeg)          |
 | ![](/images/satoshikosugi-bassontimes-460.jpeg)      | ![](/images/hitominishiyama-manyseasons-460.jpeg) | ![](/images/keisukenakamura-humadope-460.jpeg)          |
 | ![](/images/junichiroohkuchi-invisible-460.jpeg)     | ![](/images/mayukokatakura-faith-460.jpeg)        |                                                         |
-
----

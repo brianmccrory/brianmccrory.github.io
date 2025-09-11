@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #14"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -14
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #14 {#audio-mix-14}
+_Compilation of audio excerpts from 2023-12-29 to 2024-02-24._
 
 <audio controls>
 <source src="/audio/compilation-14.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |----------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|
 | ![](/images/keisuke-nakamura-humadope-2-460.jpeg)        | ![](/images/ami-fukui-nova-manha-460.jpeg)              | ![](/images/polyglot-talk-vol-1-460.jpeg)         |
 | ![](/images/hiroshi-fukutomi-memory-stones-460.jpeg)     | ![](/images/chihiro-yamanaka-lach-460.jpeg)             | ![](/images/naoko-tanaka-appreciation-460.jpeg)   |
-
----

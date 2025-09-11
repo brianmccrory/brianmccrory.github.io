@@ -3,6 +3,13 @@ languageCode = 'en-us'
 title = 'Jazz of Japan Docs'
 theme = 'ananke'
 googleAnalytics = 'G-01CL7RCR0Q'
+mainSections = ["posts"]
+
+[params]
+  author = 'Brian McCrory'
+
+[pagination]
+  pagerSize = 6
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -12,18 +19,22 @@ googleAnalytics = 'G-01CL7RCR0Q'
     dir = ':cacheDir/images'
 
 [menus]
+  # [[menus.main]]
+  #   name = 'Albums Index'
+  #   pageRef = 'resources/albums-index'
+  #   weight = 30
+  # [[menus.main]]
+  #   name = 'Musicians Index'
+  #   pageRef = 'resources/musicians-index'
+  #   weight = 40
+  # [[menus.main]]
+  #   name = 'Timeline'
+  #   pageRef = 'resources/timeline'
+  #   weight = 50
   [[menus.main]]
-    name = 'Albums Index'
-    pageRef = 'resources/albums-index'
-    weight = 30
-  [[menus.main]]
-    name = 'Musicians Index'
-    pageRef = 'resources/musicians-index'
-    weight = 40
-  [[menus.main]]
-    name = 'Timeline'
-    pageRef = 'resources/timeline'
-    weight = 50
+    name = 'Indexes'
+    pageRef = 'indexes/'
+    weight = 55
   [[menus.main]]
     name = 'Audio Mixes'
     pageRef = 'audio-mixes/'

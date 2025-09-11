@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #7"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -7
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #7 {#audio-mix-7}
+_Compilation of audio excerpts from 2020-02-21 to 2020-08-19._
 
 <audio controls>
 <source src="/audio/compilation-7.mp3" type="audio/mpeg">
@@ -43,5 +38,3 @@ This browser does not support the audio element.
 | ![](/images/babybrothers-bbcover-460.jpeg)   | ![](/images/bungalow-metropolitan-460.jpeg)     | ![](/images/haruminomoto-belinda-460.jpeg)        |
 | ![](/images/yukaueda-agora-460.jpeg)         | ![](/images/motoikanamori-mysoul-460.jpeg)      | ![](/images/arco-birth-460.jpeg)                  |
 | ![](/images/fuse-live-460.jpeg)              | ![](/images/chihiroyamanaka-october-460.jpeg)   | ![](/images/kohsukemine-major-460.jpeg)           |
-
----

@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #12"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -12
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #12 {#audio-mix-12}
+_Compilation of audio excerpts from 2023-08-18 to 2023-10-15._
 
 <audio controls>
 <source src="/audio/compilation-12.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |----------------------------------------------------|----------------------------------------------------|-----------------------------------------------------|
 | ![](/images/bungalow-abstract-messages-460.jpeg)   | ![](/images/fnk-canvas-460.jpeg)                   | ![](/images/mamoru-ishida-ishida-mamoru-4-460.jpeg) |
 | ![](/images/mikiko-nagatake-solo-460.jpeg)         | ![](/images/yasumasa-kumagai-last-resort-460.jpeg) | ![](/images/emiko-voice-standard-trio-460.jpeg)     |
-
----

@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #17"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -17
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #17 {#audio-mix-17}
+_Compilation of audio excerpts from 2024-08-23 to 2024-10-18._
 
 <audio controls>
 <source src="/audio/compilation-17.mp3" type="audio/mpeg">
@@ -31,5 +26,3 @@ This browser does not support the audio element.
 |-------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|
 | ![](/images/sayaka-kishi-trio-banquet-460.jpeg) | ![](/images/clepsydra-un-jour-460.jpeg)                    | ![](/images/sumire-kuribayashi-trio-toys-460.jpeg) |
 | ![](/images/hitomi-nishiyama-dot-460.jpeg)      | ![](/images/mamoru-ishida-afterglow-460.jpeg)              | ![](/images/mabumi-yamaguchi-viento-460.jpeg)      |
-
----

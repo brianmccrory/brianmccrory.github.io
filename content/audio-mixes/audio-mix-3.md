@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #3"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -3
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #3 {#audio-mix-3}
+_Compilation of audio excerpts from 2018-03-28 to 2018-08-30._
 
 <audio controls>
 <source src="/audio/compilation-3.mp3" type="audio/mpeg">
@@ -43,5 +38,3 @@ This browser does not support the audio element.
 | ![](/images/bungalow-pastlife-460.jpeg)           | ![](/images/sanaeishikawa-feellike-460.jpeg)   | ![](/images/taiheiasakawa-catas-460.jpeg)           |
 | ![](/images/koomura-introspect-460.jpeg)          | ![](/images/takakoyamada-flow-460.jpeg)        | ![](/images/yukakoyamano-first-460.jpeg)            |
 | ![](/images/hamasaki-matsumoto-bigcatch-460.jpeg) | ![](/images/akihiroyoshimoto-moving-460.jpeg)  | ![](/images/hideakihori-unconditional-460.jpeg)     |
-
----

@@ -1,7 +1,13 @@
 +++
 date = '2025-09-10T06:39:52-07:00'
 draft = false
-title = 'Docs Introduction'
+title = 'Introduction'
 +++
 
-This site contains additional information related to [Jazz of Japan](https://www.jazzofjapan.com/).
+This annex contains supplemental information for [Jazz of Japan](https://www.jazzofjapan.com/).
+
+- [Albums](/indexes/albums-index)
+- [Musicians](/indexes/musicians-index)
+- [Categories](/indexes/albums-categories)
+- [Timeline](/indexes/timeline)
+- [Audio Mixes](/audio-mixes/)

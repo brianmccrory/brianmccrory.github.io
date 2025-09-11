@@ -1,16 +1,11 @@
 +++
 title = "Audio Mix #4"
-author = ["Brian McCrory"]
-date = 2025-09-10T17:56:00-07:00
-lastmod = 2025-09-10T17:56:54-07:00
+lastmod = 2025-09-11T10:44:18-07:00
 draft = false
 weight = -4
 +++
 
-_Compilations of audio excerpts from albums featured on this site._
-
-
-## Audio Mix #4 {#audio-mix-4}
+_Compilation of audio excerpts from 2018-08-31 to 2019-03-14._
 
 <audio controls>
 <source src="/audio/compilation-4.mp3" type="audio/mpeg">
@@ -45,5 +40,3 @@ This browser does not support the audio element.
 | ![](/images/tokuhirodoi-amalthea-460.jpeg)  | ![](/images/makifujimura-best-460.jpeg)       | ![](/images/ryosukehashizume-visible-460.jpeg) |
 | ![](/images/ruike-nakajima-n40-460.jpeg)    | ![](/images/akanematsumoto-playing-460.jpeg)  | ![](/images/bluedot-halo-460.jpeg)             |
 | ![](/images/masakokunisada-m-460.jpeg)      |                                               |                                                |
-
----
