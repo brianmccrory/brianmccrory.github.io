@@ -14,8 +14,8 @@
 (with-eval-after-load 'ox-hugo
   (add-to-list 'org-hugo-special-block-type-properties '("html" . (:raw t))))
 
-(defun my/org-hugo-batch-export-all (base-dir section-dir)
-  (dolist (file (directory-files-recursively base-dir "\\.org$"))
+(defun my/org-hugo-batch-export-all (base-dir file-pattern section-dir)
+  (dolist (file (directory-files-recursively base-dir file-pattern))
     (with-current-buffer (find-file-noselect file)
       (org-mode)
       (setq org-hugo-base-dir base-dir)
@@ -24,6 +24,7 @@
       (let ((org-export-use-babel t))
         (org-hugo-export-wim-to-md :all-subtrees)))))
         
-(my/org-hugo-batch-export-all "generated" "resources")
+(my/org-hugo-batch-export-all "generated" "^[^a].*\\.org$\\|^a[^u].*\\.org$\\|^au[^d].*\\.org$\\|^aud[^i].*\\.org$\\|^audi[^o].*\\.org$" "resources")
+(my/org-hugo-batch-export-all "generated" "^audio-.*\\.org$" "audio-mixes")
 
 (message "Build complete")

@@ -1,8 +1,10 @@
 +++
 title = "Publish History Timeline"
 author = ["Brian McCrory"]
-lastmod = 2025-09-10T14:25:33-07:00
+date = 2025-09-10T17:56:00-07:00
+lastmod = 2025-09-10T17:56:54-07:00
 draft = false
+weight = 1
 +++
 
 _Chronological sitemap with links to articles._

@@ -21,12 +21,12 @@ googleAnalytics = 'G-01CL7RCR0Q'
     pageRef = 'resources/musicians-index'
     weight = 40
   [[menus.main]]
-    name = 'Audio Mixes'
-    pageRef = 'resources/audio-mixes'
-    weight = 50
-  [[menus.main]]
     name = 'Timeline'
     pageRef = 'resources/timeline'
+    weight = 50
+  [[menus.main]]
+    name = 'Audio Mixes'
+    pageRef = 'audio-mixes/'
     weight = 60
   [[menus.main]]
     name = 'Jazz of Japan'
