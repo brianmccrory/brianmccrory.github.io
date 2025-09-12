@@ -1,9 +1,16 @@
 baseURL = 'https://www.jazzofjapan.com'
 languageCode = 'en-us'
 title = 'Jazz of Japan Docs'
-theme = 'ananke'
+#theme = 'ananke'
 googleAnalytics = 'G-01CL7RCR0Q'
 mainSections = ["posts"]
+
+[module]
+  [[module.imports]]
+    disable = false
+    ignoreConfig = false
+    ignoreImports = false
+    path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 
 [params]
   author = 'Brian McCrory'

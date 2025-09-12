@@ -77,12 +77,6 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys:
             hugo-
-# - name: Install emacs-nox
-#   run: sudo apt install emacs-nox --yes
-# - name: Make static dir
-#   run: mkdir -p /home/runner/git/brianmccrory.github.io/static/
-# - name: Convert org to hugo markdown
-#   run: ./build-hugo.sh
       - name: Build the site
         run: |
           hugo \
