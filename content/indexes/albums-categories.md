@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-09-11T10:44:17-07:00
+lastmod = 2025-09-13T08:48:26-07:00
 draft = false
 weight = 30
 +++
@@ -195,6 +195,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Life Is Too Great](https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great)_ by Sayaka Kishi Trio
 -   _[Little Girl Blue](https://www.jazzofjapan.com/p/akane-matsumoto-little-girl-blue)_ by Akane Matsumoto _(solo)_
 -   _[Live](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-parallax-live)_ by Hitomi Nishiyama Trio “Parallax”
+-   _[Live at The Moment](https://www.jazzofjapan.com/p/takako-yamada-trio-live-at-the-moment)_ by Takako Yamada Trio
 -   _[Living Without Friday](https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-living-without-friday)_ by Chihiro Yamanaka Trio
 -   _[Long Way to Go](https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go)_ by Kanoko Kitajima
 -   _[Madrigal](https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-madrigal)_ by Chihiro Yamanaka Trio

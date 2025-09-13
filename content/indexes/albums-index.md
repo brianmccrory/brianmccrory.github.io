@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-09-11T10:44:17-07:00
+lastmod = 2025-09-13T08:48:26-07:00
 draft = false
 weight = 10
 +++
@@ -30,6 +30,7 @@ _Index of albums featured on this site by release year._
 -   [_Fairway_](https://www.jazzofjapan.com/p/efreydut-fairway) by eFreydut
 -   [_Free_](https://www.jazzofjapan.com/p/michiyo-matsushita-trio-free) by Michiyo Matsushita Trio
 -   [_Isolated_](https://www.jazzofjapan.com/p/otohito-fuse-trio-isolated) by Otohito Fuse Trio
+-   [_Live at The Moment_](https://www.jazzofjapan.com/p/takako-yamada-trio-live-at-the-moment) by Takako Yamada Trio
 -   [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim) by Nami Kano
 -   [_Progress_](https://www.jazzofjapan.com/p/setagaya-trio-progress) by Setagaya Trio
 -   [_Trust_](https://www.jazzofjapan.com/p/akane-matsumoto-ayumi-koketsu-trust) by Akane Matsumoto &amp; Ayumi Koketsu

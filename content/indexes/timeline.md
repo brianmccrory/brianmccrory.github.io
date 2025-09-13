@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-09-11T10:44:18-07:00
+lastmod = 2025-09-13T08:48:26-07:00
 draft = false
 weight = 40
 +++
@@ -634,6 +634,7 @@ _Chronological sitemap with links to articles._
 **September 2025**
 
 -   \#386 [Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa: _Tides of Blue_](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue)
+-   \#387 [Takako Yamada Trio: _Live at The Moment_](https://www.jazzofjapan.com/p/takako-yamada-trio-live-at-the-moment)
 
 ---
 
