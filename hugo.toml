@@ -2,7 +2,6 @@ baseURL = 'https://www.jazzofjapan.com'
 languageCode = 'en-us'
 title = 'Jazz of Japan Docs'
 theme = 'ananke'
-googleAnalytics = 'G-01CL7RCR0Q'
 mainSections = ["posts"]
 
 [params]
