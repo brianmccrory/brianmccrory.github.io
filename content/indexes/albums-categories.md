@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-09-13T08:48:26-07:00
+lastmod = 2025-09-20T08:31:52+09:00
 draft = false
 weight = 30
 +++

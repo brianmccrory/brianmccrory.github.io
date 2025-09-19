@@ -1,6 +1,6 @@
 +++
 title = "Audio Mix #1"
-lastmod = 2025-09-11T10:44:18-07:00
+lastmod = 2025-09-20T08:31:52+09:00
 draft = false
 weight = -1
 +++
@@ -19,16 +19,16 @@ This browser does not support the audio element.
 5.  “The Days of Wine and Roses” - [Emiko Voice: _Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta) - 03:12
 6.  “Still” - [Ryosuke Hashizume Group: _Incomplete Voices_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices) - 04:00
 7.  “Draft Beer” - [Yasumasa Kumagai: _J-Straight Ahead_](https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead) - 04:48
-8.  “Asymmetry” - [Arco: _Asymmetry_](https://www.jazzofjapan.com/p/arco-asymmetry) - 05:36
-9.  “Up to You” - [Sayaka Kishi: _Featuring Te_](https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te) - 06:24
-10. “Flowers on the Hill” - [Akiko Suda: _Flowers On The Hill_](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill) - 07:13
-11. “Someone to Watch Over Me” - [Hiroco Nagano: _Okurimono_](https://www.jazzofjapan.com/p/hiroco-nagano-okurimono) - 08:01
-12. “Flying Mind” - [Kaori Vibes Quartet: _Flying Mind_](https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind) - 08:49
-13. “Monk’s Dream” - [Satoshi Kosugi: _Bass on Times_](https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times) - 09:37
-14. “Flood” - [Hitomi Nishiyama Trio: _Many Seasons_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-many-seasons) - 10:25
-15. “Speed Harassment” - [Keisuke Nakamura: _Humadope_](https://www.jazzofjapan.com/p/keisuke-nakamura-humadope) - 11:13
-16. “Sopa de Ajo” - [Junichiro Ohkuchi Trio: _Invisible_](https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible) - 12:01
-17. “Mrs. Parker of KC” - [Mayuko Katakura: _Faith_](https://www.jazzofjapan.com/p/mayuko-katakura-faith) - 13:04
+8.  “Asymmetry” - [Arco: _Asymmetry_](https://www.jazzofjapan.com/p/arco-asymmetry) - 08:07
+9.  “Up to You” - [Sayaka Kishi: _Featuring Te_](https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te) - 08:55
+10. “Flowers on the Hill” - [Akiko Suda: _Flowers On The Hill_](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill) - 09:43
+11. “Someone to Watch Over Me” - [Hiroco Nagano: _Okurimono_](https://www.jazzofjapan.com/p/hiroco-nagano-okurimono) - 10:31
+12. “Flying Mind” - [Kaori Vibes Quartet: _Flying Mind_](https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind) - 11:19
+13. “Monk’s Dream” - [Satoshi Kosugi: _Bass on Times_](https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times) - 12:07
+14. “Flood” - [Hitomi Nishiyama Trio: _Many Seasons_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-many-seasons) - 12:55
+15. “Speed Harassment” - [Keisuke Nakamura: _Humadope_](https://www.jazzofjapan.com/p/keisuke-nakamura-humadope) - 13:43
+16. “Sopa de Ajo” - [Junichiro Ohkuchi Trio: _Invisible_](https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible) - 14:31
+17. “Mrs. Parker of KC” - [Mayuko Katakura: _Faith_](https://www.jazzofjapan.com/p/mayuko-katakura-faith) - 15:34
 
 | ![](/images/kazumiikenaga-niwatazumi-460.jpeg)       | ![](/images/akanematsumoto-night-460.jpeg)        | ![](/images/ayumikoketsu-art-460.jpeg)                  |
 |------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------|
