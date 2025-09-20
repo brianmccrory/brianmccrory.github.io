@@ -1,13 +1,13 @@
 +++
 title = "Audio Mix #9"
-lastmod = 2025-09-11T10:44:19-07:00
+lastmod = 2025-09-20T09:23:38+09:00
 draft = false
 weight = -9
 +++
 
 _Compilation of audio excerpts from 2021-05-05 to 2021-10-19._
 
-<audio controls>
+<audio controls preload="metadata">
 <source src="/audio/compilation-9.mp3" type="audio/mpeg">
 This browser does not support the audio element.
 </audio>
