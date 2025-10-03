@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-09-20T08:31:52+09:00
+lastmod = 2025-10-04T08:06:28+09:00
 draft = false
 weight = 10
 +++
@@ -32,6 +32,7 @@ _Index of albums featured on this site by release year._
 -   [_Isolated_](https://www.jazzofjapan.com/p/otohito-fuse-trio-isolated) by Otohito Fuse Trio
 -   [_Live at The Moment_](https://www.jazzofjapan.com/p/takako-yamada-trio-live-at-the-moment) by Takako Yamada Trio
 -   [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim) by Nami Kano
+-   [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna) by Hiroyuki Yamaguchi Quintet
 -   [_Progress_](https://www.jazzofjapan.com/p/setagaya-trio-progress) by Setagaya Trio
 -   [_Trust_](https://www.jazzofjapan.com/p/akane-matsumoto-ayumi-koketsu-trust) by Akane Matsumoto &amp; Ayumi Koketsu
 -   [_Two for the Road_](https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road) by Yuji Ito &amp; Koichi Hirata Duo

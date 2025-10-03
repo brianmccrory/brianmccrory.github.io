@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-09-20T08:31:52+09:00
+lastmod = 2025-10-04T08:06:28+09:00
 draft = false
 weight = 30
 +++
@@ -263,6 +263,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Circles](https://www.jazzofjapan.com/p/kunpei-nakabayashi-orchestra-circles)_ by Kunpei Nakabayashi Orchestra
 -   _[Duet](https://www.jazzofjapan.com/p/shinichi-kato-and-masahiko-sato-duet)_ by Shinichi Kato &amp; Masahiko Sato
 -   _[Kanmai](https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-kanmai)_ by Daiki Yasukagawa Trio
+-   _[Mowna](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)_ by Hiroyuki Yamaguchi Quintet
 -   _[My Soul Meeting](https://www.jazzofjapan.com/p/motoi-kanamori-my-soul-meeting)_ by Motoi Kanamori
 -   _[Nijuso](https://www.jazzofjapan.com/p/hideaki-kanazawa-sumire-kuribayashi-nijuso)_ by Hideaki Kanazawa &amp; Sumire Kuribayashi
 -   _[Ol’ School Jazz](https://www.jazzofjapan.com/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz)_ by Yasumasa Kumagai &amp; Ryu Kawamura

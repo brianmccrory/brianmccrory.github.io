@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-09-20T08:31:53+09:00
+lastmod = 2025-10-04T08:06:29+09:00
 draft = false
 weight = 20
 +++
@@ -191,6 +191,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Intorre, Carmen Jr. (drums, [_web_](https://www.carmenintorrejr.com/)): [_The Echoes of Three_](https://www.jazzofjapan.com/p/mayuko-katakura-echoes-of-three)
 -   Ishida, Hirokazu (石田寛和, saxophone, [_web_](http://www.hirokazuishida.tokyo/)): [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
 -   Ishida, Mamoru (石田衛, piano, [_web_](http://mamoruishida.blogspot.com/)): [_Afterglow_](https://www.jazzofjapan.com/p/mamoru-ishida-afterglow) · [_Beyond the Sea_](https://www.jazzofjapan.com/p/miyuki-moriya-beyond-the-sea) · [_Cat’s Cradle_](https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle) · [_Humadope_](https://www.jazzofjapan.com/p/keisuke-nakamura-humadope) · [_Introducin’_](https://www.jazzofjapan.com/p/fumika-asari-introducin) · [_Introspect_](https://www.jazzofjapan.com/p/ko-omura-introspect) · [_Ishida Mamoru 4 feat. Mike Rivett_](https://www.jazzofjapan.com/p/mamoru-ishida-ishida-mamoru-4-feat) · [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim) · [_Tranquillo_](https://www.jazzofjapan.com/p/miwo-tranquillo) · [_Trees_](https://www.jazzofjapan.com/p/hiro-kimura-trees) · [_Trios II_](https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-trios-ii)
+-   Ishii, Hinata (石井ひなた, piano/saxophone, [_web_](https://ultravybe.lnk.to/myplace)): [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   Ishikawa, Hiroyuki (石川広行, trumpet, [_web_](https://ameblo.jp/voice-to-voices/)): [_Talk, Vol. 1_](https://www.jazzofjapan.com/p/polyglot-talk-vol-1)
 -   Ishikawa, Sanae (石川早苗, vocal, [_web_](http://blog.livedoor.jp/sanny_jazz/)): [_Bb_](https://www.jazzofjapan.com/p/baby-brothers-bb) · [_Feel Like Makin’ Love_](https://www.jazzofjapan.com/p/sanae-ishikawa-feel-like-makin-love) · [_Fever_](https://www.jazzofjapan.com/p/trigraph-fever) · [_Grown-up Christmas Gift_](https://www.jazzofjapan.com/p/sanae-ishikawa-grown-up-christmas) · [_Happy Christmas with Bb_](https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb)
 -   Ishikawa, Satoshi (石川智, drums, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=2841)): [_Boa Viagem_](https://www.jazzofjapan.com/p/banda-feliz-boa-viagem) · [_Primary_](https://www.jazzofjapan.com/p/nobie-primary) · [_The Island_](https://www.jazzofjapan.com/p/layla-tomomi-sakai-island)
@@ -263,6 +264,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Kobayashi, Reikan (小林鈴勘, shakuhachi, [_web_](https://reikankobayashi.net/)): [_Fever_](https://www.jazzofjapan.com/p/trigraph-fever) · [_Gakudan Hitori_](https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori)
 -   Kobayashi, Toyomi (小林豊美, flute, [_web_](https://toyomikobayashi.theblog.me/)): [_Flowers On The Hill_](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill) · [_Sumitty &amp; The Funfair_](https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair)
 -   Kohno, Satoshi (鴻野暁司, bass): [_Colors_](https://www.jazzofjapan.com/p/sayaketts-colors)
+-   Kohno, Toshihiko (紅野智彦, piano, [_web_](https://www.ne.jp/asahi/beni/toshi/)): [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   Koike, Madoka (小池まどか, violin): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
 -   Koizumi, Tetsuo (小泉哲夫, bass): [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
 -   Koizumi, Yoshihito “P” (小泉P克人, bass, [_web_](https://www.yoshihitopkoizumi.com/)): [_Amizm_](https://www.jazzofjapan.com/p/ami-fukui-amizm) · [_By Coincidence_](https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence) · [_Primary_](https://www.jazzofjapan.com/p/nobie-primary)
@@ -309,7 +311,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Makino, Ryutaro (牧野竜太郎, vocal, [_web_](http://www.ryutaromakino.com/)): [_Music Make Us One_](https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one)
 -   Manasia, Jeremy (piano, [_web_](http://www.jeremymanasia.com/)): [_Art_](https://www.jazzofjapan.com/p/ayumi-koketsu-art)
 -   Maret, Grégoire (harmonica, [_web_](https://en.wikipedia.org/wiki/Gr%C3%A9goire_Maret)): [_Back in Time to Boston_](https://www.jazzofjapan.com/p/yoshiko-saita-back-in-time-to-boston)
--   Mase, Hiroko (ませひろこ, saxophone, [_web_](http://bowz.main.jp/masehiroko/)): [_First Contact_](https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact)
+-   Mase, Hiroko (ませひろこ, saxophone, [_web_](http://bowz.main.jp/masehiroko/)): [_First Contact_](https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact) · [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   Maseki, Yuto (柵木雄斗, drums, [_web_](https://ameblo.jp/masekiyuto/)): [_Awareness_](https://www.jazzofjapan.com/p/mariko-maeda-awareness)
 -   Matsuda, Asami (松田麻美, violin): [_Music Make Us One_](https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one)
 -   Matsuda, Yasuhiro (松田靖弘, saxophone, [_web_](https://www.alsoj.net/sax/artist/view/1055/%E6%9D%BE%E7%94%B0%E9%9D%96%E5%BC%98.html)): [_No One Else_](https://www.jazzofjapan.com/p/naoko-akimoto-no-one-else)
@@ -391,6 +393,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Ohta, Keisuke (太田惠資, violin, [_web_](http://violin-ohta.cside.com/)): [_Standard Trio_](https://www.jazzofjapan.com/p/emiko-voice-standard-trio)
 -   Oi, Sumito (大井澄東, drums, [_web_](https://www.sumitooi.com/)): [_Sumitty &amp; The Funfair_](https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair)
 -   Oinuma, Kunio (生沼邦夫, bass): [_Music Make Us One_](https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one) · [_Project-N_](https://www.jazzofjapan.com/p/noriko-satomi-project-n)
+-   Okabe, Tomoyuki (岡部朋幸, drums, [_web_](https://tomookabe.exblog.jp/)): [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   Okabe, Yoichi (岡部洋一, percussion, [_web_](http://www.okabeyoichi.com/)): [_Owari to Hajimari_](https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari)
 -   Okada, Keita (岡田ケイタ, drums): [_Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta)
 -   Okada, Tsutomu (岡田勉, bass, [_web_](http://www.ben-okada.com/)): [_Major to Minor_](https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor)
@@ -584,6 +587,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Yamada, Takako (山田貴子, piano, [_web_](https://takakoyamada.amebaownd.com/)): [_Live at The Moment_](https://www.jazzofjapan.com/p/takako-yamada-trio-live-at-the-moment) · [_The Flow of Time_](https://www.jazzofjapan.com/p/takako-yamada-flow-of-time)
 -   Yamada, Takuji (山田拓児, saxophone, [_web_](https://www.takujiyamada.com/)): [_Lite Blue_](https://www.jazzofjapan.com/p/takuji-yamada-lite-blue)
 -   Yamada, Yoshiki (山田吉輝, bass, [_web_](https://www.yoshikiyamada.com/)): [_Beloved Ones_](https://www.jazzofjapan.com/p/yuka-yanagihara-trio-beloved-ones) · [_Inner Views_](https://www.jazzofjapan.com/p/yuka-yanagihara-trio-inner-views)
+-   Yamaguchi, Hiroyuki (山口裕之, bass, [_web_](https://www.hiroyukiyamaguchi.net/)): [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   Yamaguchi, Mabumi (山口真文, saxophone, [_web_](https://mabumi.com/)): [_Appreciation_](https://www.jazzofjapan.com/p/naoko-tanaka-appreciation) · [_Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone) · [_Viento_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-viento)
 -   Yamamoto, Masahiro (山本昌広, saxophone, [_web_](https://momohiko61.exblog.jp/)): [_Metropolitan Oasis_](https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis) · [_Past Life_](https://www.jazzofjapan.com/p/bungalow-past-life)
 -   Yamamoto, Reiko (山本玲子, vibraphone, [_web_](http://reikoyamamoto.net/)): [_El viento y las flores_](https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores) · [_The Square Pyramid_](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid)
