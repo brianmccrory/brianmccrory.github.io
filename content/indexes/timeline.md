@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-10-04T08:06:29+09:00
+lastmod = 2025-10-11T11:10:35+09:00
 draft = false
 weight = 40
 +++
@@ -641,6 +641,7 @@ _Chronological sitemap with links to articles._
 **October 2025**
 
 -   \#390 [Hiroyuki Yamaguchi Quintet: _Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
+-   \#391 [Hitomi Aikawa: _Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
 
 ---
 

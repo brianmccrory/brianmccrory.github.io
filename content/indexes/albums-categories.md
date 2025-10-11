@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-10-04T08:06:28+09:00
+lastmod = 2025-10-11T11:10:34+09:00
 draft = false
 weight = 30
 +++
@@ -290,6 +290,12 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Trees](https://www.jazzofjapan.com/p/hiro-kimura-trees)_ by Hiro Kimura
 -   _[You’ve Changed](https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed)_ by Hara Dairiki Trio
 -   _See all: [#drums](https://www.jazzofjapan.com/t/drums)_
+
+
+## Percussion {#percussion}
+
+-   _[Sweet](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)_ by Hitomi Aikawa
+-   _See all: [#percussion](https://www.jazzofjapan.com/t/percussion)_
 
 
 ## Vocals {#vocals}

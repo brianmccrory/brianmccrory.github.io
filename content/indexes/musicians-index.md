@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-10-04T08:06:29+09:00
+lastmod = 2025-10-11T11:10:35+09:00
 draft = false
 weight = 20
 +++
@@ -14,7 +14,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Abe, Daisuke (阿部大輔, guitar, [_web_](https://daisukeabe.com/)): [_Lite Blue_](https://www.jazzofjapan.com/p/takuji-yamada-lite-blue)
 -   Afra (あふら, human beatbox, [_web_](http://afra.jp/)): [_I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too)
 -   Aida, Momoko (会田桃子, violin, [_web_](https://www.instagram.com/aidamomoko/)): [_Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta)
--   Aikawa, Hitomi (相川瞳, percussion, [_web_](https://www.hitomiaikawa.com/)): [_El viento y las flores_](https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores)
+-   Aikawa, Hitomi (相川瞳, percussion, [_web_](https://www.hitomiaikawa.com/)): [_El viento y las flores_](https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores) · [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
 -   Akimoto, Naoko (秋元直子, vocal, [_web_](https://naokojazz.com)): [_No One Else_](https://www.jazzofjapan.com/p/naoko-akimoto-no-one-else)
 -   Akiyama, Kazumasa (秋山一将, guitar, [_web_](http://www7a.biglobe.ne.jp/~encore/akiyama/)): [_Major to Minor_](https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor)
 -   Akiyama, Taku (秋山卓, saxophone, [_web_](http://jmsu.web.fc2.com/taku/)): [_Routine Jazz Sextet_](https://www.jazzofjapan.com/p/routine-jazz-sextet-routine-jazz-sextet)
@@ -142,10 +142,11 @@ _Index of the musicians and the albums discussed on this site._
 -   Hashimoto, Shinji (橋本信二, guitar, [_web_](https://session67.jp/interview/05/)): [_Agora_](https://www.jazzofjapan.com/p/yuka-ueda-agora) · [_Bass on Times_](https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times) · [_Dois_](https://www.jazzofjapan.com/p/yuka-ueda-dois) · [_Feel Like Makin’ Love_](https://www.jazzofjapan.com/p/sanae-ishikawa-feel-like-makin-love)
 -   Hashizume, Ryosuke (橋爪亮督, saxophone, [_web_](http://www.ryohashizume.com/)): [_Acoustic Fluid_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic) · [_As We Breathe_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe) · [_Dot_](https://www.jazzofjapan.com/p/hitomi-nishiyama-dot) · [_Echo_](https://www.jazzofjapan.com/p/hitomi-nishiyama-echo) · [_Faces_](https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces) · [_Incomplete Voices_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices) · [_Music in You_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-music-in-you) · [_Needful Things_](https://www.jazzofjapan.com/p/ryosuke-hashizume-needful-things) · [_New Heritage of Real Heavy Metal_](https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal) · [_Side Two_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two) · [_VisibleInvisible_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-visible-invisible) · [_Wordless_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless)
 -   Hattori, Masatsugu (服部正嗣, drums, [_web_](https://masatsuguhattori.tumblr.com/)): [_Slope_](https://www.jazzofjapan.com/p/shunichi-yanagi-trio-slope) · [_Small Pieces for Flying Padre_](https://www.jazzofjapan.com/p/trio-export-small-pieces-for-flying-padre)
+-   Hattori, Megumi (服部恵, percussion, [_web_](https://www.megumi-hattori.com/)): [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
 -   Hayakawa, Yukiko (早川由紀子, piano, [_web_](https://hayakawa-yukiko.com/)): [_Gallery_](https://www.jazzofjapan.com/p/yukiko-hayakawa-trio-gallery)
 -   Hayama, Miki (早間美紀, piano, [_web_](http://www.mikihayama.com/)): [_Prelude to a Kiss_](https://www.jazzofjapan.com/p/miki-hayama-prelude-to-a-kiss) · [_Wide Angle_](https://www.jazzofjapan.com/p/miki-hayama-trio-wide-angle)
 -   Hayashi, Hiroki (林宏樹, sax, [_web_](https://thejazzmanstudio.amebaownd.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
--   Hayashi, Masaki (林正樹, piano, [_web_](http://www.c-a-s-net.co.jp/masaki/)): [_Mistral_](https://www.jazzofjapan.com/p/toshihiko-inoue-and-masaki-hayashi) · [_Un Jour_](https://www.jazzofjapan.com/p/clepsydra-un-jour)
+-   Hayashi, Masaki (林正樹, piano, [_web_](http://www.c-a-s-net.co.jp/masaki/)): [_Mistral_](https://www.jazzofjapan.com/p/toshihiko-inoue-and-masaki-hayashi) · [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet) · [_Un Jour_](https://www.jazzofjapan.com/p/clepsydra-un-jour)
 -   Hayashi, Raiga (林頼我, drums, [_web_](https://raigahayashi.wixsite.com/drums)): [_64 Charlesgate_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-64-charlesgate)
 -   Hayashi, Yuichi (林祐市, piano, [_web_](http://yuichihayashi.com/)): [_Trispace_](https://www.jazzofjapan.com/p/trispace-trispace)
 -   Herrera, Mauricio (congas): [_Scratch_](https://www.jazzofjapan.com/p/miki-hirose-scratch)
@@ -495,6 +496,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Sugimoto, Tomokazu (杉本智和, bass, [_web_](http://bassist.s7.xrea.com/p/index.htm)): [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim)
 -   Sukegawa, Taro (助川太郎, guitar, [_web_](http://www.tarosukegawa.jp/)): [_A Tempo_](https://www.jazzofjapan.com/p/meu-coracao-a-tempo) · [_Hall Tone_](https://www.jazzofjapan.com/p/meu-coracao-hall-tone)
 -   Sunaga, Kazuhiro (須長和広, bass, [_web_](https://kazuhirosunaga.tumblr.com/)): [_Rin_](https://www.jazzofjapan.com/p/sohnosuke-imaizumi-rin)
+-   Suzuki, Hiroshi (鈴木広志, saxophone, [_web_](http://www.suzuki-hiroshi.com/)): [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
 -   Suzuki, Jiro (鈴木次郎, guitar): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
 -   Suzuki, Kaoru (鈴木郁, drums): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
 -   Suzuki, Takanori (鈴木孝紀, clarinet, [_web_](https://www.takanorisuzuki.net/)): [_Dot_](https://www.jazzofjapan.com/p/hitomi-nishiyama-dot) · [_Echo_](https://www.jazzofjapan.com/p/hitomi-nishiyama-echo)
@@ -552,6 +554,7 @@ _Index of the musicians and the albums discussed on this site._
 
 -   Ueda, Yuka (上田裕香, vocal, [_web_](http://yuuka-agora.com/wp/)): [_Agora_](https://www.jazzofjapan.com/p/yuka-ueda-agora) · [_Dois_](https://www.jazzofjapan.com/p/yuka-ueda-dois)
 -   Uemura, Keiichiro (上村計一郎, drums): [_Gallery_](https://www.jazzofjapan.com/p/yukiko-hayakawa-trio-gallery)
+-   Uenoyama, Eri (上野山英里, piano, [_web_](https://eriuenoyama.jimdofree.com/)): [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
 -   Umehara, Arata (梅原新, guitar, [_web_](https://www.aratata.com/)): [_Okurimono_](https://www.jazzofjapan.com/p/hiroco-nagano-okurimono) · [_Tsutaete Ikou_](https://www.jazzofjapan.com/p/seiji-endo-tsutaete-ikou)
 -   Umino, Shunsuke (海野俊輔, drums, [_web_](http://www.bfjazz.com/instructors/24/)): [_I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too)
 -   Urushibara, Naomi (漆原直美, violin, [_web_](http://naomiurushibara.com/)): [_Music Make Us One_](https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one)

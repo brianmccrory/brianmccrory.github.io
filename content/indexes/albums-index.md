@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-10-04T08:06:28+09:00
+lastmod = 2025-10-11T11:10:34+09:00
 draft = false
 weight = 10
 +++
@@ -139,6 +139,7 @@ _Index of albums featured on this site by release year._
 -   [_New Departure_](https://www.jazzofjapan.com/p/takayuki-yagi-new-departure) by Takayuki Yagi
 -   [_Sally Gardens_](https://www.jazzofjapan.com/p/michiyo-matsushita-sally-gardens) by Michiyo Matsushita
 -   [_Solo_](https://www.jazzofjapan.com/p/maiko-solo) by Maiko
+-   [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet) by Hitomi Aikawa
 -   [_The Island_](https://www.jazzofjapan.com/p/layla-tomomi-sakai-island) by Layla Tomomi Sakai
 -   [_Waltz for Debby_](https://www.jazzofjapan.com/p/taihei-asakawa-waltz-for-debby) by Taihei Asakawa
 -   [_Workout!!_](https://www.jazzofjapan.com/p/seiji-tada-workout) by Seiji Tada
