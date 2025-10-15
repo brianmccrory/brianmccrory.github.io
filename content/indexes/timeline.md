@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-10-11T11:10:35+09:00
+lastmod = 2025-10-15T22:44:07+09:00
 draft = false
 weight = 40
 +++
