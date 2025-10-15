@@ -1,6 +1,5 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-10-15T22:44:07+09:00
 draft = false
 weight = 40
 +++
@@ -302,23 +301,23 @@ _Chronological sitemap with links to articles._
 
 -   \#152 [Yasumasa Kumagai: _Pray_](https://www.jazzofjapan.com/p/yasumasa-kumagai-pray)
 -   \#153 Akiko Koizumi &amp; Kana Hiramatsu Duo: _Reverie_ †
--   \#154 Baby Brothers: _Happy Christmas with Bb_ †
+-   \#154 Baby Brothers: _Happy Christmas with Bb_ † [\*](https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb)
 -   \#155 Akiko Toyama Trio: _All Is In The Sky_ †
 -   \#156 Seiji Endo: _Angel Eyes_ †
 -   \#157 Yuka Ueda: _Pianistas E Mim_ †
--   \#158 Clepsydra: _Un Jour_ †
+-   \#158 Clepsydra: _Un Jour_ † [\*](https://www.jazzofjapan.com/p/clepsydra-un-jour)
 -   \#159 Hiromi Shimizu: _Hiromi As Is in New York_ †
 
 **October 2022**
 
--   \#160 Hikari Ichihara: _Sara Smile_ †
+-   \#160 Hikari Ichihara: _Sara Smile_ † [\*](https://www.jazzofjapan.com/p/hikari-ichihara-sara-smile)
 -   \#161 Fumio Karashima: _Great Time_ †
 -   \#162 Emiko x Dairo Suga: _Phase 1_ †
 -   \#163 Trispace: _Aria_ †
 -   \#164 Hitomi Nishiyama: _Parallax_ †
--   \#165 Fumie Chiba: _Rougequeue_ †
+-   \#165 Fumie Chiba: _Rougequeue_ † [\*](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
 -   \#166 Q Ishikawa &amp; Seiji Endo: _Nakayoshi_ †
--   \#167 Ryosuke Hashizume Group: _Side Two_ †
+-   \#167 Ryosuke Hashizume Group: _Side Two_ † [\*](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two)
 -   \#168 Satomi Kawakami: _Orchid_ †
 -   \#169 Junichiro Ohkuchi Trio: _Big Smile_ †
 -   \#170 Michiyo Matsushita: _Prayer for Peace_ †
@@ -326,9 +325,9 @@ _Chronological sitemap with links to articles._
 -   \#172 Yukari Inoue &amp; Shunji Takenaka: _Moegi_ †
 -   \#173 Yuri Hirota: _Flea Circus_ †
 -   \#174 Maki Fujimura: _What's Love?_ †
--   \#175 Nobie: _Primary_ †
+-   \#175 Nobie: _Primary_ † [\*](https://www.jazzofjapan.com/p/nobie-primary)
 -   \#176 Hitomi Nishiyama: _Astrolabe_ †
--   \#177 Chihiro Yamanaka: _Lach Doch Mal_ †
+-   \#177 Chihiro Yamanaka: _Lach Doch Mal_ † [\*](https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal)
 -   \#178 Chie Ayado: _For All We Know_ †
 -   \#179 Hiromi Shimizu: _'Round Midnight_ †
 -   \#180 Fumie Chiba Trio: _Echoes_ †
@@ -349,8 +348,8 @@ _Chronological sitemap with links to articles._
 -   \#192 Girafe: _Asa No Kirin_ †
 -   \#193 Ritsuko Iwayama: _Dramatic Moments_ †
 -   \#194 Tsutomu Okada: _Laughing Heart_ †
--   \#195 Chihiro Yamanaka: _Abyss_ †
--   \#196 Ryosuke Hashizume Group: _As We Breathe_ †
+-   \#195 Chihiro Yamanaka: _Abyss_ † [\*](https://www.jazzofjapan.com/p/chihiro-yamanaka-abyss)
+-   \#196 Ryosuke Hashizume Group: _As We Breathe_ † [\*](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe)
 -   \#197 Ruriko Kawamura: _Loo Loo_ †
 -   \#198 Hitomi Yamakami: _Withness_ †
 -   \#199 Yuri Hirota: _Magical Moonlight_ †

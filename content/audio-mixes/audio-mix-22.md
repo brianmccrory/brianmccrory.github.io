@@ -1,6 +1,5 @@
 +++
 title = "Audio Mix #22"
-lastmod = 2025-10-11T10:58:59+09:00
 draft = false
 weight = -22
 +++

@@ -1,6 +1,5 @@
 +++
 title = "Albums"
-lastmod = 2025-10-11T11:10:34+09:00
 draft = false
 weight = 10
 +++
