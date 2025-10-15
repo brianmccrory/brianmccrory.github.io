@@ -642,6 +642,7 @@ _Chronological sitemap with links to articles._
 
 -   \#390 [Hiroyuki Yamaguchi Quintet: _Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   \#391 [Hitomi Aikawa: _Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
+-   \#392 [First-Timer’s Guide to Live Jazz in Japan](https://www.jazzofjapan.com/p/first-timers-guide-to-live-jazz-in-japan) ^
 
 ---
 
