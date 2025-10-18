@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-10-16T08:11:16+09:00
+lastmod = 2025-10-19T08:26:03+09:00
 draft = false
 weight = 20
 +++
@@ -12,6 +12,7 @@ _Index of the musicians and the albums discussed on this site._
 
 -   Abe, Atsushi (阿部篤志, piano): [_Standard Trio_](https://www.jazzofjapan.com/p/emiko-voice-standard-trio)
 -   Abe, Daisuke (阿部大輔, guitar, [_web_](https://daisukeabe.com/)): [_Lite Blue_](https://www.jazzofjapan.com/p/takuji-yamada-lite-blue)
+-   Abe, Toshiki (阿部俊貴, saxophone, [_web_](https://www.toshikiabesax.com/)): [_The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)
 -   Afra (あふら, human beatbox, [_web_](http://afra.jp/)): [_I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too)
 -   Aida, Momoko (会田桃子, violin, [_web_](https://www.instagram.com/aidamomoko/)): [_Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta)
 -   Aikawa, Hitomi (相川瞳, percussion, [_web_](https://www.hitomiaikawa.com/)): [_El viento y las flores_](https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores) · [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
@@ -255,7 +256,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Kimura, Hiro (木村紘, drums, [_web_](https://ameblo.jp/pasokimura/)): [_Folds_](https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds) · [_Introducin’_](https://www.jazzofjapan.com/p/fumika-asari-introducin) · [_The Square Pyramid_](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid) · [_Trees_](https://www.jazzofjapan.com/p/hiro-kimura-trees)
 -   Kimura, Jun (木村純, guitar, [_web_](https://jun-kimura.jp/)): [_Silver Painting_](https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting)
 -   Kira, Sota (吉良創太, drums, [_web_](https://kirasota.jimdofree.com/)): [_First Contact_](https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact) · [_Jabuticaba_](https://www.jazzofjapan.com/p/jabuticaba-jabuticaba) · [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim) · [_MCY_](https://www.jazzofjapan.com/p/ami-fukui-trio-mcy) · [_Nova Manhã_](https://www.jazzofjapan.com/p/ami-fukui-trio-nova-manha) · [_Progress_](https://www.jazzofjapan.com/p/setagaya-trio-progress)
--   Kishi, Sayaka (岸淑香, piano, [_web_](http://www.sayaketto.net/)): [_Asymmetry_](https://www.jazzofjapan.com/p/arco-asymmetry) · [_Banquet_](https://www.jazzofjapan.com/p/sayaka-kishi-trio-banquet) · [_Birth_](https://www.jazzofjapan.com/p/arco-birth) · [_Colors_](https://www.jazzofjapan.com/p/sayaketts-colors) · [_Featuring Te_](https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te) · [_Life Is Too Great_](https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great) · [_Live At Yoncha_](https://www.jazzofjapan.com/p/arco-live-at-yoncha) · [_Luar_](https://www.jazzofjapan.com/p/sul-madrugada-luar)
+-   Kishi, Sayaka (岸淑香, piano, [_web_](http://www.sayaketto.net/)): [_Asymmetry_](https://www.jazzofjapan.com/p/arco-asymmetry) · [_Banquet_](https://www.jazzofjapan.com/p/sayaka-kishi-trio-banquet) · [_Birth_](https://www.jazzofjapan.com/p/arco-birth) · [_Colors_](https://www.jazzofjapan.com/p/sayaketts-colors) · [_Featuring Te_](https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te) · [_Life Is Too Great_](https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great) · [_Live At Yoncha_](https://www.jazzofjapan.com/p/arco-live-at-yoncha) · [_Luar_](https://www.jazzofjapan.com/p/sul-madrugada-luar) · [_The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)
 -   Kishi, Tetsuyuki (岸徹至, bass, [_web_](https://shijukara.thebase.in/)): [_Horizon_](https://www.jazzofjapan.com/p/hideaki-hori-horizon)
 -   Kitagawa, Kiyoshi (北川潔, bass, [_web_](https://en.wikipedia.org/wiki/Kiyoshi_Kitagawa)): [_Prelude to a Kiss_](https://www.jazzofjapan.com/p/miki-hayama-prelude-to-a-kiss) · [_Wide Angle_](https://www.jazzofjapan.com/p/miki-hayama-trio-wide-angle)
 -   Kitajima, Kanoko (北島佳乃子, piano, [_web_](https://ameblo.jp/jazz-pf/)): [_Introducin’_](https://www.jazzofjapan.com/p/fumika-asari-introducin) · [_Long Way to Go_](https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go)
@@ -336,6 +337,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Mochiyama, Shoko (持山翔子, piano, [_web_](https://ameblo.jp/shoko-mochiyama/)): [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim)
 -   Monet (モネ, vocal): [_Bb_](https://www.jazzofjapan.com/p/baby-brothers-bb) · [_Happy Christmas with Bb_](https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb)
 -   Monroe, Cecil (drums, [_web_](https://www.discogs.com/artist/314334-Cecil-Monroe)): [_Feel Like Makin’ Love_](https://www.jazzofjapan.com/p/sanae-ishikawa-feel-like-makin-love)
+-   Morinaga, Tetsunori (森永哲則, drums, [_web_](https://www.morinagatetsunori.com/)): [_The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)
 -   Morishita, Shigeru (森下滋, piano, [_web_](http://gerushi.com/)): [_Wonderful Life_](https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life)
 -   Morita, Shuji (森田修史, saxophone, [_web_](https://shujimorita.official.jp/)): [_Path of Hope_](https://www.jazzofjapan.com/p/minoru-yoshiki-soulstation-path-of-hope)
 -   Morita, Yusuke (森田悠介, electric bass, [_web_](https://yusukemorita.net/)): [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)

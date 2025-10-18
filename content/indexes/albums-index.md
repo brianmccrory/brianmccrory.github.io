@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-10-16T08:11:15+09:00
+lastmod = 2025-10-19T08:26:02+09:00
 draft = false
 weight = 10
 +++
@@ -69,6 +69,7 @@ _Index of albums featured on this site by release year._
 -   [_Nova Manhã_](https://www.jazzofjapan.com/p/ami-fukui-trio-nova-manha) by Ami Fukui Trio
 -   [_Solo_](https://www.jazzofjapan.com/p/mikiko-nagatake-solo) by Mikiko Nagatake
 -   [_Standard Trio_](https://www.jazzofjapan.com/p/emiko-voice-standard-trio) by Emiko Voice
+-   [_The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity) by Toshiki Abe Life Memory Project
 -   [_The Three Roses_](https://www.jazzofjapan.com/p/daiki-yasukagawa-new-trio-three-roses) by Daiki Yasukagawa New Trio
 
 

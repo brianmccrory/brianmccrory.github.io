@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-10-16T08:11:15+09:00
+lastmod = 2025-10-19T08:26:02+09:00
 draft = false
 weight = 30
 +++
@@ -55,6 +55,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Rainbow Tales](https://www.jazzofjapan.com/p/ayumi-koketsu-rainbow-tales)_ by Ayumi Koketsu
 -   _[Side Two](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two)_ by Ryosuke Hashizume Group
 -   _[Skipping Down the Street](https://www.jazzofjapan.com/p/seiji-harakawa-quartet-skipping-down)_ by Seiji Harakawa Quartet
+-   _[The Simplicity](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)_ by Toshiki Abe Life Memory Project
 -   _[Trust](https://www.jazzofjapan.com/p/akane-matsumoto-ayumi-koketsu-trust)_ by Akane Matsumoto &amp; Ayumi Koketsu
 -   _[Un Jour](https://www.jazzofjapan.com/p/clepsydra-un-jour)_ by Clepsydra
 -   _[Unseen Scenes](https://www.jazzofjapan.com/p/bungalow-unseen-scenes)_ by Bungalow

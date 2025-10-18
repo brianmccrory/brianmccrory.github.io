@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-10-17T09:48:36+09:00
+lastmod = 2025-10-19T08:26:03+09:00
 draft = false
 weight = 40
 +++
@@ -9,13 +9,13 @@ _Chronological sitemap with links to articles._
 
 **January 2018**
 
--   \#1 [Kazumi Ikenaga: _Niwatazumi_](https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi) \*
+-   \#1 [Kazumi Ikenaga: _Niwatazumi_](https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi)
 -   \#2 [Akane Matsumoto: _Night &amp; Day_](https://www.jazzofjapan.com/p/akane-matsumoto-night-and-day)
 -   \#3 [Ayumi Koketsu: _Art_](https://www.jazzofjapan.com/p/ayumi-koketsu-art)
 -   \#4 [Bungalow: _You Already Know_](https://www.jazzofjapan.com/p/bungalow-you-already-know)
 -   \#5 [Emiko Voice: _Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta)
 -   \#6 [Ryosuke Hashizume Group: _Incomplete Voices_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices)
--   \#7 [Yasumasa Kumagai: _J-Straight Ahead_](https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead) \*
+-   \#7 [Yasumasa Kumagai: _J-Straight Ahead_](https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead)
 -   \#8 [Arco: _Asymmetry_](https://www.jazzofjapan.com/p/arco-asymmetry)
 -   \#9 [Sayaka Kishi: _Featuring Te_](https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te)
 
@@ -29,7 +29,7 @@ _Chronological sitemap with links to articles._
 -   \#13 [Satoshi Kosugi: _Bass on Times_](https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times)
 -   \#14 [Hitomi Nishiyama Trio: _Many Seasons_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-many-seasons)
 -   \#15 [Keisuke Nakamura: _Humadope_](https://www.jazzofjapan.com/p/keisuke-nakamura-humadope)
--   \#16 [Junichiro Ohkuchi Trio: _Invisible_](https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible) \*
+-   \#16 [Junichiro Ohkuchi Trio: _Invisible_](https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible)
 -   \#17 [Mayuko Katakura: _Faith_](https://www.jazzofjapan.com/p/mayuko-katakura-faith)
 -   \#18 [Takuji Yamada: _Lite Blue_](https://www.jazzofjapan.com/p/takuji-yamada-lite-blue)
 -   \#19 [Seiji Endo: _Circle for Peace_](https://www.jazzofjapan.com/p/seiji-endo-circle-for-peace)
@@ -79,21 +79,21 @@ _Chronological sitemap with links to articles._
 
 -   \#49 [Yukako Yamano: _1st Stage_](https://www.jazzofjapan.com/p/yukako-yamano-1st-stage)
 -   \#50 [Wataru Hamasaki Meets Akane Matsumoto Trio: _Big Catch_](https://www.jazzofjapan.com/p/hamasaki-matsumoto-bigcatch)
--   \#51 [Akihiro Yoshimoto Quartet: _Moving Color_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color) \*
+-   \#51 [Akihiro Yoshimoto Quartet: _Moving Color_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color)
 -   \#52 [Hideaki Hori Trio: _Unconditional Love_](https://www.jazzofjapan.com/p/hideaki-hori-trio-unconditional-love)
--   \#53 [Yasumasa Kumagai: _I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too) \*
+-   \#53 [Yasumasa Kumagai: _I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too)
 
 **September 2018**
 
 -   \#54 [Hakuei Kim Trio: _Open the Green Door_](https://www.jazzofjapan.com/p/hakuei-kim-trio-open-the-green-door)
--   \#55 [Ami Fukui: _Amizm_](https://www.jazzofjapan.com/p/ami-fukui-amizm) \*
+-   \#55 [Ami Fukui: _Amizm_](https://www.jazzofjapan.com/p/ami-fukui-amizm)
 -   \#56 [Koichi Sato: _Utopia_](https://www.jazzofjapan.com/p/koichi-sato-utopia)
 
 **October 2018**
 
 -   \#57 [Taihei Asakawa Trio: _Touch of Winter_](https://www.jazzofjapan.com/p/taihei-asakawa-trio-touch-of-winter)
 -   \#58 [Sayaketts: _Colors_](https://www.jazzofjapan.com/p/sayaketts-colors)
--   \#59 [Seiji Endo: _Sakura Meditation_](https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation) \*
+-   \#59 [Seiji Endo: _Sakura Meditation_](https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation)
 -   \#60 [Michiyo Matsushita: _Sally Gardens_](https://www.jazzofjapan.com/p/michiyo-matsushita-sally-gardens)
 
 **November 2018**
@@ -158,7 +158,7 @@ _Chronological sitemap with links to articles._
 
 **November 2019**
 
--   \#85 [Mabumi Yamaguchi: _Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone) \*
+-   \#85 [Mabumi Yamaguchi: _Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone)
 
 **December 2019**
 
@@ -302,23 +302,23 @@ _Chronological sitemap with links to articles._
 
 -   \#152 [Yasumasa Kumagai: _Pray_](https://www.jazzofjapan.com/p/yasumasa-kumagai-pray)
 -   \#153 Akiko Koizumi &amp; Kana Hiramatsu Duo: _Reverie_ †
--   \#154 Baby Brothers: _Happy Christmas with Bb_ † [\*](https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb)
+-   \#154 Baby Brothers: _Happy Christmas with Bb_ †
 -   \#155 Akiko Toyama Trio: _All Is In The Sky_ †
 -   \#156 Seiji Endo: _Angel Eyes_ †
 -   \#157 Yuka Ueda: _Pianistas E Mim_ †
--   \#158 Clepsydra: _Un Jour_ † [\*](https://www.jazzofjapan.com/p/clepsydra-un-jour)
+-   \#158 Clepsydra: _Un Jour_ †
 -   \#159 Hiromi Shimizu: _Hiromi As Is in New York_ †
 
 **October 2022**
 
--   \#160 Hikari Ichihara: _Sara Smile_ † [\*](https://www.jazzofjapan.com/p/hikari-ichihara-sara-smile)
+-   \#160 Hikari Ichihara: _Sara Smile_ †
 -   \#161 Fumio Karashima: _Great Time_ †
 -   \#162 Emiko x Dairo Suga: _Phase 1_ †
 -   \#163 Trispace: _Aria_ †
 -   \#164 Hitomi Nishiyama: _Parallax_ †
--   \#165 Fumie Chiba: _Rougequeue_ † [\*](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
+-   \#165 Fumie Chiba: _Rougequeue_ †
 -   \#166 Q Ishikawa &amp; Seiji Endo: _Nakayoshi_ †
--   \#167 Ryosuke Hashizume Group: _Side Two_ † [\*](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two)
+-   \#167 Ryosuke Hashizume Group: _Side Two_ †
 -   \#168 Satomi Kawakami: _Orchid_ †
 -   \#169 Junichiro Ohkuchi Trio: _Big Smile_ †
 -   \#170 Michiyo Matsushita: _Prayer for Peace_ †
@@ -326,9 +326,9 @@ _Chronological sitemap with links to articles._
 -   \#172 Yukari Inoue &amp; Shunji Takenaka: _Moegi_ †
 -   \#173 Yuri Hirota: _Flea Circus_ †
 -   \#174 Maki Fujimura: _What's Love?_ †
--   \#175 Nobie: _Primary_ † [\*](https://www.jazzofjapan.com/p/nobie-primary)
+-   \#175 Nobie: _Primary_ †
 -   \#176 Hitomi Nishiyama: _Astrolabe_ †
--   \#177 Chihiro Yamanaka: _Lach Doch Mal_ † [\*](https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal)
+-   \#177 Chihiro Yamanaka: _Lach Doch Mal_ †
 -   \#178 Chie Ayado: _For All We Know_ †
 -   \#179 Hiromi Shimizu: _'Round Midnight_ †
 -   \#180 Fumie Chiba Trio: _Echoes_ †
@@ -349,8 +349,8 @@ _Chronological sitemap with links to articles._
 -   \#192 Girafe: _Asa No Kirin_ †
 -   \#193 Ritsuko Iwayama: _Dramatic Moments_ †
 -   \#194 Tsutomu Okada: _Laughing Heart_ †
--   \#195 Chihiro Yamanaka: _Abyss_ † [\*](https://www.jazzofjapan.com/p/chihiro-yamanaka-abyss)
--   \#196 Ryosuke Hashizume Group: _As We Breathe_ † [\*](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe)
+-   \#195 Chihiro Yamanaka: _Abyss_ †
+-   \#196 Ryosuke Hashizume Group: _As We Breathe_ †
 -   \#197 Ruriko Kawamura: _Loo Loo_ †
 -   \#198 Hitomi Yamakami: _Withness_ †
 -   \#199 Yuri Hirota: _Magical Moonlight_ †
@@ -446,7 +446,7 @@ _Chronological sitemap with links to articles._
 
 -   \#263 [Kaori Vibes Quartet: _Starry Nights_](https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights)
 -   \#264 [Shinpei Ruike &amp; George Nakajima: _Duo_](https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo)
--   \#265 [Kazumi Ikenaga: _Niwatazumi_](https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi)
+-   \#265 [Kazumi Ikenaga: _Niwatazumi_](https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi) \*
 -   \#266 [Akane Matsumoto: _Little Girl Blue_](https://www.jazzofjapan.com/p/akane-matsumoto-little-girl-blue)
 -   \#267 [Nanami Haruta: _II_](https://www.jazzofjapan.com/p/nanami-haruta-ii)
 
@@ -480,26 +480,26 @@ _Chronological sitemap with links to articles._
 
 **March 2024**
 
--   \#287 [Junichiro Ohkuchi Trio: _Invisible_](https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible)
+-   \#287 [Junichiro Ohkuchi Trio: _Invisible_](https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible) \*
 -   \#288 [Jabuticaba: _Jabuticaba_](https://www.jazzofjapan.com/p/jabuticaba-jabuticaba)
 -   \#289 [Nami Kano: _Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim)
 -   \#290 [Expression](https://www.jazzofjapan.com/p/expression) ~
--   \#291 [Yasumasa Kumagai: _I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too)
+-   \#291 [Yasumasa Kumagai: _I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too) \*
 -   \#292 [eFreydut: _Fairway_](https://www.jazzofjapan.com/p/efreydut-fairway)
 
 **April 2024**
 
--   \#293 [Akihiro Yoshimoto Quartet: _Moving Color_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color)
+-   \#293 [Akihiro Yoshimoto Quartet: _Moving Color_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color) \*
 -   \#294 [Bon Courage](https://www.jazzofjapan.com/p/bon-courage) ~
--   \#295 [Seiji Endo: _Sakura Meditation_](https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation)
--   \#296 [Ami Fukui: _Amizm_](https://www.jazzofjapan.com/p/ami-fukui-amizm)
+-   \#295 [Seiji Endo: _Sakura Meditation_](https://www.jazzofjapan.com/p/seiji-endo-sakura-meditation) \*
+-   \#296 [Ami Fukui: _Amizm_](https://www.jazzofjapan.com/p/ami-fukui-amizm) \*
 -   \#297 [Satin Doll](https://www.jazzofjapan.com/p/satin-doll) ~
 -   \#298 [Hitomi Nishiyama Trio: _Calling_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-calling)
 
 **May 2024**
 
 -   \#299 [Takumi Seino &amp; Motohiko Ichino: _Frozen Dust_](https://www.jazzofjapan.com/p/takumi-seino-motohiko-ichino-frozen-dust)
--   \#300 [Mabumi Yamaguchi: _Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone)
+-   \#300 [Mabumi Yamaguchi: _Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone) \*
 -   \#301 [Noriko Satomi: _Project-N_](https://www.jazzofjapan.com/p/noriko-satomi-project-n)
 -   \#302 [Koen-Dori Classics](https://www.jazzofjapan.com/p/koen-dori-classics) ~
 -   \#303 [Erisa Ogawa: _Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
@@ -635,7 +635,7 @@ _Chronological sitemap with links to articles._
 
 -   \#386 [Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa: _Tides of Blue_](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue)
 -   \#387 [Takako Yamada Trio: _Live at The Moment_](https://www.jazzofjapan.com/p/takako-yamada-trio-live-at-the-moment)
--   \#388 [Yasumasa Kumagai: _J-Straight Ahead_](https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead)
+-   \#388 [Yasumasa Kumagai: _J-Straight Ahead_](https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead) \*
 -   \#389 [On A Slow Boat To...](https://www.jazzofjapan.com/p/on-a-slow-boat-to) ~
 
 **October 2025**
@@ -643,6 +643,7 @@ _Chronological sitemap with links to articles._
 -   \#390 [Hiroyuki Yamaguchi Quintet: _Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   \#391 [Hitomi Aikawa: _Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
 -   \#392 [First-Timer’s Guide to Live Jazz in Japan](https://www.jazzofjapan.com/p/first-timers-guide-to-live-jazz-in-japan) ^
+-   \#393 [Toshiki Abe Life Memory Project: _The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)
 
 ---
 
