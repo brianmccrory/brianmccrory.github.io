@@ -2,6 +2,7 @@
 date = '2025-09-10T06:39:52-07:00'
 draft = false
 title = 'Introduction'
+weight = 1 # pinned
 +++
 
 This annex contains supplemental information for [Jazz of Japan](https://www.jazzofjapan.com/).
@@ -11,3 +12,4 @@ This annex contains supplemental information for [Jazz of Japan](https://www.jaz
 - [Categories](/indexes/albums-categories)
 - [Timeline](/indexes/timeline)
 - [Audio Mixes](/audio-mixes/)
+
