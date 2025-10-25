@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-10-19T08:26:03+09:00
+lastmod = 2025-10-25T11:38:25+09:00
 draft = false
 weight = 20
 +++
@@ -64,6 +64,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Chiba, Hiroki (千葉広樹, bass, [_web_](https://linktr.ee/Hirokichiba)): [_Melancholy of a Journey_](https://www.jazzofjapan.com/p/koichi-sato-melancholy) · [_National Anthem of Unknown Country_](https://www.jazzofjapan.com/p/rabbitoo-national-anthem-of-unknown) · [_The Torch_](https://www.jazzofjapan.com/p/rabbitoo-the-torch)
 -   Chichibu, Eri (秩父英里, piano, [_web_](https://www.erichichibu.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
 -   Choulai, Aaron (piano, [_web_](https://aaronchoulai.bandcamp.com/)): [_Moving Color_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color)
+-   Clohesy, Matt (bass, [_web_](http://archive.soundamerican.org/sa_archive/sa18/matt-clohesy.html)): [_The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)
 -   Cokky (コッキー, bass): [_A Tempo_](https://www.jazzofjapan.com/p/meu-coracao-a-tempo)
 -   Curtis, Luques (bass, [_web_](https://www.luquescurtis.com/)): [_Lite Blue_](https://www.jazzofjapan.com/p/takuji-yamada-lite-blue)
 
@@ -82,6 +83,7 @@ _Index of the musicians and the albums discussed on this site._
 
 ## E {#e}
 
+-   Ellis, John (saxophone, [_web_](http://www.johnaxsonellis.com/)): [_The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)
 -   Ema (エマ, vocal, [_web_](https://www.sonymusic.co.jp/artist/ema/)): [_Longing_](https://www.jazzofjapan.com/p/yosuke-sato-george-nakajima-longing)
 -   Emiko Voice (エミコヴォイス, vocal, [_web_](http://www.emikovoice.com/)): [_A Tempo_](https://www.jazzofjapan.com/p/meu-coracao-a-tempo) · [_Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta) · [_Enyana_](https://www.jazzofjapan.com/p/emiko-voice-yuka-yanagihara-enyana) · [_Hall Tone_](https://www.jazzofjapan.com/p/meu-coracao-hall-tone) · [_Phase 2_](https://www.jazzofjapan.com/p/emiko-voice-x-suga-dairo-phase-2) · [_Standard Trio_](https://www.jazzofjapan.com/p/emiko-voice-standard-trio)
 -   Endo, Jo (遠藤 定, bass, [_web_](https://enjodobass.wixsite.com/joe-endo)): [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
@@ -337,6 +339,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Mochiyama, Shoko (持山翔子, piano, [_web_](https://ameblo.jp/shoko-mochiyama/)): [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim)
 -   Monet (モネ, vocal): [_Bb_](https://www.jazzofjapan.com/p/baby-brothers-bb) · [_Happy Christmas with Bb_](https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb)
 -   Monroe, Cecil (drums, [_web_](https://www.discogs.com/artist/314334-Cecil-Monroe)): [_Feel Like Makin’ Love_](https://www.jazzofjapan.com/p/sanae-ishikawa-feel-like-makin-love)
+-   Mooney: Davy (guitar, [_web_](https://davymooney.bandcamp.com/)): [_The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)
 -   Morinaga, Tetsunori (森永哲則, drums, [_web_](https://www.morinagatetsunori.com/)): [_The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)
 -   Morishita, Shigeru (森下滋, piano, [_web_](http://gerushi.com/)): [_Wonderful Life_](https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life)
 -   Morita, Shuji (森田修史, saxophone, [_web_](https://shujimorita.official.jp/)): [_Path of Hope_](https://www.jazzofjapan.com/p/minoru-yoshiki-soulstation-path-of-hope)
@@ -404,7 +407,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Okudaira, Shingo (奥平慎吾, drums, [_web_](http://www.pit-inn.com/okudaira/)): [_It’s Just Beginning_](https://www.jazzofjapan.com/p/fumio-karashima-trio-its-just-beginning)
 -   Okumura, Misato (奥村美里, piano): [_Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone)
 -   Okuyama, Masaru (奥山勝, piano, [_web_](http://m-okuyama-home.sakura.ne.jp/)): [_The Island_](https://www.jazzofjapan.com/p/layla-tomomi-sakai-island) · [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
--   Omura, Ko (大村亘, drums, [_web_](https://kojazz0829.wixsite.com/1981)): [_Abstract Messages_](https://www.jazzofjapan.com/p/bungalow-abstract-messages) · [_Fairway_](https://www.jazzofjapan.com/p/efreydut-fairway) · [_Introspect_](https://www.jazzofjapan.com/p/ko-omura-introspect) · [_Ishida Mamoru 4 feat. Mike Rivett_](https://www.jazzofjapan.com/p/mamoru-ishida-ishida-mamoru-4-feat) · [_Live at The Moment_](https://www.jazzofjapan.com/p/takako-yamada-trio-live-at-the-moment) · [_Live at Virtuoso_](https://www.jazzofjapan.com/p/fe-live-at-virtuoso) · [_Metropolitan Oasis_](https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis) · [_No One Else_](https://www.jazzofjapan.com/p/naoko-akimoto-no-one-else) · [_Past Life_](https://www.jazzofjapan.com/p/bungalow-past-life) · [_Talk, Vol. 1_](https://www.jazzofjapan.com/p/polyglot-talk-vol-1) · [_The Flow of Time_](https://www.jazzofjapan.com/p/takako-yamada-flow-of-time) · [_Unseen Scenes_](https://www.jazzofjapan.com/p/bungalow-unseen-scenes) · [_Utopia_](https://www.jazzofjapan.com/p/koichi-sato-utopia) · [_You Already Know_](https://www.jazzofjapan.com/p/bungalow-you-already-know)
+-   Omura, Ko (大村亘, drums, [_web_](https://kojazz0829.wixsite.com/1981)): [_Abstract Messages_](https://www.jazzofjapan.com/p/bungalow-abstract-messages) · [_Fairway_](https://www.jazzofjapan.com/p/efreydut-fairway) · [_Introspect_](https://www.jazzofjapan.com/p/ko-omura-introspect) · [_Ishida Mamoru 4 feat. Mike Rivett_](https://www.jazzofjapan.com/p/mamoru-ishida-ishida-mamoru-4-feat) · [_Live at The Moment_](https://www.jazzofjapan.com/p/takako-yamada-trio-live-at-the-moment) · [_Live at Virtuoso_](https://www.jazzofjapan.com/p/fe-live-at-virtuoso) · [_Metropolitan Oasis_](https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis) · [_No One Else_](https://www.jazzofjapan.com/p/naoko-akimoto-no-one-else) · [_Past Life_](https://www.jazzofjapan.com/p/bungalow-past-life) · [_Talk, Vol. 1_](https://www.jazzofjapan.com/p/polyglot-talk-vol-1) · [_The Flow of Time_](https://www.jazzofjapan.com/p/takako-yamada-flow-of-time) · [_The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word) · [_Unseen Scenes_](https://www.jazzofjapan.com/p/bungalow-unseen-scenes) · [_Utopia_](https://www.jazzofjapan.com/p/koichi-sato-utopia) · [_You Already Know_](https://www.jazzofjapan.com/p/bungalow-you-already-know)
 -   Omura, Morihiro (大村守弘, bass): [_Trispace_](https://www.jazzofjapan.com/p/trispace-trispace)
 -   Onuma, Yosuke (小沼ようすけ, guitar, [_web_](http://www.yosukeonuma.com/)): [_Aquapit_](https://www.jazzofjapan.com/p/aquapit-aquapit)
 -   Orihara, Ryoji (織原良次, fretless bass, [_web_](https://linktr.ee/ryojiorihara)): [_Acoustic Fluid_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic) · [_As We Breathe_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe) · [_Bonanza_](https://www.jazzofjapan.com/p/yudo-matsuo-bonanza) · [_Dois_](https://www.jazzofjapan.com/p/yuka-ueda-dois) · [_Fever_](https://www.jazzofjapan.com/p/trigraph-fever) · [_Incomplete Voices_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices) · [_Jabuticaba_](https://www.jazzofjapan.com/p/jabuticaba-jabuticaba) · [_Life Is Too Great_](https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great) · [_New Heritage of Real Heavy Metal_](https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal) · [_New Heritage of Real Heavy Metal -Extra Edition-_](https://www.jazzofjapan.com/p/nhorhm-extra-edition) · [_Side Two_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two) · [_Virgo_](https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo) · [_Virtual Silence_](https://www.jazzofjapan.com/p/chie-nishimura-virtual-silence) · [_VisibleInvisible_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-visible-invisible) · [_Wordless_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless)
@@ -629,3 +632,4 @@ _Index of the musicians and the albums discussed on this site._
 ## Z {#z}
 
 -   Zakota, Ryoichi (座小田諒一, bass, [_web_](https://basszakota.exblog.jp/)): [_We Don’t Know Yet_](https://www.jazzofjapan.com/p/hiromi-miura-we-dont-know-yet)
+-   Zaleski, Glenn (piano, [_web_](https://www.glennzaleski.com/)): [_The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)

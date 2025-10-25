@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-10-19T08:26:02+09:00
+lastmod = 2025-10-25T11:38:24+09:00
 draft = false
 weight = 30
 +++
@@ -136,6 +136,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Sketches](https://www.jazzofjapan.com/p/motohiko-ichino-sketches)_ by Motohiko Ichino
 -   _[The Goat on a Peak](https://www.jazzofjapan.com/p/ghost-peak-goat-on-a-peak)_ by Ghost Peak _(free/experimental)_
 -   _[The Torch](https://www.jazzofjapan.com/p/rabbitoo-the-torch)_ by Rabbitoo
+-   _[The Word](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)_ by Davy Mooney &amp; Ko Omura
 -   _[Two for the Road](https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road)_ by Yuji Ito &amp; Koichi Hirata Duo
 -   _See all: [#guitar](https://www.jazzofjapan.com/t/guitar)_
 

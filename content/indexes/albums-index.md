@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-10-19T08:26:02+09:00
+lastmod = 2025-10-25T11:38:24+09:00
 draft = false
 weight = 10
 +++
@@ -14,6 +14,7 @@ _Index of albums featured on this site by release year._
 -   [_Invisible Diary_](https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary) by Kaito Nakamura
 -   [_Melodies_](https://www.jazzofjapan.com/p/melodies-melodies) by Melodies
 -   [_The Duality of My Soul_](https://www.jazzofjapan.com/p/mayuko-katakura-duality-of-my-soul) by Mayuko Katakura
+-   [_The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word) by Davy Mooney &amp; Ko Omura
 -   [_Tides of Blue_](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue) by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa
 
 <!--more-->
