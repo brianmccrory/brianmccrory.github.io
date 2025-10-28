@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-10-25T11:38:24+09:00
+lastmod = 2025-10-28T11:42:35+09:00
 draft = false
 weight = 30
 +++
@@ -20,7 +20,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Scratch](https://www.jazzofjapan.com/p/miki-hirose-scratch)_ by Miki Hirose
 -   _[Song of Flower](https://www.jazzofjapan.com/p/yuko-miyawaki-song-of-flower)_ by Yuko Miyawaki
 -   _[Unity](https://www.jazzofjapan.com/p/hikari-ichihara-group-unity)_ by Hikari Ichihara Group
--   _See all: [#trumpet](https://www.jazzofjapan.com/t/trumpet)_
 
 <!--more-->
 
@@ -68,7 +67,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Workout!!](https://www.jazzofjapan.com/p/seiji-tada-workout)_ by Seiji Tada
 -   _[You Already Know](https://www.jazzofjapan.com/p/bungalow-you-already-know)_ by Bungalow
 -   _[Zephyr](https://www.jazzofjapan.com/p/zephyr-zephyr)_ by Zephyr
--   _See all: [#saxophone](https://www.jazzofjapan.com/t/saxophone)_
 
 
 ## Trombone {#trombone}
@@ -76,7 +74,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Awareness](https://www.jazzofjapan.com/p/mariko-maeda-awareness)_ by Mariko Maeda
 -   _[For My Lady](https://www.jazzofjapan.com/p/akane-matsumoto-nanami-haruta-for)_ by Akane Matsumoto &amp; Nanami Haruta
 -   _[II](https://www.jazzofjapan.com/p/nanami-haruta-ii)_ by Nanami Haruta
--   _See all: [#trombone](https://www.jazzofjapan.com/t/trombone)_
 
 
 ## Flute {#flute}
@@ -85,13 +82,11 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Gakudan Hitori](https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori)_ by Reikan Kobayashi
 -   _[Silver Painting](https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting)_ by Makiyo Sakai
 -   _[Where Have U Been?](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)_ by Erisa Ogawa
--   _See all: [#flute](https://www.jazzofjapan.com/t/flute)_
 
 
 ## Clarinet {#clarinet}
 
 -   _[Amalthea](https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea)_ by Tokuhiro Doi Quartet
--   _See all: [#clarinet](https://www.jazzofjapan.com/t/clarinet)_
 
 
 ## Violin {#violin}
@@ -100,7 +95,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Live! Three](https://www.jazzofjapan.com/p/maiko-trio-live-three)_ by Maiko Trio
 -   _[Project-N](https://www.jazzofjapan.com/p/noriko-satomi-project-n)_ by Noriko Satomi
 -   _[Solo](https://www.jazzofjapan.com/p/maiko-solo)_ by Maiko _(solo)_
--   _See all: [#violin](https://www.jazzofjapan.com/t/violin)_
 
 
 ## Cello {#cello}
@@ -108,7 +102,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Asymmetry](https://www.jazzofjapan.com/p/arco-asymmetry)_ by Arco
 -   _[Birth](https://www.jazzofjapan.com/p/arco-birth)_ by Arco
 -   _[Live At Yoncha](https://www.jazzofjapan.com/p/arco-live-at-yoncha)_ by Arco
--   _See all: [#cello](https://www.jazzofjapan.com/t/cello)_
 
 
 ## Vibraphone {#vibraphone}
@@ -119,7 +112,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Here Goes!](https://www.jazzofjapan.com/p/fumiko-yamazaki-here-goes)_ by Fumiko Yamazaki
 -   _[Starry Nights](https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights)_ by Kaori Vibes Quartet
 -   _[The Square Pyramid](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid)_ by Reiko Yamamoto
--   _See all: [#vibraphone](https://www.jazzofjapan.com/t/vibraphone)_
 
 
 ## Guitar {#guitar}
@@ -138,7 +130,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[The Torch](https://www.jazzofjapan.com/p/rabbitoo-the-torch)_ by Rabbitoo
 -   _[The Word](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)_ by Davy Mooney &amp; Ko Omura
 -   _[Two for the Road](https://www.jazzofjapan.com/p/yuji-ito-koichi-hirata-duo-two-for-the-road)_ by Yuji Ito &amp; Koichi Hirata Duo
--   _See all: [#guitar](https://www.jazzofjapan.com/t/guitar)_
 
 
 ## Piano {#piano}
@@ -254,7 +245,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[When October Goes](https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-when-october)_ by Chihiro Yamanaka Trio
 -   _[Wide Angle](https://www.jazzofjapan.com/p/miki-hayama-trio-wide-angle)_ by Miki Hayama Trio
 -   _[Wish](https://www.jazzofjapan.com/p/manabu-ohishi-trio-wish)_ by Manabu Ohishi Trio
--   _See all: [#piano](https://www.jazzofjapan.com/t/piano)_
 
 
 ## Bass {#bass}
@@ -274,7 +264,6 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[The Live](https://www.jazzofjapan.com/p/motoi-kanamori-the-live)_ by Motoi Kanamori
 -   _[The Three Roses](https://www.jazzofjapan.com/p/daiki-yasukagawa-new-trio-three-roses)_ by Daiki Yasukagawa New Trio
 -   _[Trios II](https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-trios-ii)_ by Daiki Yasukagawa Trio
--   _See all: [#bass](https://www.jazzofjapan.com/t/bass)_
 
 
 ## Drums {#drums}
@@ -291,13 +280,11 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Sumitty &amp; The Funfair](https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair)_ by Sumito Oi
 -   _[Trees](https://www.jazzofjapan.com/p/hiro-kimura-trees)_ by Hiro Kimura
 -   _[You’ve Changed](https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed)_ by Hara Dairiki Trio
--   _See all: [#drums](https://www.jazzofjapan.com/t/drums)_
 
 
 ## Percussion {#percussion}
 
 -   _[Sweet](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)_ by Hitomi Aikawa
--   _See all: [#percussion](https://www.jazzofjapan.com/t/percussion)_
 
 
 ## Vocals {#vocals}
@@ -345,4 +332,3 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Water Me!](https://www.jazzofjapan.com/p/water-me-water-me)_ by Water Me!
 -   _[Whisper Not](https://www.jazzofjapan.com/p/layla-tomomi-sakai-whisper-not)_ by Layla Tomomi Sakai
 -   _[Wonderful Life](https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life)_ by Masako Kunisada
--   _See all: [#vocals](https://www.jazzofjapan.com/t/vocals)_
