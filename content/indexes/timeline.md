@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-10-26T09:17:33+09:00
+lastmod = 2025-10-30T09:51:31+09:00
 draft = false
 weight = 40
 +++
@@ -645,6 +645,7 @@ _Chronological sitemap with links to articles._
 -   [First-Timer’s Guide to Live Jazz in Japan](https://www.jazzofjapan.com/p/first-timers-guide-to-live-jazz-in-japan) ^
 -   [Toshiki Abe Life Memory Project: _The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)
 -   [Davy Mooney &amp; Ko Omura: _The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)
+-   [Organ Jazz Club Abecafe](https://www.jazzofjapan.com/p/organ-jazz-club-abecafe) ~
 
 ---
 

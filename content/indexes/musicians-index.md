@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-10-25T11:38:25+09:00
+lastmod = 2025-10-30T09:51:31+09:00
 draft = false
 weight = 20
 +++
@@ -400,7 +400,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Oi, Sumito (大井澄東, drums, [_web_](https://www.sumitooi.com/)): [_Sumitty &amp; The Funfair_](https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair)
 -   Oinuma, Kunio (生沼邦夫, bass): [_Music Make Us One_](https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one) · [_Project-N_](https://www.jazzofjapan.com/p/noriko-satomi-project-n)
 -   Okabe, Tomoyuki (岡部朋幸, drums, [_web_](https://tomookabe.exblog.jp/)): [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
--   Okabe, Yoichi (岡部洋一, percussion, [_web_](http://www.okabeyoichi.com/)): [_Owari to Hajimari_](https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari)
+-   Okabe, Yoichi (岡部洋一, percussion, [_web_](https://okabeyoichi.com/)): [_Owari to Hajimari_](https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari)
 -   Okada, Keita (岡田ケイタ, drums): [_Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta)
 -   Okada, Tsutomu (岡田勉, bass, [_web_](http://www.ben-okada.com/)): [_Major to Minor_](https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor)
 -   Okazaki, Yoshiro (岡崎好朗, trumpet, [_web_](http://www.yoshirojazz.sakura.ne.jp/)): [_Appreciation_](https://www.jazzofjapan.com/p/naoko-tanaka-appreciation) · [_Bass on Times_](https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times) · [_Memories_](https://www.jazzofjapan.com/p/naoko-tanaka-trio-memories)
@@ -539,7 +539,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Tawarayama, Masayuki (俵山昌之, bass, [_web_](https://tawachan.blog.ss-blog.jp/)): [_Another Ordinary Day_](https://www.jazzofjapan.com/p/harumi-nomoto-trio-another-ordinary-day) · [_Silver Painting_](https://www.jazzofjapan.com/p/makiyo-sakai-silver-painting)
 -   Taylor, Mark (drums, [_web_](https://en.wikipedia.org/wiki/Mark_Taylor_(drummer))): [_Art_](https://www.jazzofjapan.com/p/ayumi-koketsu-art)
 -   Terakubo, Erena (寺久保エレナ, saxophone, [_web_](https://www.jamrice.co.jp/erena/)): [_My Soul Meeting_](https://www.jazzofjapan.com/p/motoi-kanamori-my-soul-meeting)
--   Terao, Yosuke (寺尾陽介, bass, [_web_](https://ameblo.jp/teraomusic/)): [_Awareness_](https://www.jazzofjapan.com/p/mariko-maeda-awareness)
+-   Terao, Yosuke (寺尾陽介, bass, [_web_](https://teraomusic.wixsite.com/bass)): [_Awareness_](https://www.jazzofjapan.com/p/mariko-maeda-awareness)
 -   Teraya, Nao (寺屋ナオ, guitar, [_web_](http://www.naoteraya.com/)): [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) · [_Flowers On The Hill_](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue) · [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
 -   Tetsui, Koji (鉄井孝司, bass, [_web_](https://www.instagram.com/koztet/)): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
 -   Thormodsæter, Magne (bass, [_web_](https://en.wikipedia.org/wiki/Magne_Thormods%C3%A6ter)): [_Rainbow Tales_](https://www.jazzofjapan.com/p/ayumi-koketsu-rainbow-tales)
