@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-10-28T11:42:35+09:00
+lastmod = 2025-11-03T08:08:09+09:00
 draft = false
 weight = 30
 +++
@@ -142,6 +142,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Another Ordinary Day](https://www.jazzofjapan.com/p/harumi-nomoto-trio-another-ordinary-day)_ by Harumi Nomoto Trio
 -   _[Appreciation](https://www.jazzofjapan.com/p/naoko-tanaka-appreciation)_ by Naoko Tanaka
 -   _[Aquapit](https://www.jazzofjapan.com/p/aquapit-aquapit)_ by Aquapit _(Hammond B3 organ)_
+-   _[Astrolabe](https://www.jazzofjapan.com/p/hitomi-nishiyama-astrolabe)_ by Hitomi Nishiyama
 -   _[Banquet](https://www.jazzofjapan.com/p/sayaka-kishi-trio-banquet)_ by Sayaka Kishi Trio
 -   _[Beautiful Days](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days)_ by Fumie Chiba
 -   _[Belinda](https://www.jazzofjapan.com/p/harumi-nomoto-trio-belinda)_ by Harumi Nomoto Trio

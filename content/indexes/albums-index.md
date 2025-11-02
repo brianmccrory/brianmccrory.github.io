@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-10-25T11:38:24+09:00
+lastmod = 2025-11-03T08:08:09+09:00
 draft = false
 weight = 10
 +++
@@ -248,6 +248,7 @@ _Index of albums featured on this site by release year._
 ## 2012 Releases {#2012-releases}
 
 -   [_Acoustic Fluid_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic) by Ryosuke Hashizume Group
+-   [_Astrolabe_](https://www.jazzofjapan.com/p/hitomi-nishiyama-astrolabe) by Hitomi Nishiyama
 -   [_Bonanza_](https://www.jazzofjapan.com/p/yudo-matsuo-bonanza) by Yudo Matsuo
 -   [_Bubble Fish_](https://www.jazzofjapan.com/p/shunichi-yanagi-trio-bubble-fish) by Shunichi Yanagi Trio
 -   [_Gift_](https://www.jazzofjapan.com/p/manabu-ohishi-trio-gift) by Manabu Ohishi Trio

@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-10-30T09:51:31+09:00
+lastmod = 2025-11-03T08:08:10+09:00
 draft = false
 weight = 40
 +++
@@ -327,7 +327,7 @@ _Chronological sitemap with links to articles._
 -   Yuri Hirota: _Flea Circus_ †
 -   Maki Fujimura: _What's Love?_ †
 -   [Nobie: _Primary_](https://www.jazzofjapan.com/p/nobie-primary) † \*
--   Hitomi Nishiyama: _Astrolabe_ †
+-   [Hitomi Nishiyama: _Astrolabe_](https://www.jazzofjapan.com/p/hitomi-nishiyama-astrolabe) \*
 -   [Chihiro Yamanaka: _Lach Doch Mal_](https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal) † \*
 -   Chie Ayado: _For All We Know_ †
 -   Hiromi Shimizu: _'Round Midnight_ †
@@ -646,6 +646,10 @@ _Chronological sitemap with links to articles._
 -   [Toshiki Abe Life Memory Project: _The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)
 -   [Davy Mooney &amp; Ko Omura: _The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)
 -   [Organ Jazz Club Abecafe](https://www.jazzofjapan.com/p/organ-jazz-club-abecafe) ~
+
+**November 2025**
+
+-   [Hitomi Nishiyama: _Astrolabe_](https://www.jazzofjapan.com/p/hitomi-nishiyama-astrolabe) \*\*
 
 ---
 
