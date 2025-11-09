@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-11-03T08:08:09+09:00
+lastmod = 2025-11-09T10:36:17+09:00
 draft = false
 weight = 10
 +++
@@ -231,6 +231,7 @@ _Index of albums featured on this site by release year._
 -   [_Best Wishes_](https://www.jazzofjapan.com/p/maki-fujimura-best-wishes) by Maki Fujimura
 -   [_Big Catch_](https://www.jazzofjapan.com/p/hamasaki-matsumoto-bigcatch) by Wataru Hamasaki Meets Akane Matsumoto Trio
 -   [_Dois_](https://www.jazzofjapan.com/p/yuka-ueda-dois) by Yuka Ueda
+-   [_Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) by Fumie Chiba Trio
 -   [_Flower Clouds_](https://www.jazzofjapan.com/p/naoko-sakata-trio-flower-clouds) by Naoko Sakata Trio
 -   [_Flying Mind_](https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind) by Kaori Vibes Quartet
 -   [_Images_](https://www.jazzofjapan.com/p/yuya-wakai-images) by Yuya Wakai

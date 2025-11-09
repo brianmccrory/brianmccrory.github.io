@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-11-03T08:13:50+09:00
+lastmod = 2025-11-09T10:36:18+09:00
 draft = false
 weight = 40
 +++
@@ -331,7 +331,7 @@ _Chronological sitemap with links to articles._
 -   [Chihiro Yamanaka: _Lach Doch Mal_](https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal) † \*
 -   Chie Ayado: _For All We Know_ †
 -   Hiromi Shimizu: _'Round Midnight_ †
--   Fumie Chiba Trio: _Echoes_ †
+-   [Fumie Chiba Trio: _Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) † \*
 -   Meu Coração: _Hall Tone 2_ †
 -   Mikako Nishikawa: _Day Dream_ †
 -   Hitomi Nishiyama Trio "Parallax": _Shift_ †
@@ -650,6 +650,7 @@ _Chronological sitemap with links to articles._
 **November 2025**
 
 -   [Hitomi Nishiyama: _Astrolabe_](https://www.jazzofjapan.com/p/hitomi-nishiyama-astrolabe) \*\*
+-   [Fumie Chiba Trio: _Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) \*\*
 
 ---
 

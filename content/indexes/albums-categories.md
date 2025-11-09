@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-11-03T08:08:09+09:00
+lastmod = 2025-11-09T10:36:17+09:00
 draft = false
 weight = 30
 +++
@@ -159,6 +159,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Dubai Suite](https://www.jazzofjapan.com/p/yukakoyamano-yukariinoue-dubai)_ by Yukako Yamano &amp; Yukari Inoue _(piano duo)_
 -   _[Duo](https://www.jazzofjapan.com/p/taeko-kurita-akira-sotoyama-duo)_ by Taeko Kurita &amp; Akira Sotoyama
 -   _[Echo](https://www.jazzofjapan.com/p/hitomi-nishiyama-echo)_ by Hitomi Nishiyama
+-   _[Echoes](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes)_ by Fumie Chiba Trio
 -   _[Embryo](https://www.jazzofjapan.com/p/koichi-sato-embryo)_ by Koichi Sato _(solo)_
 -   _[Fairway](https://www.jazzofjapan.com/p/efreydut-fairway)_ by eFreydut
 -   _[Faith](https://www.jazzofjapan.com/p/mayuko-katakura-faith)_ by Mayuko Katakura

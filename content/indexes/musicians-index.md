@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-11-03T08:08:10+09:00
+lastmod = 2025-11-09T10:36:17+09:00
 draft = false
 weight = 20
 +++
@@ -60,7 +60,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Carlini, John (guitar, [_web_](https://johncarlinimusic.com/)): [_Lach Doch Mal_](https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal)
 -   Casado, Milena (ミレナ・カサード, flugelhorn, [_web_](https://www.milenacasado.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
 -   Cheung, Teriver (guitar, [_web_](https://www.instagram.com/terivercheung/)): [_The Flow of Time_](https://www.jazzofjapan.com/p/takako-yamada-flow-of-time)
--   Chiba, Fumie (千葉史絵, piano, [_web_](https://fumiechiba.com)): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue) · [_Tip of Dream_](https://www.jazzofjapan.com/p/fumie-chiba-trio-tip-of-dream)
+-   Chiba, Fumie (千葉史絵, piano, [_web_](https://fumiechiba.com)): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) · [_Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue) · [_Tip of Dream_](https://www.jazzofjapan.com/p/fumie-chiba-trio-tip-of-dream)
 -   Chiba, Hiroki (千葉広樹, bass, [_web_](https://linktr.ee/Hirokichiba)): [_Melancholy of a Journey_](https://www.jazzofjapan.com/p/koichi-sato-melancholy) · [_National Anthem of Unknown Country_](https://www.jazzofjapan.com/p/rabbitoo-national-anthem-of-unknown) · [_The Torch_](https://www.jazzofjapan.com/p/rabbitoo-the-torch)
 -   Chichibu, Eri (秩父英里, piano, [_web_](https://www.erichichibu.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
 -   Choulai, Aaron (piano, [_web_](https://aaronchoulai.bandcamp.com/)): [_Moving Color_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color)
@@ -503,7 +503,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Sunaga, Kazuhiro (須長和広, bass, [_web_](https://kazuhirosunaga.tumblr.com/)): [_Rin_](https://www.jazzofjapan.com/p/sohnosuke-imaizumi-rin)
 -   Suzuki, Hiroshi (鈴木広志, saxophone, [_web_](http://www.suzuki-hiroshi.com/)): [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
 -   Suzuki, Jiro (鈴木次郎, guitar): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
--   Suzuki, Kaoru (鈴木郁, drums): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
+-   Suzuki, Kaoru (鈴木郁, drums, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M4541)): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) · [_Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
 -   Suzuki, Takanori (鈴木孝紀, clarinet, [_web_](https://www.takanorisuzuki.net/)): [_Dot_](https://www.jazzofjapan.com/p/hitomi-nishiyama-dot) · [_Echo_](https://www.jazzofjapan.com/p/hitomi-nishiyama-echo)
 
 
@@ -541,7 +541,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Terakubo, Erena (寺久保エレナ, saxophone, [_web_](https://www.jamrice.co.jp/erena/)): [_My Soul Meeting_](https://www.jazzofjapan.com/p/motoi-kanamori-my-soul-meeting)
 -   Terao, Yosuke (寺尾陽介, bass, [_web_](https://teraomusic.wixsite.com/bass)): [_Awareness_](https://www.jazzofjapan.com/p/mariko-maeda-awareness)
 -   Teraya, Nao (寺屋ナオ, guitar, [_web_](http://www.naoteraya.com/)): [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) · [_Flowers On The Hill_](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue) · [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
--   Tetsui, Koji (鉄井孝司, bass, [_web_](https://www.instagram.com/koztet/)): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
+-   Tetsui, Koji (鉄井孝司, bass, [_web_](https://www.instagram.com/koztet/)): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue)
 -   Thormodsæter, Magne (bass, [_web_](https://en.wikipedia.org/wiki/Magne_Thormods%C3%A6ter)): [_Rainbow Tales_](https://www.jazzofjapan.com/p/ayumi-koketsu-rainbow-tales)
 -   Togashi, Makoto (冨樫マコト, bass, [_web_](https://ameblo.jp/togashibass/)): [_64 Charlesgate_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-64-charlesgate)
 -   Toho, Hikaru (東保光, bass, [_web_](https://pikasuke.exblog.jp/)): [_Sketches_](https://www.jazzofjapan.com/p/motohiko-ichino-sketches)
