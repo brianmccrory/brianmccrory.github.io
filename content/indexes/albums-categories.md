@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-11-09T10:36:17+09:00
+lastmod = 2025-11-15T10:48:43+09:00
 draft = false
 weight = 30
 +++
@@ -201,6 +201,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Memories](https://www.jazzofjapan.com/p/naoko-tanaka-trio-memories)_ by Naoko Tanaka Trio
 -   _[Memories of You](https://www.jazzofjapan.com/p/akane-matsumoto-memories-of-you)_ by Akane Matsumoto
 -   _[Music in You](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-music-in-you)_ by Hitomi Nishiyama Trio
+-   _[Nearly Dusk](https://www.jazzofjapan.com/p/the-third-tribe-nearly-dusk)_ by The Third Tribe
 -   _[New Departure](https://www.jazzofjapan.com/p/takayuki-yagi-new-departure)_ by Takayuki Yagi
 -   _[New Heritage of Real Heavy Metal](https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal)_ by NHORHM
 -   _[New Heritage of Real Heavy Metal -Extra Edition-](https://www.jazzofjapan.com/p/nhorhm-extra-edition)_ by NHORHM

@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-11-09T10:36:17+09:00
+lastmod = 2025-11-15T10:48:44+09:00
 draft = false
 weight = 20
 +++
@@ -182,7 +182,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Ikedo, Yuta (池戸祐太, guitar, [_web_](https://youtube.com/@yutaikedo)): [_Live at Virtuoso_](https://www.jazzofjapan.com/p/fe-live-at-virtuoso)
 -   Ikejiri, Hiroshi (池尻洋史, bass, [_web_](https://www.hiroshiikejiri.com/)): [_Cat’s Cradle_](https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle) · [_Metropolitan Oasis_](https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis) · [_Past Life_](https://www.jazzofjapan.com/p/bungalow-past-life) · [_Unseen Scenes_](https://www.jazzofjapan.com/p/bungalow-unseen-scenes) · [_Utopia_](https://www.jazzofjapan.com/p/koichi-sato-utopia) · [_You Already Know_](https://www.jazzofjapan.com/p/bungalow-you-already-know)
 -   Ikemoto, Shigetaka (池本茂貴, trombone, [_web_](https://shigetakaikemotoofficial.studio.site/)): [_Circles_](https://www.jazzofjapan.com/p/kunpei-nakabayashi-orchestra-circles)
--   Ikenaga, Kazumi (池長和美, drums, [_web_](http://www.graphic-art.com/ikenaga/)): [_Calling_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-calling) · [_Music in You_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-music-in-you) · [_Niwatazumi_](https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi) · [_NordNote_](https://www.jazzofjapan.com/p/kazumi-ikenaga-taihei-asakawa-nordnote) · [_Sympathy_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-sympathy)
+-   Ikenaga, Kazumi (池長和美, drums, [_web_](http://www.graphic-art.com/ikenaga/)): [_Calling_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-calling) · [_Music in You_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-music-in-you) · [_Nearly Dusk_](https://www.jazzofjapan.com/p/the-third-tribe-nearly-dusk) · [_Niwatazumi_](https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi) · [_NordNote_](https://www.jazzofjapan.com/p/kazumi-ikenaga-taihei-asakawa-nordnote) · [_Sympathy_](https://www.jazzofjapan.com/p/hitomi-nishiyama-trio-sympathy)
 -   Ikuta, Sachiko (生田さち子, piano, [_web_](https://ameblo.jp/sachiko3ikuta/)): [_Almost Like Being in Love_](https://www.jazzofjapan.com/p/azumi-almost-like-being-in-love) · [_Haru No Kaze_](https://www.jazzofjapan.com/p/sachiko-ikuta-trio-haru)
 -   Imaizumi, Masaaki (今泉正明, piano, [_web_](http://masaaki-imaizumi.music.coocan.jp/)): [_A Love Supreme_](https://www.jazzofjapan.com/p/noriko-satomi-a-love-supreme) · [_Project-N_](https://www.jazzofjapan.com/p/noriko-satomi-project-n)
 -   Imaizumi, Sohnosuke (今泉総之輔, drums, [_web_](http://www.imaizumisohnosuke.com/)): [_Beyond the Sea_](https://www.jazzofjapan.com/p/miyuki-moriya-beyond-the-sea) · [_Cat’s Cradle_](https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle) · [_Grown-up Christmas Gift_](https://www.jazzofjapan.com/p/sanae-ishikawa-grown-up-christmas) · [_Rin_](https://www.jazzofjapan.com/p/sohnosuke-imaizumi-rin) · [_Urban Clutter_](https://www.jazzofjapan.com/p/ami-fukui-trio-urban-clutter) · [_Virgo_](https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo)
@@ -267,6 +267,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Kobayashi, Ken (小林健, drums, [_web_](https://www.discogs.com/artist/4679945-Ken-Kobayashi-4)): [_Boundary_](https://www.jazzofjapan.com/p/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary)
 -   Kobayashi, Reikan (小林鈴勘, shakuhachi, [_web_](https://reikankobayashi.net/)): [_Fever_](https://www.jazzofjapan.com/p/trigraph-fever) · [_Gakudan Hitori_](https://www.jazzofjapan.com/p/reikan-kobayashi-gakudan-hitori)
 -   Kobayashi, Toyomi (小林豊美, flute, [_web_](https://toyomikobayashi.theblog.me/)): [_Flowers On The Hill_](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill) · [_Sumitty &amp; The Funfair_](https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair)
+-   Kobayashi, Yoko (小林洋子, piano, [_web_](https://www.piano-yokokobayashi-jazz.com/)): [_Nearly Dusk_](https://www.jazzofjapan.com/p/the-third-tribe-nearly-dusk)
 -   Kohno, Satoshi (鴻野暁司, bass): [_Colors_](https://www.jazzofjapan.com/p/sayaketts-colors)
 -   Kohno, Toshihiko (紅野智彦, piano, [_web_](https://www.ne.jp/asahi/beni/toshi/)): [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   Koike, Madoka (小池まどか, violin): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)

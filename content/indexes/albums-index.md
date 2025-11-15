@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-11-09T10:36:17+09:00
+lastmod = 2025-11-15T10:48:43+09:00
 draft = false
 weight = 10
 +++
@@ -116,6 +116,7 @@ _Index of albums featured on this site by release year._
 -   [_Inner Views_](https://www.jazzofjapan.com/p/yuka-yanagihara-trio-inner-views) by Yuka Yanagihara Trio
 -   [_Life Is Too Great_](https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great) by Sayaka Kishi Trio
 -   [_Long Way to Go_](https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go) by Kanoko Kitajima
+-   [_Nearly Dusk_](https://www.jazzofjapan.com/p/the-third-tribe-nearly-dusk) by The Third Tribe
 -   [_New Heritage of Real Heavy Metal -Extra Edition-_](https://www.jazzofjapan.com/p/nhorhm-extra-edition) by NHORHM
 -   [_Oh, Lady Be Good_](https://www.jazzofjapan.com/p/akane-matsumoto-oh-lady-be-good) by Akane Matsumoto
 -   [_Path of Hope_](https://www.jazzofjapan.com/p/minoru-yoshiki-soulstation-path-of-hope) by Minoru Yoshiki Soulstation
