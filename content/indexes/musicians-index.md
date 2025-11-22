@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-11-15T10:48:44+09:00
+lastmod = 2025-11-22T11:14:56+09:00
 draft = false
 weight = 20
 +++
@@ -291,7 +291,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Kumagai, Yasumasa (熊谷ヤスマサ, piano, [_web_](https://yasumasakumagai.com/)): [_I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too) · [_J-Straight Ahead_](https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead) · [_Last Resort_](https://www.jazzofjapan.com/p/yasumasa-kumagai-last-resort) · [_Ol’ School Jazz_](https://www.jazzofjapan.com/p/yasumasa-kumagai-ryu-kawamura-ol-school-jazz) · [_Pray_](https://www.jazzofjapan.com/p/yasumasa-kumagai-pray)
 -   Kunisada, Masako (国貞雅子, vocal, [_web_](https://machappa.wixsite.com/masakokunisada)): [_M_](https://www.jazzofjapan.com/p/masako-kunisada-m) · [_Wonderful Life_](https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life)
 -   Kuniwake, Koichi (国分航一, bass): [_Tip of Dream_](https://www.jazzofjapan.com/p/fumie-chiba-trio-tip-of-dream)
--   Kuribayashi, Sumire (栗林すみれ, piano, [_web_](https://sumirekuribayashi.tumblr.com/)): [_Nijuso_](https://www.jazzofjapan.com/p/hideaki-kanazawa-sumire-kuribayashi-nijuso) · [_The Square Pyramid_](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid) · [_Tides of Blue_](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue) · [_Toys_](https://www.jazzofjapan.com/p/sumire-kuribayashi-trio-toys)
+-   Kuribayashi, Sumire (栗林すみれ, piano, [_web_](https://sumirekuribayashi.tumblr.com/)): [_Decision_](https://www.jazzofjapan.com/p/sumireiko-decision) · [_Nijuso_](https://www.jazzofjapan.com/p/hideaki-kanazawa-sumire-kuribayashi-nijuso) · [_The Square Pyramid_](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid) · [_Tides of Blue_](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue) · [_Toys_](https://www.jazzofjapan.com/p/sumire-kuribayashi-trio-toys)
 -   Kurita, Taeko (栗田妙子, piano, [_web_](https://kuritataeko.jimdofree.com/)): [_Duo_](https://www.jazzofjapan.com/p/taeko-kurita-akira-sotoyama-duo) · [_Ko-tsu-ko-tsu_](https://www.jazzofjapan.com/p/taeko-kurita-ko-tsu-ko-tsu) · [_Song of Flower_](https://www.jazzofjapan.com/p/yuko-miyawaki-song-of-flower) · [_The Goat on a Peak_](https://www.jazzofjapan.com/p/ghost-peak-goat-on-a-peak)
 -   Kuroda, Kazuyoshi (黒田和良, drums): [_Big Catch_](https://www.jazzofjapan.com/p/hamasaki-matsumoto-bigcatch)
 -   Kuroda, Kiyotaka (黒田清高, drums): [_A Tempo_](https://www.jazzofjapan.com/p/meu-coracao-a-tempo)
@@ -599,7 +599,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Yamaguchi, Hiroyuki (山口裕之, bass, [_web_](https://www.hiroyukiyamaguchi.net/)): [_Mowna_](https://www.jazzofjapan.com/p/hiroyuki-yamaguchi-quintet-mowna)
 -   Yamaguchi, Mabumi (山口真文, saxophone, [_web_](https://mabumi.com/)): [_Appreciation_](https://www.jazzofjapan.com/p/naoko-tanaka-appreciation) · [_Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone) · [_Viento_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-viento)
 -   Yamamoto, Masahiro (山本昌広, saxophone, [_web_](https://momohiko61.exblog.jp/)): [_Metropolitan Oasis_](https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis) · [_Past Life_](https://www.jazzofjapan.com/p/bungalow-past-life)
--   Yamamoto, Reiko (山本玲子, vibraphone, [_web_](http://reikoyamamoto.net/)): [_El viento y las flores_](https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores) · [_The Square Pyramid_](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid)
+-   Yamamoto, Reiko (山本玲子, vibraphone, [_web_](http://reikoyamamoto.net/)): [_Decision_](https://www.jazzofjapan.com/p/sumireiko-decision) · [_El viento y las flores_](https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores) · [_The Square Pyramid_](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid)
 -   Yamamoto, Tsuyoshi (山本剛, piano, [_web_](https://www.tsuyoshi-yamamoto.com/)): [_Etrenne_](https://www.jazzofjapan.com/p/mie-joke-etrenne)
 -   Yamanaka, Chihiro (山中千尋, piano, [_web_](https://www.chihiroyamanaka.net/)): [_Abyss_](https://www.jazzofjapan.com/p/chihiro-yamanaka-abyss) · [_Lach Doch Mal_](https://www.jazzofjapan.com/p/chihiro-yamanaka-lach-doch-mal) · [_Living Without Friday_](https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-living-without-friday) · [_Madrigal_](https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-madrigal) · [_Outside by the Swing_](https://www.jazzofjapan.com/p/chihiro-yamanaka-outside-by-the-swing) · [_When October Goes_](https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-when-october)
 -   Yamano, Yukako (山野友佳子, piano, [_web_](https://yukakoyamano.com/)): [_1st Stage_](https://www.jazzofjapan.com/p/yukako-yamano-1st-stage) · [_3rd Stage_](https://www.jazzofjapan.com/p/yukako-yamano-3rd-stage) · [_Dubai Suite_](https://www.jazzofjapan.com/p/yukakoyamano-yukariinoue-dubai) · [_Imperial_](https://www.jazzofjapan.com/p/yukako-yamano-imperial)

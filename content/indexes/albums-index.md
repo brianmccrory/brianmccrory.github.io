@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-11-15T10:48:43+09:00
+lastmod = 2025-11-22T11:14:55+09:00
 draft = false
 weight = 10
 +++
@@ -97,6 +97,7 @@ _Index of albums featured on this site by release year._
 
 -   [_Abstract Messages_](https://www.jazzofjapan.com/p/bungalow-abstract-messages) by Bungalow
 -   [_Boa Viagem_](https://www.jazzofjapan.com/p/banda-feliz-boa-viagem) by Banda Feliz
+-   [_Decision_](https://www.jazzofjapan.com/p/sumireiko-decision) by Sumireiko
 -   [_Faces_](https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces) by Kaoru Azuma / Hitomi Nishiyama
 -   [_First Contact_](https://www.jazzofjapan.com/p/mase-hiroko-quintet-first-contact) by Mase Hiroko Quintet
 -   [_Introducin’_](https://www.jazzofjapan.com/p/fumika-asari-introducin) by Fumika Asari

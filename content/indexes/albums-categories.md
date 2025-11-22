@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-11-15T10:48:43+09:00
+lastmod = 2025-11-22T11:18:58+09:00
 draft = false
 weight = 30
 +++
@@ -107,6 +107,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 ## Vibraphone {#vibraphone}
 
 -   _[Cross Point](https://www.jazzofjapan.com/p/kaori-vibes-quartet-cross-point)_ by Kaori Vibes Quartet
+-   _[Decision](https://www.jazzofjapan.com/p/sumireiko-decision)_ by Sumireiko
 -   _[El viento y las flores](https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores)_ by Magnolia
 -   _[Flying Mind](https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind)_ by Kaori Vibes Quartet
 -   _[Here Goes!](https://www.jazzofjapan.com/p/fumiko-yamazaki-here-goes)_ by Fumiko Yamazaki

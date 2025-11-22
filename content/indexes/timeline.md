@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-11-15T10:48:44+09:00
+lastmod = 2025-11-22T11:14:56+09:00
 draft = false
 weight = 40
 +++
@@ -652,6 +652,7 @@ _Chronological sitemap with links to articles._
 -   [Hitomi Nishiyama: _Astrolabe_](https://www.jazzofjapan.com/p/hitomi-nishiyama-astrolabe) \*\*
 -   [Fumie Chiba Trio: _Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) \*\*
 -   [The Third Tribe: _Nearly Dusk_](https://www.jazzofjapan.com/p/the-third-tribe-nearly-dusk)
+-   [Sumireiko: _Decision_](https://www.jazzofjapan.com/p/sumireiko-decision)
 
 ---
 
