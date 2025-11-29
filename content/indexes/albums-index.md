@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-11-22T11:14:55+09:00
+lastmod = 2025-11-29T08:04:26-06:00
 draft = false
 weight = 10
 +++
@@ -325,6 +325,7 @@ _Index of albums featured on this site by release year._
 
 -   [_As We Breathe_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe) by Ryosuke Hashizume Group
 -   [_Encounter_](https://www.jazzofjapan.com/p/hideaki-hori-wataru-hamasaki-encounter) by Hideaki Hori &amp; Wataru Hamasaki
+-   [_Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york) by Kaoru Azuma
 -   [_Gallery_](https://www.jazzofjapan.com/p/yukiko-hayakawa-trio-gallery) by Yukiko Hayakawa Trio
 -   [_I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too) by Yasumasa Kumagai
 -   [_Routine Jazz Sextet_](https://www.jazzofjapan.com/p/routine-jazz-sextet-routine-jazz-sextet) by Routine Jazz Sextet

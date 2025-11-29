@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-11-22T11:14:56+09:00
+lastmod = 2025-11-29T08:04:26-06:00
 draft = false
 weight = 20
 +++
@@ -32,7 +32,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Asakawa, Taihei (浅川太平, piano, [_web_](https://taiheiasakawa.wixsite.com/piano)): [_As We Breathe_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe) · [_Bass on Cinema_](https://www.jazzofjapan.com/p/shinichi-kato-bass-on-cinema) · [_Catastrophe in Jazz_](https://www.jazzofjapan.com/p/taihei-asakawa-catastrophe-in-jazz) · [_NordNote_](https://www.jazzofjapan.com/p/kazumi-ikenaga-taihei-asakawa-nordnote) · [_Touch of Winter_](https://www.jazzofjapan.com/p/taihei-asakawa-trio-touch-of-winter) · [_Trios II_](https://www.jazzofjapan.com/p/daiki-yasukagawa-trio-trios-ii) · [_Waltz for Debby_](https://www.jazzofjapan.com/p/taihei-asakawa-waltz-for-debby)
 -   Asari, Fumika (浅利史花, guitar, [_web_](https://fumikaasari.com/)): [_Introducin’_](https://www.jazzofjapan.com/p/fumika-asari-introducin)
 -   Awaya, Takumi (粟谷巧, bass, [_web_](https://www.tunecore.co.jp/artists?id=447933&lang=en)): [_II_](https://www.jazzofjapan.com/p/nanami-haruta-ii) · [_The Duality of My Soul_](https://www.jazzofjapan.com/p/mayuko-katakura-duality-of-my-soul)
--   Azuma, Kaoru (東かおる, vocal, [_web_](https://kaoruazuma.com/)): [_Faces_](https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces)
+-   Azuma, Kaoru (東かおる, vocal, [_web_](https://kaoruazuma.com/)): [_Faces_](https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces) · [_Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)
 -   Azumi (あづみ, vocal, [_web_](https://ameblo.jp/azumi-aikawa/)): [_Almost Like Being in Love_](https://www.jazzofjapan.com/p/azumi-almost-like-being-in-love)
 
 <!--more-->
@@ -96,6 +96,7 @@ _Index of the musicians and the albums discussed on this site._
 
 -   Farinacci, Dominick (trumpet, [_web_](https://www.dominickfarinacci.com/)): [_Sara Smile_](https://www.jazzofjapan.com/p/hikari-ichihara-sara-smile)
 -   Farnsworth, Joe (drums, [_web_](https://www.joefarnsworthdrums.com/)): [_Playing New York_](https://www.jazzofjapan.com/p/akane-matsumoto-playing-new-york)
+-   Forest, Jesse (guitar, [_web_](https://jesseforestmusic.com/)): [_Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)
 -   Fujii, Manabu (藤井学, drums, [_web_](https://manabufujii.jp/)): [_1st Stage_](https://www.jazzofjapan.com/p/yukako-yamano-1st-stage) · [_Wonderful Life_](https://www.jazzofjapan.com/p/masako-kunisada-wonderful-life)
 -   Fujimoto, Kazuma (藤本一馬, guitar, [_web_](https://www.kazumafujimoto.com/)): [_Tides of Blue_](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue)
 -   Fujimura, Maki (藤村麻紀, vocal, [_web_](https://maki.tv/)): [_Best Wishes_](https://www.jazzofjapan.com/p/maki-fujimura-best-wishes) · [_Halo_](https://www.jazzofjapan.com/p/blue-dot-halo)
@@ -162,6 +163,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Hirayama, Orie (平山織絵, cello, [_web_](https://cellorincellorin.wixsite.com/mysite-1)): [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim)
 -   Hirose, Junji (広瀬潤次, drums, [_web_](https://hirolin.jimdofree.com/)): [_Encounter_](https://www.jazzofjapan.com/p/hideaki-hori-wataru-hamasaki-encounter) · [_Oh, Lady Be Good_](https://www.jazzofjapan.com/p/akane-matsumoto-oh-lady-be-good)
 -   Hirose, Miki (広瀬未来, trumpet, [_web_](https://mikimusic.exblog.jp/)): [_Circles_](https://www.jazzofjapan.com/p/kunpei-nakabayashi-orchestra-circles) · [_Folds_](https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds) · [_Last Resort_](https://www.jazzofjapan.com/p/yasumasa-kumagai-last-resort) · [_Scratch_](https://www.jazzofjapan.com/p/miki-hirose-scratch)
+-   Holober, Mike (piano, [_web_](https://www.mikeholober.com/)): [_Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)
 -   Holoubek, Marty (マーティ・ホロベック, bass, [_web_](https://www.martinholoubek.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
 -   Honda, Tamaya (本田珠也, drums, [_web_](http://tamayahonda.blogspot.com/)): [_Invisible_](https://www.jazzofjapan.com/p/junichiro-ohkuchi-trio-invisible) · [_The Light Flows In_](https://www.jazzofjapan.com/p/yuichiro-aratake-light-flows-in) · [_Viento_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-viento) · [_Virtual Silence_](https://www.jazzofjapan.com/p/chie-nishimura-virtual-silence)
 -   Honkawa, Yuhei (本川悠平, bass, [_web_](http://yuhei-ponkawajazz.cocolog-nifty.com/)): [_Amalthea_](https://www.jazzofjapan.com/p/tokuhiro-doi-quartet-amalthea) · [_Unconditional Love_](https://www.jazzofjapan.com/p/hideaki-hori-trio-unconditional-love)
@@ -346,6 +348,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Morita, Shuji (森田修史, saxophone, [_web_](https://shujimorita.official.jp/)): [_Path of Hope_](https://www.jazzofjapan.com/p/minoru-yoshiki-soulstation-path-of-hope)
 -   Morita, Yusuke (森田悠介, electric bass, [_web_](https://yusukemorita.net/)): [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
 -   Moriya, Miyuki (守谷美由貴, saxophone, [_web_](https://www.tunecore.co.jp/artists?id=841864)): [_Beyond the Sea_](https://www.jazzofjapan.com/p/miyuki-moriya-beyond-the-sea) · [_Cat’s Cradle_](https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle) · [_Uta Oto_](https://www.jazzofjapan.com/p/miyuki-moriya-uta-oto)
+-   Morse, Robinson (bass, [_web_](https://robinsonmorse.com/)): [_Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)
 -   Motooka, Kazuhide (元岡一英, piano, [_web_](https://www.discogs.com/artist/1652824-Kazuhide-Motooka)): [_Bass on Times_](https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times)
 
 
@@ -412,7 +415,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Omura, Morihiro (大村守弘, bass): [_Trispace_](https://www.jazzofjapan.com/p/trispace-trispace)
 -   Onuma, Yosuke (小沼ようすけ, guitar, [_web_](http://www.yosukeonuma.com/)): [_Aquapit_](https://www.jazzofjapan.com/p/aquapit-aquapit)
 -   Orihara, Ryoji (織原良次, fretless bass, [_web_](https://linktr.ee/ryojiorihara)): [_Acoustic Fluid_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic) · [_As We Breathe_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe) · [_Bonanza_](https://www.jazzofjapan.com/p/yudo-matsuo-bonanza) · [_Dois_](https://www.jazzofjapan.com/p/yuka-ueda-dois) · [_Fever_](https://www.jazzofjapan.com/p/trigraph-fever) · [_Incomplete Voices_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices) · [_Jabuticaba_](https://www.jazzofjapan.com/p/jabuticaba-jabuticaba) · [_Life Is Too Great_](https://www.jazzofjapan.com/p/sayaka-kishi-trio-life-is-too-great) · [_New Heritage of Real Heavy Metal_](https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal) · [_New Heritage of Real Heavy Metal -Extra Edition-_](https://www.jazzofjapan.com/p/nhorhm-extra-edition) · [_Side Two_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two) · [_Virgo_](https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo) · [_Virtual Silence_](https://www.jazzofjapan.com/p/chie-nishimura-virtual-silence) · [_VisibleInvisible_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-visible-invisible) · [_Wordless_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless)
--   Orlandi, Paolo (drums): [_We Don’t Know Yet_](https://www.jazzofjapan.com/p/hiromi-miura-we-dont-know-yet)
+-   Orlandi, Paolo (drums, [_web_](https://www.paoloorlandi.com/)): [_Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york) · [_We Don’t Know Yet_](https://www.jazzofjapan.com/p/hiromi-miura-we-dont-know-yet)
 -   Osaka, Masahiko (大坂昌彦, drums, [_web_](https://osaka-masahiko.com/)): [_A Love Supreme_](https://www.jazzofjapan.com/p/noriko-satomi-a-love-supreme) · [_J-Straight Ahead_](https://www.jazzofjapan.com/p/yasumasa-kumagai-j-straight-ahead) · [_Project-N_](https://www.jazzofjapan.com/p/noriko-satomi-project-n)
 -   Osamu, Koichi (納浩一, bass, [_web_](https://www.osamukoichi.net/)): [_1st Stage_](https://www.jazzofjapan.com/p/yukako-yamano-1st-stage)
 -   Osumi, Toshio (大隅寿男, drums): [_Etrenne_](https://www.jazzofjapan.com/p/mie-joke-etrenne)
@@ -434,6 +437,7 @@ _Index of the musicians and the albums discussed on this site._
 ## R {#r}
 
 -   Reeves, Nat (bass, [_web_](https://natreeves.com/)): [_Playing New York_](https://www.jazzofjapan.com/p/akane-matsumoto-playing-new-york)
+-   Reeves, Scott (trombone, [_web_](https://www.creativejazz.com/bio/)): [_Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)
 -   Richter, Gordon (clarinet): [_Abstract Messages_](https://www.jazzofjapan.com/p/bungalow-abstract-messages)
 -   Rikitake, Makoto (力武誠, drums, [_web_](https://makotorikitake.com/)): [_Halo_](https://www.jazzofjapan.com/p/blue-dot-halo)
 -   Rin, Heitetsu (リンヘイテツ, piano, [_web_](https://www.rinheitetsu.com/)): [_Small Pieces for Flying Padre_](https://www.jazzofjapan.com/p/trio-export-small-pieces-for-flying-padre) · [_Stolen Moments_](https://www.jazzofjapan.com/p/layla-tomomi-sakai-stolen-moments)

@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-11-22T11:14:56+09:00
+lastmod = 2025-11-29T08:04:27-06:00
 draft = false
 weight = 40
 +++
@@ -653,6 +653,7 @@ _Chronological sitemap with links to articles._
 -   [Fumie Chiba Trio: _Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) \*\*
 -   [The Third Tribe: _Nearly Dusk_](https://www.jazzofjapan.com/p/the-third-tribe-nearly-dusk)
 -   [Sumireiko: _Decision_](https://www.jazzofjapan.com/p/sumireiko-decision)
+-   [Kaoru Azuma: _Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)
 
 ---
 

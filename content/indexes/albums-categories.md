@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-11-22T11:18:58+09:00
+lastmod = 2025-11-29T08:04:26-06:00
 draft = false
 weight = 30
 +++
@@ -310,6 +310,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Feel Like Makin’ Love](https://www.jazzofjapan.com/p/sanae-ishikawa-feel-like-makin-love)_ by Sanae Ishikawa
 -   _[Fever](https://www.jazzofjapan.com/p/trigraph-fever)_ by Trigraph
 -   _[Flowers On The Hill](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill)_ by Akiko Suda
+-   _[Footprints in New York](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)_ by Kaoru Azuma
 -   _[Grown-up Christmas Gift](https://www.jazzofjapan.com/p/sanae-ishikawa-grown-up-christmas)_ by Sanae Ishikawa
 -   _[Hall Tone](https://www.jazzofjapan.com/p/meu-coracao-hall-tone)_ by Meu Coracao _(Brazilian/Latin jazz)_
 -   _[Happy Christmas with Bb](https://www.jazzofjapan.com/p/baby-brothers-happy-christmas-with-bb)_ by Baby Brothers
