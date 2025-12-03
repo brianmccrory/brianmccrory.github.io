@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-11-29T08:04:27-06:00
+lastmod = 2025-12-03T07:08:30-06:00
 draft = false
 weight = 40
 +++
@@ -654,6 +654,10 @@ _Chronological sitemap with links to articles._
 -   [The Third Tribe: _Nearly Dusk_](https://www.jazzofjapan.com/p/the-third-tribe-nearly-dusk)
 -   [Sumireiko: _Decision_](https://www.jazzofjapan.com/p/sumireiko-decision)
 -   [Kaoru Azuma: _Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)
+
+**December 2025**
+
+-   [Manhattan](https://www.jazzofjapan.com/p/manhattan) ~
 
 ---
 
