@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-12-03T07:08:30-06:00
+lastmod = 2025-12-06T08:15:55-06:00
 draft = false
 weight = 40
 +++
@@ -658,6 +658,7 @@ _Chronological sitemap with links to articles._
 **December 2025**
 
 -   [Manhattan](https://www.jazzofjapan.com/p/manhattan) ~
+-   [Toru Takahashi: _Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 
 ---
 

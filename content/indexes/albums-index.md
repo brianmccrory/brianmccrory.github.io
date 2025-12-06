@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-11-29T08:04:26-06:00
+lastmod = 2025-12-06T08:15:54-06:00
 draft = false
 weight = 10
 +++
@@ -87,6 +87,7 @@ _Index of albums featured on this site by release year._
 -   [_Piano Pieces Collection_](https://www.jazzofjapan.com/p/seiji-endo-piano-pieces-collection) by Seiji Endo
 -   [_Starry Nights_](https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights) by Kaori Vibes Quartet
 -   [_The Gift II_](https://www.jazzofjapan.com/p/rie-taguchi-the-gift-ii) by Rie Taguchi
+-   [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high) by Toru Takahashi
 -   [_Trees_](https://www.jazzofjapan.com/p/hiro-kimura-trees) by Hiro Kimura
 -   [_Urban Nocturne_](https://www.jazzofjapan.com/p/yuichi-narita-urban-nocturne) by Yuichi Narita
 -   [_Uta Oto_](https://www.jazzofjapan.com/p/miyuki-moriya-uta-oto) by Miyuki Moriya

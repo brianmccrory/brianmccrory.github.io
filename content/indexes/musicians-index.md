@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-11-29T08:04:26-06:00
+lastmod = 2025-12-06T08:15:55-06:00
 draft = false
 weight = 20
 +++
@@ -63,6 +63,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Chiba, Fumie (千葉史絵, piano, [_web_](https://fumiechiba.com)): [_Beautiful Days_](https://www.jazzofjapan.com/p/fumie-chiba-beautiful-days) · [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) · [_Echoes_](https://www.jazzofjapan.com/p/fumie-chiba-trio-echoes) · [_Rougequeue_](https://www.jazzofjapan.com/p/fumie-chiba-rougequeue) · [_Tip of Dream_](https://www.jazzofjapan.com/p/fumie-chiba-trio-tip-of-dream)
 -   Chiba, Hiroki (千葉広樹, bass, [_web_](https://linktr.ee/Hirokichiba)): [_Melancholy of a Journey_](https://www.jazzofjapan.com/p/koichi-sato-melancholy) · [_National Anthem of Unknown Country_](https://www.jazzofjapan.com/p/rabbitoo-national-anthem-of-unknown) · [_The Torch_](https://www.jazzofjapan.com/p/rabbitoo-the-torch)
 -   Chichibu, Eri (秩父英里, piano, [_web_](https://www.erichichibu.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
+-   Chigita, Yusuke (千北祐輔, bass, [_web_](https://yusukechigita.bandcamp.com/album/family-diary)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   Choulai, Aaron (piano, [_web_](https://aaronchoulai.bandcamp.com/)): [_Moving Color_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color)
 -   Clohesy, Matt (bass, [_web_](http://archive.soundamerican.org/sa_archive/sa18/matt-clohesy.html)): [_The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word)
 -   Cokky (コッキー, bass): [_A Tempo_](https://www.jazzofjapan.com/p/meu-coracao-a-tempo)
@@ -179,7 +180,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Ichihara, Hikari (市原ひかり, trumpet, [_web_](https://hikariichihara.com/)): [_Move On_](https://www.jazzofjapan.com/p/hikari-ichihara-group-move-on) · [_New Heritage of Real Heavy Metal_](https://www.jazzofjapan.com/p/nhorhm-new-heritage-of-real-heavy-metal) · [_Sara Smile_](https://www.jazzofjapan.com/p/hikari-ichihara-sara-smile) · [_Unity_](https://www.jazzofjapan.com/p/hikari-ichihara-group-unity)
 -   Ichikawa, Sora (市川空, piano, [_web_](https://chikainokotoba.wixsite.com/soraichikawa)): [_The Three Roses_](https://www.jazzofjapan.com/p/daiki-yasukagawa-new-trio-three-roses)
 -   Ichino, Motohiko (市野元彦, guitar, [_web_](https://motohikoichino.com/)): [_Acoustic Fluid_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-acoustic) · [_As We Breathe_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-as-we-breathe) · [_Embryo_](https://www.jazzofjapan.com/p/koichi-sato-embryo) · [_Faces_](https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces) · [_Frozen Dust_](https://www.jazzofjapan.com/p/takumi-seino-motohiko-ichino-frozen-dust) · [_Incomplete Voices_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-incomplete-voices) · [_Melancholy of a Journey_](https://www.jazzofjapan.com/p/koichi-sato-melancholy) · [_Melodies_](https://www.jazzofjapan.com/p/melodies-melodies) · [_National Anthem of Unknown Country_](https://www.jazzofjapan.com/p/rabbitoo-national-anthem-of-unknown) · [_Side Two_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-side-two) · [_Sketches_](https://www.jazzofjapan.com/p/motohiko-ichino-sketches) · [_The Torch_](https://www.jazzofjapan.com/p/rabbitoo-the-torch) · [_VisibleInvisible_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-visible-invisible) · [_Wordless_](https://www.jazzofjapan.com/p/ryosuke-hashizume-group-wordless)
--   Ikeda, Atsushi (池田篤, saxophone, [_web_](https://ameblo.jp/ats-music1963/)): [_You’ve Changed_](https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed)
+-   Ikeda, Atsushi (池田篤, saxophone, [_web_](https://ameblo.jp/ats-music1963/)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high) · [_You’ve Changed_](https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed)
 -   Ikeda, Masaaki (池田雅明, trombone, [_web_](http://www.masaikeda.com/)): [_Boa Viagem_](https://www.jazzofjapan.com/p/banda-feliz-boa-viagem)
 -   Ikedo, Yuta (池戸祐太, guitar, [_web_](https://youtube.com/@yutaikedo)): [_Live at Virtuoso_](https://www.jazzofjapan.com/p/fe-live-at-virtuoso)
 -   Ikejiri, Hiroshi (池尻洋史, bass, [_web_](https://www.hiroshiikejiri.com/)): [_Cat’s Cradle_](https://www.jazzofjapan.com/p/miyuki-moriya-cats-cradle) · [_Metropolitan Oasis_](https://www.jazzofjapan.com/p/bungalow-metropolitan-oasis) · [_Past Life_](https://www.jazzofjapan.com/p/bungalow-past-life) · [_Unseen Scenes_](https://www.jazzofjapan.com/p/bungalow-unseen-scenes) · [_Utopia_](https://www.jazzofjapan.com/p/koichi-sato-utopia) · [_You Already Know_](https://www.jazzofjapan.com/p/bungalow-you-already-know)
@@ -365,6 +366,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Nakajima, Kaori (中島香里, vibraphone, [_web_](https://qqvibnkaoripp.wixsite.com/jazz-vibist-kaori-na)): [_Cross Point_](https://www.jazzofjapan.com/p/kaori-vibes-quartet-cross-point) · [_Flying Mind_](https://www.jazzofjapan.com/p/kaori-vibes-quartet-flying-mind) · [_Starry Nights_](https://www.jazzofjapan.com/p/kaori-vibes-quartet-starry-nights)
 -   Nakamura, Kaito (中村海斗, drums, [_web_](https://www.instagram.com/kaito_nkmr_d/)): [_Afterglow_](https://www.jazzofjapan.com/p/mamoru-ishida-afterglow) · [_Invisible Diary_](https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary) · [_Isolated_](https://www.jazzofjapan.com/p/otohito-fuse-trio-isolated)
 -   Nakamura, Keisuke (中村恵介, trumpet, [_web_](https://blackdevil729.wixsite.com/keisuke-nakamura)): [_Bonanza_](https://www.jazzofjapan.com/p/yudo-matsuo-bonanza) · [_Humadope_](https://www.jazzofjapan.com/p/keisuke-nakamura-humadope) · [_Humadope 2_](https://www.jazzofjapan.com/p/keisuke-nakamura-humadope-2)
+-   Nakamura, Kengo (中村健吾, bass, [_web_](https://kengonakamura.com/)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   Nakamura, Yasushi (中村恭士, bass, [_web_](https://www.yasushinakamurabass.com/)): [_Inspiration_](https://www.jazzofjapan.com/p/mayuko-katakura-inspiration) · [_The Echoes of Three_](https://www.jazzofjapan.com/p/mayuko-katakura-echoes-of-three)
 -   Nakamure, Sadanori (中牟礼貞則, guitar, [_web_](http://www.aoki2.com/zest/zest.html)): [_Introducin’_](https://www.jazzofjapan.com/p/fumika-asari-introducin)
 -   Nakashima, Akiha (中島朱葉, saxophone, [_web_](https://ameblo.jp/akiha-nakashima/)): [_Trees_](https://www.jazzofjapan.com/p/hiro-kimura-trees)
@@ -407,6 +409,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Okabe, Yoichi (岡部洋一, percussion, [_web_](https://okabeyoichi.com/)): [_Owari to Hajimari_](https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari)
 -   Okada, Keita (岡田ケイタ, drums): [_Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta)
 -   Okada, Tsutomu (岡田勉, bass, [_web_](http://www.ben-okada.com/)): [_Major to Minor_](https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor)
+-   Okazaki, Masanori (岡崎正典, sax, [_web_](https://masanoriokazakisax.jimdofree.com/home/)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   Okazaki, Yoshiro (岡崎好朗, trumpet, [_web_](http://www.yoshirojazz.sakura.ne.jp/)): [_Appreciation_](https://www.jazzofjapan.com/p/naoko-tanaka-appreciation) · [_Bass on Times_](https://www.jazzofjapan.com/p/satoshi-kosugi-bass-on-times) · [_Memories_](https://www.jazzofjapan.com/p/naoko-tanaka-trio-memories)
 -   Okudaira, Shingo (奥平慎吾, drums, [_web_](http://www.pit-inn.com/okudaira/)): [_It’s Just Beginning_](https://www.jazzofjapan.com/p/fumio-karashima-trio-its-just-beginning)
 -   Okumura, Misato (奥村美里, piano): [_Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone)
@@ -464,6 +467,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Sakurai, Taishi (桜井大士, violin, [_web_](https://www.mori-music.com/elcielo2020/profile/#sakurai)): [_The Live_](https://www.jazzofjapan.com/p/motoi-kanamori-the-live)
 -   Sano, Mayumi (佐野まゆみ, cello, [_web_](http://sanomayumi.com/)): [_Asymmetry_](https://www.jazzofjapan.com/p/arco-asymmetry) · [_Birth_](https://www.jazzofjapan.com/p/arco-birth) · [_Featuring Te_](https://www.jazzofjapan.com/p/sayaka-kishi-featuring-te) · [_Live At Yoncha_](https://www.jazzofjapan.com/p/arco-live-at-yoncha)
 -   Sano, Satoshi (佐野聡, flute, [_web_](http://satoshi-sano.net/)): [_Primary_](https://www.jazzofjapan.com/p/nobie-primary)
+-   Sanyutei, Koyuza (三遊亭小遊三, trumpet, [_web_](https://ja.wikipedia.org/wiki/%E4%B8%89%E9%81%8A%E4%BA%AD%E5%B0%8F%E9%81%8A%E4%B8%89)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   Sasaki, Haruka (佐々木はるか, sax, [_web_](https://www.instagram.com/sasasakozy/)): [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality)
 -   Sasaki, Riko (佐々木梨子, alto saxophone, [_web_](https://www.instagram.com/riko__sasaki/)): [_Invisible Diary_](https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary)
 -   Sato, Junichi (佐藤潤一, bass, [_web_](https://www.instagram.com/jun3321mimi/)): [_Beyond the Sea_](https://www.jazzofjapan.com/p/miyuki-moriya-beyond-the-sea)
@@ -476,6 +480,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Sato, Yoshiaki (佐藤芳明, accordion, [_web_](https://accsssaaatttooo.wixsite.com/yyysssaaatttooo)): [_Un Jour_](https://www.jazzofjapan.com/p/clepsydra-un-jour)
 -   Sato, Yosuke (佐藤洋祐, sax, [_web_](https://yosukesato.sub.jp/)): [_Longing_](https://www.jazzofjapan.com/p/yosuke-sato-george-nakajima-longing)
 -   Satomi, Noriko (里見紀子, violin, [_web_](https://project-nori.wixsite.com/mysite)): [_A Love Supreme_](https://www.jazzofjapan.com/p/noriko-satomi-a-love-supreme) · [_Blossoms_](https://www.jazzofjapan.com/p/ruriko-kawamura-blossoms) · [_Project-N_](https://www.jazzofjapan.com/p/noriko-satomi-project-n) · [_The Gift_](https://www.jazzofjapan.com/p/rie-taguchi-gift) · [_The Gift II_](https://www.jazzofjapan.com/p/rie-taguchi-the-gift-ii)
+-   Satsuma, Jun (佐津間純, guitar, [_web_](https://junsatsuma.com/)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   Sawaki, Takenori (佐脇武則, saxophone): [_Shining Hour_](https://www.jazzofjapan.com/p/yako-horikita-shining-hour)
 -   Sayaka (Violin) (violin, [_web_](http://www.musica.sayaka-violin.com/)): [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
 -   Sci, LaFrae Olivia (drums): [_Living Without Friday_](https://www.jazzofjapan.com/p/chihiro-yamanaka-trio-living-without-friday)
@@ -494,6 +499,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Shioda, Norihide (塩田哲嗣, bass, [_web_](https://ameblo.jp/norishio88/)): [_Another Ordinary Day_](https://www.jazzofjapan.com/p/harumi-nomoto-trio-another-ordinary-day)
 -   Shirasa, Takefumi (白佐武史, cello, [_web_](https://www.shirasatakefumi.com/)): [_Music Make Us One_](https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one)
 -   Shoji, Yoshitaka (東海林由孝, guitar, [_web_](https://shoji-yoshitaka.blogspot.com/)): [_Let Your Mind Alone_](https://www.jazzofjapan.com/p/mabumi-yamaguchi-let-your-mind-alone)
+-   Shunputei, Shota (春風亭昇太, trombone, [_web_](https://shunputei-shota.com/)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   Soda, Osamu (祖田修, piano, [_web_](https://osoda.jimdofree.com/)): [_Path of Hope_](https://www.jazzofjapan.com/p/minoru-yoshiki-soulstation-path-of-hope)
 -   Sone, Mao (曽根麻央, trumpet, [_web_](https://www.maosone.com/)): [_Trees_](https://www.jazzofjapan.com/p/hiro-kimura-trees)
 -   Sotoyama, Akira (外山明, drums, [_web_](https://akirasotoyama.wixsite.com/officialwebsite)): [_Duo_](https://www.jazzofjapan.com/p/taeko-kurita-akira-sotoyama-duo) · [_Melodies_](https://www.jazzofjapan.com/p/melodies-melodies)
@@ -521,6 +527,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Tainaka, Fukushi (田井中福司, drums, [_web_](https://fukushitainaka.com/)): [_Long Way to Go_](https://www.jazzofjapan.com/p/kanoko-kitajima-long-way-to-go) · [_Skipping Down the Street_](https://www.jazzofjapan.com/p/seiji-harakawa-quartet-skipping-down)
 -   Taira, Ayako (平良亜矢子, vocal, [_web_](https://blog.goo.ne.jp/tairaayako)): [_Water Me!_](https://www.jazzofjapan.com/p/water-me-water-me)
 -   Takahashi, Riku (高橋陸, bass, [_web_](http://rikubass.com/)): [_Invisible Diary_](https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary) · [_Isolated_](https://www.jazzofjapan.com/p/otohito-fuse-trio-isolated)
+-   Takahashi, Toru (高橋徹, drums, [_web_](http://torutakahashi.com/)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   Takahashi, Yusei (高橋佑成, piano, [_web_](https://linktr.ee/yusei.takahashi.piano)): [_Progress_](https://www.jazzofjapan.com/p/setagaya-trio-progress)
 -   Takamichi, Haruhisa (高道晴久, bass): [_Routine Jazz Sextet_](https://www.jazzofjapan.com/p/routine-jazz-sextet-routine-jazz-sextet)
 -   Takase, Hiroshi (高瀬裕, bass, [_web_](http://www.takasehiroshi.com/)): [_Encounter_](https://www.jazzofjapan.com/p/hideaki-hori-wataru-hamasaki-encounter)
@@ -623,6 +630,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Yorozu, Yasutaka (萬恭隆, bass, [_web_](http://yasutakayorozu.blog.fc2.com/)): [_Needful Things_](https://www.jazzofjapan.com/p/ryosuke-hashizume-needful-things)
 -   Yoshiba, Issei (吉羽 一星, percussion, [_web_](https://www.instagram.com/issei_goza_timbal_yoshiba/)): [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been)
 -   Yoshida, Atsuki (吉田篤貴, violin, [_web_](https://atsuki-violin.com/)): [_Embryo_](https://www.jazzofjapan.com/p/koichi-sato-embryo)
+-   Yoshida, Keiichi (吉田桂一, piano, [_web_](https://ameblo.jp/pianok10823/)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   Yoshida, Satoshi (吉田サトシ, guitar, [_web_](https://www.satoshiguitar.com/)): [_Primary_](https://www.jazzofjapan.com/p/nobie-primary)
 -   Yoshida, Tetsuji (吉田哲治, trumpet, [_web_](https://yoshidamusic.amebaownd.com/)): [_Live at Knuttel House_](https://www.jazzofjapan.com/p/tetsuji-yoshida-and-mikiko-nagatake)
 -   Yoshida, Yutaka (吉田豊, bass, [_web_](https://yutakayoshidasho.wordpress.com/)): [_First Touch_](https://www.jazzofjapan.com/p/george-nakajima-trio-first-touch)

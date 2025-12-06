@@ -1,6 +1,6 @@
 +++
 title = "Categories"
-lastmod = 2025-11-29T08:04:26-06:00
+lastmod = 2025-12-06T08:15:54-06:00
 draft = false
 weight = 30
 +++
@@ -282,6 +282,7 @@ _Index of albums featured on this site by category. Categories are based on the 
 -   _[Rin](https://www.jazzofjapan.com/p/sohnosuke-imaizumi-rin)_ by Sohnosuke Imaizumi
 -   _[Routine Jazz Sextet](https://www.jazzofjapan.com/p/routine-jazz-sextet-routine-jazz-sextet)_ by Routine Jazz Sextet
 -   _[Sumitty &amp; The Funfair](https://www.jazzofjapan.com/p/sumito-oi-sumitty-and-the-funfair)_ by Sumito Oi
+-   _[Tokyo Groovin’ High!](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)_ by Toru Takahashi
 -   _[Trees](https://www.jazzofjapan.com/p/hiro-kimura-trees)_ by Hiro Kimura
 -   _[You’ve Changed](https://www.jazzofjapan.com/p/hara-dairiki-trio-youve-changed)_ by Hara Dairiki Trio
 
