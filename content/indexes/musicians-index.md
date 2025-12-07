@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-lastmod = 2025-12-06T08:15:55-06:00
+lastmod = 2025-12-07T12:31:19-06:00
 draft = false
 weight = 20
 +++
@@ -507,7 +507,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Suda, Akiko (須田晶子, vocal, [_web_](https://akikosuda.wixsite.com/akikosuda)): [_Flowers On The Hill_](https://www.jazzofjapan.com/p/akiko-suda-flowers-on-the-hill) · [_New Journey_](https://www.jazzofjapan.com/p/ami-fukui-trio-new-journey)
 -   Suga, Dairo (スガダイロー, piano, [_web_](https://sugadairo.blogspot.com/)): [_Phase 2_](https://www.jazzofjapan.com/p/emiko-voice-x-suga-dairo-phase-2)
 -   Sugawa, Takashi (須川崇志, bass, [_web_](https://www.tsgw.net/)): [_Moving Color_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-moving-color) · [_Oxymoron_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-takashi-sugawa-oxymoron) · [_Tides of Blue_](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue)
--   Sugawara, Maiko (菅原牧子, violin): [_Virgo_](https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo)
+-   Sugawara, Makiko (菅原牧子, violin): [_Virgo_](https://www.jazzofjapan.com/p/harumi-nomoto-trio-virgo)
 -   Sugimoto, Masanori (杉本匡教, saxophone): [_Halo_](https://www.jazzofjapan.com/p/blue-dot-halo)
 -   Sugimoto, Tomokazu (杉本智和, bass, [_web_](http://bassist.s7.xrea.com/p/index.htm)): [_Mawsim_](https://www.jazzofjapan.com/p/nami-kano-mawsim)
 -   Sukegawa, Taro (助川太郎, guitar, [_web_](http://www.tarosukegawa.jp/)): [_A Tempo_](https://www.jazzofjapan.com/p/meu-coracao-a-tempo) · [_Hall Tone_](https://www.jazzofjapan.com/p/meu-coracao-hall-tone)
