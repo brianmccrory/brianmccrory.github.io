@@ -9,7 +9,6 @@ This annex contains supplemental information for [Jazz of Japan](https://www.jaz
 
 - [Albums](/indexes/albums-index)
 - [Musicians](/indexes/musicians-index)
-- [Categories](/indexes/albums-categories)
 - [Timeline](/indexes/timeline)
 - [Audio Mixes](/audio-mixes/)
 
