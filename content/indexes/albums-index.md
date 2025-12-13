@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-12-06T08:15:54-06:00
+lastmod = 2025-12-13T06:50:15-06:00
 draft = false
 weight = 10
 +++
@@ -127,6 +127,7 @@ _Index of albums featured on this site by release year._
 -   [_Small Pieces for Flying Padre_](https://www.jazzofjapan.com/p/trio-export-small-pieces-for-flying-padre) by Trio Export 63.1.0.X
 -   [_Stolen Moments_](https://www.jazzofjapan.com/p/layla-tomomi-sakai-stolen-moments) by Layla Tomomi Sakai
 -   [_The Square Pyramid_](https://www.jazzofjapan.com/p/reiko-yamamoto-square-pyramid) by Reiko Yamamoto
+-   [_The Tree of Life_](https://www.jazzofjapan.com/p/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life) by Daiki Yasukagawa / Hitomi Nishiyama / Maiko
 -   [_Where Have U Been?_](https://www.jazzofjapan.com/p/erisa-ogawa-where-have-u-been) by Erisa Ogawa
 
 

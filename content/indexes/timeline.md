@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-lastmod = 2025-12-06T08:15:55-06:00
+lastmod = 2025-12-13T06:50:17-06:00
 draft = false
 weight = 40
 +++
@@ -659,6 +659,7 @@ _Chronological sitemap with links to articles._
 
 -   [Manhattan](https://www.jazzofjapan.com/p/manhattan) ~
 -   [Toru Takahashi: _Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
+-   [Daiki Yasukagawa / Hitomi Nishiyama / Maiko: _The Tree of Life_](https://www.jazzofjapan.com/p/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life)
 
 ---
 
