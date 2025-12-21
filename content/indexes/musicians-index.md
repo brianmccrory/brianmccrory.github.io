@@ -1,6 +1,5 @@
 +++
 title = "Musicians"
-lastmod = 2025-12-20T20:47:00-06:00
 draft = false
 weight = 20
 +++
