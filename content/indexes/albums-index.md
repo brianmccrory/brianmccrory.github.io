@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-lastmod = 2025-12-13T06:50:15-06:00
+lastmod = 2025-12-20T20:46:59-06:00
 draft = false
 weight = 10
 +++
@@ -46,6 +46,7 @@ _Index of albums featured on this site by release year._
 -   [_Dot_](https://www.jazzofjapan.com/p/hitomi-nishiyama-dot) by Hitomi Nishiyama
 -   [_Folds_](https://www.jazzofjapan.com/p/hiro-kimura-quintet-folds) by Hiro Kimura Quintet
 -   [_For My Lady_](https://www.jazzofjapan.com/p/akane-matsumoto-nanami-haruta-for) by Akane Matsumoto &amp; Nanami Haruta
+-   [_I’ll Be Home for Christmas_](https://www.jazzofjapan.com/p/harumi-nomoto-ill-be-home-for-christmas) by Harumi Nomoto
 -   [_Longing_](https://www.jazzofjapan.com/p/yosuke-sato-george-nakajima-longing) by Yosuke Sato &amp; George Nakajima
 -   [_MCY_](https://www.jazzofjapan.com/p/ami-fukui-trio-mcy) by Ami Fukui Trio
 -   [_Owari to Hajimari_](https://www.jazzofjapan.com/p/nobie-takayoshi-baba-owari-to-hajimari) by Nobie &amp; Takayoshi Baba
