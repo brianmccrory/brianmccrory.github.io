@@ -660,6 +660,7 @@ _Chronological sitemap with links to articles._
 -   [Toru Takahashi: _Tokyo Groovin’ High!_](https://www.jazzofjapan.com/p/toru-takahashi-tokyo-groovin-high)
 -   [Daiki Yasukagawa / Hitomi Nishiyama / Maiko: _The Tree of Life_](https://www.jazzofjapan.com/p/daiki-yasukagawa-hitomi-nishiyama-maiko-tree-of-life)
 -   [Harumi Nomoto: _I’ll Be Home for Christmas_](https://www.jazzofjapan.com/p/harumi-nomoto-ill-be-home-for-christmas)
+-   [Cafe Cotton Club](https://www.jazzofjapan.com/p/cafe-cotton-club) ~
 
 ---
 
