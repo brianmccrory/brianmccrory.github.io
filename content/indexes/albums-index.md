@@ -59,6 +59,7 @@ _Index of albums featured on this site by release year._
 
 -   [_64 Charlesgate_](https://www.jazzofjapan.com/p/akihiro-yoshimoto-quartet-64-charlesgate) by Akihiro Yoshimoto Quartet
 -   [_Appreciation_](https://www.jazzofjapan.com/p/naoko-tanaka-appreciation) by Naoko Tanaka
+-   [_Breathe Beneath the Sun_](https://www.jazzofjapan.com/p/mikiko-nagatake-trio-breathe-beneath-the-sun) by Mikiko Nagatake Trio
 -   [_Canvas_](https://www.jazzofjapan.com/p/fnk-canvas) by FNK
 -   [_Crossing Reality_](https://www.jazzofjapan.com/p/eri-chichibu-crossing-reality) by Eri Chichibu
 -   [_Duo_](https://www.jazzofjapan.com/p/shinpei-ruike-george-nakajima-duo) by Shinpei Ruike &amp; George Nakajima

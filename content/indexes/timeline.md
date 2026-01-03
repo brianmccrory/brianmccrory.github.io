@@ -662,6 +662,10 @@ _Chronological sitemap with links to articles._
 -   [Harumi Nomoto: _I’ll Be Home for Christmas_](https://www.jazzofjapan.com/p/harumi-nomoto-ill-be-home-for-christmas)
 -   [Cafe Cotton Club](https://www.jazzofjapan.com/p/cafe-cotton-club) ~
 
+**January 2026**
+
+-   [Mikiko Nagatake Trio: _Breathe Beneath the Sun_](https://www.jazzofjapan.com/p/mikiko-nagatake-trio-breathe-beneath-the-sun)
+
 ---
 
 ```text
