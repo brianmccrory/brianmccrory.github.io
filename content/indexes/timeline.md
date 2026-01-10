@@ -7,6 +7,7 @@ weight = 40
 _Chronological sitemap with links to articles._
 
 **January 2018**
+_Phase 1: “J Jazz: Modern Jazz From Japan” (WordPress, 2018/1-2021/5)_
 
 -   [Kazumi Ikenaga: _Niwatazumi_](https://www.jazzofjapan.com/p/kazumi-ikenaga-niwatazumi) \*
 -   [Akane Matsumoto: _Night &amp; Day_](https://www.jazzofjapan.com/p/akane-matsumoto-night-and-day)
@@ -252,6 +253,7 @@ _Chronological sitemap with links to articles._
 -   [Yukiko Hayakawa Trio: _Gallery_](https://www.jazzofjapan.com/p/yukiko-hayakawa-trio-gallery)
 
 **May 2021**
+_Phase 2: “J Jazz Substack” (Substack, 2021/5-2022/1)_
 
 -   [Yoshihito “P” Koizumi P-Project: _By Coincidence_](https://www.jazzofjapan.com/p/yoshihito-p-koizumi-by-coincidence)
 -   [Naoko Sakata Trio: _Flower Clouds_](https://www.jazzofjapan.com/p/naoko-sakata-trio-flower-clouds)
@@ -282,6 +284,7 @@ _Chronological sitemap with links to articles._
 -   [Ami Fukui Trio: _Urban Clutter_](https://www.jazzofjapan.com/p/ami-fukui-trio-urban-clutter)
 
 **January 2022**
+_Phase 3: “Jazz of Japan” (GitHub, 2022/1-2023/5)_
 
 -   [Yukako Yamano &amp; Yukari Inoue: _Dubai Suite_](https://www.jazzofjapan.com/p/yukakoyamano-yukariinoue-dubai)
 
@@ -367,6 +370,7 @@ _Chronological sitemap with links to articles._
 -   Sawa Shiraishi: _Tea for Two_ †
 
 **May 2023**
+_Phase 4: “Jazz of Japan” (Substack, 2023/5-)_
 
 -   [Introduction to Jazz of Japan](https://www.jazzofjapan.com/p/introduction-to-jazz-of-japan) ^
 -   [Yoyogi Naru](https://www.jazzofjapan.com/p/yoyogi-naru) ~
@@ -665,6 +669,7 @@ _Chronological sitemap with links to articles._
 **January 2026**
 
 -   [Mikiko Nagatake Trio: _Breathe Beneath the Sun_](https://www.jazzofjapan.com/p/mikiko-nagatake-trio-breathe-beneath-the-sun)
+-   [Hiroshi Fukutomi Quintet: _Rings of Saturn_](https://www.jazzofjapan.com/p/hiroshi-fukutomi-quintet-rings-of-saturn)
 
 ---
 

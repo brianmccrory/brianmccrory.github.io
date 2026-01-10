@@ -302,6 +302,7 @@ _Index of albums featured on this site by release year._
 -   [_Music Make Us One_](https://www.jazzofjapan.com/p/yuichiro-aratake-music-make-us-one) by Yuichiro Aratake
 -   [_Playing New York_](https://www.jazzofjapan.com/p/akane-matsumoto-playing-new-york) by Akane Matsumoto
 -   [_Pray_](https://www.jazzofjapan.com/p/yasumasa-kumagai-pray) by Yasumasa Kumagai
+-   [_Rings of Saturn_](https://www.jazzofjapan.com/p/hiroshi-fukutomi-quintet-rings-of-saturn) by Hiroshi Fukutomi Quintet
 -   [_Sora_](https://www.jazzofjapan.com/p/eriko-shimizu-sora) by Eriko Shimizu
 -   [_Trispace_](https://www.jazzofjapan.com/p/trispace-trispace) by Trispace
 -   [_Urban Clutter_](https://www.jazzofjapan.com/p/ami-fukui-trio-urban-clutter) by Ami Fukui Trio
