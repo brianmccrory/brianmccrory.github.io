@@ -1,0 +1,80 @@
+baseURL = 'https://docs.jazzofjapan.com'
+languageCode = 'en-us'
+title = 'Jazz of Japan Docs'
+#theme = 'ananke'
+#mainSections = ["posts"]
+
+theme = 'hugo-book' # https://github.com/alex-shpak/hugo-book
+enableGitInfo = false
+copyright = '© Brian McCrory'
+
+[params]
+  author = 'Brian McCrory'
+  recent_posts_number = 6
+  BookSection = '*'
+  BookLogo = 'favicon-32x32.png'
+ 
+  
+[pagination]
+  pagerSize = 6
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[menus]
+
+# for hugo-book:
+[[menu.after]]
+  name = 'About'
+  url = 'https://www.jazzofjapan.com/archive/about'
+  weight = 201
+  bookFlatSection = true
+  
+[[menu.after]]
+  name = 'Jazz of Japan'
+  url = 'https://www.jazzofjapan.com/'
+  weight = 202
+  bookFlatSection = true
+  
+
+# for ananke:
+  # [[menus.main]]
+  #   name = 'Albums Index'
+  #   pageRef = 'resources/albums-index'
+  #   weight = 30
+  # [[menus.main]]
+  #   name = 'Musicians Index'
+  #   pageRef = 'resources/musicians-index'
+  #   weight = 40
+  # [[menus.main]]
+  #   name = 'Timeline'
+  #   pageRef = 'resources/timeline'
+  #   weight = 50
+  # [[menus.main]]
+  #   name = 'Indexes'
+  #   pageRef = 'indexes/'
+  #   weight = 55
+  # [[menus.main]]
+  #   name = 'Posts'
+  #   pageRef = 'posts/'
+  #   weight = 45
+  # # [[menus.main]]
+  # #   name = 'Audio Mixes'
+  # #   pageRef = 'audio-mixes/'
+  # #   weight = 60
+  # [[menus.main]]
+  #   name = 'Jazz of Japan'
+  #   url = 'https://www.jazzofjapan.com/'
+  #   weight = 70
+
+#baseURL = "http://localhost:1313/"
+
+[build]
+  writeStats = true
+  uglyUrls = true  # filename.html instead of filename/index.html
+  disableKinds = ["page", "taxonomy", "taxonomyTerm", "RSS"]
+
