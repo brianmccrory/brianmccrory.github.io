@@ -1,0 +1,44 @@
+baseURL = 'https://www.jazzofjapan.com'
+languageCode = 'en-us'
+title = 'Jazz of Japan Docs'
+theme = 'ananke'
+mainSections = ["posts"]
+
+[params]
+  author = 'Brian McCrory'
+
+[pagination]
+  pagerSize = 6
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[menus]
+  # [[menus.main]]
+  #   name = 'Albums Index'
+  #   pageRef = 'resources/albums-index'
+  #   weight = 30
+  # [[menus.main]]
+  #   name = 'Musicians Index'
+  #   pageRef = 'resources/musicians-index'
+  #   weight = 40
+  # [[menus.main]]
+  #   name = 'Timeline'
+  #   pageRef = 'resources/timeline'
+  #   weight = 50
+  [[menus.main]]
+    name = 'Indexes'
+    pageRef = 'indexes/'
+    weight = 55
+  [[menus.main]]
+    name = 'Audio Mixes'
+    pageRef = 'audio-mixes/'
+    weight = 60
+  [[menus.main]]
+    name = 'Jazz of Japan'
+    url = 'https://www.jazzofjapan.com/'
+    weight = 70
