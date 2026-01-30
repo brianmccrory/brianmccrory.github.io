@@ -10,6 +10,4 @@ This is a companion to [Jazz of Japan](https://www.jazzofjapan.com/) with automa
 - [Albums](/indexes/albums-index)
 - [Musicians](/indexes/musicians-index)
 - [Timeline](/indexes/timeline)
-- Audio Mixes *(currently offline*)
-  - Audio Mixes #1-23 undergoing maintenence
-  - [Audio Mixes (alternate) on Mixcloud](https://www.mixcloud.com/jazzofjapan/)
+- [Audio Mixes (Mixcloud)](https://www.mixcloud.com/jazzofjapan/)
