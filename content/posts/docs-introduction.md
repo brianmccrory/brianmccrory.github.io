@@ -10,5 +10,3 @@ This is a companion to [Jazz of Japan](https://www.jazzofjapan.com/) with automa
 - [Albums](/indexes/albums-index)
 - [Musicians](/indexes/musicians-index)
 - [Timeline](/indexes/timeline)
-- [Audio Mixes](/indexes/audio-mixes)
-  - [Audio Mixes (Mixcloud direct link)](https://www.mixcloud.com/jazzofjapan/)
