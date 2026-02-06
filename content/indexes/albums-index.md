@@ -13,6 +13,7 @@ _Index of albums featured on this site by release year._
 -   [_Enyana_](https://www.jazzofjapan.com/p/emiko-voice-yuka-yanagihara-enyana) by Emiko Voice &amp; Yuka Yanagihara
 -   [_Invisible Diary_](https://www.jazzofjapan.com/p/kaito-nakamura-invisible-diary) by Kaito Nakamura
 -   [_Melodies_](https://www.jazzofjapan.com/p/melodies-melodies) by Melodies
+-   [_Orbital Resonance_](https://www.jazzofjapan.com/p/sumire-kuribayashi-orbital-resonance) by Sumire Kuribayashi
 -   [_The Duality of My Soul_](https://www.jazzofjapan.com/p/mayuko-katakura-duality-of-my-soul) by Mayuko Katakura
 -   [_The Word_](https://www.jazzofjapan.com/p/davy-mooney-ko-omura-the-word) by Davy Mooney &amp; Ko Omura
 -   [_Tides of Blue_](https://www.jazzofjapan.com/p/sumire-kuribayashi-kazuma-fujimoto-takashi-sugawa-tides-of-blue) by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa
