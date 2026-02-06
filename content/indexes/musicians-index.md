@@ -1,5 +1,6 @@
 +++
 title = "Musicians"
+date = 2026-02-06T13:09:00-08:00
 draft = false
 weight = 20
 +++
@@ -14,6 +15,9 @@ _Index of the musicians and the albums discussed on this site._
 -   Abe, Toshiki (阿部俊貴, saxophone, [_web_](https://www.toshikiabesax.com/)): [_The Simplicity_](https://www.jazzofjapan.com/p/toshiki-abe-life-memory-project-simplicity)
 -   Afra (あふら, human beatbox, [_web_](http://afra.jp/)): [_I Need a Change, Too_](https://www.jazzofjapan.com/p/yasumasa-kumagai-i-need-a-change-too)
 -   Aida, Momoko (会田桃子, violin, [_web_](https://www.instagram.com/aidamomoko/)): [_Carta_](https://www.jazzofjapan.com/p/emiko-voice-carta)
+
+<!--more-->
+
 -   Aikawa, Hitomi (相川瞳, percussion, [_web_](https://www.hitomiaikawa.com/)): [_El viento y las flores_](https://www.jazzofjapan.com/p/magnolia-el-viento-y-las-flores) · [_Sweet_](https://www.jazzofjapan.com/p/hitomi-aikawa-sweet)
 -   Akimoto, Naoko (秋元直子, vocal, [_web_](https://naokojazz.com)): [_No One Else_](https://www.jazzofjapan.com/p/naoko-akimoto-no-one-else)
 -   Akiyama, Kazumasa (秋山一将, guitar, [_web_](http://www7a.biglobe.ne.jp/~encore/akiyama/)): [_Major to Minor_](https://www.jazzofjapan.com/p/kohsuke-mine-quintet-major-to-minor)
@@ -34,8 +38,6 @@ _Index of the musicians and the albums discussed on this site._
 -   Awaya, Takumi (粟谷巧, bass, [_web_](https://www.tunecore.co.jp/artists?id=447933&lang=en)): [_II_](https://www.jazzofjapan.com/p/nanami-haruta-ii) · [_The Duality of My Soul_](https://www.jazzofjapan.com/p/mayuko-katakura-duality-of-my-soul)
 -   Azuma, Kaoru (東かおる, vocal, [_web_](https://kaoruazuma.com/)): [_Faces_](https://www.jazzofjapan.com/p/kaoru-azuma-hitomi-nishiyama-faces) · [_Footprints in New York_](https://www.jazzofjapan.com/p/kaoru-azuma-footprints-in-new-york)
 -   Azumi (あづみ, vocal, [_web_](https://ameblo.jp/azumi-aikawa/)): [_Almost Like Being in Love_](https://www.jazzofjapan.com/p/azumi-almost-like-being-in-love)
-
-<!--more-->
 
 
 ## B {#b}

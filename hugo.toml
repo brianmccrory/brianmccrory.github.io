@@ -6,6 +6,7 @@ mainSections = ["posts"]
 
 [params]
   author = 'Brian McCrory'
+  recent_posts_number = 6
 
 [pagination]
   pagerSize = 6
@@ -34,6 +35,10 @@ mainSections = ["posts"]
     name = 'Indexes'
     pageRef = 'indexes/'
     weight = 55
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = 'posts/'
+    weight = 45
   # [[menus.main]]
   #   name = 'Audio Mixes'
   #   pageRef = 'audio-mixes/'
