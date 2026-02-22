@@ -1,7 +1,7 @@
 +++
 date = '2025-09-10T06:39:52-07:00'
 draft = false
-title = 'Introduction'
+title = 'Jazz of Japan Docs'
 weight = 1 # pinned
 +++
 
