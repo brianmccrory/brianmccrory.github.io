@@ -1,9 +1,9 @@
-+++
-date = '2025-09-10T06:39:52-07:00'
-draft = false
-title = 'Jazz of Japan Docs'
-weight = 1 # pinned
-+++
+---
+date: '2025-09-10T06:39:52-07:00'
+draft: false
+title: 'Jazz of Japan Docs'
+weight: 1
+---
 
 _This is a companion to [Jazz of Japan](https://www.jazzofjapan.com/) with automatically updated indexes._
 

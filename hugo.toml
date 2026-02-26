@@ -6,15 +6,19 @@ title = 'Jazz of Japan Docs'
 
 theme = 'hugo-book' # https://github.com/alex-shpak/hugo-book
 enableGitInfo = false
-copyright = '© Brian McCrory'
+copyright = '© Brian McCrory <a href="https://www.jazzofjapan.com">Jazz of Japan</a>'
+
+[author]
+  name = 'Brian McCrory'
+  homepage = "https://www.jazzofjapan.com"
 
 [params]
   author = 'Brian McCrory'
+  homepage = "https://www.jazzofjapan.com"
   recent_posts_number = 6
   BookSection = '*'
   BookLogo = 'favicon-32x32.png'
- 
-  
+
 [pagination]
   pagerSize = 6
 
@@ -26,20 +30,12 @@ copyright = '© Brian McCrory'
     dir = ':cacheDir/images'
 
 [menus]
-
-# for hugo-book:
-[[menu.after]]
-  name = 'About'
-  url = 'https://www.jazzofjapan.com/archive/about'
-  weight = 201
-  bookFlatSection = true
   
 [[menu.after]]
   name = 'Jazz of Japan'
   url = 'https://www.jazzofjapan.com/'
-  weight = 202
+  weight = 1
   bookFlatSection = true
-  
 
 # for ananke:
   # [[menus.main]]
