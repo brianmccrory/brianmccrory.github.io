@@ -1,6 +1,6 @@
 +++
 title = "Mix #13"
-date = 2026-02-19T00:00:00-08:00
+date = 2026-02-28T00:00:00-08:00
 draft = false
 weight = 88
 +++
@@ -29,7 +29,7 @@ _Mix #13_
 -   “The Duality Of My Soul” by Mayuko Katakura - 0:38:07
 -   “Conversation and Confession” by Melodies - 0:41:15
 -   “Hand Of Time” by Taeko Kurita &amp; Akira Sotoyama - 0:44:23
--   “北に生まれ” by Taeko Kurita - 0:47:31
+-   “北に生まれ (**born in the north**)” by Taeko Kurita - 0:47:31
 -   “Vocalise” by Koto ha, To - 0:50:39
 -   “Upper Levels” by NHORHM - 0:53:47
 -   “Full House” by Yuji Ito &amp; Koichi Hirata Duo - 0:56:55

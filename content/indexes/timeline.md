@@ -1,11 +1,15 @@
 +++
 title = "Publish History Timeline"
-date = 2026-02-22T00:00:00-08:00
+date = 2026-03-01T00:00:00-08:00
 draft = false
 weight = 60
 +++
 
 _Chronological sitemap with links to articles._
+
+**March 2026**
+
+-   [Yukari Sekiya Trio with Yuko Tanaka: _It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/)
 
 **February 2026**
 
@@ -617,7 +621,6 @@ KEY:
     Albums
  ~  Clubs and venues
  ^  Guides
- †  Previews
- *  Article revised (original date)
+ *  Article revised
  ** Article revised (updated date)
 ```

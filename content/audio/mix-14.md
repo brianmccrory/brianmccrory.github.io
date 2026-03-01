@@ -1,6 +1,6 @@
 +++
 title = "Mix #14"
-date = 2026-02-19T00:00:00-08:00
+date = 2026-02-28T00:00:00-08:00
 draft = false
 weight = 87
 +++
@@ -17,9 +17,9 @@ _Mix #14_
 -   “Sign” by Ryosuke Hashizume Group - 0:00:00
 -   “Take Me in Your Arms” by Chihiro Yamanaka - 0:03:08
 -   “The Ways To Come Back Home Again” by Sumire Kuribayashi / Kazuma Fujimoto / Takashi Sugawa - 0:06:16
--   “Hill Road-坂道-” by Takako Yamada Trio - 0:09:24
+-   “Hill Road-坂道- (**Hill Road-Sakamichi-**)” by Takako Yamada Trio - 0:09:24
 -   “For George” by Hiroyuki Yamaguchi Quintet - 0:12:32
--   “砂” by Hitomi Aikawa - 0:15:40
+-   “砂 (**sand**)” by Hitomi Aikawa - 0:15:40
 -   “Caravan” by Toshiki Abe Life Memory Project - 0:16:02
 -   “Groove for Clyde” by Davy Mooney &amp; Ko Omura - 0:19:10
 -   “Frontier” by Hitomi Nishiyama - 0:22:18
@@ -28,7 +28,7 @@ _Mix #14_
 -   “Lull In The Rain” by Sumireiko - 0:31:42
 -   “Another Yes Or No” by Kaoru Azuma - 0:34:50
 -   “Don’t Take Your Love From Me” by Toru Takahashi - 0:37:58
--   “飛び立つ水鳥” by Daiki Yasukagawa / Hitomi Nishiyama / Maiko - 0:41:06
+-   “飛び立つ水鳥 (**Waterfowl taking flight**)” by Daiki Yasukagawa / Hitomi Nishiyama / Maiko - 0:41:06
 -   “O little town of Bethlehem” by Harumi Nomoto - 0:44:14
 -   “Introduction -Breathe Beneath the Sun-” by Mikiko Nagatake Trio - 0:45:59
 -   “Lost And Found” by Hiroshi Fukutomi Quintet - 0:49:03

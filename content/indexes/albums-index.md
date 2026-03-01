@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-date = 2026-02-22T00:00:00-08:00
+date = 2026-03-01T00:00:00-08:00
 draft = false
 weight = 10
 +++
