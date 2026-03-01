@@ -1,6 +1,6 @@
 +++
 title = "Mix #15"
-date = 2026-02-21T00:00:00-08:00
+date = 2026-03-01T00:00:00-08:00
 draft = false
 weight = 86
 +++
@@ -16,4 +16,5 @@ _Mix #15_
 
 -   “Yell” by Sumire Kuribayashi - 0:00:00
 -   “Brilliant Darkness” by Fumio Karashima - 0:03:18
--   “朧月に谺す” by Shikou Ito Trio Syncretia - 0:06:26
+-   “朧月に谺す (_Look At The Moon_)” by Shikou Ito Trio Syncretia - 0:06:26
+-   “ストップ・コール (_Stop Call_)” by Yukari Sekiya Trio with Yuko Tanaka - 0:09:34
