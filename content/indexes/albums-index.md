@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-date = 2026-03-01T00:00:00-08:00
+date = 2026-03-08T00:00:00-08:00
 draft = false
 weight = 10
 +++
@@ -11,6 +11,7 @@ _Index of albums discussed on this site._
 ## 2025 Releases {#2025-releases}
 
 -   [_Anitya_](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-anitya/) by Harumi Nomoto Trio
+-   [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/) by Yukari Sekiya
 -   [_Enyana_](https://www.jazzofjapan.com/archive/emiko-voice-yuka-yanagihara-enyana/) by Emiko Voice &amp; Yuka Yanagihara
 -   [_Invisible Diary_](https://www.jazzofjapan.com/archive/kaito-nakamura-invisible-diary/) by Kaito Nakamura
 -   [_Kakusareta Guwa_](https://www.jazzofjapan.com/archive/shikou-ito-trio-syncretia-kakusareta-guwa/) by Shikou Ito Trio Syncretia
@@ -286,6 +287,7 @@ _Index of albums discussed on this site._
 -   [_Here Goes!_](https://www.jazzofjapan.com/archive/fumiko-yamazaki-here-goes/) by Fumiko Yamazaki
 -   [_Introspect_](https://www.jazzofjapan.com/archive/ko-omura-introspect/) by Ko Omura
 -   [_Ishida Mamoru 4 feat. Mike Rivett_](https://www.jazzofjapan.com/archive/mamoru-ishida-ishida-mamoru-4-feat/) by Mamoru Ishida
+-   [_It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/) by Yukari Sekiya Trio with Yuko Tanaka
 -   [_Metropolitan Oasis_](https://www.jazzofjapan.com/archive/bungalow-metropolitan-oasis/) by Bungalow
 -   [_Music in You_](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-music-in-you/) by Hitomi Nishiyama Trio
 -   [_Primary_](https://www.jazzofjapan.com/archive/nobie-primary/) by Nobie

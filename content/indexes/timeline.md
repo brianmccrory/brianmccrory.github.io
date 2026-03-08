@@ -1,6 +1,6 @@
 +++
 title = "Publish History Timeline"
-date = 2026-03-01T00:00:00-08:00
+date = 2026-03-08T00:00:00-08:00
 draft = false
 weight = 60
 +++
@@ -9,6 +9,7 @@ _Chronological sitemap with links to articles._
 
 **March 2026**
 
+-   [Yukari Sekiya: _Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/)
 -   [Yukari Sekiya Trio with Yuko Tanaka: _It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/)
 
 **February 2026**

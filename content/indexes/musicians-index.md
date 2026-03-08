@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-date = 2026-03-01T00:00:00-08:00
+date = 2026-03-08T00:00:00-08:00
 draft = false
 weight = 20
 +++
@@ -230,13 +230,13 @@ _Index of the musicians and the albums discussed on this site._
 ## K {#k}
 
 -   Kagawa, Hiroshi (香川裕史, bass, [_web_](http://kagawahiroshi.blog111.fc2.com/)): [_Etrenne_](https://www.jazzofjapan.com/archive/mie-joke-etrenne/)
--   Kai, Masaki (甲斐正樹, bass, [_web_](https://masakik.exblog.jp/)): [_Embryo_](https://www.jazzofjapan.com/archive/koichi-sato-embryo/)
+-   Kai, Masaki (甲斐正樹, bass, [_web_](https://masakik.exblog.jp/)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/) · [_Embryo_](https://www.jazzofjapan.com/archive/koichi-sato-embryo/)
 -   Kaido, Yutaka (カイドーユタカ, bass, [_web_](https://kaidoyutaka.blogspot.com/)): [_Song of Flower_](https://www.jazzofjapan.com/archive/yuko-miyawaki-song-of-flower/)
 -   Kaihori, Kota (海堀弘太, piano, [_web_](https://kotakaihori.com/biography/)): [_Awareness_](https://www.jazzofjapan.com/archive/mariko-maeda-awareness/)
 -   Kajitani, Yuko (梶谷裕子, violin, [_web_](https://vgmdb.net/artist/7854)): [_Embryo_](https://www.jazzofjapan.com/archive/koichi-sato-embryo/)
 -   Kamaguchi, Masa (マサ・カマグチ, bass, [_web_](https://www.discogs.com/artist/979365-Masa-Kamaguchi)): [_Boundary_](https://www.jazzofjapan.com/archive/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/)
 -   Kamimura, Shin (上村信, bass, [_web_](http://kamimurashinbass.g2.xrea.com/)): [_A Love Supreme_](https://www.jazzofjapan.com/archive/noriko-satomi-a-love-supreme/)
--   Kamimura, Taiichi (かみむら泰一, saxophone, [_web_](http://www.taisax.jeez.jp/)): [_Sketches_](https://www.jazzofjapan.com/archive/motohiko-ichino-sketches/)
+-   Kamimura, Taiichi (かみむら泰一, saxophone, [_web_](http://www.taisax.jeez.jp/)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/) · [_Sketches_](https://www.jazzofjapan.com/archive/motohiko-ichino-sketches/)
 -   Kamoto, Shinichiro (嘉本信一郎, drums, [_web_](http://shinkoman.web.fc2.com/)): [_Sketches_](https://www.jazzofjapan.com/archive/motohiko-ichino-sketches/)
 -   Kamuro, Kohei (かむろ耕平, guitar, [_web_](https://ameblo.jp/chicagomoon/)): [_Cat’s Cradle_](https://www.jazzofjapan.com/archive/miyuki-moriya-cats-cradle/)
 -   Kan (日高歓, percussion, [_web_](https://www.instagram.com/tambourine.kan/)): [_Crossing Reality_](https://www.jazzofjapan.com/archive/eri-chichibu-crossing-reality/)
@@ -338,6 +338,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Miki, Toshio (三木俊雄, saxophone, [_web_](http://mikitoshio.com/)): [_The Island_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island/)
 -   Mine, Kosuke (峰厚介, saxophone, [_web_](http://www.aomori-net.ne.jp/~yamagen/mine/top.htm)): [_Beyond the Sea_](https://www.jazzofjapan.com/archive/miyuki-moriya-beyond-the-sea/) · [_Breathe Beneath the Sun_](https://www.jazzofjapan.com/archive/mikiko-nagatake-trio-breathe-beneath-the-sun/) · [_Major to Minor_](https://www.jazzofjapan.com/archive/kohsuke-mine-quintet-major-to-minor/) · [_Two for the Road_](https://www.jazzofjapan.com/archive/yuji-ito-koichi-hirata-duo-two-for-the-road/)
 -   Mishima, Daiki (三嶋大輝, bass, [_web_](https://jazzshiryokan.net/jazzDB/performer_detail.php?recordID=M13498)): [_Introducin’_](https://www.jazzofjapan.com/archive/fumika-asari-introducin/)
+-   Mitsuda, Jin (光田じん, drums, [_web_](https://mitsudajin.com/)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/)
 -   Miura, Hiromi (三浦裕美, saxophone): [_We Don’t Know Yet_](https://www.jazzofjapan.com/archive/hiromi-miura-we-dont-know-yet/)
 -   Miwa, Tomoka (三輪知可, vocal, [_web_](https://www.miwatomoka.com/)): [_Colors in Silence_](https://www.jazzofjapan.com/archive/tomoka-miwa-colors/)
 -   MIWO (vocal, [_web_](https://miwo-jazz.com/)): [_Tranquillo_](https://www.jazzofjapan.com/archive/miwo-tranquillo/)
@@ -351,8 +352,9 @@ _Index of the musicians and the albums discussed on this site._
 -   Monroe, Cecil (drums, [_web_](https://www.discogs.com/artist/314334-Cecil-Monroe)): [_Feel Like Makin’ Love_](https://www.jazzofjapan.com/archive/sanae-ishikawa-feel-like-makin-love/)
 -   Mooney: Davy (guitar, [_web_](https://davymooney.bandcamp.com/)): [_The Word_](https://www.jazzofjapan.com/archive/davy-mooney-ko-omura-the-word/)
 -   Morinaga, Tetsunori (森永哲則, drums, [_web_](https://www.morinagatetsunori.com/)): [_The Simplicity_](https://www.jazzofjapan.com/archive/toshiki-abe-life-memory-project-simplicity/)
--   Morisada, Michihiro (森定道広, bass, [_web_](https://ameblo.jp/morisadam/)): [_It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/)
+-   Morisada, Michihiro (森定道広, bass, [_web_](https://ameblo.jp/morisadam/)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/) · [_It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/)
 -   Morishita, Shigeru (森下滋, piano, [_web_](http://gerushi.com/)): [_Wonderful Life_](https://www.jazzofjapan.com/archive/masako-kunisada-wonderful-life/)
+-   Morishita, Suomi (森下周央彌, guitar, [_web_](https://www.suomi-morishita.com/)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/)
 -   Morita, Shuji (森田修史, saxophone, [_web_](https://shujimorita.official.jp/)): [_Path of Hope_](https://www.jazzofjapan.com/archive/minoru-yoshiki-soulstation-path-of-hope/)
 -   Morita, Yusuke (森田悠介, electric bass, [_web_](https://yusukemorita.net/)): [_Where Have U Been?_](https://www.jazzofjapan.com/archive/erisa-ogawa-where-have-u-been/)
 -   Moriya, Miyuki (守谷美由貴, saxophone, [_web_](https://www.tunecore.co.jp/artists?id=841864)): [_Beyond the Sea_](https://www.jazzofjapan.com/archive/miyuki-moriya-beyond-the-sea/) · [_Cat’s Cradle_](https://www.jazzofjapan.com/archive/miyuki-moriya-cats-cradle/) · [_Uta Oto_](https://www.jazzofjapan.com/archive/miyuki-moriya-uta-oto/)
@@ -433,6 +435,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Ota, Tomohiro (大田智洋, drums): [_Water Me!_](https://www.jazzofjapan.com/archive/water-me-water-me/)
 -   Otani, Satoshi (大谷訓史, bass, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M5325)): [_I’m Missing You_](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-im-missing-you/)
 -   Otogawa, Eiji (音川英二, saxophone, [_web_](http://bowz.main.jp/otogawa/)): [_First Contact_](https://www.jazzofjapan.com/archive/mase-hiroko-quintet-first-contact/)
+-   Otsuka, Megumi (大塚恵, bass, [_web_](https://otsukamegumipangaea.bandcamp.com/)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/)
 -   Otsuki, Hidenobu “Kalta” (大槻“KALTA”英宣, drums, [_web_](http://www.kaltek-musik-engine.com/)): [_Aquapit_](https://www.jazzofjapan.com/archive/aquapit-aquapit/)
 -   Ozawa, Megumi (小澤恵, viola, [_web_](https://youtu.be/vG-OeFsWHXc)): [_The Live_](https://www.jazzofjapan.com/archive/motoi-kanamori-the-live/)
 -   O’Donnell, Aiden (bass, [_web_](https://www.smallslive.com/artists/1431-aidan-odonnell/)): [_Scratch_](https://www.jazzofjapan.com/archive/miki-hirose-scratch/)
@@ -496,7 +499,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Scott, Kendrick (drums, [_web_](http://www.kendrickscott.com/)): [_Abyss_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-abyss/)
 -   Seino, Takumi (清野拓巳, guitar, [_web_](http://www.takumiseino.com/)): [_Frozen Dust_](https://www.jazzofjapan.com/archive/takumi-seino-motohiko-ichino-frozen-dust/) · [_Needful Things_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-needful-things/)
 -   Sekine, Akira (関根彰良, guitar, [_web_](http://akirasekine.com/)): [_Blossoms_](https://www.jazzofjapan.com/archive/ruriko-kawamura-blossoms/) · [_Tranquillo_](https://www.jazzofjapan.com/archive/miwo-tranquillo/)
--   Sekiya, Yukari (関谷友加里, piano, [_web_](https://www.yukarisekiya.com/)): [_It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/)
+-   Sekiya, Yukari (関谷友加里, piano, [_web_](https://www.yukarisekiya.com/)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/) · [_It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/)
 -   Sendo, Saori (仙道さおり, percussion, [_web_](http://www.c-a-s-net.co.jp/saoli/)): [_Resonance_](https://www.jazzofjapan.com/archive/duo-tremolo-resonance/) · [_Sora_](https://www.jazzofjapan.com/archive/eriko-shimizu-sora/) · [_Un Jour_](https://www.jazzofjapan.com/archive/clepsydra-un-jour/)
 -   Seta, Sota (瀬田創太, piano, [_web_](https://sota818.wixsite.com/music)): [_Where Have U Been?_](https://www.jazzofjapan.com/archive/erisa-ogawa-where-have-u-been/)
 -   Seto, Naoyuki (瀬戸尚幸, fretless bass): [_Protean_](https://www.jazzofjapan.com/archive/protean-protean/)
@@ -544,6 +547,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Takase, Ryuichi (高瀬龍一, trumpet, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1532)): [_Stolen Moments_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-stolen-moments/) · [_The Island_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island/) · [_Whisper Not_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-whisper-not/)
 -   Takeda, Kazuhiko (竹田一彦, guitar, [_web_](https://ameblo.jp/kazuhikotakeda/)): [_Folds_](https://www.jazzofjapan.com/archive/hiro-kimura-quintet-folds/)
 -   Takeda, Tatsuhiko (竹田達彦, drums): [_Big Catch_](https://www.jazzofjapan.com/archive/hamasaki-matsumoto-bigcatch/)
+-   Takei, Tsutomu (武井努, saxophone, [_web_](https://tsutomutakei.jp/)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/)
 -   Takemura, Ittetsu (竹村一哲, drums, [_web_](http://ittetsu2.web.fc2.com/)): [_Humadope 2_](https://www.jazzofjapan.com/archive/keisuke-nakamura-humadope-2/)
 -   Takino, Satoshi (滝野聡, guitar, [_web_](https://www.jvcmusic.co.jp/-/Artist/A005272.html)): [_Encounter_](https://www.jazzofjapan.com/archive/hideaki-hori-wataru-hamasaki-encounter/)
 -   Takubo, Hiroyuki (田窪寛之, piano, [_web_](https://hirotakubo.exblog.jp/)): [_My Soul Meeting_](https://www.jazzofjapan.com/archive/motoi-kanamori-my-soul-meeting/) · [_Skipping Down the Street_](https://www.jazzofjapan.com/archive/seiji-harakawa-quartet-skipping-down/) · [_The Live_](https://www.jazzofjapan.com/archive/motoi-kanamori-the-live/)
@@ -559,6 +563,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Tanaka, Yohei (田中洋平, bass, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=14647)): [_Water Me!_](https://www.jazzofjapan.com/archive/water-me-water-me/)
 -   Tanaka, Yuko (田中ゆうこ, voice, [_web_](https://www.instagram.com/kouta_yunaka/)): [_It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and/)
 -   Tanidono, Akira (谷殿明良, trumpet): [_Carta_](https://www.jazzofjapan.com/archive/emiko-voice-carta/)
+-   Tanimukai, Yuzumi (谷向柚美, voice, [_web_](https://yuzumi76.wixsite.com/yuzumi2013)): [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/)
 -   Tawarayama, Masayuki (俵山昌之, bass, [_web_](https://tawachan.blog.ss-blog.jp/)): [_Another Ordinary Day_](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-another-ordinary-day/) · [_Silver Painting_](https://www.jazzofjapan.com/archive/makiyo-sakai-silver-painting/)
 -   Taylor, Mark (drums, [_web_](https://en.wikipedia.org/wiki/Mark_Taylor_(drummer))): [_Art_](https://www.jazzofjapan.com/archive/ayumi-koketsu-art/)
 -   Terakubo, Erena (寺久保エレナ, saxophone, [_web_](https://www.jamrice.co.jp/erena/)): [_My Soul Meeting_](https://www.jazzofjapan.com/archive/motoi-kanamori-my-soul-meeting/)
