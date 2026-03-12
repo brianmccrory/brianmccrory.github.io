@@ -1,6 +1,6 @@
 +++
 title = "Clubs"
-date = 2026-03-08T00:00:00-08:00
+date = 2026-03-12T00:00:00-07:00
 draft = false
 weight = 40
 +++
@@ -29,6 +29,7 @@ _Index of jazz clubs, bars, and venues discussed on this site._
 -   [Dug](https://www.jazzofjapan.com/archive/dug/) - _Shinjuku Sta, Tokyo_ ([_web_](http://www.dug.co.jp/), [_map_](https://goo.gl/maps/nZtFtqPYhnQ6T2598))
 -   [Expression](https://www.jazzofjapan.com/archive/expression/) - _Jimbocho Sta, Tokyo_ ([_web_](https://expression-jimbocho.jp/), [_map_](https://maps.app.goo.gl/HmwL13C4zvh6fMMJ6))
 -   [Gate One](https://www.jazzofjapan.com/archive/gate-one/) - _Takadanobaba Sta, Tokyo_ ([_web_](http://www.jazzgateone.com/), [_map_](https://maps.app.goo.gl/gXJRnsMsxmtuwANw6))
+-   [Ginza Swing](https://www.jazzofjapan.com/archive/ginza-swing/) - _Ginza Sta, Tokyo_ ([_web_](http://ginzaswing.jp/), [_map_](https://maps.app.goo.gl/K3CNhgADfxsyowh76))
 -   [Hot House](https://www.jazzofjapan.com/archive/hot-house/) - _Takadanobaba Sta, Tokyo_ ([_web_](https://hothousegogo.hatenablog.com/), [_map_](https://goo.gl/maps/asgdJD5qELaTEheh7))  _Permanently closed_
 -   [In F](https://www.jazzofjapan.com/archive/in-f/) - _Oizumi-gakuen Sta, Tokyo_ ([_web_](https://in-f.live/site/), [_map_](https://maps.app.goo.gl/JCf8URy9M8c89dWr7))
 -   [Independence](https://www.jazzofjapan.com/archive/independence/) - _Ikebukuro Sta, Tokyo_ ([_web_](http://jazz-independence.com/), [_map_](https://maps.app.goo.gl/qHuoFSTYeBP5tzHr7))

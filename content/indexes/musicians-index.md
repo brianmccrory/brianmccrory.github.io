@@ -1,6 +1,6 @@
 +++
 title = "Musicians"
-date = 2026-03-08T00:00:00-08:00
+date = 2026-03-12T00:00:00-07:00
 draft = false
 weight = 20
 +++
@@ -63,7 +63,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Chiba, Hiroki (千葉広樹, bass, [_web_](https://linktr.ee/Hirokichiba)): [_Melancholy of a Journey_](https://www.jazzofjapan.com/archive/koichi-sato-melancholy/) · [_National Anthem of Unknown Country_](https://www.jazzofjapan.com/archive/rabbitoo-national-anthem-of-unknown/) · [_The Torch_](https://www.jazzofjapan.com/archive/rabbitoo-the-torch/)
 -   Chichibu, Eri (秩父英里, piano, [_web_](https://www.erichichibu.com/)): [_Crossing Reality_](https://www.jazzofjapan.com/archive/eri-chichibu-crossing-reality/)
 -   Chigita, Yusuke (千北祐輔, bass, [_web_](https://yusukechigita.bandcamp.com/album/family-diary)): [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/archive/toru-takahashi-tokyo-groovin-high/)
--   Choulai, Aaron (piano, [_web_](https://aaronchoulai.bandcamp.com/)): [_Moving Color_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-moving-color/)
+-   Choulai, Aaron (アーロン・チューライ, piano, [_web_](https://aaronchoulai.com/)): [_Moving Color_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-moving-color/)
 -   Clohesy, Matt (bass, [_web_](http://archive.soundamerican.org/sa_archive/sa18/matt-clohesy.html)): [_The Word_](https://www.jazzofjapan.com/archive/davy-mooney-ko-omura-the-word/)
 -   Cokky (コッキー, bass): [_A Tempo_](https://www.jazzofjapan.com/archive/meu-coracao-a-tempo/)
 -   Curtis, Luques (bass, [_web_](https://www.luquescurtis.com/)): [_Lite Blue_](https://www.jazzofjapan.com/archive/takuji-yamada-lite-blue/)
