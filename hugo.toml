@@ -31,7 +31,7 @@ copyright = '© Brian McCrory <a href="https://www.jazzofjapan.com">Jazz of Japa
 
 [menus]
   
-[[menu.after]]
+[[menu.before]]
   name = 'Jazz of Japan'
   url = 'https://www.jazzofjapan.com/'
   weight = 1
