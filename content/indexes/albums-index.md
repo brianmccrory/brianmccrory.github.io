@@ -1,6 +1,6 @@
 +++
 title = "Albums"
-date = 2026-03-08T00:00:00-08:00
+date = 2026-03-15T00:00:00-07:00
 draft = false
 weight = 10
 +++
@@ -259,6 +259,7 @@ _Index of albums discussed on this site._
 
 -   [_Acoustic Fluid_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-acoustic/) by Ryosuke Hashizume Group
 -   [_Astrolabe_](https://www.jazzofjapan.com/archive/hitomi-nishiyama-astrolabe/) by Hitomi Nishiyama
+-   [_Blending Tone_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-blending-tone/) by Akihiro Yoshimoto Quartet
 -   [_Bonanza_](https://www.jazzofjapan.com/archive/yudo-matsuo-bonanza/) by Yudo Matsuo
 -   [_Bubble Fish_](https://www.jazzofjapan.com/archive/shunichi-yanagi-trio-bubble-fish/) by Shunichi Yanagi Trio
 -   [_Gift_](https://www.jazzofjapan.com/archive/manabu-ohishi-trio-gift/) by Manabu Ohishi Trio
