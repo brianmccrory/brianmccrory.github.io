@@ -12,7 +12,7 @@ _This is a companion to [Jazz of Japan](https://www.jazzofjapan.com/) with autom
 - [Clubs Index](/indexes/clubs-index)
 - [Publish History Timelime](/indexes/timeline)
 
-Audio Mixes:
+Audio:
 
 - [Mix #15](/audio/mix-15/)
 - [Mix #14](/audio/mix-14/)
@@ -29,3 +29,5 @@ Audio Mixes:
 - [Mix #3](/audio/mix-03/)
 - [Mix #2](/audio/mix-02/)
 - [Mix #1](/audio/mix-01/)
+
+[About Jazz of Japan](/about)

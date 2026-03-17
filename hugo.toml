@@ -18,6 +18,7 @@ copyright = '© Brian McCrory <a href="https://www.jazzofjapan.com">Jazz of Japa
   recent_posts_number = 6
   BookSection = '*'
   BookLogo = 'favicon-32x32.png'
+  favicon = 'favicon.ico'
 
 [pagination]
   pagerSize = 6
