@@ -1,10 +1,7 @@
-baseURL = 'https://docs.jazzofjapan.com'
+baseURL = 'https://about.jazzofjapan.com'
 languageCode = 'en-us'
-title = 'Jazz of Japan Docs'
-#theme = 'ananke'
-#mainSections = ["posts"]
+title = 'About Jazz of Japan'
 
-#theme = 'hugo-book' # https://github.com/alex-shpak/hugo-book
 enableGitInfo = false
 copyright = '© Brian McCrory <a href="https://www.jazzofjapan.com">Jazz of Japan</a>'
 theme = 'hugo-bearblog'
@@ -18,12 +15,10 @@ theme = 'hugo-bearblog'
   description = 'Indexes for the Jazz of Japan newsletter and archive'
   homepage = "https://www.jazzofjapan.com"
   recent_posts_number = 6
-  BookSection = '*'
-  BookLogo = 'favicon-32x32.png'
   favicon = 'favicon.ico'
   hideMadeWithLine = true
   enablePostNavigator = true
-  dateFormat = "2006-01-02"
+#  dateFormat = "2006-01-02"
 
 #[permalinks]
 #  posts = "/posts/:slug/"
@@ -47,17 +42,6 @@ theme = 'hugo-bearblog'
     dir = ':cacheDir/images'
 
 [menu]
-[[menu.main]]
-    name = "Jazz of Japan"
-    url  = "https://www.jazzofjapan.com/"
-    weight = 200
-
-[menus]
-[[menu.before]]
-  name = 'Jazz of Japan'
-  url = 'https://www.jazzofjapan.com/'
-  weight = 1
-  bookFlatSection = true
 
 
 # for ananke:

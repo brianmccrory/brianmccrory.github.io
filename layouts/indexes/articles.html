@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ .Content }}
+<content>
+  <p><em>Index of all articles posted to the site and newsletter.</em></p>
+  <ul class="blog-posts">
+    {{ range .Site.Data.articles }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .date }}'>
+            {{ .date }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .url }}">{{ .heading }}{{ .icon }}</a>
+    </li>
+    {{ else }}
+    <li>
+      No posts yet
+    </li>
+    {{ end }}
+  </ul>
+  <small>
+    <div>
+      {{ range .Site.Taxonomies.tags }}
+      <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+      {{ end }}
+    </div>
+  </small>
+
+<pre>
+KEY:
+    Albums
+ ~  Clubs and venues
+ ^  Guides
+ *  Article revised
+ ** Article revised (updated date)
+</pre>
+</content>
+{{ end }}
