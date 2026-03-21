@@ -1,34 +1,15 @@
 baseURL = 'https://about.jazzofjapan.com'
-languageCode = 'en-us'
-title = 'About Jazz of Japan'
-
-enableGitInfo = false
-copyright = '© Brian McCrory <a href="https://www.jazzofjapan.com">Jazz of Japan</a>'
 theme = 'hugo-bearblog'
-
-[author]
-  name = 'Brian McCrory'
-  homepage = "https://www.jazzofjapan.com"
+title = 'About Jazz of Japan'
+author = 'Brian McCrory'
+copyright = '© Brian McCrory <a href="https://www.jazzofjapan.com">Jazz of Japan</a>'
+languageCode = 'en-US'
+enableRobotsTXT = true
 
 [params]
-  author = 'Brian McCrory'
-  description = 'Indexes for the Jazz of Japan newsletter and archive'
-  homepage = "https://www.jazzofjapan.com"
-  recent_posts_number = 6
+  description = 'About the Jazz of Japan newsletter and archive'
   favicon = 'favicon.ico'
   hideMadeWithLine = true
-  enablePostNavigator = true
-#  dateFormat = "2006-01-02"
-
-#[permalinks]
-#  posts = "/posts/:slug/"
-#  tags = "/posts/:slug"
-
-[pagination]
-  pagerSize = 6
-
-[markup.goldmark.renderer]
-  unsafe = true
 
 [markup]
   [markup.highlight]
@@ -36,48 +17,15 @@ theme = 'hugo-bearblog'
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [menu]
-
-
-# for ananke:
-  # [[menus.main]]
-  #   name = 'Albums Index'
-  #   pageRef = 'resources/albums-index'
-  #   weight = 30
-  # [[menus.main]]
-  #   name = 'Musicians Index'
-  #   pageRef = 'resources/musicians-index'
-  #   weight = 40
-  # [[menus.main]]
-  #   name = 'Timeline'
-  #   pageRef = 'resources/timeline'
-  #   weight = 50
-  # [[menus.main]]
-  #   name = 'Indexes'
-  #   pageRef = 'indexes/'
-  #   weight = 55
-  # [[menus.main]]
-  #   name = 'Posts'
-  #   pageRef = 'posts/'
-  #   weight = 45
-  # # [[menus.main]]
-  # #   name = 'Audio Mixes'
-  # #   pageRef = 'audio-mixes/'
-  # #   weight = 60
-  # [[menus.main]]
-  #   name = 'Jazz of Japan'
-  #   url = 'https://www.jazzofjapan.com/'
-  #   weight = 70
-
-#baseURL = "http://localhost:1313/"
-
-[build]
-  writeStats = true
-  uglyUrls = true  # filename.html instead of filename/index.html
-  disableKinds = ["page", "taxonomy", "taxonomyTerm", "RSS"]
-
+  [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Jazz of Japan"
+    url = "https://www.jazzofjapan.com/"
+    weight = 40
