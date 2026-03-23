@@ -6,10 +6,21 @@ copyright = '© Brian McCrory <a href="https://www.jazzofjapan.com">Jazz of Japa
 languageCode = 'en-US'
 enableRobotsTXT = true
 
+[frontmatter]
+  date = [":filename", ":default"]
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
 [params]
   description = 'About the Jazz of Japan newsletter and archive'
   favicon = 'favicon.ico'
   hideMadeWithLine = true
+  enablePostNavigator = true
 
 [markup]
   [markup.highlight]
@@ -28,4 +39,4 @@ enableRobotsTXT = true
   [[menu.main]]
     name = "Jazz of Japan"
     url = "https://www.jazzofjapan.com/"
-    weight = 40
+    weight = 100

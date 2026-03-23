@@ -1,9 +1,9 @@
-+++
-title = "Mix #15"
-date = 2026-03-15T00:00:00-07:00
-draft = false
-weight = 86
-+++
+---
+title: "Mix #15"
+date: 2026-03-23T00:00:00-07:00
+draft: false
+weight: 86
+---
 
 _Mix #15_
 
@@ -20,3 +20,4 @@ _Mix #15_
 -   “ストップ・コール (_Stop Call_)” by Yukari Sekiya Trio with Yuko Tanaka - 0:09:34
 -   “Canja” by Yukari Sekiya - 0:12:42
 -   “di di” by Akihiro Yoshimoto Quartet - 0:15:50
+-   “Let's Do It” by Asuka Watanabe - 0:18:58
