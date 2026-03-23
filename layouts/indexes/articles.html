@@ -12,7 +12,7 @@
           </time>
         </i>
       </span>
-      <a href="{{ .url }}">{{ .heading }}{{ .icon }}</a>
+      <a href="{{ .url }}">{{ .heading | markdownify }}{{ .icon }}</a>
     </li>
     {{ else }}
     <li>

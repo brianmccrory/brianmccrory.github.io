@@ -1,9 +1,9 @@
-+++
-title = "Musicians"
-date = 2026-03-15T00:00:00-07:00
-draft = false
-weight = 20
-+++
+---
+title: "Musicians"
+date: 2026-03-23T00:00:00-07:00
+draft: false
+weight: 20
+---
 
 _Index of the musicians and the albums discussed on this site._
 
@@ -586,6 +586,7 @@ _Index of the musicians and the albums discussed on this site._
 ## U {#u}
 
 -   Ueda, Yuka (上田裕香, vocal, [_web_](http://yuuka-agora.com/wp/)): [_Agora_](https://www.jazzofjapan.com/archive/yuka-ueda-agora/) · [_Dois_](https://www.jazzofjapan.com/archive/yuka-ueda-dois/)
+-   Uematsu, Yoshitaka (植松良高, drums, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M2443)): [_Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected/)
 -   Uemura, Keiichiro (上村計一郎, drums): [_Gallery_](https://www.jazzofjapan.com/archive/yukiko-hayakawa-trio-gallery/)
 -   Uenoyama, Eri (上野山英里, piano, [_web_](https://eriuenoyama.jimdofree.com/)): [_Sweet_](https://www.jazzofjapan.com/archive/hitomi-aikawa-sweet/)
 -   Umehara, Arata (梅原新, guitar, [_web_](https://www.aratata.com/)): [_Okurimono_](https://www.jazzofjapan.com/archive/hiroco-nagano-okurimono/) · [_Tsutaete Ikou_](https://www.jazzofjapan.com/archive/seiji-endo-tsutaete-ikou/)
@@ -608,6 +609,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Waples, Ben “Donny” (bass): [_Open the Green Door_](https://www.jazzofjapan.com/archive/hakuei-kim-trio-open-the-green-door/)
 -   Washington, Kenny (drums, [_web_](https://en.wikipedia.org/wiki/Kenny_Washington_(musician))): [_Workout!!_](https://www.jazzofjapan.com/archive/seiji-tada-workout/)
 -   Washington, Peter (bass, [_web_](https://en.wikipedia.org/wiki/Peter_Washington)): [_Memories of You_](https://www.jazzofjapan.com/archive/akane-matsumoto-memories-of-you/) · [_Night &amp; Day_](https://www.jazzofjapan.com/archive/akane-matsumoto-night-and-day/) · [_Sara Smile_](https://www.jazzofjapan.com/archive/hikari-ichihara-sara-smile/) · [_Workout!!_](https://www.jazzofjapan.com/archive/seiji-tada-workout/)
+-   Watanabe, Asuka (渡辺明日香, vocal, [_web_](http://asuka-wat.com/)): [_Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected/)
 -   Watts, Jeff “Tain” (drums, [_web_](https://jefftain.bandcamp.com/)): [_Outside by the Swing_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-outside-by-the-swing/)
 -   Wendholt, Scott (trumpet, [_web_](https://www.scottwendholt.net/)): [_New Departure_](https://www.jazzofjapan.com/archive/takayuki-yagi-new-departure/)
 -   Werner, Kenny (piano, [_web_](https://kennywerner.com/)): [_Back in Time to Boston_](https://www.jazzofjapan.com/archive/yoshiko-saita-back-in-time-to-boston/)
@@ -630,6 +632,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Yamamoto, Tsuyoshi (山本剛, piano, [_web_](https://www.tsuyoshi-yamamoto.com/)): [_Etrenne_](https://www.jazzofjapan.com/archive/mie-joke-etrenne/)
 -   Yamanaka, Chihiro (山中千尋, piano, [_web_](https://www.chihiroyamanaka.net/)): [_Abyss_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-abyss/) · [_Lach Doch Mal_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-lach-doch-mal/) · [_Living Without Friday_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-trio-living-without-friday/) · [_Madrigal_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-trio-madrigal/) · [_Outside by the Swing_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-outside-by-the-swing/) · [_When October Goes_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-trio-when-october/)
 -   Yamano, Yukako (山野友佳子, piano, [_web_](https://yukakoyamano.com/)): [_1st Stage_](https://www.jazzofjapan.com/archive/yukako-yamano-1st-stage/) · [_3rd Stage_](https://www.jazzofjapan.com/archive/yukako-yamano-3rd-stage/) · [_Dubai Suite_](https://www.jazzofjapan.com/archive/yukakoyamano-yukariinoue-dubai/) · [_Imperial_](https://www.jazzofjapan.com/archive/yukako-yamano-imperial/)
+-   Yamashita, Koji (山下弘治, bass, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?serialNumber=1835)): [_Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected/)
 -   Yamashita, Nobuhiko (山下暢彦, drums): [_Shining Hour_](https://www.jazzofjapan.com/archive/yako-horikita-shining-hour/)
 -   Yamashita, Yoshitaka (山下佳孝, drums): [_Trispace_](https://www.jazzofjapan.com/archive/trispace-trispace/)
 -   Yamazaki, Fumiko (山崎ふみこ, vibraphone, [_web_](https://trill.jp/)): [_Here Goes!_](https://www.jazzofjapan.com/archive/fumiko-yamazaki-here-goes/)
@@ -656,6 +659,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Yoshimoto, Akihiro (吉本章紘, saxophone, [_web_](https://www.akihiro-yoshimoto.com/)): [_64 Charlesgate_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-64-charlesgate/) · [_Blending Tone_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-blending-tone/) · [_Humadope 2_](https://www.jazzofjapan.com/archive/keisuke-nakamura-humadope-2/) · [_II_](https://www.jazzofjapan.com/archive/nanami-haruta-ii/) · [_Moving Color_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-moving-color/) · [_My Soul Meeting_](https://www.jazzofjapan.com/archive/motoi-kanamori-my-soul-meeting/) · [_Oxymoron_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-takashi-sugawa-oxymoron/)
 -   Yoshino, Hiroshi (吉野弘志, bass, [_web_](https://emeregueponchi1955.jimdofree.com/)): [_Uta Oto_](https://www.jazzofjapan.com/archive/miyuki-moriya-uta-oto/)
 -   Yoshioka, Daisuke (吉岡大輔, drums, [_web_](http://yoshiokadaisuke.com/)): [_Belinda_](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-belinda/) · [_Sora_](https://www.jazzofjapan.com/archive/eriko-shimizu-sora/)
+-   Yoshioka, Hideaki (吉岡秀晃, piano, [_web_](http://hideakiyoshioka.com/)): [_Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected/)
 
 
 ## Z {#z}

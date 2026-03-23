@@ -1,9 +1,9 @@
-+++
-title = "Albums"
-date = 2026-03-15T00:00:00-07:00
-draft = false
-weight = 10
-+++
+---
+title: "Albums"
+date: 2026-03-23T00:00:00-07:00
+draft: false
+weight: 10
+---
 
 _Index of albums discussed on this site._
 
@@ -374,6 +374,7 @@ _Index of albums discussed on this site._
 -   [_It’s Just Beginning_](https://www.jazzofjapan.com/archive/fumio-karashima-trio-its-just-beginning/) by Fumio Karashima Trio
 -   [_I’m Missing You_](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-im-missing-you/) by Hitomi Nishiyama Trio
 -   [_Madrigal_](https://www.jazzofjapan.com/archive/chihiro-yamanaka-trio-madrigal/) by Chihiro Yamanaka Trio
+-   [_Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected/) by Asuka Watanabe
 
 
 ## 2003 Releases {#2003-releases}
