@@ -1,9 +1,8 @@
-+++
-title = "Clubs"
-date = 2026-03-15T00:00:00-07:00
-draft = false
-weight = 40
-+++
+---
+title: "Clubs Index"
+date: 2026-03-26T00:00:00-07:00
+draft: false
+---
 
 _Index of jazz clubs, bars, and venues discussed on this site._
 

@@ -1,23 +1,19 @@
 ---
-title: "Mix #15"
+title: "Audio Mix #15"
 date: 2026-03-23T00:00:00-07:00
 draft: false
-weight: 86
 ---
 
-_Mix #15_
-
-
-## Mix #15 {#mix-15}
+## Audio Mix #15 {#audio-mix-15}
 
 <audio controls preload="metadata" style="width:100%; max-width:400px;">
 <source src="https://pub-e785095dc4fd4b1a828fe9eb8d30846b.r2.dev/audio/mix15.mp3" type="audio/mpeg">
 </audio>
 
--   “Yell” by Sumire Kuribayashi - 0:00:00
--   “Brilliant Darkness” by Fumio Karashima - 0:03:18
--   “朧月に谺す (_Look At The Moon_)” by Shikou Ito Trio Syncretia - 0:06:26
--   “ストップ・コール (_Stop Call_)” by Yukari Sekiya Trio with Yuko Tanaka - 0:09:34
--   “Canja” by Yukari Sekiya - 0:12:42
--   “di di” by Akihiro Yoshimoto Quartet - 0:15:50
--   “Let's Do It” by Asuka Watanabe - 0:18:58
+-   “Yell” - [Sumire Kuribayashi: _Orbital Resonance_](https://www.jazzofjapan.com/archive/sumire-kuribayashi-orbital-resonance) - 0:00:00
+-   “Brilliant Darkness” - [Fumio Karashima: _Great Time_](https://www.jazzofjapan.com/archive/fumio-karashima-great-time) - 0:03:18
+-   “朧月に谺す (_Look At The Moon_)” - [Shikou Ito Trio Syncretia: _Kakusareta Guwa_](https://www.jazzofjapan.com/archive/shikou-ito-trio-syncretia-kakusareta-guwa) - 0:06:26
+-   “ストップ・コール (_Stop Call_)” - [Yukari Sekiya Trio with Yuko Tanaka: _It’s Ordinary Love And..._](https://www.jazzofjapan.com/archive/yukari-sekiya-trio-with-yuko-tanaka-its-ordinary-love-and) - 0:09:34
+-   “Canja” - [Yukari Sekiya: _Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here) - 0:12:42
+-   “di di” - [Akihiro Yoshimoto Quartet: _Blending Tone_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-blending-tone) - 0:15:50
+-   “Let's Do It” - [Asuka Watanabe: _Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected) - 0:18:58

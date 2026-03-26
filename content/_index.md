@@ -1,5 +1,5 @@
 ---
-title: 'Jazz of Japan'
+title: 'About Jazz of Japan'
 date: '2025-09-10T06:39:52-07:00'
 ---
 

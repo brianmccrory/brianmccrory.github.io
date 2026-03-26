@@ -1,8 +1,7 @@
 ---
-title: "Musicians"
-date: 2026-03-23T00:00:00-07:00
+title: "Musicians Index"
+date: 2026-03-26T00:00:00-07:00
 draft: false
-weight: 20
 ---
 
 _Index of the musicians and the albums discussed on this site._
@@ -271,7 +270,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Kitagawa, Kiyoshi (北川潔, bass, [_web_](https://en.wikipedia.org/wiki/Kiyoshi_Kitagawa)): [_Prelude to a Kiss_](https://www.jazzofjapan.com/archive/miki-hayama-prelude-to-a-kiss/) · [_Wide Angle_](https://www.jazzofjapan.com/archive/miki-hayama-trio-wide-angle/)
 -   Kitajima, Kanoko (北島佳乃子, piano, [_web_](https://ameblo.jp/jazz-pf/)): [_Introducin’_](https://www.jazzofjapan.com/archive/fumika-asari-introducin/) · [_Long Way to Go_](https://www.jazzofjapan.com/archive/kanoko-kitajima-long-way-to-go/)
 -   Kjellberg, Anders (drums, [_web_](https://sv.wikipedia.org/wiki/Anders_Kjellberg_(musiker))): [_Many Seasons_](https://www.jazzofjapan.com/archive/hitomi-nishiyama-trio-many-seasons/)
--   Kobayashi, Hiroe (小林宏衣, vocal, [_web_](https://ameblo.jp/snoopysurf/)): [_Banquet_](https://www.jazzofjapan.com/archive/sayaka-kishi-trio-banquet/) · [_Luar_](https://www.jazzofjapan.com/archive/sul-madrugada-luar/)
+-   Kobayashi, Hiroe (小林宏衣, vocal, [_web_](https://hirosnoopyhiro.wixsite.com/mysite)): [_Banquet_](https://www.jazzofjapan.com/archive/sayaka-kishi-trio-banquet/) · [_Luar_](https://www.jazzofjapan.com/archive/sul-madrugada-luar/)
 -   Kobayashi, Ken (小林健, drums, [_web_](https://www.discogs.com/artist/4679945-Ken-Kobayashi-4)): [_Boundary_](https://www.jazzofjapan.com/archive/megumi-yonezawa-masa-kamaguchi-ken-kobayashi-boundary/)
 -   Kobayashi, Reikan (小林鈴勘, shakuhachi, [_web_](https://reikankobayashi.net/)): [_Fever_](https://www.jazzofjapan.com/archive/trigraph-fever/) · [_Gakudan Hitori_](https://www.jazzofjapan.com/archive/reikan-kobayashi-gakudan-hitori/)
 -   Kobayashi, Toyomi (小林豊美, flute, [_web_](https://toyomikobayashi.theblog.me/)): [_Flowers On The Hill_](https://www.jazzofjapan.com/archive/akiko-suda-flowers-on-the-hill/) · [_Sumitty &amp; The Funfair_](https://www.jazzofjapan.com/archive/sumito-oi-sumitty-and-the-funfair/)
