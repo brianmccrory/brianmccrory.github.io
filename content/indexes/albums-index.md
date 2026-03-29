@@ -1,6 +1,6 @@
 ---
 title: "Albums Index"
-date: 2026-03-26T00:00:00-07:00
+date: 2026-03-29T00:00:00-07:00
 draft: false
 ---
 
@@ -14,6 +14,7 @@ _Index of albums discussed on this site._
 -   [_Enyana_](https://www.jazzofjapan.com/archive/emiko-voice-yuka-yanagihara-enyana/) by Emiko Voice &amp; Yuka Yanagihara
 -   [_Invisible Diary_](https://www.jazzofjapan.com/archive/kaito-nakamura-invisible-diary/) by Kaito Nakamura
 -   [_Kakusareta Guwa_](https://www.jazzofjapan.com/archive/shikou-ito-trio-syncretia-kakusareta-guwa/) by Shikou Ito Trio Syncretia
+-   [_Listen to My Blues_](https://www.jazzofjapan.com/archive/wataru-hamasaki-akane-matsumoto-listen-to-my-blues/) by Wataru Hamasaki &amp; Akane Matsumoto
 -   [_Melodies_](https://www.jazzofjapan.com/archive/melodies-melodies/) by Melodies
 -   [_Orbital Resonance_](https://www.jazzofjapan.com/archive/sumire-kuribayashi-orbital-resonance/) by Sumire Kuribayashi
 -   [_The Duality of My Soul_](https://www.jazzofjapan.com/archive/mayuko-katakura-duality-of-my-soul/) by Mayuko Katakura

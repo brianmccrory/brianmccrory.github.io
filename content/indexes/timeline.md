@@ -1,6 +1,6 @@
 ---
 title: "Publish History Timeline"
-date: 2026-03-26T00:00:00-07:00
+date: 2026-03-29T00:00:00-07:00
 draft: false
 ---
 
@@ -8,6 +8,7 @@ _Chronological sitemap with links to articles._
 
 **March 2026**
 
+-   [Wataru Hamasaki &amp; Akane Matsumoto: _Listen to My Blues_](https://www.jazzofjapan.com/archive/wataru-hamasaki-akane-matsumoto-listen-to-my-blues/)
 -   [Asuka Watanabe: _Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected/)
 -   [Akihiro Yoshimoto Quartet: _Blending Tone_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-blending-tone/)
 -   [Ginza Swing](https://www.jazzofjapan.com/archive/ginza-swing/) ~

@@ -1,6 +1,6 @@
 ---
 title: "Audio Mix #15"
-date: 2026-03-23T00:00:00-07:00
+date: 2026-03-29T00:00:00-07:00
 draft: false
 ---
 
@@ -17,3 +17,4 @@ draft: false
 -   “Canja” - [Yukari Sekiya: _Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here) - 0:12:42
 -   “di di” - [Akihiro Yoshimoto Quartet: _Blending Tone_](https://www.jazzofjapan.com/archive/akihiro-yoshimoto-quartet-blending-tone) - 0:15:50
 -   “Let's Do It” - [Asuka Watanabe: _Unaffected_](https://www.jazzofjapan.com/archive/asuka-watanabe-unaffected) - 0:18:58
+-   “Listen to my Blues” - [Wataru Hamasaki &amp; Akane Matsumoto: _Listen to My Blues_](https://www.jazzofjapan.com/archive/wataru-hamasaki-akane-matsumoto-listen-to-my-blues) - 0:21:26
