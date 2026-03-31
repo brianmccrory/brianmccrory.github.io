@@ -1,6 +1,9 @@
 ---
-title: 'About Jazz of Japan'
+title: 'About'
 date: '2025-09-10T06:39:52-07:00'
+aliases: ["/about"]
+menu: "main"
+weight: 1
 ---
 
 ![Intro to Jazz of Japan](/images/intro-jazz-1024.jpeg)
