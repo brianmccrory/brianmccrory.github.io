@@ -1,8 +1,6 @@
 ---
 title: "Supporters"
 date: 2026-03-28
-menu: 'main'
-weight: 4
 ---
 
 # Thank you to all Jazz of Japan supporters!

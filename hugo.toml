@@ -13,7 +13,7 @@ disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   [permalinks.page]
-    notes = "/:slug/"
+    blog = "/:contentbasename/"
   [permalinks.term]
     tags = "/:slug/"
 
@@ -22,7 +22,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   dateFormat = "Jan 02, 2006"
   favicon = 'favicon.ico'
   hideMadeWithLine = true
-  enablePostNavigator = true
+  enablePostNavigator = false
 
 [markup]
   [markup.highlight]
@@ -34,6 +34,22 @@ ignoreErrors = ["error-disable-taxonomy"]
     unsafe = true
 
 [menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Indexes"
+    url = "/indexes/"
+    weight = 2
+  [[menu.main]]
+    name = "Audio"
+    url = "/audio/"
+    weight = 3
+  [[menu.main]]
+    name = "Supporters"
+    url = "/support/"
+    weight = 5
   [[menu.main]]
     name = "Jazz of Japan"
     url = "https://www.jazzofjapan.com/"

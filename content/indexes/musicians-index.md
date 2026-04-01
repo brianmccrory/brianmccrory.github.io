@@ -1,6 +1,7 @@
 ---
 title: "Musicians Index"
-date: 2026-03-29T00:00:00-07:00
+date: 2018-01-26T00:00:00-08:00
+lastmod: 2026-04-01T11:35:34-07:00
 draft: false
 ---
 
