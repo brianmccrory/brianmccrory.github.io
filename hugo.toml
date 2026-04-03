@@ -5,6 +5,8 @@ author = 'Brian McCrory'
 copyright = '© Brian McCrory <a href="https://www.jazzofjapan.com">Jazz of Japan</a>'
 languageCode = 'en-US'
 enableRobotsTXT = true
+capitalizeListTitles = false
+enableGitInfo = true # automatic lastmod based on git
 
 [frontmatter]
   date = [":filename", ":default"]
