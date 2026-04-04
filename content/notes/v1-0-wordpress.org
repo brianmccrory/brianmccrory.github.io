@@ -1,0 +1,54 @@
+#+title: J Jazz: Modern Jazz From Japan v1.0 (WordPress)
+#+date: 2018-01-26
+#+draft: false
+#+tags[]: versions
+
+/This online project was first published online in January 2018, but I began to take notes on this topic when visiting Japanese jazz clubs and buying Japanese jazz albums in 2005. Those dozen or so physical notebooks became essential documentation for me as an early version of this project. I continue to take handwritten notes today./
+
+* January 2018: Starting with WordPress
+
+It was easy to set up WordPress on a laptop and start writing posts. I published the site online using the custom domain [[https://web.archive.org/web/20180415025040/http://www.jjazzist.com/][=jjazzist.com=]] (no longer in use) with AWS and Google App Engine at various times.
+
+The WordPress system made it easy to switch layouts, write draft posts, and experiment and test changes on a laptop before updating the website online. However, over time I found that I stuck to a fairly simple design and didn’t make use of many WordPress plugins, except for functionality like media playlists, analytics, and backup tools.
+
+* The initial work involved
+
+There was a fair amount of setup, mainly technical work to get the system running, online, publicly available, and smoothly connected between my local and public environments. But the most time-consuming part of this project at that time was the writing. It was a challenge to attempt to write concise, quality posts about music while trying to avoid bland or generic observations and cliches that are seen in some music reviews.
+
+To get started, I focused on writing shorter posts with a goal of 4-5 sentences per album. I also focused on the goal of trying to publish a fair number of posts in the first few weeks of the project, as an experiment to see if this was something that was something that I had fun doing and could maintain.
+
+* The general process
+
+*Technical:*
+- Setting up WordPress and various plugins (layouts, templates, analytics, search, audio player, photo albums, etc...)
+- Installing and running WordPress locally, online with AWS cloud services, configuring a custom domain, SSL, etc....
+- Drafting and testing locally, publishing to the cloud, and creating and restoring backups between stages/systems.
+
+*Graphical:*
+- Taking multiple photos of each CD: cover, back, booklet, liner notes, CD, obi
+- Minor photo edits and adjustments
+- Creating simple graphics for the website (headers, footers, About page)
+
+*Research and compiling:*
+- Including data (following a template layout) such as album title, artist name, year, label, etc..., and data for each musician on the recording.
+- Creating a short mp3 of an audio excerpt
+- Adding links to any relevant videos available online (usually YouTube)
+- Adding other related links or information
+
+*Writing and publishing:*
+- Writing a description of the album, musicians, and songs
+- Formatting essay, album data, photos, audio, links, and other data using a template format for consistency
+- Modifying and updating layouts, adding sitewide graphics and navigation, tags, and related sitewide functionality
+- Tracking articles’ status, date, tags, and miscellaneous data in a spreadsheet
+- Starting to read/translate the liner notes (to be done later...)
+
+There was a lot to do for each article, and the most enjoyable part was listening, re-listening, and enjoying albums from my Japanese jazz collection. It was also exciting to share this with other people who had an interest in this genre but didn’t have much access to information about it in English.
+
+Starting with the first post "Kazumi Ikenaga: Niwatazumi" on Jan 26, 2018 through the last WordPress post "Yoshihito “P” Koizumi P-Project: By Coincidence" on May 5, 2021, I published posts for 136 albums in this first 3 and 1/2 years.
+
+
+* Issues with WordPress
+
+WordPress started to become a hassle with frequent updates of plugins and occasional technical glitches. In addition to running on a laptop for drafting posts and testing, it also required installing, running, and maintaining the WordPress system on a hosted server. I used a free tier of AWS for one year, and a free tier of Google App Engine for one year, eventually moving to an inexpensive monthly hosting plan for generic Linux apps or WordPress hosting.
+
+Over time, this (running a simple app on a hosted service) became more effort than it was worth, and I wanted to concentrate more on writing and less on system and website maintenance. I also felt like I had reached the bounds of what I needed to get out of a WordPress site, and the constant upkeep of plugins and version upgrades became a nuisance. By this time I had written over a hundred posts including hundreds of image and audio files, and I wanted to make sure that all of this work was secure and stable and as independent as possible from any particular framework (in this case, the various WordPress tables and dependencies tied to a PHP database).

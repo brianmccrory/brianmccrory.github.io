@@ -14,8 +14,6 @@ enableGitInfo = true # automatic lastmod based on git
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  [permalinks.page]
-    blog = "/:contentbasename/"
   [permalinks.term]
     tags = "/:slug/"
 
@@ -25,6 +23,8 @@ ignoreErrors = ["error-disable-taxonomy"]
   favicon = 'favicon.ico'
   hideMadeWithLine = true
   enablePostNavigator = false
+  startYear = 2018
+  newsletterURL = 'https://www.jazzofjapan.com'
 
 [markup]
   [markup.highlight]
@@ -48,6 +48,10 @@ ignoreErrors = ["error-disable-taxonomy"]
     name = "Audio"
     url = "/audio/"
     weight = 3
+  [[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 4
   [[menu.main]]
     name = "Supporters"
     url = "/support/"

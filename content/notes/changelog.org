@@ -1,0 +1,58 @@
+#+title: Changelog
+#+date: 2026-04-02
+#+draft: false
+#+tags[]: versions
+#+notes: content moved/copied from parts of version-history.org and technical.org
+
+/This briefly shows the major technical changes for how I write and publish Jazz of Japan. For a timeline of Jazz of Japan articles, see [[https://about.jazzofjapan.com/indexes/timeline/][Publish History Timeline]]./
+
+: v1                  v2  v3      v4              v5
+: |-----|-----|-----|-----|-----|-----|-----|-----|-----|
+: 2018  '19   '20   '21   '22   '23   '24   '25   '26   '27
+
+** February 2026
+
+- Moved from Substack to Buttondown as “Jazz of Japan” (v5.0)
+
+** September 2025
+
+- Moved resources (unified index, etc) to gitpages at =docs.jazzofjapan.com=
+- Hooked up scripts and GitHub build actions so that indexes are automatically updated
+
+** August 2025
+
+- Replaced Substack static pages with individual posts
+
+** June 2025
+
+- Converted writing source files from Markdown to Org format (**.md to **.org)
+- Replaced infrastructure management from Java to Python
+
+** March 2025
+
+- Converted markdown files (writing and data source files) from Jekyll to Hugo
+
+** May 2023
+
+- Moved to Substack + Markdown as “Jazz of Japan” (v4.0)
+- Moved all content (writing, images, audio files) to Markdown files (GitHub + Jekyll) for version control and writing outside of a browser window
+- Data files and Java programs used for templating, consistency, validation, utilities
+
+** January 2022
+
+- Moved to GitHub + Jekyll as “Jazz of Japan” (v3.0)
+- Moved to =jazzofjapan.com=
+- Wrote infrastructure management code in Java + Eclipse
+
+** May 2021
+
+- Moved to Substack as “J Jazz Substack” (v2.0)
+- Ran newsletter and website at =jjazz.substack.com=
+- [[/v2-0-substack][Details]]
+
+** January 2018
+
+- Released “J Jazz: Modern Jazz From Japan” on January 26, 2018 (v1.0)
+- Ran on WordPress/AWS/Google App Engine at =jjazzist.com=
+- Install WordPress locally for writing/testing, push to cloud to publish
+- [[/v1-0-wordpress][Details]]
