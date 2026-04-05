@@ -1,7 +1,7 @@
 ---
 title: "Albums Index"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-01T11:35:33-07:00
+lastmod: 2026-04-05T06:50:42-07:00
 draft: false
 ---
 
@@ -11,6 +11,7 @@ _Index of albums discussed on this site._
 ## 2025 Releases {#2025-releases}
 
 -   [_Anitya_](https://www.jazzofjapan.com/archive/harumi-nomoto-trio-anitya/) by Harumi Nomoto Trio
+-   [_Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune/) by Yuto Komatsu Quartet
 -   [_Duets Till Now, From Here_](https://www.jazzofjapan.com/archive/yukari-sekiya-duets-till-now-from-here/) by Yukari Sekiya
 -   [_Enyana_](https://www.jazzofjapan.com/archive/emiko-voice-yuka-yanagihara-enyana/) by Emiko Voice &amp; Yuka Yanagihara
 -   [_Invisible Diary_](https://www.jazzofjapan.com/archive/kaito-nakamura-invisible-diary/) by Kaito Nakamura

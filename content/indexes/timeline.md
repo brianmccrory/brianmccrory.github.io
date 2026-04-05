@@ -1,11 +1,15 @@
 ---
 title: "Publish History Timeline"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-01T11:35:34-07:00
+lastmod: 2026-04-05T06:50:43-07:00
 draft: false
 ---
 
 _Chronological sitemap with links to articles._
+
+**April 2026**
+
+-   [Yuto Komatsu Quartet: _Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune/)
 
 **March 2026**
 

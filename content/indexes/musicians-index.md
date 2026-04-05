@@ -1,7 +1,7 @@
 ---
 title: "Musicians Index"
 date: 2018-01-26T00:00:00-08:00
-lastmod: 2026-04-01T11:35:34-07:00
+lastmod: 2026-04-05T07:06:07-07:00
 draft: false
 ---
 
@@ -185,6 +185,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Ichihara, Hikari (市原ひかり, trumpet, [_web_](https://hikariichihara.com/)): [_Sara Smile_](https://www.jazzofjapan.com/archive/hikari-ichihara-sara-smile/) (2006)  · [_Move On_](https://www.jazzofjapan.com/archive/hikari-ichihara-group-move-on/) (2010)  · [_Unity_](https://www.jazzofjapan.com/archive/hikari-ichihara-group-unity/) (2011)  · [_New Heritage of Real Heavy Metal_](https://www.jazzofjapan.com/archive/nhorhm-new-heritage-of-real-heavy-metal/) (2015)
 -   Ichikawa, Sora (市川空, piano, [_web_](https://chikainokotoba.wixsite.com/soraichikawa)): [_The Three Roses_](https://www.jazzofjapan.com/archive/daiki-yasukagawa-new-trio-three-roses/) (2022)
 -   Ichino, Motohiko (市野元彦, guitar, [_web_](https://motohikoichino.com/)): [_Wordless_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-wordless/) (2006)  · [_Sketches_](https://www.jazzofjapan.com/archive/motohiko-ichino-sketches/) (2007)  · [_As We Breathe_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-as-we-breathe/) (2008)  · [_Frozen Dust_](https://www.jazzofjapan.com/archive/takumi-seino-motohiko-ichino-frozen-dust/) (2011)  · [_Acoustic Fluid_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-acoustic/) (2012)  · [_VisibleInvisible_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-visible-invisible/) (2013)  · [_Side Two_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-side-two/) (2014)  · [_The Torch_](https://www.jazzofjapan.com/archive/rabbitoo-the-torch/) (2016)  · [_Incomplete Voices_](https://www.jazzofjapan.com/archive/ryosuke-hashizume-group-incomplete-voices/) (2017)  · [_Faces_](https://www.jazzofjapan.com/archive/kaoru-azuma-hitomi-nishiyama-faces/) (2020)  · [_Embryo_](https://www.jazzofjapan.com/archive/koichi-sato-embryo/) (2021)  · [_Orbital Resonance_](https://www.jazzofjapan.com/archive/sumire-kuribayashi-orbital-resonance/) (2025)
+-   Ijichi, Daisuke (伊地知大輔, bass, [_web_](http://blog.livedoor.jp/dai_ijichi/)): [_Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune/) (2025)
 -   Ikeda, Atsushi (池田篤, saxophone, [_web_](https://ameblo.jp/ats-music1963/)): [_You’ve Changed_](https://www.jazzofjapan.com/archive/hara-dairiki-trio-youve-changed/) (2009)  · [_Tokyo Groovin’ High!_](https://www.jazzofjapan.com/archive/toru-takahashi-tokyo-groovin-high/) (2021)
 -   Ikeda, Masaaki (池田雅明, trombone, [_web_](http://www.masaikeda.com/)): [_Boa Viagem_](https://www.jazzofjapan.com/archive/banda-feliz-boa-viagem/) (2020)
 -   Ikedo, Yuta (池戸祐太, guitar, [_web_](https://youtube.com/@yutaikedo)): [_Live at Virtuoso_](https://www.jazzofjapan.com/archive/fe-live-at-virtuoso/) (2021)
@@ -286,6 +287,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Komaki, Ryohei (小牧良平, bass, [_web_](https://rkomaki.jimdofree.com/)): [_Let Your Mind Alone_](https://www.jazzofjapan.com/archive/mabumi-yamaguchi-let-your-mind-alone/) (2017)  · [_Viento_](https://www.jazzofjapan.com/archive/mabumi-yamaguchi-viento/) (2023)
 -   Komano, Itsumi (駒野逸美, trombone, [_web_](https://ameblo.jp/komanoitsumi-trombone/)): [_Introducin’_](https://www.jazzofjapan.com/archive/fumika-asari-introducin/) (2020)  · [_Crossing Reality_](https://www.jazzofjapan.com/archive/eri-chichibu-crossing-reality/) (2022)
 -   Komatsu, Nobuyuki (小松伸之, drums, [_web_](http://nobuyukikoma2.web.fc2.com/)): [_Horizon_](https://www.jazzofjapan.com/archive/hideaki-hori-horizon/) (2003)  · [_Dois_](https://www.jazzofjapan.com/archive/yuka-ueda-dois/) (2013)  · [_Let Your Mind Alone_](https://www.jazzofjapan.com/archive/mabumi-yamaguchi-let-your-mind-alone/) (2017)
+-   Komatsu, Yuto (小松悠人, trumpet, [_web_](http://blog.livedoor.jp/aaakomatta/)): [_Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune/) (2025)
 -   Komobuchi, Kiichiro (コモブチキイチロウ, bass, [_web_](http://www.comobass.com/)): [_Boa Viagem_](https://www.jazzofjapan.com/archive/banda-feliz-boa-viagem/) (2020)  · [_Owari to Hajimari_](https://www.jazzofjapan.com/archive/nobie-takayoshi-baba-owari-to-hajimari/) (2023)
 -   Komori, Kohzo (小森耕造, drums, [_web_](https://jazzshiryokan.net/jazzDB/musician_detail.php?recordID=M2163)): [_Pray_](https://www.jazzofjapan.com/archive/yasumasa-kumagai-pray/) (2010)  · [_Primary_](https://www.jazzofjapan.com/archive/nobie-primary/) (2011)
 -   Konno, Tomoyuki (紺野智之, drums, [_web_](http://tomoyukikonno.blogspot.com/)): [_Routine Jazz Sextet_](https://www.jazzofjapan.com/archive/routine-jazz-sextet-routine-jazz-sextet/) (2008)  · [_Amalthea_](https://www.jazzofjapan.com/archive/tokuhiro-doi-quartet-amalthea/) (2011)
@@ -366,7 +368,7 @@ _Index of the musicians and the albums discussed on this site._
 
 -   Nagano, Hiroco (永野寛子, vocal, [_web_](https://hiroconaganoofficial.amebaownd.com/)): [_Tsutaete Ikou_](https://www.jazzofjapan.com/archive/seiji-endo-tsutaete-ikou/) (2015)  · [_Okurimono_](https://www.jazzofjapan.com/archive/hiroco-nagano-okurimono/) (2017)
 -   Nagasawa, Norihiko (長澤紀仁, guitar, [_web_](https://jinjinviolao.seesaa.net/)): [_The Island_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-island/) (2018)
--   Nagatake, Mikiko (永武幹子, piano, [_web_](http://mikikonagatake.com/)): [_Live at Knuttel House_](https://www.jazzofjapan.com/archive/tetsuji-yoshida-and-mikiko-nagatake/) (2021)  · [_Solo_](https://www.jazzofjapan.com/archive/mikiko-nagatake-solo/) (2022)  · [_Fairway_](https://www.jazzofjapan.com/archive/efreydut-fairway/) (2024)
+-   Nagatake, Mikiko (永武幹子, piano, [_web_](http://mikikonagatake.com/)): [_Live at Knuttel House_](https://www.jazzofjapan.com/archive/tetsuji-yoshida-and-mikiko-nagatake/) (2021)  · [_Solo_](https://www.jazzofjapan.com/archive/mikiko-nagatake-solo/) (2022)  · [_Fairway_](https://www.jazzofjapan.com/archive/efreydut-fairway/) (2024)  · [_Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune/) (2025)
 -   Nakabayashi, Kunpei (中林薫平, bass, [_web_](https://www.instagram.com/kunpeibass/)): [_Sora_](https://www.jazzofjapan.com/archive/eriko-shimizu-sora/) (2010)  · [_Unity_](https://www.jazzofjapan.com/archive/hikari-ichihara-group-unity/) (2011)  · [_Circles_](https://www.jazzofjapan.com/archive/kunpei-nakabayashi-orchestra-circles/) (2021)
 -   Nakagawa, Yoshihiro (中川喜博, drums): [_Colors_](https://www.jazzofjapan.com/archive/sayaketts-colors/) (2009)
 -   Nakaishi, Yusuke (仲石裕介, bass, [_web_](https://nowonmusic.com/members/258)): [_The Gift_](https://www.jazzofjapan.com/archive/rie-taguchi-gift/) (2016)  · [_The Gift II_](https://www.jazzofjapan.com/archive/rie-taguchi-the-gift-ii/) (2021)
@@ -453,7 +455,7 @@ _Index of the musicians and the albums discussed on this site._
 -   Reeves, Nat (bass, [_web_](https://natreeves.com/)): [_Playing New York_](https://www.jazzofjapan.com/archive/akane-matsumoto-playing-new-york/) (2010)
 -   Reeves, Scott (trombone, [_web_](https://www.creativejazz.com/bio/)): [_Footprints in New York_](https://www.jazzofjapan.com/archive/kaoru-azuma-footprints-in-new-york/) (2008)
 -   Richter, Gordon (clarinet): [_Abstract Messages_](https://www.jazzofjapan.com/archive/bungalow-abstract-messages/) (2020)
--   Rikitake, Makoto (力武誠, drums, [_web_](https://makotorikitake.com/)): [_Halo_](https://www.jazzofjapan.com/archive/blue-dot-halo/) (2016)
+-   Rikitake, Makoto (力武誠, drums, [_web_](https://ameblo.jp/makoto-rikitake/)): [_Halo_](https://www.jazzofjapan.com/archive/blue-dot-halo/) (2016)  · [_Defune_](https://www.jazzofjapan.com/archive/yuto-komatsu-quartet-defune/) (2025)
 -   Rin, Heitetsu (リンヘイテツ, piano, [_web_](https://www.rinheitetsu.com/)): [_Stolen Moments_](https://www.jazzofjapan.com/archive/layla-tomomi-sakai-stolen-moments/) (2019)
 -   Rivett, Mike (saxophone, [_web_](https://www.mikerivett.com/)): [_Ishida Mamoru 4 feat. Mike Rivett_](https://www.jazzofjapan.com/archive/mamoru-ishida-ishida-mamoru-4-feat/) (2011)  · [_Unseen Scenes_](https://www.jazzofjapan.com/archive/bungalow-unseen-scenes/) (2015)  · [_You Already Know_](https://www.jazzofjapan.com/archive/bungalow-you-already-know/) (2017)  · [_Abstract Messages_](https://www.jazzofjapan.com/archive/bungalow-abstract-messages/) (2020)
 -   Rosnes, Renee (piano, [_web_](https://reneerosnes.com/)): [_Workout!!_](https://www.jazzofjapan.com/archive/seiji-tada-workout/) (2018)
